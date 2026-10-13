@@ -162,17 +162,27 @@ Note on Resolution See LN 173/1983 increasing the authorised share capital.
 
 ### AGRICULTURAL DEVELOPMENT BANK ACT
 
-An Act to provide for the establishment and incorporation of 3 of 1968. an Agricultural Development Bank, to define the powers and duties thereof and for matters incidental thereto.
+*3 of 1968.*
 
-[25 TH J ANUARY 1968] Commencement.
+An Act to provide for the establishment and incorporation of an Agricultural Development Bank, to define the powers and duties thereof and for matters incidental thereto.
 
-**1.** This Act may be cited as the Agricultural Development Short title. Bank Act.
+*Commencement.*
 
-**2.** (1) In this Act— Interpretation.
+### [25 TH J ANUARY 1968]
+
+*Short title.*
+
+**1.** This Act may be cited as the Agricultural Development Bank Act.
+
+*Interpretation.*
+
+**2.** (1) In this Act—
 
 “agriculture” includes horticulture, aboriculture and silviculture, animal husbandry and the production of dairy produce and the produce respectively thereof and any product derived or manufactured respectively therefrom;
 
-“agricultural credit society” means a society registered under the Co-operative Societies Act; Ch. 81:03.
+*Ch. 81:03.*
+
+“agricultural credit society” means a society registered under the Co-operative Societies Act;
 
 “agricultural co-operative society” means a society registered under the Co-operative Societies Act;
 
@@ -188,7 +198,9 @@ An Act to provide for the establishment and incorporation of 3 of 1968. an Agric
 
 “former Bank” means the Agricultural Credit Bank established under section 4 of the former Ordinance;
 
-“former Ordinance” means the Agricultural Credit Bank Ch. 23 No. 5. (1950 Ed.). Ordinance (repealed by this Act).
+*Ch. 23 No. 5. (1950 Ed.).*
+
+“former Ordinance” means the Agricultural Credit Bank Ordinance (repealed by this Act).
 
 (2) For the purposes of this Act, the Government shall be taken to hold a controlling interest in the Bank, if at any time it holds at least fifty-one per cent of the issued shares of the Bank.
 
@@ -226,17 +238,17 @@ An Act to provide for the establishment and incorporation of 3 of 1968. an Agric
 
 (2) Where Government no longer holds a controlling interest in the Bank, the Board shall appoint auditors and make appropriate arrangements for annual audit.
 
-*Directors. [8 of 1995].*
+*Board of Directors. [8 of 1995].*
 
-**9.** (1) The Bank shall be managed by a Board comprising Board of seven directors who shall be appointed by the Minister.
+**9.** (1) The Bank shall be managed by a Board comprising seven directors who shall be appointed by the Minister.
 
 (2) At least four of the seven directors shall be selected from among persons who are qualified by reason of their experience and capacity in matters relating to agriculture, fisheries, finance, economics, accountancy, industry, commerce, law or administration.
 
 (3) Subject to this Act, a director shall be appointed for a term not exceeding three years and shall be eligible for reappointment.
 
-*Board. [13 of 1989 8 of 1995].*
+*Chairman of the Board. [13 of 1989 8 of 1995].*
 
-**10.** (1) The Minister shall appoint a Chairman and a Deputy Chairman of the Chairman from among the directors of the Board.
+**10.** (1) The Minister shall appoint a Chairman and a Deputy Chairman from among the directors of the Board.
 
 (2) Where the Chairman—
 
@@ -302,11 +314,9 @@ the duties and functions of the Chairman shall be performed by the Deputy Chairm
 
 (2) Any person who is appointed to an office established by this Act may resign from that office by writing under his hand addressed to the person by whom he was appointed.
 
-**16.** (1) The Authority may terminate any appointment made Termination of appointment of by the Authority in pursuance to this Act to the office of Managing Managing
+*Termination of appointment of Managing Director and Directors in certain cases. [8 of 1995].*
 
-*and*
-
-Director or director of the Bank, if the Managing Director or a Director Directors in director so appointed— certain cases. [8 of 1995].
+**16.** (1) The Authority may terminate any appointment made by the Authority in pursuance to this Act to the office of Managing Director or director of the Bank, if the Managing Director or a director so appointed—
 
 (a) becomes of unsound mind or incapable of carrying out his duties;
 
@@ -326,7 +336,9 @@ Director or director of the Bank, if the Managing Director or a Director Directo
 
 **17.** (Repealed by Act No. 8 of 1995).
 
-**18.** (1) Any member of the Board, whose interest is likely to Member of Board to declare be affected whether directly or indirectly by a decision of the Board interest. on any matter whatsoever, shall disclose the nature of the interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
+*Member of Board to declare interest.*
+
+**18.** (1) Any member of the Board, whose interest is likely to be affected whether directly or indirectly by a decision of the Board on any matter whatsoever, shall disclose the nature of the interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
 
 (2) A disclosure under subsection (1) shall be recorded in the minutes of the Board, and after the disclosures, the member making the disclosure shall, unless the Board otherwise directs, not be present, or take part in the deliberation or vote at any meeting during the time when the matter is being decided by the Board.
 
@@ -362,23 +374,13 @@ Director or director of the Bank, if the Managing Director or a Director Directo
 
 (4) In the case of an officer or servant retiring from or dying in the service of the Bank before the establishment of the pension scheme in accordance with the provisions of section 25, any superannuation rights accruing at the time of his retirement or death shall be paid in accordance with regulations made by the Minister for that purpose.
 
-*transferred from*
+*Officer transferred from the service of the Government to the service of the former Bank. [8 of 1995].*
 
-**22.** (1) An officer or servant of the former Bank who was Officer transferred to that Bank from the service of the Government with the service of the
-
-*Government to*
-
-the approval of the President in accordance with section 8(3) of the service of the
-
-*Bank. [8 of 1995].*
-
-the former Ordinance and who holds an office or employment former under the former Bank immediately prior to the coming into operation of this Act shall be given the option of reverting to such office in the public service as the appropriate Service Commission may consider appropriate having regard to the officer’s or servant’s qualifications and experience and to the promotional advances which the officer or servant is likely to have made had he not been transferred to the service of the former Bank, or of continuing his service under the Bank. The option of reverting to an office in the public service or of continuing in service under the Bank shall be exercisable within three years of the coming into operation of this Act.
-
-(2) Where an officer or servant elects to continue his service under the Bank, he shall have preserved to him all superannuation rights which have accrued to him under the
+**22.** (1) An officer or servant of the former Bank who was transferred to that Bank from the service of the Government with the approval of the President in accordance with section 8(3) of the former Ordinance and who holds an office or employment under the former Bank immediately prior to the coming into operation of this Act shall be given the option of reverting to such office in the public service as the appropriate Service Commission may consider appropriate having regard to the officer’s or servant’s qualifications and experience and to the promotional advances which the officer or servant is likely to have made had he not been transferred to the service of the former Bank, or of continuing his service under the Bank. The option of reverting to an office in the public service or of continuing in service under the Bank shall be exercisable within three years of the coming into operation of this Act.
 
 *Ch. 23:52.*
 
-Pensions Act on the date of his so electing.
+(2) Where an officer or servant elects to continue his service under the Bank, he shall have preserved to him all superannuation rights which have accrued to him under the Pensions Act on the date of his so electing.
 
 (3) In the case of an officer or servant not being appointed to an office in the service of the Bank within one year of his electing to continue his service thereunder, he shall be deemed to have been transferred on secondment to the service of the Bank.
 
@@ -414,13 +416,17 @@ Pensions Act on the date of his so electing.
 
 ## PART II — FINANCIAL PROVISIONS
 
-\*28. (1) The authorised share capital of the Bank shall be Authorised share capital of eighty million dollars divided into eight million shares valued at the Bank. [173/1983]. ten dollars each.
+*Authorised share capital of the Bank. [173/1983].*
+
+\*28. (1) The authorised share capital of the Bank shall be eighty million dollars divided into eight million shares valued at ten dollars each.
 
 (2) The authorised share capital of the Bank may be varied, with the approval of the Minister, by resolution of the Board passed in accordance with Rules made under this Part and any such resolution shall not have effect unless it is approved by the Senate and the House of Representatives.
 
 (3) The liability of the Bank shall be limited to the value of the number of shares issued under this Act.
 
-**29.** (1) Shares in the Bank to the value of the assets of the Shares to be held by former Bank by this Act vested in the Agricultural Development Government. Bank shall be allocated to the Government and shall on the [13 of 1989]. commencement of this Act represent the shareholding of the Government in the Bank.
+*Shares to be held by Government. [13 of 1989].*
+
+**29.** (1) Shares in the Bank to the value of the assets of the former Bank by this Act vested in the Agricultural Development Bank shall be allocated to the Government and shall on the commencement of this Act represent the shareholding of the Government in the Bank.
 
 (2) On the expiration of a period of two months after the commencement of the Agricultural Development Bank (Amendment) Act, 1989, (i.e., 11th May 1989) shares in the Bank shall be allocated to the Government to the value of the amount then outstanding in respect of advances made by the Government to the Bank after making all deductions under subsection (5), and thereupon liability to repay that amount is extinguished and the shareholding of the Government in the Bank is increased accordingly.
 
@@ -454,11 +460,15 @@ Pensions Act on the date of his so electing.
 
 (2) Loans made under this section shall be on such terms and conditions and for such periods as the Minister may determine
 
-but shall not in any event be made for a period in excess of thirty years and repayment shall commence not later than ten years from the date when the loan was made.
+*but shall years and the date*
 
-*under this Part.*
+not in any event be made for a period in excess of thirty repayment shall commence not later than ten years from when the loan was made.
 
-**33.** The Board with the approval of the Minister may Rules made make Rules—
+*Rules made under this Part.*
+
+*make*
+
+**33.** The Board with the approval of the Minister may Rules—
 
 (a) regulating the rights of holders of shares and the variation of such rights;
 
@@ -484,11 +494,11 @@ but shall not in any event be made for a period in excess of thirty years and re
 
 ## PART III — BUSINESS OF BANK, DEPOSITS, LOANS, ETC.
 
-*Powers of the Bank.*
+*Powers of the Bank. [8 of 1995].*
 
 **34.** The Bank shall have the power to—
 
-(a) open accounts for and accept savings or time [8 of 1995]. deposits from the public;
+(a) open accounts for and accept savings or time deposits from the public;
 
 (b) grant or underwrite loans for the development of agriculture, commercial fishing and industries connected thereto to such persons;
 
@@ -514,37 +524,49 @@ but shall not in any event be made for a period in excess of thirty years and re
 
 (m) do such other things as are incidental to the attainment of its objects.
 
-*Minister to give directions to Board. [8 of 1995].*
+*34A. (1) Minister to give directions to special or*
 
-**34A.** (1) The Minister may give the Board directions of a special or general nature on the policy to be followed in the exercise of the powers conferred and duties imposed by this Act.
+*Board. [8 of 1995]. exercise of*
 
-(2) Any directions which the Minister gives under subsection (1) shall be in writing.
+The Minister may give the Board directions of a general nature on the policy to be followed in the the powers conferred and duties imposed by this Act.
+
+(2) Any directions which the Minister gives under
+
+*subsection*
+
+(1) shall be in writing.
 
 *Catergories of loans.*
 
-**35.** Loans which the Bank may make shall be on such terms and conditions and for such periods as the Board may consider appropriate.
+*and appropriate. } to*
 
-}
+**35.** Loans which the Bank may make shall be on such terms conditions and for such periods as the Board may consider
 
 36.
 
-to (Repealed by Act No. 8 of 1995).
+(Repealed by Act No. 8 of 1995).
 
 41.
 
-**42.** (1) Every loan shall be within such limits as may be Provisions relating to loans. prescribed and shall be made subject to such security as the Board [13 of 1989 may think sufficient. 8 of 1995].
+*Provisions relating to loans. [13 of 1989 8 of 1995].*
+
+**42.** (1) Every loan shall be within such limits as may be prescribed and shall be made subject to such security as the Board may think sufficient.
 
 (2) Every loan shall bear interest at a rate to be determined in accordance with policy guidelines established by the Board.
 
 (3) Every loan, together with interest thereon, shall be repayable within such period as may be prescribed or fixed by the Board, as the case may be.
 
-**43.** (1) No loan made under the provisions of this Act shall Applications of loans. be applied otherwise than for such purposes as may be authorised [13 of 1989]. by the Bank.
+*Applications of loans. [13 of 1989].*
+
+**43.** (1) No loan made under the provisions of this Act shall be applied otherwise than for such purposes as may be authorised by the Bank.
 
 (2) Any person who applies any loan or part thereof or any advance, or part thereof made to him under the provisions of this Act to any purpose other than those authorised by the Bank is liable on summary conviction to a fine of one thousand five hundred dollars and to imprisonment for six months.
 
 (3) The provisions of subsection (2) shall be without prejudice to the rights of the Bank to recover the amount of the loan with the interest due and payable thereon in accordance with the terms and conditions set out in the instrument under which the loan has been granted.
 
-**44.** (1) Applications for loans from the Bank shall be made Form of application on the prescribed form and shall be addressed to the Chairman of for loans. [46 of 1979]. the Board.
+*Form of application for loans. [46 of 1979].*
+
+**44.** (1) Applications for loans from the Bank shall be made on the prescribed form and shall be addressed to the Chairman of the Board.
 
 (2) Subject to this Act and the Rules and Regulations made thereunder and to the power of the Minister so long as Government holds a controlling interest to vary the amounts specified in this subsection—
 
@@ -752,11 +774,19 @@ Return of allotment.
 
 **56.** Minutes to include resolutions.
 
-AGRICULTURAL DEVELOPMENT BANK RULES 105/1969. [60 of 1987]. made under sections 27 and 33
+*105/1969. [60 of 1987].*
 
-**1.** These Rules may be cited as the Agricultural Development Citation. Bank Rules.
+### AGRICULTURAL DEVELOPMENT BANK RULES
 
-**2.** In these Rules— Interpretation.
+made under sections 27 and 33
+
+*Citation.*
+
+**1.** These Rules may be cited as the Agricultural Development Bank Rules.
+
+*Interpretation.*
+
+**2.** In these Rules—
 
 “ordinary resolution” means a resolution passed by a simple majority;
 
@@ -766,9 +796,13 @@ AGRICULTURAL DEVELOPMENT BANK RULES 105/1969. [60 of 1987]. made under sections 
 
 ## PART I — MANAGEMENT OF BANK, FUNCTIONS AND POWERS OF THE BOARD, AND GENERAL PROVISIONS
 
-**3.** The Bank’s seal shall be authenticated by the signature of Seal. the Chairman of the Board or in his absence the Acting Chairman.
+*Seal.*
 
-**4.** The Bank shall apply its funds for the following purposes: Application of funds.
+**3.** The Bank’s seal shall be authenticated by the signature of the Chairman of the Board or in his absence the Acting Chairman.
+
+*Application of funds.*
+
+**4.** The Bank shall apply its funds for the following purposes:
 
 (a) the payment of salaries, fees, remuneration and other allowances of the officers and servants of the Bank;
 
@@ -812,15 +846,17 @@ members on papers circulated among them and, where papers are circulated, the Ch
 
 (f) the provisions of these rules that apply to general meetings shall, where the Board thinks fit, be applied mutatis mutandis to meetings held by the Board.
 
-*of*
+*Delegation of powers of the Board.*
 
-**7.** The Board may by resolution delegate to any of its Delegation powers of the members or to any officer or officers of the Bank such of its powers Board. and duties as it considers expedient to do so.
+**7.** The Board may by resolution delegate to any of its members or to any officer or officers of the Bank such of its powers and duties as it considers expedient to do so.
 
-**8.** The Board may at any time after the approval of a loan or Cancellation or modification of advance and before the actual payment of the money and without approval of loan. assigning any reason therefor cancel or modify its approval and withhold payment of the whole or a portion of the money, or modify the approval of such terms and conditions including those in respect of the interest payable as it thinks fit.
+*Cancellation or modification of approval of loan.*
 
-*the*
+**8.** The Board may at any time after the approval of a loan or advance and before the actual payment of the money and without assigning any reason therefor cancel or modify its approval and withhold payment of the whole or a portion of the money, or modify the approval of such terms and conditions including those in respect of the interest payable as it thinks fit.
 
-**9.** (1) The Board may, in arriving at the valuation of any Determining valuation of lands offered as security for a loan or advance under the provisions property. of the Act, procure information on statutory declaration concerning the lands and determine the valuation on the basis of revenue, productive capacity or acreage, among other factors having regard to such information.
+*Determining the valuation of property.*
+
+**9.** (1) The Board may, in arriving at the valuation of any lands offered as security for a loan or advance under the provisions of the Act, procure information on statutory declaration concerning the lands and determine the valuation on the basis of revenue, productive capacity or acreage, among other factors having regard to such information.
 
 (2) The Board may nominate or appoint a Valuation Authority for the purposes of subrule (1).
 
@@ -858,11 +894,13 @@ members on papers circulated among them and, where papers are circulated, the Ch
 
 (d) to provide both credits and technical assistance in the proportions necessary to the achievement of these ends.
 
-*conditions of*
+*Terms and conditions of loan.*
 
-**16.** (1) Notwithstanding anything to the contrary contained Terms and in these Rules, the Bank may demand from a borrower to whom it loan. proposes to make a loan or advance whether on the security or by way of mortgage, charge, assignment or policy, agreement, Bill of Exchange, promissory note or howsoever otherwise the loan or advance may be secured or made, on a stated day, the principal moneys of the loan or advance with interest thereon in the meantime at a stated rate and thereafter, if and as long as the principal moneys or any part of the loan or advance remains unpaid to demand and receive interest thereon, at the stated rate by either equal monthly, quarterly, semi-annual or annual payments, the first thereof to be made at the end of one, three, six or twelve calendar month or months, as the case may be, accordingly.
+**16.** (1) Notwithstanding anything to the contrary contained in these Rules, the Bank may demand from a borrower to whom it proposes to make a loan or advance whether on the security or by way of mortgage, charge, assignment or policy, agreement, Bill of Exchange, promissory note or howsoever otherwise the loan or advance may be secured or made, on a stated day, the principal moneys of the loan or advance with interest thereon in the meantime at a stated rate and thereafter, if and as long as the principal moneys or any part of the loan or advance remains unpaid to demand and receive interest thereon, at the stated rate by either equal monthly, quarterly, semi-annual or annual payments, the first thereof to be made at the end of one, three, six or twelve calendar month or months, as the case may be, accordingly.
 
-(2) Subject as otherwise expressly provided in the Act, a Amortisation. loan or advance made by the Bank to a borrower may carry interest at a rate stated, a year, as may be determined by the Board in the manner provided by subrule (1) provided that the loan or advance may be made by the Bank to a borrower subject to a provision of the repayment of the loan or advance on an amortisation plan by means of a fixed number of monthly, quarterly, semi-annual or annual instalments, sufficient to cover the interest on the loan or advance and such amounts to be applied towards the principal as will extinguish the debt within the agreed period of not more than thirty years.
+*Amortisation.*
+
+(2) Subject as otherwise expressly provided in the Act, a loan or advance made by the Bank to a borrower may carry interest at a rate stated, a year, as may be determined by the Board in the manner provided by subrule (1) provided that the loan or advance may be made by the Bank to a borrower subject to a provision of the repayment of the loan or advance on an amortisation plan by means of a fixed number of monthly, quarterly, semi-annual or annual instalments, sufficient to cover the interest on the loan or advance and such amounts to be applied towards the principal as will extinguish the debt within the agreed period of not more than thirty years.
 
 (3) Notwithstanding these Rules, the borrower may at any time or times pay off all or any part of the principal money for the time being owing on any loan or advance, provided that upon the payment the interest on the whole principal money for the time being owing computed to the end of the current month be fully
 
@@ -880,11 +918,9 @@ paid and that interest shall thereafter be payable by the borrower on so much on
 
 (a) the loan may be made repayable by instalments in such sums and at such times as the Bank may determine;
 
-(b) the society and the Bank shall enter into an agreement for the repayment of the loan and the payment of interest thereon in the form set out in
-
 *First Schedule of Regulations.*
 
-the First Schedule to the Regulations.
+(b) the society and the Bank shall enter into an agreement for the repayment of the loan and the payment of interest thereon in the form set out in the First Schedule to the Regulations.
 
 *Repayment by half-yearly instalments.*
 
@@ -894,21 +930,29 @@ the First Schedule to the Regulations.
 
 **19.** If any borrower makes default in the repayment of any loan made to him for any of the purposes specified in the Act, the Bank may take such action as may be specified in the charge securing the loan or as may by law be taken by a mortgagee.
 
-**20.** The Bank shall keep adequate financial and statistical Books and records. records, books and other documents to record in detail all transactions taking place at the head office and branch offices.
+*Books and records.*
 
-**21.** All transactions or dealings in shares under the Act shall Forms for dealing in be effected by such forms as may be prescribed by the Board.
+**20.** The Bank shall keep adequate financial and statistical records, books and other documents to record in detail all transactions taking place at the head office and branch offices.
 
-shares.
+*Forms for dealing in shares.*
+
+**21.** All transactions or dealings in shares under the Act shall be effected by such forms as may be prescribed by the Board.
 
 ## PART II — GENERAL MEETINGS OF SHAREHOLDERS OF THE BANK
 
 ### TERMS AND CONDITIONS OF EMPLOYMENT
 
-**22.** (1) An Ordinary General Meeting of Shareholders of Annual General Meeting. the Bank called the Annual General Meeting shall be convened once in every year at such place and at such time as may be specified by the Board. In default of the General Meeting being so held, it shall be held in the month next following, and may be convened in the same manner as Meetings of the Board under section 13 of the Act.
+*Annual General Meeting.*
 
-(2) The Board may whenever it thinks fit convene any Extraordinary General other General Meeting to be called an Extraordinary General Meeting. Meeting, and such Meetings shall also where Government no longer holds a controlling interest in the Bank be convened on the requisition of holders of one-tenth of the paid-up capital of the Bank and if the Board does not within two months of the deposit of such a requisition convene the Meeting the requisitionists may thereafter convene it themselves.
+**22.** (1) An Ordinary General Meeting of Shareholders of the Bank called the Annual General Meeting shall be convened once in every year at such place and at such time as may be specified by the Board. In default of the General Meeting being so held, it shall be held in the month next following, and may be convened in the same manner as Meetings of the Board under section 13 of the Act.
 
-**23.** (1) An Annual General Meeting shall be called by giving Notice of Meetings. at least fourteen days’ notice in writing and an Extraordinary General Meeting shall be called by giving at least twenty-eight days’ notice in writing. The notice shall specify the place, the day and the hour of meeting and in case of special business, it is sufficient if the general nature of that business is expressed and notice shall be deemed to be served by the Bank to a member on the date it was posted to him or to his registered address or if he
+*Extraordinary General Meeting.*
+
+(2) The Board may whenever it thinks fit convene any other General Meeting to be called an Extraordinary General Meeting, and such Meetings shall also where Government no longer holds a controlling interest in the Bank be convened on the requisition of holders of one-tenth of the paid-up capital of the Bank and if the Board does not within two months of the deposit of such a requisition convene the Meeting the requisitionists may thereafter convene it themselves.
+
+*Notice of Meetings.*
+
+**23.** (1) An Annual General Meeting shall be called by giving at least fourteen days’ notice in writing and an Extraordinary General Meeting shall be called by giving at least twenty-eight days’ notice in writing. The notice shall specify the place, the day and the hour of meeting and in case of special business, it is sufficient if the general nature of that business is expressed and notice shall be deemed to be served by the Bank to a member on the date it was posted to him or to his registered address or if he
 
 has no registered address within Trinidad and Tobago, to the address supplied by him to the Bank for this purpose or in such other manner, if any, as may be prescribed by the Board, or on the date it was given to him personally.
 
@@ -942,15 +986,17 @@ has no registered address within Trinidad and Tobago, to the address supplied by
 
 (5) It shall be the duty of the Chairman to preserve order and to see that procedures are regularly conducted and he may warn any shareholder disturbing the good order of the Meeting and if that shareholder persists in so doing the Chairman may require him to withdraw from the Meeting.
 
-**29.** (1) No business shall be transacted at any General Meeting Quorum. unless a quorum of members is present at the Meeting when the Meeting proceeds to business; save as herein otherwise provided twenty members personally present shall be a quorum.
+*Quorum.*
+
+**29.** (1) No business shall be transacted at any General Meeting unless a quorum of members is present at the Meeting when the Meeting proceeds to business; save as herein otherwise provided twenty members personally present shall be a quorum.
 
 (2) If within half an hour from the time appointed for the meeting a quorum is not present, the meeting, if convened upon the requisition of members, shall be dissolved; in any other case it shall stand adjourned to the same day in the next week, at the same time and place, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting the members present shall be a quorum.
 
 (3) The Chairman may, with consent of any meeting at which a quorum is present (and shall if so directed by the meeting) adjourn the meeting from time to time but no business shall be transacted at an adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 
-*voting.*
+*Manner of voting.*
 
-**30.** (1) At any General or Extraordinary General Meeting a Manner of resolution put to the vote of the meeting shall be decided on a show of hands, unless a poll is (before or on the declaration of the
+**30.** (1) At any General or Extraordinary General Meeting a resolution put to the vote of the meeting shall be decided on a show of hands, unless a poll is (before or on the declaration of the
 
 result of the show of hands) demanded by at least three members present in person or by proxy entitled to vote or by one member or two members so present and entitled, if that member or those two members so present and entitled, together hold not less than fifteen per cent of the paid-up capital of the Bank. Unless a poll is so demanded, a declaration by the Chairman that a resolution has, on a show of hands, been carried, or carried unanimously, or by a particular majority or lost, and an entry to that effect in the book of proceedings of the Bank, shall be conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of, or against, that resolution.
 
@@ -968,7 +1014,9 @@ result of the show of hands) demanded by at least three members present in perso
 
 (8) On a poll votes may be given either personally or by proxy.
 
-**31.** (1) The instrument appointing a proxy shall be in writing Proxy. under the hand of the appointor or of his attorney duly authorised by deed or, if the appointor is a corporation, either under seal or under the hand of an officer or attorney duly authorised. A proxy shall be a shareholder of the Bank. The Minister may appoint a representative not being a shareholder to be a proxy and he shall be entitled to demand a poll and on the poll he shall be entitled to a vote for every share of which Government is the holder.
+*Proxy.*
+
+**31.** (1) The instrument appointing a proxy shall be in writing under the hand of the appointor or of his attorney duly authorised by deed or, if the appointor is a corporation, either under seal or under the hand of an officer or attorney duly authorised. A proxy shall be a shareholder of the Bank. The Minister may appoint a representative not being a shareholder to be a proxy and he shall be entitled to demand a poll and on the poll he shall be entitled to a vote for every share of which Government is the holder.
 
 (2) The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed or a notarially certified copy of that power or authority shall be deposited at the Bank not less than forty-eight hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, and in default the instrument of proxy shall not be treated as valid.
 
@@ -1016,9 +1064,13 @@ Signed this .............day of ......................... 20......”.
 
 **34.** The Board may if it thinks necessary limit the number of shares issued to any member or to members generally.
 
-**35.** The Bank may, if it thinks appropriate in consequence of Share premium account. a demand by the public for shares or for expressed reasons, issue shares at a premium and the premiums from such an issue must be transferred to an account called “the Share Premium Account”.
+*Share premium account.*
 
-**36.** Any share or shares may be issued by the Board on the Redeemable preference terms that they are, or at the option of the Bank are liable, to be shares. redeemed on such terms and in such manner as the Board may by Resolution determine. However, shares so issued can only be redeemed—
+**35.** The Bank may, if it thinks appropriate in consequence of a demand by the public for shares or for expressed reasons, issue shares at a premium and the premiums from such an issue must be transferred to an account called “the Share Premium Account”.
+
+*Redeemable preference shares.*
+
+**36.** Any share or shares may be issued by the Board on the terms that they are, or at the option of the Bank are liable, to be redeemed on such terms and in such manner as the Board may by Resolution determine. However, shares so issued can only be redeemed—
 
 (a) if they are fully paid;
 
@@ -1026,7 +1078,9 @@ Signed this .............day of ......................... 20......”.
 
 (c) out of a fresh issue of shares made for the purpose of redeeming them.
 
-**37.** (1) The Bank shall keep an indexed register of Register of shareholders. shareholders containing—
+*Register of shareholders.*
+
+**37.** (1) The Bank shall keep an indexed register of shareholders containing—
 
 (a) the names and addresses of the shareholders;
 
@@ -1036,7 +1090,9 @@ Signed this .............day of ......................... 20......”.
 
 (2) The register is prima facie evidence of any matter contained in it, but it may be rectified by the Board on application in writing of any aggrieved shareholder affected by its provisions.
 
-**38.** (1) Any share in the Bank may be issued with such Regulating the rights of preferred, deferred or other special rights as the Board may shareholders. think fit.
+*Regulating the rights of shareholders.*
+
+**38.** (1) Any share in the Bank may be issued with such preferred, deferred or other special rights as the Board may think fit.
 
 (2) Without prejudice to any special rights conferred on the holders of any shares or class of shares, any share in the Bank may be issued subject to such terms and conditions as the Board may from time to time by ordinary resolution determine.
 
@@ -1070,7 +1126,9 @@ part of the amount in respect of which the lien exists as is due and payable, ha
 
 (f) the proceeds of the sale shall be received by the Bank and applied in payment of such part of the amount in respect of which the lien exists as is due and payable, and the residue, if any, shall, subject to a like lien for sums not presently payable as existed upon the shares before the sale, be paid to the person entitled to the shares at the date of the sale.
 
-**42.** (1) The Board may from time to time make calls upon Calls. the members in respect of any moneys unpaid on their shares, but no call shall exceed one-fourth of the nominal value of the shares or be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall, subject to receiving at least fourteen days’ notice specifying the time or times and place of payment, pay to the Bank at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the Board may determine.
+*Calls.*
+
+**42.** (1) The Board may from time to time make calls upon the members in respect of any moneys unpaid on their shares, but no call shall exceed one-fourth of the nominal value of the shares or be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall, subject to receiving at least fourteen days’ notice specifying the time or times and place of payment, pay to the Bank at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the Board may determine.
 
 (2) A call shall be deemed to have been made at the time when the resolution of the Board authorising the call was passed.
 
@@ -1094,13 +1152,9 @@ part of the amount in respect of which the lien exists as is due and payable, ha
 
 Bank of Trinidad and Tobago to hold unto the said transferee subject to the several conditions on which I hold the same; and I, the said transferee, do hereby agree to take the said shares subject to the terms and conditions aforesaid. As witness whereof we have set our hands the .............. day of ............................, 20..........
 
-................................................... ..........................................................
+................................................... .......................................................... Witness to Signature Transferor
 
-Witness to Signature Transferor
-
-................................................... ..........................................................
-
-Witness to Signature Transferee”
+................................................... .......................................................... Witness to Signature Transferee”
 
 (3) The Directors may decline to recognise any instrument of transfer unless—
 
@@ -1114,9 +1168,9 @@ Witness to Signature Transferee”
 
 (6) The registration of transfers may be suspended during the fourteen days immediately preceding the ordinary general meeting in each year at such times and for such periods as the Board may from time to time determine, but the registration shall not be suspended for more than thirty days in any year.
 
-*shares on the*
+*Transmission of shares on the death of a holder or joint holder.*
 
-**44.** (1) In the case of death of a member the survivor or Transmission of survivors where the deceased was a joint holder, and the legal death of a holder personal representatives of the deceased where he was a sole holder, or joint holder. shall be the only persons recognised by the Bank as having any title to his interest in the shares; but nothing herein contained shall release the estate of a deceased joint holder for any liability in respect of any share which had been jointly held by him with other persons.
+**44.** (1) In the case of death of a member the survivor or survivors where the deceased was a joint holder, and the legal personal representatives of the deceased where he was a sole holder, shall be the only persons recognised by the Bank as having any title to his interest in the shares; but nothing herein contained shall release the estate of a deceased joint holder for any liability in respect of any share which had been jointly held by him with other persons.
 
 (2) Any person becoming entitled to a share in consequence of the death or bankruptcy of a member shall, upon the production to the satisfaction of the Bank of such evidence as it may require, have the right, either to be registered himself or to have the transfer of the share made as the deceased or bankrupt person could have made; but the Board shall in either case have the same right to decline or suspend registration as it would have had in the case of a transfer of the share by the deceased or bankrupt person before the death or bankruptcy.
 
@@ -1176,7 +1230,9 @@ terms of issue of a share, becomes payable at a fixed time, whether on account o
 
 (5) The Board may by resolution reduce its share capital and any Capital Redemption Reserve Fund in any manner and with and subject to any incident authorised, and consent required, by law.
 
-**48.** (1) The Bank in general meeting may declare dividends, Dividend. but no dividend shall exceed the amount recommended by the Board.
+*Dividend.*
+
+**48.** (1) The Bank in general meeting may declare dividends, but no dividend shall exceed the amount recommended by the Board.
 
 (2) The Board may from time to time pay to the members such interim dividends as appear to the directors to be justified by the profits of the Bank.
 
@@ -1194,7 +1250,9 @@ terms of issue of a share, becomes payable at a fixed time, whether on account o
 
 (9) No dividend shall bear interest against the Bank.
 
-**49.** (1) The Board shall cause proper books of account to be Accounts. kept with respect to—
+*Accounts.*
+
+**49.** (1) The Board shall cause proper books of account to be kept with respect to—
 
 (a) all sums of money received and expended by the Bank and the matters in respect of which the receipt and expenditure takes place;
 
@@ -1220,15 +1278,15 @@ terms of issue of a share, becomes payable at a fixed time, whether on account o
 
 (2) However, a share premium account if any and a capital redemption reserve fund may, for the purposes of this rule, only be applied in the paying up of unissued shares to be issued to members of the Bank as fully-paid bonus shares.
 
-(3) Whenever such a resolution as aforesaid has been passed, the Board shall make all appropriations and applications of the undivided profits resolved to be capitalised thereby and all allotments and issues of fully-paid shares or debentures, if any, and generally shall do all acts and things required to give effect thereto. The Board may have power to make such provisions by the issue of fractional certificates or by payment in cash or otherwise as it thinks fit. The Board may also authorise any person to enter on behalf of all the members entitled thereto into an agreement with the Bank providing for the allotment to them respectively, credited as fully-paid up, of any further shares or debentures to which they may be entitled upon such capitalisation or (as the case may require) for the payment by the Bank on their behalf, by the application thereto of their respective proportions of the profits resolved to be capitalised, of the amounts or any part of the amounts remaining unpaid on their existing shares.
+(3) Whenever such a resolution as aforesaid has been passed, the Board shall make all appropriations and applications of the undivided profits resolved to be capitalised thereby and all allotments and issues of fully-paid shares or debentures, if any, and generally shall do all acts and things required to give effect thereto. The Board may have power to make such provisions by the issue of fractional certificates or by payment in cash or otherwise as it thinks fit. The Board may also authorise any person to enter on behalf of all the members entitled thereto into an agreement with the Bank providing for the allotment to them respectively, credited as fully-paid up, of any further shares or debentures to which they may be entitled upon such capitalisation or (as the case may require) for the payment by the Bank on their behalf, by the application thereto of their respective proportions of the profits resolved to be capitalised, of the amounts or any part of the amounts remaining unpaid on their existing shares. Any agreement made under such authority shall be effective and binding on all the members.
 
-Any agreement made under such authority shall be effective and binding on all the members.
+*Borrowing powers of the Bank. [60/1987].*
 
-**51.** Without prejudice to any of the powers of the Bank Borrowing powers of the conferred by the Act and in particular by section 34(d) thereof or Bank. by these Rules and in particular without prejudice to rules 4(f) [60/1987]. and 36, the Bank may borrow money either without security or secured by debentures or debenture stock (perpetual or terminable)
+**51.** Without prejudice to any of the powers of the Bank conferred by the Act and in particular by section 34(d) thereof or by these Rules and in particular without prejudice to rules 4(f) and 36, the Bank may borrow money either without security or secured by debentures or debenture stock (perpetual or terminable) mortgage or other security charged on the undertaking or on all or any of the assets of the Bank (both present and future) including uncalled capital; and the Bank may purchase, redeem or pay off any such securities.
 
-mortgage or other security charged on the undertaking or on all or any of the assets of the Bank (both present and future) including uncalled capital; and the Bank may purchase, redeem or pay off any such securities.
+*Resolution to be passed. [60/1987].*
 
-**52.** (1) For the purpose of the exercise of the borrowing Resolution to be powers described in rule 51, in the case of each loan transaction, passed. [60/1987]. the Board shall—
+**52.** (1) For the purpose of the exercise of the borrowing powers described in rule 51, in the case of each loan transaction, the Board shall—
 
 (a) pass an ordinary resolution specifying the amount to be borrowed; and
 
@@ -1320,9 +1378,9 @@ made under section 49
 
 under the seal of the Bank duly authenticated in the form set out as Form 16 or 17.
 
-*charges. Second Schedule.*
+*Legal charges. Second Schedule.*
 
-**7.** The Legal charges payable in respect of any loan or Legal advance shall be as specified in the Second Schedule.
+**7.** The Legal charges payable in respect of any loan or advance shall be as specified in the Second Schedule.
 
 ## FIRST SCHEDULE
 
@@ -1398,17 +1456,13 @@ holding under an agreement or otherwise), or whether there are other persons ent
 
 ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................
 
-(b) Any person connected with or in any way using or enjoying the land (or entitled to the use, enjoyment or benefit of the produce thereof) or any part thereof, and the names and addresses of such persons. ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................
+(b) Any person connected with or in any way using or enjoying the land (or entitled to the use, enjoyment or benefit of the produce thereof) or any part thereof, and the names and addresses of such persons. ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ (c) (In the case of the owner of crops) whether the tenancy or other occupancy has been assigned or sublet and the names and addresses of the assignees or sublessees.
 
-(c) (In the case of the owner of crops) whether the tenancy or other occupancy has been assigned or sublet and the names and addresses of the assignees or sublessees.
+............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ (d) The areas occupied, used or enjoyed by the respective persons referred to in (a), (b,) or (c).
 
-............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................
+*\11. If*
 
-(d) The areas occupied, used or enjoyed by the respective persons referred to in (a), (b,) or (c).
-
-............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................
-
-**11.** If not freeholder or leaseholder furnish evidence of your status ...................................................................................................................
+............................................................................................................ ............................................................................................................ ............................................................................................................ ............................................................................................................ not freeholder or leaseholder furnish evidence of your status ...................................................................................................................
 
 **12.** What is your estimate of the present sale value of the Security offered in:
 
@@ -1416,7 +1470,9 @@ holding under an agreement or otherwise), or whether there are other persons ent
 
 (b) $ ......................................................
 
-**13.** For what period do you require the Loan? .......................................... years.
+*\13. For*
+
+what period do you require the Loan? .......................................... years.
 
 **14.** Amount of crops reaped from lands offered as security for the last past three years:
 
@@ -1556,15 +1612,11 @@ Section 8: Occupants on Property Given as Security
 
 (a) Any occupants on the lands or any part thereof and their status (i.e., whether lessees, tenants, licensees, contractors, or whether holding under an agreement or otherwise), or whether there are other persons entitled to occupy such land, and the names and addresses of such persons:
 
-.................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. ..................................................................................................................
-
-(b) Any person connected with or in any way using or enjoying the land (or entitled to the use, enjoyment or benefit of the produce thereof) or any part thereof, and the names and addresses of such persons: .................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. ..................................................................................................................
+.................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. (b) Any person connected with or in any way using or enjoying the land (or entitled to the use, enjoyment or benefit of the produce thereof) or any part thereof, and the names and addresses of such persons: .................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. ..................................................................................................................
 
 (c) (In the case of the owner of crops) whether the tenancy or other occupancy has been assigned or sublet and the names and addresses of the assignees or sublessees:
 
-.................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. ..................................................................................................................
-
-(d) The areas occupied, used or enjoyed by the respective persons referred to in (a), (b), or (c):
+.................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. (d) The areas occupied, used or enjoyed by the respective persons referred to in (a), (b), or (c):
 
 .................................................................................................................. .................................................................................................................. .................................................................................................................. .................................................................................................................. ..................................................................................................................
 
@@ -1580,9 +1632,13 @@ Section 11: Statutory Declaration
 
 **29.** I, ............................................................................................................... declare that the statements and other particulars herein contained are true and correct to the best of my knowledge and belief; and that they give a true account of the extent and ownership of the security offered.
 
-And I make this declaration conscientiously believing the same to be true and according to the Statutory Declaration Act (Ch. 7:04) and I am aware that if there is any statement in this Declaration which is false in fact, which I know or believe to be false or do not believe to be true, I am liable to fine and imprisonment.
+*and*
 
-Declared at ....................................................................................................... this ....................... day of ............ 20........
+And I make this declaration conscientiously believing the same to be true according to the Statutory Declaration Act (Ch. 7:04) and I am aware that if there is any statement in this Declaration which is false in fact, which I know or believe to be false or do not believe to be true, I am liable to fine and imprisonment.
+
+*this*
+
+Declared at ....................................................................................................... ....................... day of ............ 20........
 
 Before me, .............................................................
 
@@ -1700,15 +1756,21 @@ Before me, ...................................
 
 ### FORM 4
 
-### REPUBLIC OF TRINIDAD AND TOBAGO
+*REPUBLIC*
+
+### OF TRINIDAD AND TOBAGO
 
 ### AGRICULTURAL DEVELOPMENT BANK ACT (CH. 79:07)
 
-An Agreement made the .................. day of ..............., 20...... between (the borrowing Society) of the one part and the Agricultural Development Bank Incorporated under the Agricultural Development Bank Act (hereinafter called
+*An borrowing*
 
-“The Bank”) of the other part.
+*“The*
 
-Witnesseth that in consideration of the sum of ............................... dollars this day lent to the Society (the receipt whereof is hereby acknowledged), the Society hereby agrees as follows:
+Agreement made the .................. day of ..............., 20...... between (the Society) of the one part and the Agricultural Development Bank Incorporated under the Agricultural Development Bank Act (hereinafter called Bank”) of the other part.
+
+*this day Society*
+
+Witnesseth that in consideration of the sum of ............................... dollars lent to the Society (the receipt whereof is hereby acknowledged), the hereby agrees as follows:
 
 (1) To repay the said sum with interest at the rate of ........per cent per annum on the ................ day of ...................., 20......., or to repay the said sum with interest thereon at the same rate by instalments of ..................................................... dollars by monthly/quarterly/half-yearly/annual instalments of .................. dollars, the first instalment to be paid on the .............................................................................
 
@@ -1730,19 +1792,25 @@ In the event of default in the payment of any one or more instalments, the whole
 
 (9) In the event of the non-performance or non-observance of all or any of the terms and conditions on the part of the Society herein contained and hereby agreed to be performed and observed, the said sum of .............................. dollars or such part thereof as shall remain unpaid with interest at the rate aforesaid to become due immediately and payable and be recoverable in the manner provided in the Agricultural Development Bank Act.
 
-As Witness the hands of the parties hereto the ................. day of .............., 20..... first above written.
+*As Witness first above*
+
+the hands of the parties hereto the ................. day of .............., 20..... written.
 
 ### FORM 5
 
-### REPUBLIC OF TRINIDAD AND TOBAGO
+*REPUBLIC*
+
+### OF TRINIDAD AND TOBAGO
 
 ### AGRICULTURAL DEVELOPMENT BANK ACT (CH. 79:07)
 
 Prepared by me,
 
-This Deed is made the ............ day of.............. in the Year of Our Lord Two Thousand and .............................................. under the provisions of the Agricultural Development Bank Act (Ch. 79:07) (hereinafter referred to as “the said Act”) Between ............................................................................................. in the Island of Trinidad, .................................................. (hereinafter called
+*This Deed Thousand*
 
-“the ..............................................”) of the One Part and the Agricultural
+*said Act”) in the “the*
+
+is made the ............ day of.............. in the Year of Our Lord Two and .............................................. under the provisions of the Agricultural Development Bank Act (Ch. 79:07) (hereinafter referred to as “the Between ............................................................................................. Island of Trinidad, .................................................. (hereinafter called ..............................................”) of the One Part and the Agricultural
 
 Development Bank of Trinidad and Tobago (hereinafter called “the Bank” which expression where the context so requires or admits shall include the persons deriving title under the Bank) of the Other Part:
 
@@ -1798,7 +1866,9 @@ effecting and keeping up such Insurance immediately on the same becoming due and
 
 (i) if the ................... to observe any of...............obligations hereunder; and
 
-(ii) ...................................................................................... In witness whereof the ....................................................................................... the day and year first hereinabove written and the Seal of the Bank was hereto affixed the ................. day of .......... Two Thousand and ..........................
+*In witness the day and affixed the*
+
+(ii) ...................................................................................... whereof the ....................................................................................... year first hereinabove written and the Seal of the Bank was hereto ................. day of .......... Two Thousand and ..........................
 
 ### FORM 6
 
@@ -2052,7 +2122,9 @@ And whereas the ................... applied to the Agricultural Development Bank
 
 **2.** And for better securing to the Bank the repayment of the said principal sum of ................... and interest hereby secured ................... hereby mortgage to the Bank all ................... estate and interest in the said hereditaments together with all agricultural live and dead rolling stock thereon.
 
-**3.** The ..................... hereby further .................... with the Bank during the continuance of this security as follows:
+*\3. The continuance*
+
+..................... hereby further .................... with the Bank during the of this security as follows:
 
 (a) That ................... will keep all messuages and buildings now or for the time being comprised in or subject to this security in good and substantial repair and condition and insured against loss or damage by fire ................... in some Insurance Company of repute to be approved of in writing from time to time by the Bank in the name of the Bank and will duly and punctually pay all premiums and other moneys necessary for effecting and keeping up such Insurance immediately on the same becoming due and will on demand produce to the Bank the Policy or Policies of such Insurance and the receipt for every such payment and that if the ................... shall make default at any time in keeping the same premises or any part thereof in good and substantial repair and condition or in effecting or keeping up such Insurance as mentioned above or in producing any such Policy or Receipt to the Bank on demand it shall be lawful for but not imperative on the Bank to repair and keep in repair the said premises or any part thereof (with power to enter into and upon the said hereditaments for that purpose) or to insure and keep insured the same to the amount mentioned above and that all moneys expended by the Bank for either of such purposes and all costs and expenses incurred by the Bank in connection therewith shall be deemed to be properly paid by the Bank.
 

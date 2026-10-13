@@ -94,11 +94,9 @@ An Act to provide for the establishment and control of an Auxiliary Fire Service
 
 “Auxiliary Fire Service” means the Auxiliary Fire Service of Trinidad and Tobago established by section 3;
 
-“Chief Fire Officer” and “Deputy Chief Fire Officer” means the persons appointed to the offices of Chief Fire Officer and
-
 *Ch. 35:50.*
 
-Deputy Chief Fire Officer respectively under the Fire Service Act;
+“Chief Fire Officer” and “Deputy Chief Fire Officer” means the persons appointed to the offices of Chief Fire Officer and Deputy Chief Fire Officer respectively under the Fire Service Act;
 
 “Fire Service” means the Fire Service established by section 3 of the Fire Service Act.
 
@@ -108,11 +106,9 @@ Deputy Chief Fire Officer respectively under the Fire Service Act;
 
 (2) The Auxiliary Fire Service shall consist of First Division Officers and Second Division Officers (hereinafter together referred to as “members”).
 
-(3) The officers of each Division of the Auxiliary Fire
-
 *Second Schedule.*
 
-Service are those set out in the Second Schedule and such other offices as the President may by Order prescribe from time to time.
+(3) The officers of each Division of the Auxiliary Fire Service are those set out in the Second Schedule and such other offices as the President may by Order prescribe from time to time.
 
 *Appointment of members.*
 
@@ -120,31 +116,43 @@ Service are those set out in the Second Schedule and such other offices as the P
 
 (2) Subject to the approval of the Minister, the Chief Fire Officer may in writing appoint such persons as he thinks fit to be Second Division Officers of the Auxiliary Fire Service.
 
-(3) Applications for appointments shall be made in writing, on the form prescribed in the First Schedule, to the Chief First Schedule. Fire Officer who shall, in the case of persons seeking appointments as First Division Officers, forward their applications to the Minister.
+*First Schedule.*
+
+(3) Applications for appointments shall be made in writing, on the form prescribed in the First Schedule, to the Chief Fire Officer who shall, in the case of persons seeking appointments as First Division Officers, forward their applications to the Minister.
 
 (4) Each application must be accompanied by a medical certificate and a certificate of good character.
 
-**5.** Every member shall, before entering upon his duties under Oath or this Act, take and subscribe the oath or affirmation of office and of affirmation. secrecy set out in the Third Schedule before a Justice of the Peace. Third Schedule.
+*Oath or affirmation.*
 
-**6.** The appointment of any member may be revoked at Revocation of appointment. any time—
+*Third Schedule.*
+
+**5.** Every member shall, before entering upon his duties under this Act, take and subscribe the oath or affirmation of office and of secrecy set out in the Third Schedule before a Justice of the Peace.
+
+*Revocation of appointment.*
+
+**6.** The appointment of any member may be revoked at any time—
 
 (a) by the Minister, in the case of a First Division Officer; and
 
 (b) by the Chief Fire Officer, in the case of a Second Division Officer.
 
-**7.** A member may resign by giving one month’s notice in Resignation. writing to the Chief Fire Officer who shall, in the case of an officer in the First Division, transmit the notice to the Minister.
+*Resignation.*
 
-**8.** (1) Subject to subsection (2), the compulsory retiring age Retirement. shall be—
+**7.** A member may resign by giving one month’s notice in writing to the Chief Fire Officer who shall, in the case of an officer in the First Division, transmit the notice to the Minister.
+
+*Retirement.*
+
+**8.** (1) Subject to subsection (2), the compulsory retiring age shall be—
 
 (a) in the case of a First Division Officer, sixty years; and
 
-(b) in the case of a Second Division Officer, fifty-
-
-five years.
+(b) in the case of a Second Division Officer, fifty-five years.
 
 (2) The retirement age of a First Division Officer may be extended with the approval of the Minister on the recommendation of the Chief Fire Officer for periods not exceeding five years in the aggregate.
 
-**9.** Where the Minister is of the opinion that additional Power of Chief personnel is required for the preservation of good order, the Fire Officer. protection of persons or property or the performance of any other duty exercisable by members of the Fire Service, he may, on the advice of the Chief Fire Officer, call out members of the Auxiliary Fire Service for duty on a full-time, part-time or temporary basis.
+*Power of Chief Fire Officer.*
+
+**9.** Where the Minister is of the opinion that additional personnel is required for the preservation of good order, the protection of persons or property or the performance of any other duty exercisable by members of the Fire Service, he may, on the advice of the Chief Fire Officer, call out members of the Auxiliary Fire Service for duty on a full-time, part-time or temporary basis.
 
 *Responsibilities of the Chief Fire Officer.*
 
@@ -178,7 +186,9 @@ is liable on summary conviction to a fine of five hundred dollars and to impriso
 
 (3) No prosecution shall commence for an offence under subsection (1)(a) without the express approval of the Director of Public Prosecutions.
 
-**15.** (1) The Minister may make such Regulations as he Regulations. considers necessary for giving effect to the provisions of this Act, for prescribing anything that is required by this Act to be prescribed and by such Regulations may provide for—
+*Regulations.*
+
+**15.** (1) The Minister may make such Regulations as he considers necessary for giving effect to the provisions of this Act, for prescribing anything that is required by this Act to be prescribed and by such Regulations may provide for—
 
 (a) the organisation of the Auxiliary Fire Service;
 

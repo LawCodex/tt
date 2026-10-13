@@ -240,27 +240,33 @@ An Act relating to Building Societies.
 
 security of the withdrawal value of the shares held by members of the said society; and any society under this Act may from time to time raise funds by the issue of shares of one or more denominations, either paid up in full or to be paid by periodical or other subscriptions, and with or without accumulating interest, and may repay such funds when no longer required for the purposes of the society.
 
-**6.** Any society registered under this Act may receive from Bonus, etc., not to be deemed any member or members thereof any sum or sums of money by usurious. way of bonus on any share or shares for the privilege of receiving the same in advance prior to the same being realised, and also any interest for the share or shares so received or any part thereof, without being subject or liable on account thereof to any of the forfeitures or penalties imposed by any law in force in Trinidad and Tobago relating to usury.
+*Bonus, etc., not to be deemed usurious.*
 
-**7.** The liability of any member of any society under this Act Limitation of liability of in respect of any share upon which no advance has been made members. shall be limited to the amount actually paid or in arrear on such share, and in respect of any share upon which an advance has been made shall be limited to the amount payable thereon under any mortgage or other security or under the rules of the society.
+**6.** Any society registered under this Act may receive from any member or members thereof any sum or sums of money by way of bonus on any share or shares for the privilege of receiving the same in advance prior to the same being realised, and also any interest for the share or shares so received or any part thereof, without being subject or liable on account thereof to any of the forfeitures or penalties imposed by any law in force in Trinidad and Tobago relating to usury.
 
-**8.** With respect to the borrowing of money by societies under Power to borrow this Act the following provisions shall have effect:
+*Limitation of liability of members.*
 
-money.
+**7.** The liability of any member of any society under this Act in respect of any share upon which no advance has been made shall be limited to the amount actually paid or in arrear on such share, and in respect of any share upon which an advance has been made shall be limited to the amount payable thereon under any mortgage or other security or under the rules of the society.
+
+*Power to borrow money.*
+
+**8.** With respect to the borrowing of money by societies under this Act the following provisions shall have effect:
 
 (a) any society may receive deposits or loans, at interest, within the limits provided in this section, from the members or other persons, or from corporate bodies, or from any terminating building society, to be applied to the purposes of the society;
 
 (b) in a permanent society the total amount so received on deposit or loan and not repaid by the society shall not at any time exceed two-thirds of the amount for the time being secured to the society by mortgages from its members;
 
+*MINISTRY OF THE*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 (c) in a terminating society the total amount so received and not repaid may either be a sum not exceeding such two-thirds as mentioned above, or a sum not exceeding twelve months’ subscriptions on the shares for the time being in force;
 
 (d) every deposit book or acknowledgment or security of any kind given for a deposit or loan by a society shall have printed or written therein or thereon the whole of section 7 and this section.
 
-*Matters to be set forth in rules.*
+*Matters to be set forth in rules. set forth—*
 
 **9.** The rules of every society established under this Act shall
-
-*set forth—*
 
 (a) the name of the society, and the chief office or place of meeting for the business of the society;
 
@@ -308,35 +314,41 @@ money.
 
 *Alteration of rules.*
 
-**11.** Any society established under this Act may alter or rescind any rule or make an additional rule, in the manner its rules direct; and every society under this Act altering or rescinding any rule, or making an additional rule, shall forward two copies of every resolution for rescission of rules, and of every alteration of or addition to its rules, signed by three members and the secretary, and a statutory declaration by an officer of the society that the provisions of this section have been complied with, to the Registrar, who, if he finds that such alteration, addition, or rescission is in conformity with this Act, shall return one of the copies to the secretary or other officer of the society with a certificate of
-
 *Schedule. Form 2.*
 
-registration in the form set out as Form 2 in the Schedule, and retain and register the other copy.
+**11.** Any society established under this Act may alter or rescind any rule or make an additional rule, in the manner its rules direct; and every society under this Act altering or rescinding any rule, or making an additional rule, shall forward two copies of every resolution for rescission of rules, and of every alteration of or addition to its rules, signed by three members and the secretary, and a statutory declaration by an officer of the society that the provisions of this section have been complied with, to the Registrar, who, if he finds that such alteration, addition, or rescission is in conformity with this Act, shall return one of the copies to the secretary or other officer of the society with a certificate of registration in the form set out as Form 2 in the Schedule, and retain and register the other copy.
 
 *Change of chief office.*
 
 **12.** Any society registered under this Act may change its chief office in the manner its rules direct, or if there be no such directions, then at a general meeting specially called for the purpose, in the manner set forth in the rules of the society; and no alteration of rule shall be necessary upon such change, nor shall the provisions of section 11 apply to such change. Notice of every such change
 
+*Schedule. Form 3.*
+
 shall be given by the secretary of the society to the Registrar within seven days after such change, and shall be registered by him, and he shall give a certificate of such registration in the form set out as Form 3 in the Schedule.
 
-Schedule. Form 3.
+*Rules may provide forms of conveyance, etc.*
 
-**13.** Any society under this Act, in a schedule to its rules, may Rules may provide forms of describe the forms of conveyance, mortgage, transfer, agreement, conveyance, etc. bond, security for deposit or loan, or other instrument necessary for carrying its purposes into execution.
+**13.** Any society under this Act, in a schedule to its rules, may describe the forms of conveyance, mortgage, transfer, agreement, bond, security for deposit or loan, or other instrument necessary for carrying its purposes into execution.
 
-**14.** Any certificate of incorporation or of registration, or Evidence of registration and other document relating to a society under this Act, purporting rules. to be signed by the Registrar, shall, in the absence of any evidence to the contrary, be received by all Courts of law and equity and elsewhere, without proof of the signature; and a printed copy of the rules of a society, certified by the secretary or other officer of the society to be a true copy of its registered rules, shall, in the absence of any evidence to the contrary, be received as proof of the rules.
+*Evidence of registration and rules.*
 
-**15.** The rules of a society under this Act shall be binding on Rules binding on members and the several members and officers of the society, and on all persons others. claiming on account of a member, or under the rules, all of whom shall be deemed to have full notice thereof.
+**14.** Any certificate of incorporation or of registration, or other document relating to a society under this Act, purporting to be signed by the Registrar, shall, in the absence of any evidence to the contrary, be received by all Courts of law and equity and elsewhere, without proof of the signature; and a printed copy of the rules of a society, certified by the secretary or other officer of the society to be a true copy of its registered rules, shall, in the absence of any evidence to the contrary, be received as proof of the rules.
 
-**16.** A society under this Act may change its name by Change of name. resolution of three-fourths of the members present at a meeting called for the purpose, provided that the new name is not identical with that of any society previously registered and still subsisting, or so nearly resembling the same as to be calculated to deceive, unless such subsisting society is in course of being terminated or dissolved, and consents to such registration. Notice of the change of name shall be sent to the Registrar and registered by him, and he shall give a certificate of registration in the form set out as Form 4 in the Schedule. Such change of name shall not affect Schedule. Form 4. any right or obligation of the society, or any member thereof, or other person concerned.
+*Rules binding on members and others.*
+
+**15.** The rules of a society under this Act shall be binding on the several members and officers of the society, and on all persons claiming on account of a member, or under the rules, all of whom shall be deemed to have full notice thereof.
+
+*Change of name.*
+
+*Schedule. Form 4.*
+
+**16.** A society under this Act may change its name by resolution of three-fourths of the members present at a meeting called for the purpose, provided that the new name is not identical with that of any society previously registered and still subsisting, or so nearly resembling the same as to be calculated to deceive, unless such subsisting society is in course of being terminated or dissolved, and consents to such registration. Notice of the change of name shall be sent to the Registrar and registered by him, and he shall give a certificate of registration in the form set out as Form 4 in the Schedule. Such change of name shall not affect any right or obligation of the society, or any member thereof, or other person concerned.
 
 *Officers to give security.*
 
-**17.** Every officer of a society under this Act having the receipt or charge of any moneys belonging to the society shall, before taking upon himself the execution of his office, become bound with one sufficient surety at the least, in a bond in the form set out
-
 *Schedule. Form 5.*
 
-as Form 5 in the Schedule, or give the security of a guarantee society, or such other security as the society directs, in such sum as the society requires, conditioned for rendering a true and just account of all moneys received and paid by him on account of the society, and for payment of all sums of money due from time to time to the society at such times as its rules appoint, or as the society requires him to do so.
+**17.** Every officer of a society under this Act having the receipt or charge of any moneys belonging to the society shall, before taking upon himself the execution of his office, become bound with one sufficient surety at the least, in a bond in the form set out as Form 5 in the Schedule, or give the security of a guarantee society, or such other security as the society directs, in such sum as the society requires, conditioned for rendering a true and just account of all moneys received and paid by him on account of the society, and for payment of all sums of money due from time to time to the society at such times as its rules appoint, or as the society requires him to do so.
 
 *Officers to account.*
 
@@ -348,15 +360,17 @@ as Form 5 in the Schedule, or give the security of a guarantee society, or such 
 
 assignees of every such officer, and every other person having or claiming right to the property of such officer, and the person executing such process, and the party raising such action respectively, shall upon demand in writing made by any person authorised by the board of directors or committee of management of such society or by some meeting of such society to make such demand, deliver and pay over all such moneys, property, deeds and securities belonging to such society to such person as shall have been appointed as mentioned above to receive the same.
 
-**20.** Any society under this Act may from time to time, as the Investment of surplus funds. rules permit, invest any portion of the funds of the society, not [47 of 1980]. immediately required for its purposes, upon real or leasehold securities, or in the purchase of lands, or lands and buildings, being freehold in Trinidad and Tobago, with power to exchange the said lands, or to sell the same together or in lots, or to erect any buildings thereon and to sell the same, or in the public funds of Trinidad and Tobago or in or upon any Parliamentary stock or securities or in or upon any stock or securities, payment of the interest on which is guaranteed by Parliament or in Inscribed Stock of Trinidad and Tobago, or in case of terminating societies, with other societies under this Act; and for the purpose of investments in stock or upon security of real or leasehold estate, the society, or the board of directors or committee of management thereof, may from time to time appoint and remove trustees or make such investments in its registered name.
+*Investment of surplus funds. [47 of 1980].*
 
-**21.** The powers of investment under this Act include power to Powers of investment. invest in or upon any security in which trustees are for the time being authorised by law to invest.
+**20.** Any society under this Act may from time to time, as the rules permit, invest any portion of the funds of the society, not immediately required for its purposes, upon real or leasehold securities, or in the purchase of lands, or lands and buildings, being freehold in Trinidad and Tobago, with power to exchange the said lands, or to sell the same together or in lots, or to erect any buildings thereon and to sell the same, or in the public funds of Trinidad and Tobago or in or upon any Parliamentary stock or securities or in or upon any stock or securities, payment of the interest on which is guaranteed by Parliament or in Inscribed Stock of Trinidad and Tobago, or in case of terminating societies, with other societies under this Act; and for the purpose of investments in stock or upon security of real or leasehold estate, the society, or the board of directors or committee of management thereof, may from time to time appoint and remove trustees or make such investments in its registered name.
 
-**22.** If any member of or depositor with a society under this Payment of sums not Act, having in the funds thereof a sum of money not exceeding exceeding five
+*Powers of investment.*
 
-*dollars*
+**21.** The powers of investment under this Act include power to invest in or upon any security in which trustees are for the time being authorised by law to invest.
 
-five thousand dollars, dies intestate, then the amount due may be thousand when members paid to the person who appears to the directors or committee of or depositors die intestate. management of the society to be entitled, under the law for the [45 of 1979]. time being regulating the devolution of personal estate applicable to the case, to receive the same, without taking out letters of
+*Payment of sums not exceeding five thousand dollars when members or depositors die intestate. [45 of 1979].*
+
+**22.** If any member of or depositor with a society under this Act, having in the funds thereof a sum of money not exceeding five thousand dollars, dies intestate, then the amount due may be paid to the person who appears to the directors or committee of management of the society to be entitled, under the law for the time being regulating the devolution of personal estate applicable to the case, to receive the same, without taking out letters of
 
 administration, upon the society receiving satisfactory evidence of death, and a statutory declaration that the member or depositor died intestate, and that the person so claiming is entitled as mentioned above. Whenever the society after the decease of any member or depositor has paid any such sum of money to the person who at the time appeared to be entitled to the effects of the deceased, under the belief that he had died intestate, the payment shall be valid and effectual with respect to any demand from any other person as next of kin or as the lawful representative of such deceased member or depositor against the funds of the society, but nevertheless such next of kin or representative shall have his lawful remedy for the amount of such payment against the person who has received the same.
 
@@ -368,11 +382,11 @@ administration, upon the society receiving satisfactory evidence of death, and a
 
 **24.** Any person who, by false representation or imposition, obtains possession of any moneys, securities, books, papers or other effects of a society under this Act, or, having the same in his possession, withholds or misapplies it, or wilfully applies any part of it to purposes other than those expressed or directed in the rules of the society and authorised by this Act, is liable on summary conviction to a fine of one thousand dollars and costs, and to be ordered to deliver up to the society all such moneys, securities, books, papers or other effects of the society, and to repay the amount of money applied improperly, and in default of such delivery of effects, or repayment of such amount of money, or payment of such fine and costs mentioned above, to imprisonment for three months; but nothing contained herein shall prevent any such person from being proceeded against by way of indictment if a conviction has not been previously obtained against him for the same offence under this Act.
 
-**25.** Proceedings under section 24 may be taken by or at the Initiation of
+*Initiation of proceedings.*
+
+**25.** Proceedings under section 24 may be taken by or at the
 
 *instance of—*
-
-proceedings.
 
 (a) the society; or
 
@@ -380,15 +394,19 @@ proceedings.
 
 (c) the Registrar.
 
-**26.** A society under this Act may terminate or be dissolved— Proceedings necessary for
+*\26. A*
 
-(a) upon the happening of any event declared by its determination or dissolution. rules to be the determination of the society;
+*Proceedings necessary for determination or dissolution.*
+
+society under this Act may terminate or be dissolved—
+
+(a) upon the happening of any event declared by its rules to be the determination of the society;
 
 (b) by dissolution in manner prescribed by its rules;
 
-(c) by dissolution with the consent of three-fourths of the members holding not less than two-thirds of the number of shares in the society testified by their signatures to the instrument of dissolution.
+*Schedule. Form 6.*
 
-The instrument of dissolution shall be in the form set out as Form 6 in the Schedule and shall state— Schedule. Form 6.
+(c) by dissolution with the consent of three-fourths of the members holding not less than two-thirds of the number of shares in the society testified by their signatures to the instrument of dissolution. The instrument of dissolution shall be in the form set out as Form 6 in the Schedule and shall state—
 
 (i) the liabilities and assets of the society in detail;
 
@@ -402,11 +420,9 @@ The instrument of dissolution shall be in the form set out as Form 6 in the Sche
 
 Alterations in the instrument of dissolution may be made with the like consent, testified in the same manner; the instrument of dissolution and all alterations therein shall be registered in the manner provided for the registration of rules, and shall be binding upon all the members of the society;
 
-\*(d) by an order of the High Court to wind up the society, made as is directed in regard to companies
-
 *Ch. 31 No. 1 (1950 Ed.).*
 
-by the Companies Ordinance, the provisions of which except paragraph (4) of section 161 of the said Ordinance shall apply to any such order.
+\*(d) by an order of the High Court to wind up the society, made as is directed in regard to companies by the Companies Ordinance, the provisions of which except paragraph (4) of section 161 of the said Ordinance shall apply to any such order.
 
 Notice of the commencement and termination of every dissolution on winding up shall be sent to the Registrar and registered by him.
 
@@ -426,13 +442,21 @@ Notice of the commencement and termination of every dissolution on winding up sh
 
 to apply in the case of the society, as if the liquidators or other persons conducting the dissolution of the society, or the trustees appointed under the instrument of dissolution, were the board of directors or committee of management of the society.
 
-**29.** When a society under this Act is being dissolved or wound Liability of borrowing up, a member to whom an advance has been made under any members on mortgage or other security, or under the rules of the society, is not dissolution. liable to pay the amount payable under such mortgage, security or rules, except at the time or times and subject to the conditions expressed therein.
+*Liability of borrowing members on dissolution.*
 
-**30.** If a society under this Act is dissolved in the manner Account and balance sheet to prescribed by its rules, or in pursuance of the consent of three- be sent to fourths of the members, the liquidators, trustees or other persons Registrar on dissolution. having the conduct of the dissolution shall, within twenty-eight days from the termination of the dissolution, send to the Registrar an account and balance sheet signed and certified by them as correct, and showing the assets and liabilities of the society at the commencement of the dissolution and the mode in which those assets and liabilities have been applied and discharged and in default of so doing is each liable on summary conviction to a fine of two hundred dollars for every day during which the default continues.
+**29.** When a society under this Act is being dissolved or wound up, a member to whom an advance has been made under any mortgage or other security, or under the rules of the society, is not liable to pay the amount payable under such mortgage, security or rules, except at the time or times and subject to the conditions expressed therein.
 
-**31.** A society under this Act shall not cause or permit the Prohibition of balloting for applicants for advances to ballot for precedence, or in any way advances. make the granting of an advance depend on any chance or lot.
+*Account and balance sheet to be sent to Registrar on dissolution.*
 
-**32.** (1) A society under this Act shall not advance money on Prohibition of advances on the security of any freehold or leasehold estate which is subject to second mortgage. a prior mortgage, unless the prior mortgage is in favour of the society making the advance.
+**30.** If a society under this Act is dissolved in the manner prescribed by its rules, or in pursuance of the consent of three-fourths of the members, the liquidators, trustees or other persons having the conduct of the dissolution shall, within twenty-eight days from the termination of the dissolution, send to the Registrar an account and balance sheet signed and certified by them as correct, and showing the assets and liabilities of the society at the commencement of the dissolution and the mode in which those assets and liabilities have been applied and discharged and in default of so doing is each liable on summary conviction to a fine of two hundred dollars for every day during which the default continues.
+
+*Prohibition of balloting for advances.*
+
+**31.** A society under this Act shall not cause or permit the applicants for advances to ballot for precedence, or in any way make the granting of an advance depend on any chance or lot.
+
+*Prohibition of advances on second mortgage.*
+
+**32.** (1) A society under this Act shall not advance money on the security of any freehold or leasehold estate which is subject to a prior mortgage, unless the prior mortgage is in favour of the society making the advance.
 
 (2) If any advance is made in contravention of this section, the directors of the society who authorised the advance are jointly and severally liable for any loss on the advance occasioned to the society.
 
@@ -454,9 +478,9 @@ engagements may be transferred, as may be set forth in the instrument of union o
 
 (2) Where three-fourths of the members of two or more societies present at general meetings respectively convened for the purpose of considering any union or transfer under this section, agree to the union or transfer, the agreement shall notwithstanding anything in this section, be valid if it obtains the concurrence in writing of the holders of not less than two-thirds of the whole number of shares of each society, whether they are present at the meeting or not.
 
-*of disputes by*
+*Determination of disputes by arbitration.*
 
-**36.** Where the rules of a society under this Act direct disputes Determination to be referred to arbitration, arbitrators shall be named and elected arbitration. in the manner such rules provide, or, if there be no such provision, at the first general meeting of the society, none of the said arbitrators being beneficially interested, directly or indirectly, in its funds; of whom a certain number, not less than three, shall be chosen by ballot in each such case of dispute, the number of the said arbitrators and mode of ballot being determined by the rules of the society; the names of such arbitrators shall be duly entered in the minute book of the society, and, in case of the death, or refusal or neglect of any of the said arbitrators to act, the society, at a general meeting, shall name and elect an arbitrator to act in the place of the arbitrator dying, or refusing or neglecting to act; and whatever award shall be made by the arbitrators or the major part of them, according to the true purport and meaning of the rules of the society, shall determine the dispute; and should either of the parties to the dispute refuse or neglect to comply with or conform to such award within a time to be limited therein, the High Court, upon good and sufficient proof being adduced of such award having been made, and of the refusal of the party to comply therewith, shall enforce
+**36.** Where the rules of a society under this Act direct disputes to be referred to arbitration, arbitrators shall be named and elected in the manner such rules provide, or, if there be no such provision, at the first general meeting of the society, none of the said arbitrators being beneficially interested, directly or indirectly, in its funds; of whom a certain number, not less than three, shall be chosen by ballot in each such case of dispute, the number of the said arbitrators and mode of ballot being determined by the rules of the society; the names of such arbitrators shall be duly entered in the minute book of the society, and, in case of the death, or refusal or neglect of any of the said arbitrators to act, the society, at a general meeting, shall name and elect an arbitrator to act in the place of the arbitrator dying, or refusing or neglecting to act; and whatever award shall be made by the arbitrators or the major part of them, according to the true purport and meaning of the rules of the society, shall determine the dispute; and should either of the parties to the dispute refuse or neglect to comply with or conform to such award within a time to be limited therein, the High Court, upon good and sufficient proof being adduced of such award having been made, and of the refusal of the party to comply therewith, shall enforce
 
 *Determination of disputes by Registrar.*
 
@@ -478,15 +502,21 @@ compliance with the same upon the petition of any person concerned. Where the pa
 
 **39.** The arbitrators, Registrar, or Court to whom a dispute is referred in pursuance of this Act, shall not be compelled to state a special case on any question of law arising in the case, but may do so on the request of either party as provided in section 38.
 
-**40.** The word “disputes” in this Act, or in the rules of any Definition of
+*Definition of “Disputes”.*
 
-“Disputes”. society hereunder, shall be deemed to refer only to disputes between the society and a member or any representative of a member in his capacity of a member of the society, unless by the rules for the time being it shall be otherwise expressly provided; and, in the absence of such express provision, shall not apply to any dispute between any such society and any member thereof, or other person whatsoever, as to the construction or effect of any mortgage deed or other security, or any contract contained in any document other than the rules of the society, and shall not prevent any society, or any member thereof, or any person claiming through or under him, from obtaining in the ordinary course of law any remedy in respect of any such mortgage or other security or other contract to which such person or the society would otherwise be by law entitled.
+**40.** The word “disputes” in this Act, or in the rules of any society hereunder, shall be deemed to refer only to disputes between the society and a member or any representative of a member in his capacity of a member of the society, unless by the rules for the time being it shall be otherwise expressly provided; and, in the absence of such express provision, shall not apply to any dispute between any such society and any member thereof, or other person whatsoever, as to the construction or effect of any mortgage deed or other security, or any contract contained in any document other than the rules of the society, and shall not prevent any society, or any member thereof, or any person claiming through or under him, from obtaining in the ordinary course of law any remedy in respect of any such mortgage or other security or other contract to which such person or the society would otherwise be by law entitled.
 
-**41.** A society under this Act may purchase, build, hire, or take Buildings may be purchased or upon lease any building for conducting its business, and may adapt leased, etc., as places of and furnish the same, and may purchase or hold upon lease any business. land for the purpose of erecting thereon a building for conducting the business of the society, and may sell, exchange or let such building, or any part thereof.
+*Buildings may be purchased or leased, etc., as places of business.*
 
-**42.** Any person under the age of eighteen may be admitted as Minors may be elected a member of any society under this Act the rules of which do not members. [47 of 1980]. prohibit such admission, and may, subject to the rules of the society, enjoy all the rights of a member (save as herein provided), and may execute all instruments and give all necessary acquittances, but during his minority he shall not be competent to vote or hold any office in the society.
+**41.** A society under this Act may purchase, build, hire, or take upon lease any building for conducting its business, and may adapt and furnish the same, and may purchase or hold upon lease any land for the purpose of erecting thereon a building for conducting the business of the society, and may sell, exchange or let such building, or any part thereof.
 
-**43.** Two or more persons may jointly hold a share or shares in Shares may be held jointly. any society under this Act; and all shares held jointly by any two or more persons in any society registered under this Act, the rules whereof shall not prohibit such joint holding, shall be deemed to be lawfully so held.
+*Minors may be elected members. [47 of 1980].*
+
+**42.** Any person under the age of eighteen may be admitted as a member of any society under this Act the rules of which do not prohibit such admission, and may, subject to the rules of the society, enjoy all the rights of a member (save as herein provided), and may execute all instruments and give all necessary acquittances, but during his minority he shall not be competent to vote or hold any office in the society.
+
+*Shares may be held jointly.*
+
+**43.** Two or more persons may jointly hold a share or shares in any society under this Act; and all shares held jointly by any two or more persons in any society registered under this Act, the rules whereof shall not prohibit such joint holding, shall be deemed to be lawfully so held.
 
 *Annual account and statement of funds.*
 
@@ -512,15 +542,13 @@ the account or statement, such information being given separately in respect of 
 
 (iv) where the debt exceeds $50,000 and does not exceed $100,000; and
 
-(b) with respect to any other mortgage to the society, the particulars shown by the appropriate tabular
+*Schedule. Form 7A. Form 7B. Form 7C. Duties of auditors.*
 
-*Form 7A. Form 7B. Form 7C.*
+(b) with respect to any other mortgage to the society, the particulars shown by the appropriate tabular form set out as Form 7A, Form 7B or Form 7C in the Schedule.
 
-form set out as Form 7A, Form 7B or Form 7C in Schedule. the Schedule.
+*statement,*
 
-*auditors.*
-
-(2) Every auditor, in attesting any such annual account or Duties of statement, shall—
+(2) Every auditor, in attesting any such annual account or shall—
 
 (a) verify that it is correct, duly vouched, and in accordance with law, or specially report to the society in what respect he finds it incorrect, unvouched, or not in accordance with law; and
 
@@ -556,13 +584,9 @@ form set out as Form 7A, Form 7B or Form 7C in Schedule. the Schedule.
 
 (4) The Registrar shall communicate the results of any such inspection to the applicants and to the society.
 
-*appoint*
+*Registrar may appoint inspector or call special meeting.*
 
-**48.** (1) The Registrar may, on the application of one-tenth of Registrar may the whole of the members of a society under this Act, or of one inspector or call
-
-*special meeting.*
-
-hundred members in the case of a society consisting of more than one thousand members, and with the consent of the Minister, either appoint an inspector to examine into and report on the affairs of the society or call a special meeting of the society.
+**48.** (1) The Registrar may, on the application of one-tenth of the whole of the members of a society under this Act, or of one hundred members in the case of a society consisting of more than one thousand members, and with the consent of the Minister, either appoint an inspector to examine into and report on the affairs of the society or call a special meeting of the society.
 
 (2) (a) The application under this section shall be supported by such evidence as the Registrar may direct for the purpose of showing that the applicants have good reason for requiring the inspection to be made or the meeting to be called, and that they are not actuated by malicious motives in their application.
 
@@ -572,13 +596,13 @@ hundred members in the case of a society consisting of more than one thousand me
 
 (d) All expenses of and incidental to the inspection or meeting shall be defrayed by the applicants, or out of the funds of the society, or by the members or officers, or former members or officers of the society, in such proportions as the Registrar may direct.
 
-*inspector.*
+*Powers of inspector.*
 
-(3) An inspector appointed under this section may require Powers of the production of all or any of the books, accounts, securities and documents of the society, and may examine on oath its officers, members, agents and servants in relation to its business, and may administer an oath accordingly.
+(3) An inspector appointed under this section may require the production of all or any of the books, accounts, securities and documents of the society, and may examine on oath its officers, members, agents and servants in relation to its business, and may administer an oath accordingly.
 
-*of meeting.*
+*Time and place of meeting.*
 
-(4) The Registrar may direct at what time and place a Time and place special meeting under this section is to be held, and what matters are to be discussed and determined at the meeting, and the meeting shall have all the powers of a meeting called according to the rules of the society, and shall in all cases have power to appoint its own chairman, any rule of the society to the contrary notwithstanding.
+(4) The Registrar may direct at what time and place a special meeting under this section is to be held, and what matters are to be discussed and determined at the meeting, and the meeting shall have all the powers of a meeting called according to the rules of the society, and shall in all cases have power to appoint its own chairman, any rule of the society to the contrary notwithstanding.
 
 *Power in certain cases to call special meeting.*
 
@@ -598,13 +622,23 @@ hundred members in the case of a society consisting of more than one thousand me
 
 (2) The Registrar shall, before cancelling or suspending the registry of the society under the foregoing powers, give to the society not less than two months’ previous notice in writing, specifying briefly the ground of the proposed cancelling or suspension, and shall, as soon as practicable after the cancelling or suspension takes place, cause notice thereof to be published in the Gazette, and in some newspaper circulating in Trinidad and Tobago.
 
-(3) A society may appeal from the cancelling of its Appeal from Registrar. registry, or from any suspension thereof for a term exceeding six months, to the High Court, and thereupon the Court may, if it thinks it just to do so, set aside the cancelling or suspension.
+*Appeal from Registrar.*
 
-(4) The Registrar may also, if he thinks fit, at the request Cancellation at request of of any society under this Act, evidenced in such manner as he may society. direct, cancel the registry of the society.
+(3) A society may appeal from the cancelling of its registry, or from any suspension thereof for a term exceeding six months, to the High Court, and thereupon the Court may, if it thinks it just to do so, set aside the cancelling or suspension.
 
-(5) A society whose registry has been cancelled or Effect of cancellation or suspended shall from the time of such cancelling or suspension suspension. (but in case of suspension only while the suspension lasts, and in any case subject to the right of appeal given by this section) absolutely cease to enjoy as such the privileges of a society under this Act, but without prejudice to any liability incurred by the society, and any such liability may be enforced against the society as if the cancelling or suspension had not taken place.
+*Cancellation at request of society.*
 
-**50.** When all moneys intended to be secured by any mortgage Receipt to be sufficient or further charge of or upon any land not brought under the discharge provisions of the Real Property Act, given to a society under this without conveyance. Act, have been fully paid or discharged, the society may endorse [51/1980]. Ch. 56:02. upon or annex to such mortgage or further charge a reconveyance of the mortgaged property to the then owner of the equity of redemption, or to such persons and to such uses as he may direct, or a receipt under the seal of the society, countersigned by the secretary or manager, in the form set out as Form 8 in the Schedule; Schedule. and such receipt shall vacate the mortgage or further charge or Form 8. debt, and vest the estate of and in the property comprised therein in the person for the time being entitled to the equity of redemption, without any reconveyance or resurrender whatever; and if the said mortgage or further charge has been registered under any law of Trinidad and Tobago for the registration or record of deeds or titles other than the Real Property Act, the Registrar under such law, or his Deputy, or the recording officer, as the case may be, shall, on production of such receipt verified by the oath of any person, endorse upon or annex to such mortgage or further charge an entry to the effect that such mortgage or charge is satisfied, and shall grant a certificate separately to the like effect, which certificate
+(4) The Registrar may also, if he thinks fit, at the request of any society under this Act, evidenced in such manner as he may direct, cancel the registry of the society.
+
+*Effect of cancellation or suspension.*
+
+(5) A society whose registry has been cancelled or suspended shall from the time of such cancelling or suspension (but in case of suspension only while the suspension lasts, and in any case subject to the right of appeal given by this section) absolutely cease to enjoy as such the privileges of a society under this Act, but without prejudice to any liability incurred by the society, and any such liability may be enforced against the society as if the cancelling or suspension had not taken place.
+
+*Receipt to be sufficient discharge without conveyance. [51/1980]. Ch. 56:02.*
+
+*Schedule. Form 8.*
+
+**50.** When all moneys intended to be secured by any mortgage or further charge of or upon any land not brought under the provisions of the Real Property Act, given to a society under this Act, have been fully paid or discharged, the society may endorse upon or annex to such mortgage or further charge a reconveyance of the mortgaged property to the then owner of the equity of redemption, or to such persons and to such uses as he may direct, or a receipt under the seal of the society, countersigned by the secretary or manager, in the form set out as Form 8 in the Schedule; and such receipt shall vacate the mortgage or further charge or debt, and vest the estate of and in the property comprised therein in the person for the time being entitled to the equity of redemption, without any reconveyance or resurrender whatever; and if the said mortgage or further charge has been registered under any law of Trinidad and Tobago for the registration or record of deeds or titles other than the Real Property Act, the Registrar under such law, or his Deputy, or the recording officer, as the case may be, shall, on production of such receipt verified by the oath of any person, endorse upon or annex to such mortgage or further charge an entry to the effect that such mortgage or charge is satisfied, and shall grant a certificate separately to the like effect, which certificate
 
 shall be received in evidence in all Courts and proceedings without any further proof, and which entry shall have the effect of clearing the register or record of such mortgage; and there shall be paid to the Registrar or recording officer for the use of the State a fee of one dollar for making the said entry and granting the said certificate, and such fee shall be paid by stamps and applied as the other fees of such registry of deeds or titles are for the time being applied.
 
@@ -628,21 +662,25 @@ the society, and also every officer thereof bound by the rules thereof to fulfil
 
 and if there is no such officer then every member of the committee of management or board of directors of the society, unless it appears that he was ignorant of or attempted to prevent the breach, is for each offence liable on summary conviction to a fine of one thousand dollars, and, in the case of a continuing offence, to an additional fine of two hundred dollars for every week during which the offence continues.
 
-**54.** Any person who wilfully makes, orders or allows to be False entries. made any false statement in any document required by this Act to be sent to the Registrar, or by erasure, omission or otherwise wilfully falsifies any such document, is liable on summary conviction to a fine of two thousand dollars.
+*False entries.*
 
-*accepted by*
+**54.** Any person who wilfully makes, orders or allows to be made any false statement in any document required by this Act to be sent to the Registrar, or by erasure, omission or otherwise wilfully falsifies any such document, is liable on summary conviction to a fine of two thousand dollars.
 
-**55.** No director, secretary, surveyor, Attorney-at-law or other Gifts, etc., not to officer of the society under this Act shall, in addition to the be officials. remuneration prescribed or authorised by the rules of the society, receive from any person any gift, bonus, commission or benefit for or in connection with any loan made by the society, and any person paying or accepting any such gift, bonus, commission or benefit is liable on summary conviction to a fine of two thousand dollars, and the person accepting any such gift, bonus, commission or benefit shall, as and when directed by the Court by whom he is convicted, pay over to the society the amount or value of such gift, bonus, commission or benefit, and, in default of such payment, is liable to imprisonment for six months.
+*Gifts, etc., not to be accepted by officials.*
 
-**56.** The Registrar shall cause to be made an abstract and report Annual report by Registrar. of the annual accounts and statements of societies and of his proceedings as Registrar under this Act, and shall transmit the same to the Minister to be laid before Parliament.
+**55.** No director, secretary, surveyor, Attorney-at-law or other officer of the society under this Act shall, in addition to the remuneration prescribed or authorised by the rules of the society, receive from any person any gift, bonus, commission or benefit for or in connection with any loan made by the society, and any person paying or accepting any such gift, bonus, commission or benefit is liable on summary conviction to a fine of two thousand dollars, and the person accepting any such gift, bonus, commission or benefit shall, as and when directed by the Court by whom he is convicted, pay over to the society the amount or value of such gift, bonus, commission or benefit, and, in default of such payment, is liable to imprisonment for six months.
 
-**57.** The Minister may make Regulations respecting the fees, Regulations. if any, to be paid for the transmission, registration, and inspection of documents under this Act and generally for carrying this Act into effect.
+*Annual report by Registrar.*
 
-## SCHEDULE
+**56.** The Registrar shall cause to be made an abstract and report of the annual accounts and statements of societies and of his proceedings as Registrar under this Act, and shall transmit the same to the Minister to be laid before Parliament.
+
+*Regulations.*
+
+**57.** The Minister may make Regulations respecting the fees, if any, to be paid for the transmission, registration, and inspection of documents under this Act and generally for carrying this Act into effect.
 
 *Section 4.*
 
-FORM 1 CERTIFICATE OF INCORPORATION No.
+## SCHEDULE FORM 1 CERTIFICATE OF INCORPORATION No.
 
 The Registrar hereby certifies that the .............................. Building Society, established at .......................... is incorporated under the Building Societies Act, this ............. day of ....................., 20......... The incorporation of a Building Society does not imply any approval by the Registrar of its rules or tables, or any guarantee of its good management or financial stability.
 

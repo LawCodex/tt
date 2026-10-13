@@ -98,11 +98,23 @@ An Act to regulate the holding of boxing contests.
 
 **5.** (1) No person shall hold, assist in holding or take any part whatsoever in any boxing contest, whether held for prizes or otherwise, unless a permit in writing has been first obtained from the Board authorising the holding of such contest.
 
-(2) The Board may refuse to issue such permit at its discretion and without assigning any reason or may attach any conditions it thinks fit as to the holding of any boxing contest or may cancel any permit after issue.
+*discretion conditions may cancel*
 
-**6.** The members of the Board and any police officer detailed Free access. for the purpose shall at all times have free access to any place in which any boxing contest is being or is about to be held.
+(2) The Board may refuse to issue such permit at its and without assigning any reason or may attach any it thinks fit as to the holding of any boxing contest or any permit after issue.
 
-**7.** (1) The Board may prescribe the Rules for boxing and Regulations. may from time to time amend or revoke any such Rules, and with the approval of the Minister may make Regulations as to all or any of the following matters:
+*Free access.*
+
+*for the which any*
+
+**6.** The members of the Board and any police officer detailed purpose shall at all times have free access to any place in boxing contest is being or is about to be held.
+
+*\7. (1)*
+
+*Regulations.*
+
+*may from the of the*
+
+The Board may prescribe the Rules for boxing and time to time amend or revoke any such Rules, and with approval of the Minister may make Regulations as to all or any following matters:
 
 (a) the registration and licensing and the revocation or suspension of licences of—
 
@@ -130,11 +142,9 @@ An Act to regulate the holding of boxing contests.
 
 (h) generally for carrying any of the purposes or provisions of this Act into effect.
 
-Until varied or revoked by any such Rules or Regulations the
-
 *Schedule.*
 
-Rules and Regulations contained in the Schedule shall be in force.
+Until varied or revoked by any such Rules or Regulations the Rules and Regulations contained in the Schedule shall be in force.
 
 (2) All Regulations when so approved by the Minister shall be published in the Gazette and shall come into operation on the date of such publication. Any amendment to or revocation of the Rules for boxing made by the Board shall be published in such manner as the Board may determine.
 
@@ -162,9 +172,13 @@ is liable on summary conviction to a fine of one thousand dollars and to impriso
 
 **1.** These Regulations may be cited as the Boxing Regulations.
 
-**2.** In these Regulations “the Board” means the Trinidad Boxing Board of Control.
+*of*
 
-**3.** (1) The Board shall register and issue licences annually in respect of all premises approved by the Board for the holding of boxing contests and to all approved—
+**2.** In these Regulations “the Board” means the Trinidad Boxing Board Control.
+
+*all all*
+
+**3.** (1) The Board shall register and issue licences annually in respect of premises approved by the Board for the holding of boxing contests and to approved—
 
 (a) promoters of professional boxing contests;
 
@@ -176,19 +190,29 @@ is liable on summary conviction to a fine of one thousand dollars and to impriso
 
 (2) Every licence so issued shall expire on the 31st of December following the date of issue unless previously revoked.
 
-(3) The fees payable to the Board in respect of such licences shall be as follows:
+*as*
+
+(3) The fees payable to the Board in respect of such licences shall be follows:
 
 Licence Fee $ Promoter … … … … 100.00 Manager … … … … 100.00 Trainer … … … … 10.00 Second … … … … 10.00 Boxer … … … … 10.00 Referee … … … … 50.00 Judge … … … … 50.00 Timekeeper … … … … 50.00 Announcer … … … … 50.00 Doctor … … … … 100.00 Amateur Premises … … … 20.00 Professional Premises … … 50.00 Ring Inspection … … … 20.00
 
-**4.** Applicants for referees’ and judges’ licences may be required to pass a test or otherwise satisfy the Board as to their qualifications for being so licensed.
+*test*
 
-**5.** A boxer’s licence shall not be issued to any applicant who is under seventeen years of age.
+**4.** Applicants for referees’ and judges’ licences may be required to pass a or otherwise satisfy the Board as to their qualifications for being so licensed.
+
+*\5. A seventeen*
+
+boxer’s licence shall not be issued to any applicant who is under years of age.
 
 **6.** Applicants for licences shall supply such information as may be required by the Board in respect of their qualifications to hold a licence.
 
-**7.** The Board may in its discretion and without assigning any reason therefor refuse to issue any licence or revoke or suspend any licence after its issue.
+*therefor its issue.*
 
-**8.** (1) Every application for a permit to hold a boxing contest shall be made in writing to the Board not less than fourteen days prior to the proposed date for the holding of the contest and shall be accompanied by the following information:
+**7.** The Board may in its discretion and without assigning any reason refuse to issue any licence or revoke or suspend any licence after
+
+*made in*
+
+**8.** (1) Every application for a permit to hold a boxing contest shall be writing to the Board not less than fourteen days prior to the proposed date for the holding of the contest and shall be accompanied by the following information:
 
 (a) the date and place of the boxing contest;
 
@@ -200,13 +224,17 @@ Licence Fee $ Promoter … … … … 100.00 Manager … … … … 100.00 Tra
 
 (e) any other information that the Board may require.
 
-(2) Articles of agreement signed by contestants must be submitted to the Board with the application for the permit.
+*the Board*
 
-*[51/1980 246/1988].*
+(2) Articles of agreement signed by contestants must be submitted to with the application for the permit.
 
-**9.** (1) A fee of $20.00 shall be paid to the Board prior to the issue of any permit for the holding of a boxing contest.
+*[51/1980 246/1988]. any permit*
 
-(2) The following fees shall be paid to the Board in respect of a local boxing contest:
+**9.** (1) A fee of $20.00 shall be paid to the Board prior to the issue of for the holding of a boxing contest.
+
+*boxing*
+
+(2) The following fees shall be paid to the Board in respect of a local contest:
 
 (a) a fee of $500.00 or one per cent of gate receipts, whichever is greater;
 
@@ -316,17 +344,27 @@ Seconds.
 
 None of these officials shall be personally pecuniarily interested in the contest whether as promoter or otherwise. This proviso shall, however, not debar any person from officiating at a contest merely because he happens to be a member of a club promoting the contest, provided that such club is approved of by the Board as a purely sporting club, nor shall this proviso apply to seconds.
 
-The duties for these officials shall be as follows:
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
+*The*
+
+duties for these officials shall be as follows:
 
 ### REFEREE
 
-He shall be the chief official during a contest and shall take his position in or near the ring and shall exercise general supervision over a contest. He alone shall inform the M.C. what verdict to announce and his decision shall be final. Prior to the start of a contest he shall—
+*He shall near the shall inform Prior to*
+
+be the chief official during a contest and shall take his position in or ring and shall exercise general supervision over a contest. He alone the M.C. what verdict to announce and his decision shall be final. the start of a contest he shall—
 
 (a) ascertain the names of each contestant’s chief second and hold them responsible for the conduct of their assistants during a contest and for the proper tying-on of the gloves;
 
 (b) see that the terms of clause 3 of Section 1, and clause 4 of Section 2 of these Rules are observed.
 
-During a contest he shall—
+*During a*
+
+contest he shall—
 
 (c) keep an independent score of each round and at the end of a contest give a decision if the judges disagree;
 

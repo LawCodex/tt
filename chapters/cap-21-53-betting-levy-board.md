@@ -126,7 +126,9 @@ An Act for the establishment and incorporation of a Betting Levy Board and for m
 
 (8) The validity of the proceedings of the Board shall not be affected by any vacancy in its membership or by any defect in the appointment of a member or by the presence or participation of any person not entitled to be present or to participate.
 
-**5.** (1) The Board shall meet at such times as may be Meetings. necessary or expedient for the transaction of its business and meetings shall be held at such places and times as the Board may determine.
+*Meetings.*
+
+**5.** (1) The Board shall meet at such times as may be necessary or expedient for the transaction of its business and meetings shall be held at such places and times as the Board may determine.
 
 (2) The Chairman shall preside at all meetings of the Board and shall call a special meeting within seven days of a written request therefor addressed to him by any three members.
 
@@ -168,25 +170,33 @@ may be varied by the President by Order from time to time subject to affirmative
 
 **9.** The Board shall collect all taxes, duties, fees or other payments referred to in this Act, and any such sums payable to it under the Gambling and Betting Act, and shall put all administrative, technical and other systems in place to ensure compliance with the provisions of any written law relating to the payment of any tax or levy, the collection of which is the responsibility of the Board.
 
-**10.** The Board has power to do all things necessary or General powers. convenient to be done for, or in connection with the performance of its function.
+*General powers.*
 
-**11.** (1) The financial year of the Board shall be the twelve- Financial year and Annual month period ending 30th June.
+**10.** The Board has power to do all things necessary or convenient to be done for, or in connection with the performance of its function.
 
-Report.
+*Financial year and Annual Report.*
+
+**11.** (1) The financial year of the Board shall be the twelvemonth period ending 30th June.
 
 (2) The Board shall, within three months of the end of each financial year, make a report of its activities during that year to the Minister, the first such report being in respect of the period commencing with the incorporation of the Board and ending 30th June, 1990.
 
-**12.** (1) The Board shall by means of monthly remittances pay Application of funds. one-half of the monies collected under section 9, into the Consolidated Fund.
+*Application of funds.*
+
+**12.** (1) The Board shall by means of monthly remittances pay one-half of the monies collected under section 9, into the Consolidated Fund.
 
 (2) The remaining half of the monies collected under subsection (1) shall be applied—
 
 (a) to meet its own expenses incurred in the performance of its function;
 
-(b) to meet the administrative expenses of the Racing Authority established under the Racing Authority Ch. 21:50. Act on the basis of a budget prepared by that Authority, in consultation with the Board, and where there is a dispute regarding the said budget, an appeal may be made to the Minister.
+*Ch. 21:50.*
+
+(b) to meet the administrative expenses of the Racing Authority established under the Racing Authority Act on the basis of a budget prepared by that Authority, in consultation with the Board, and where there is a dispute regarding the said budget, an appeal may be made to the Minister.
 
 (3) The monies received by the Board under section 7, shall not be liable to corporation or any other tax, and disbursements made by it, shall not be liable to tax in the hands of the recipient except where these monies are to be used towards the making of profits or gains of a business of a commercial nature.
 
-**13.** (1) The Board shall keep proper accounts and other Accounts and audit. records in relation to its functions and shall prepare annually a statement of its accounts.
+*Accounts and audit.*
+
+**13.** (1) The Board shall keep proper accounts and other records in relation to its functions and shall prepare annually a statement of its accounts.
 
 (2) The accounts of the Board shall be audited by auditors to be appointed annually by the Board.
 

@@ -97,11 +97,9 @@ An Act to provide for licensing of Bailiffs and for other related matters.
 
 “accountant” means a person who has at least five years experience in the field of accountancy;
 
-“bailiff” means a person who is employed to carry out the
-
 *Ch. 4:21. Ch. 27. No. 16. (1950 Rev. Ed.).*
 
-functions of a bailiff under the Petty Civil Courts Act or the Landlord and Tenant Ordinance;
+“bailiff” means a person who is employed to carry out the functions of a bailiff under the Petty Civil Courts Act or the Landlord and Tenant Ordinance;
 
 “employed” includes self-employed;
 
@@ -129,9 +127,9 @@ functions of a bailiff under the Petty Civil Courts Act or the Landlord and Tena
 
 (3) The Register shall be divided into three Parts and the Registrar shall cause to be entered in Part I of the Register the names of public service bailiffs, in Part 2 of the Register the names of the other bailiffs, and in Part 3 of the Register the photographs and other material particulars of each bailiff.
 
-*[14 of 2001].*
+*Registration. [14 of 2001].*
 
-**5.** (1) Subject to subsection (3), the Registrar shall, upon Registration. application in writing, cause to be registered in the Register the name of every person who—
+**5.** (1) Subject to subsection (3), the Registrar shall, upon application in writing, cause to be registered in the Register the name of every person who—
 
 (a) immediately before the commencement of this Act was employed as a public service bailiff;
 
@@ -173,11 +171,11 @@ issue to the person a licence to carry out the functions of a bailiff and the li
 
 (5) The Registrar shall, as soon as practicable after 1st January and 1st July in each year, cause to be published in the Gazette and in at least two daily newspapers circulating in Trinidad and Tobago the name of each person who holds, on each of those dates, a valid licence.
 
-*Suspension and cancellation of*
+*Suspension and cancellation of licences.*
 
 **7.** (1) The Registrar may—
 
-(a) in the case of a public service bailiff, on the advice licences. of the Public Service Commission;
+(a) in the case of a public service bailiff, on the advice of the Public Service Commission;
 
 (b) in the case of any other bailiff, after receiving a report under section 11 or after due inquiry and on such grounds as he thinks proper, including incompetence or irresponsibility,
 
@@ -223,11 +221,9 @@ commits an offence and is liable on summary conviction to a fine of ten thousand
 
 (c) levy tenant’s goods for arrears of rent as provided for under the Landlord and Tenant Ordinance; and
 
-(d) repossess goods on hire purchase in accordance
-
 *Ch. 82:33.*
 
-with the Hire Purchase Act.
+(d) repossess goods on hire purchase in accordance with the Hire Purchase Act.
 
 (2) The functions listed in subsection (1)(a) and (b) shall be performed exclusively by a public service bailiff and the other functions listed in subsection (1)(c) and (d) shall be performed exclusively by any other bailiff.
 
@@ -243,23 +239,27 @@ with the Hire Purchase Act.
 
 (8) A bailiff shall not charge any costs or fees other than those prescribed.
 
-**9A.** The immunities, privileges and protection accorded to Protection of bailiffs. bailiffs under the Petty Civil Courts Act shall apply to bailiffs Ch. 4:21. registered and licensed under this Act.
+*Protection of bailiffs. Ch. 4:21.*
 
-**10.** (1) No bailiff shall enter any premises for the purposes of Bailiff to show licence before carrying out any of his functions unless he shows his licence and entering premises. gives a signed copy of the form as set out in the Schedule to the occupier of, or other adult person on, the premises together with a signed or certified copy of the document upon which he has the authority to perform his function on that occasion.
+**9A.** The immunities, privileges and protection accorded to bailiffs under the Petty Civil Courts Act shall apply to bailiffs registered and licensed under this Act.
+
+*Bailiff to show licence before entering premises.*
+
+**10.** (1) No bailiff shall enter any premises for the purposes of carrying out any of his functions unless he shows his licence and gives a signed copy of the form as set out in the Schedule to the occupier of, or other adult person on, the premises together with a signed or certified copy of the document upon which he has the authority to perform his function on that occasion.
 
 (2) Without prejudice to the suspension or cancellation of his licence under this Act, a bailiff who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine of ten thousand dollars and to imprisonment for one year.
 
-**11.** (1) A bailiff shall report the loss or theft of his licence to Loss and stolen licences. the police and to the Registrar immediately, and the Registrar shall cause a note to that effect to be entered in the Register.
+*Loss and stolen licences.*
+
+**11.** (1) A bailiff shall report the loss or theft of his licence to the police and to the Registrar immediately, and the Registrar shall cause a note to that effect to be entered in the Register.
 
 (2) The Registrar shall, upon the payment of the prescribed fee, issue to the bailiff whose licence has been reported lost or stolen, a temporary licence which shall be valid for the unexpired period of the loss or stolen licence.
 
 *Complaints.*
 
-**12.** (1) A person who has a complaint against a bailiff may make the complaint in writing in the prescribed form to a Judge of the Petty Civil Court for the district in which the act complained of is alleged to have taken place, and for the purposes of this section “district” has the meaning assigned to it in section 2 of the
-
 *Ch. 4:21.*
 
-Petty Civil Courts Act.
+**12.** (1) A person who has a complaint against a bailiff may make the complaint in writing in the prescribed form to a Judge of the Petty Civil Court for the district in which the act complained of is alleged to have taken place, and for the purposes of this section “district” has the meaning assigned to it in section 2 of the Petty Civil Courts Act.
 
 (2) The Judge of the Petty Civil Court shall investigate the complaint and shall forward the complaint, together with the results of the investigation, to—
 
@@ -307,9 +307,9 @@ Petty Civil Courts Act.
 
 (f) generally for giving effect to this Act.
 
-*amendments. Ch. 27. No. 16. (1950 Rev. Ed.).*
+*Consequential amendments. Ch. 27. No. 16. (1950 Rev. Ed.).*
 
-**16.** (1) Sections 37 and 38(a) and (b) of the Landlord and Consequential Tenant Ordinance are repealed.
+**16.** (1) Sections 37 and 38(a) and (b) of the Landlord and Tenant Ordinance are repealed.
 
 (2) The Bailiff Rules are revoked.
 
@@ -415,25 +415,35 @@ made under section 15
 
 **8.** The security to be provided by a bailiff shall be by way of a bond prescribed in the Third Schedule.
 
-**9.** A person who has a complaint against a bailiff may make Complaint. Fourth the complaint in the form set out in the Fourth Schedule.
+*Complaint. Fourth Schedule.*
 
-Schedule.
+**9.** A person who has a complaint against a bailiff may make the complaint in the form set out in the Fourth Schedule.
 
-**10.** A notice stating the date and time for the training Notice for programme to which section 14(2) refers shall be published in the training. Gazette and in at least two daily newspapers circulating in Trinidad and Tobago.
+*Notice for training.*
 
-**11.** (1) A bailiff levying distress shall make a return to the Bailiff to submit return. Magistrate of the Petty Civil Court of the District in which the levy is made within three days after levy, setting out the date and place of levy and a detailed list of the goods levied upon.
+**10.** A notice stating the date and time for the training programme to which section 14(2) refers shall be published in the Gazette and in at least two daily newspapers circulating in Trinidad and Tobago.
+
+*Bailiff to submit return.*
+
+**11.** (1) A bailiff levying distress shall make a return to the Magistrate of the Petty Civil Court of the District in which the levy is made within three days after levy, setting out the date and place of levy and a detailed list of the goods levied upon.
 
 (2) Where a sale takes place a bailiff shall prepare and render within seven days a detatiled account of his receipts, fees and expenses to the Magistrate who may disallow any item improperly so charged and in such case may order the bailiff to refund the amount thereof to the person entitled to receive the balance of the proceeds of the sale.
 
-**12.** A bailiff shall adhere to the Code of Conduct prescribed Code of Conduct. in the Fifth Schedule.
+*Code of Conduct. Fifth Schedule.*
 
-Fifth Schedule.
+**12.** A bailiff shall adhere to the Code of Conduct prescribed in the Fifth Schedule.
+
+*MINISTRY OF THE Chap.*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS 4:61
 
 ## FIRST SCHEDULE
 
 ### PERSONS LISTED AS REFEREES
 
-The following persons may be referees for the purpose of section 5(4):
+*The*
+
+following persons may be referees for the purpose of section 5(4):
 
 (a) Minister of Religion registered under law to perform marriages;
 
@@ -588,6 +598,10 @@ Signature of Complainant
 **9.** A bailiff shall not wilfully use any document so as to deceive any person or to pervert the course of justice.
 
 **10.** A bailiff by his deportment, his demeanour, dress, conduct, and general behaviour, in both his public and private life, shall seek to command
+
+*MINISTRY OF THE*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
 
 the respect and admiration of his colleagues and the public and shall also exemplify by such deportment the honour and dignity of the profession.
 

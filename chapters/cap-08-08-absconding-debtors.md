@@ -104,17 +104,17 @@ An Act relating to the arrest of absconding debtors.
 
 **5.** The intention of the defendant to quit Trinidad and Tobago shall in like manner appear on the same or another affidavit, showing satisfactorily the ground on which the deponent believes, and the date on which, and place for which, the debtor proposes to leave, as far as the same is known to the deponent.
 
-*delivered to*
+*Warrant to be delivered to Marshal.*
 
-**6.** If the Judge grants the application for a warrant of arrest, Warrant to be the same shall forthwith be signed by the Judge and placed in the Marshal. hands of the Marshal, who shall immediately proceed to arrest the person against whom such warrant is granted.
+**6.** If the Judge grants the application for a warrant of arrest, the same shall forthwith be signed by the Judge and placed in the hands of the Marshal, who shall immediately proceed to arrest the person against whom such warrant is granted.
 
-*costs paid to*
+*When sum and costs paid to Marshal.*
 
-**7.** On the arrest the Marshal may receive the sum endorsed When sum and on the writ, together with the prescribed costs of issuing and Marshal. executing the same, and in such event he shall forthwith endorse the writ with a statement of such receipt, and return the same to the Registry of the Supreme Court, and account for the money so received in the same manner as if it had been received by him under a writ of execution on a judgment, and shall release the defendant immediately without any order of a Judge.
+**7.** On the arrest the Marshal may receive the sum endorsed on the writ, together with the prescribed costs of issuing and executing the same, and in such event he shall forthwith endorse the writ with a statement of such receipt, and return the same to the Registry of the Supreme Court, and account for the money so received in the same manner as if it had been received by him under a writ of execution on a judgment, and shall release the defendant immediately without any order of a Judge.
 
-*arrest.*
+*Procedure on arrest.*
 
-**8.** (1) The Marshal shall, at the time of making such arrest, Procedure on serve the defendant with the writ if not already served, and give notice to the plaintiff, and convey the defendant in custody before a Judge in Chambers if a Judge is then sitting in Chambers, and if not, shall detain the defendant and on the next day that a Judge so sits bring him before the Judge, who (the plaintiff being in attendance or having been notified) may order the defendant either to give security for the payment of the alleged debt, or to be committed to prison in default of such security, or to be discharged, and may, on the application of either party, adjourn the matter to such convenient date, for such purposes, and on such terms as to custody, security, the filing of further affidavits or otherwise, as he thinks fit.
+**8.** (1) The Marshal shall, at the time of making such arrest, serve the defendant with the writ if not already served, and give notice to the plaintiff, and convey the defendant in custody before a Judge in Chambers if a Judge is then sitting in Chambers, and if not, shall detain the defendant and on the next day that a Judge so sits bring him before the Judge, who (the plaintiff being in attendance or having been notified) may order the defendant either to give security for the payment of the alleged debt, or to be committed to prison in default of such security, or to be discharged, and may, on the application of either party, adjourn the matter to such convenient date, for such purposes, and on such terms as to custody, security, the filing of further affidavits or otherwise, as he thinks fit.
 
 (2) The Judge may, if he thinks fit, require the person arrested then and there to enter an appearance to the action in the event of such appearance not having been already entered, and in the event of his refusing to do so may order the Registrar of the Supreme Court then and there to enter an appearance for him as appearing in person, and without requiring the delivery of any memorandum of appearance; and the Judge may, by consent of the parties, proceed to dispose of the action by trial thereof without appeal, or, in default of confession or of such consent, may direct such action to be set down for trial, irrespective of the amount claimed, at the first convenient sitting of the Court.
 
@@ -140,17 +140,23 @@ An Act relating to the arrest of absconding debtors.
 
 (b) is not satisfied, on hearing the parties and such evidence as may be adduced, that the defendant owes the plaintiff a sum of two hundred and fifty dollars or over,
 
-the Judge shall discharge the defendant unconditionally, and may in such case, if he thinks fit, award such damages (to include costs)
+the Judge shall discharge the defendant unconditionally, and may in such case, if he thinks fit, award such damages (to include costs) in respect of the arrest and detention, to be paid to the defendant in such time and manner as he may direct; and such damages shall in such event be leviable by execution on the order of a Judge in the same manner as costs under a judgment in an action.
 
-in respect of the arrest and detention, to be paid to the defendant in such time and manner as he may direct; and such damages shall in such event be leviable by execution on the order of a Judge in the same manner as costs under a judgment in an action.
+*When defendant without means.*
 
-**13.** If the defendant proves to the satisfaction of a Judge that When defendant without means. he is without means to pay the debt, and is not likely, if detained in Trinidad and Tobago to obtain such means, then, whether judgment has been confessed or not, the Judge may, in his discretion, refuse to commit or detain the defendant on the ground that his absence would not materially prejudice the plaintiff as aforesaid.
+**13.** If the defendant proves to the satisfaction of a Judge that he is without means to pay the debt, and is not likely, if detained in Trinidad and Tobago to obtain such means, then, whether judgment has been confessed or not, the Judge may, in his discretion, refuse to commit or detain the defendant on the ground that his absence would not materially prejudice the plaintiff as aforesaid.
 
-**14.** All committals to prison in pursuance of this Act shall be Committals to prison. in default of security only, and shall be to the Port-of-Spain Prison, and in the event of the debt not having been admitted or confessed, may be for such term, not exceeding three months in all in any case, as the Judge may deem sufficient to give time for the trial of the action, and for no longer; and no person once committed to prison under this Act shall be again arrested or committed in respect of the same debt or any part of it, either on a discovery summons or under this Act.
+*Committals to prison.*
 
-**15.** The Rules Committee established by the Supreme Court Rules. Ch. 4:01. of Judicature Act shall have the same powers to make Rules, and to prescribe forms, schedules of costs and fees in respect of any procedure under this Act as are conferred on the Committee by that Act in respect of the practice thereunder.
+**14.** All committals to prison in pursuance of this Act shall be in default of security only, and shall be to the Port-of-Spain Prison, and in the event of the debt not having been admitted or confessed, may be for such term, not exceeding three months in all in any case, as the Judge may deem sufficient to give time for the trial of the action, and for no longer; and no person once committed to prison under this Act shall be again arrested or committed in respect of the same debt or any part of it, either on a discovery summons or under this Act.
 
-**16.** Any person committed under this Act shall be entitled, at When defendant entitled to any time after such commitment, to an order of discharge to be discharge. made by a Judge on proof of—
+*Rules. Ch. 4:01.*
+
+**15.** The Rules Committee established by the Supreme Court of Judicature Act shall have the same powers to make Rules, and to prescribe forms, schedules of costs and fees in respect of any procedure under this Act as are conferred on the Committee by that Act in respect of the practice thereunder.
+
+*When defendant entitled to discharge.*
+
+**16.** Any person committed under this Act shall be entitled, at any time after such commitment, to an order of discharge to be made by a Judge on proof of—
 
 (a) the payment or settlement of the debt;
 

@@ -120,17 +120,27 @@ Index of Subsidiary Legislation Page Agricultural Fires Regulations (GN 145/1968
 
 ### AGRICULTURAL FIRES ACT
 
-An Act to make better provisions for the prevention and control 20 of 1965. of Agricultural Fires.
+*20 of 1965.*
 
-[24 TH N OVEMBER 1965] Commencement.
+An Act to make better provisions for the prevention and control of Agricultural Fires.
 
-**1.** This Act may be cited as the Agricultural Fires Act. Short title.
+*Commencement.*
 
-**2.** In this Act— Interpretation.
+### [24 TH N OVEMBER 1965]
+
+*Short title.*
+
+**1.** This Act may be cited as the Agricultural Fires Act.
+
+*Interpretation.*
+
+**2.** In this Act—
 
 “Committee” means a Fire Advisory Committee established for a county in accordance with section 5;
 
-“county” means any of the eight counties into which Trinidad is divided by the Division of Trinidad Act or the Island of Ch. 26:01. Tobago together with the Islands of Little Tobago, Goat Island, St. Giles or Melville or other small islands and rocks as lie in close proximity to Tobago;
+*Ch. 26:01.*
+
+“county” means any of the eight counties into which Trinidad is divided by the Division of Trinidad Act or the Island of Tobago together with the Islands of Little Tobago, Goat Island, St. Giles or Melville or other small islands and rocks as lie in close proximity to Tobago;
 
 “County Fire Control Officer” means a person who is appointed Fire Control Officer for any county under section 4;
 
@@ -140,9 +150,13 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 “owner” includes an assignee, lessee, occupant, purchaser, and any person having the right to cut timber and wood upon any land;
 
-“officer” means any constable, forest officer appointed under the Forests Act, the County Fire Control Officer and a fire Ch. 66:01. guardian appointed under section 7.
+*Ch. 66:01.*
 
-**3.** (1) Subject to section 24, this Act applies to all lands Application. within Trinidad and Tobago except lands included within the limits of any municipality, town or such other areas as may by Order published in the Gazette be designated by the Minister.
+“officer” means any constable, forest officer appointed under the Forests Act, the County Fire Control Officer and a fire guardian appointed under section 7.
+
+*Application.*
+
+**3.** (1) Subject to section 24, this Act applies to all lands within Trinidad and Tobago except lands included within the limits of any municipality, town or such other areas as may by Order published in the Gazette be designated by the Minister.
 
 (2) Nothing in this Act affects or shall be held to limit or interfere with the right of any person to bring and maintain a civil action for damages occasioned by fire.
 
@@ -166,7 +180,9 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 **6.** The County Fire Control Officer may, whenever he thinks fit, convene meetings of the Committee but shall, on the first day of each of the months of December, February, May and July or as soon thereafter as is convenient, convene a meeting of the Committee for the purposes of this Act.
 
-**7.** (1) The County Fire Control Officer may, with the Fire guardian. approval of the Committee, appoint fire guardians who shall, for the purposes of this Act—
+*Fire guardian.*
+
+**7.** (1) The County Fire Control Officer may, with the approval of the Committee, appoint fire guardians who shall, for the purposes of this Act—
 
 (a) have all the powers of and shall be entitled to all the immunities conferred by any law for the time being in force on any constable;
 
@@ -176,13 +192,19 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (2) The County Fire Control Officer with the approval of the Committee may appoint honorary fire guardians who may exercise the powers and authority conferred and perform the duties imposed upon fire guardians under this Act.
 
-**8.** The names of all persons appointed to be fire guardians Names of fire guardians to be under this Act shall be published in the Gazette, and the production published in Gazette. of the Gazette containing a notice of the appointment of any person to be a fire guardian under this Act shall, in all Courts and for all purposes, be prima facie evidence that the person to whom such notice of appointment relates is a fire guardian.
+*Names of fire guardians to be published in Gazette.*
 
-**9.** (1) Every fire guardian shall be provided with a badge Equipment. and such clothing and equipment as may be approved by the County Fire Control Officer.
+**8.** The names of all persons appointed to be fire guardians under this Act shall be published in the Gazette, and the production of the Gazette containing a notice of the appointment of any person to be a fire guardian under this Act shall, in all Courts and for all purposes, be prima facie evidence that the person to whom such notice of appointment relates is a fire guardian.
+
+*Equipment.*
+
+**9.** (1) Every fire guardian shall be provided with a badge and such clothing and equipment as may be approved by the County Fire Control Officer.
 
 (2) The badge referred to in subsection (1) shall be evidence of the office of a fire guardian and shall in all cases be displayed by every such person when exercising the duties of his office.
 
-**10.** A fire guardian may at any time on giving one month’s Resignation. notice in writing to the County Fire Control Officer resign his appointment as such fire guardian.
+*Resignation.*
+
+**10.** A fire guardian may at any time on giving one month’s notice in writing to the County Fire Control Officer resign his appointment as such fire guardian.
 
 *Revocation of appointments.*
 
@@ -214,15 +236,21 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (3) In case of the death of a fire guardian from bodily injury sustained in the circumstances specified in subsection (2), the President may, where there is no other law in force regulating the grant of compensation in such cases, grant to his dependants a pension or gratuity the amount of which shall be subject to the approval of Parliament.
 
-(4) Fire guardians shall not be workmen for the purposes of the Workmen’s Compensation Act, but in the computation of Ch. 88:05. compensation granted under this Act in respect of permanent disability or death the principles of that Act may be followed.
+*Ch. 88:05.*
 
-*of*
+(4) Fire guardians shall not be workmen for the purposes of the Workmen’s Compensation Act, but in the computation of compensation granted under this Act in respect of permanent disability or death the principles of that Act may be followed.
 
-**15.** Any person not being a fire guardian, who in any way Personation fire guardian. purports to be a fire guardian for the purpose of performing any function prescribed for fire guardians under this Act is guilty of an offence.
+*Personation of fire guardian.*
 
-**16.** A person who has in his possession any badge, clothing or Unlawful possession of other equipment furnished for the use of a fire guardian and who badges. does not satisfactorily account for his possession thereof is guilty of an offence.
+**15.** Any person not being a fire guardian, who in any way purports to be a fire guardian for the purpose of performing any function prescribed for fire guardians under this Act is guilty of an offence.
 
-**17.** (1) The period commencing on the first day of December Fire season. in any one year and ending on the thirtieth day of June in the next succeeding year shall for the purpose of this Act be deemed to be the fire season.
+*Unlawful possession of badges.*
+
+**16.** A person who has in his possession any badge, clothing or other equipment furnished for the use of a fire guardian and who does not satisfactorily account for his possession thereof is guilty of an offence.
+
+*Fire season.*
+
+**17.** (1) The period commencing on the first day of December in any one year and ending on the thirtieth day of June in the next succeeding year shall for the purpose of this Act be deemed to be the fire season.
 
 (2) The Minister may by Order published in the Gazette:
 
@@ -262,9 +290,9 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (3) The decision of the Committee on any such appeal shall be final.
 
-*on fired lands.*
+*Planting crops on fired lands.*
 
-**20.** (1) No person shall plant or cause to be planted any annual Planting crops crop on any land upon which fire has been set contrary to the terms and conditions of a permit within a period of one year after such fire was set out upon that land.
+**20.** (1) No person shall plant or cause to be planted any annual crop on any land upon which fire has been set contrary to the terms and conditions of a permit within a period of one year after such fire was set out upon that land.
 
 (2) Subsection (1) does not apply to lands—
 
@@ -274,9 +302,9 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (3) A person who plants or causes to be planted any annual crop in contravention of subsection (1) is guilty of an offence.
 
-*fire permits.*
+*Limitations on fire permits.*
 
-**21.** (1) A fire permit may be limited as to duration and area, Limitations on but in any event expires on the thirtieth day of November next following the date of its issue, and may contain such other terms and conditions as the issuing officer considers necessary.
+**21.** (1) A fire permit may be limited as to duration and area, but in any event expires on the thirtieth day of November next following the date of its issue, and may contain such other terms and conditions as the issuing officer considers necessary.
 
 (2) A fire permit may be cancelled or suspended at any time by an officer, and immediately upon receiving notice of such cancellation or suspension the holder thereof shall extinguish any fire set out under the permit.
 
@@ -304,13 +332,13 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (4) A person who fails to comply with any requirement under this section is guilty of an offence.
 
-*teak plantations.*
+*Firebreaks on teak plantations.*
 
-**25.** The owner of any area of land in excess of half an acre Firebreaks on that has been planted with teak trees which comprise the majority of trees growing thereon shall construct firebreaks of a minimum width of thirty feet on all sides of that land and shall keep firebreaks clean during the fire season.
+**25.** The owner of any area of land in excess of half an acre that has been planted with teak trees which comprise the majority of trees growing thereon shall construct firebreaks of a minimum width of thirty feet on all sides of that land and shall keep firebreaks clean during the fire season.
 
-*of debris.*
+*Disposal of debris.*
 
-**26.** (1) Every person clearing land for a right of way for any Disposal road, ditch, telephone, telegraph, power or pipe line, or clearing land to be flooded for water storage purposes, shall dispose of all refuse, timber, brush or other inflammable material cut or accumulated thereon to the satisfaction of an officer.
+**26.** (1) Every person clearing land for a right of way for any road, ditch, telephone, telegraph, power or pipe line, or clearing land to be flooded for water storage purposes, shall dispose of all refuse, timber, brush or other inflammable material cut or accumulated thereon to the satisfaction of an officer.
 
 (2) Any person who within three hundred feet of any railway or any area over which a right of way exists causes any accumulation of inflammable material shall, at the request of any officer, immediately dispose of the material to the satisfaction of an officer.
 
@@ -354,11 +382,13 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (c) without lawful authority, destroy, damage or remove any equipment placed in a forest for the purpose of protecting such forest from fire.
 
-*property.*
+*Entry on private property.*
 
-**31.** It is lawful for an officer while in the performance of his Entry on private duties to enter into and upon any lands and premises other than a private dwelling, store, or office; and any person who hinders, obstructs and impedes any such officer in the performance of his duty is guilty of an offence.
+**31.** It is lawful for an officer while in the performance of his duties to enter into and upon any lands and premises other than a private dwelling, store, or office; and any person who hinders, obstructs and impedes any such officer in the performance of his duty is guilty of an offence.
 
-**32.** Every person using or travelling in any forest shall, upon Travel in forest. request, give an officer information as to his name, address, routes to be followed, location of camps and any other information pertaining to the protection of the forests; and any person who refuses to give such information is guilty of an offence.
+*Travel in forest.*
+
+**32.** Every person using or travelling in any forest shall, upon request, give an officer information as to his name, address, routes to be followed, location of camps and any other information pertaining to the protection of the forests; and any person who refuses to give such information is guilty of an offence.
 
 *Penalties.*
 
@@ -380,7 +410,9 @@ An Act to make better provisions for the prevention and control 20 of 1965. of A
 
 (2) For the purposes of prosecuting an offence against this Act an officer may appear and conduct proceedings that are the subject of a complaint brought by any other officer before a Magistrate, and may address the magistrate and examine witnesses in the same manner as the officer who brought the complaint is entitled to do.
 
-**36.** (1) The Minister may make Regulations for carrying out Regulations. the purposes of the Act.
+*Regulations.*
+
+**36.** (1) The Minister may make Regulations for carrying out the purposes of the Act.
 
 (2) Regulations made under this section may provide that any breach or contravention is punishable by the imposition of a fine of seven hundred and fifty dollars or imprisonment for three months.
 
@@ -410,13 +442,19 @@ Fire permit.
 
 ## SCHEDULE.
 
-### GN 145/1968. AGRICULTURAL FIRES REGULATIONS
+*GN 145/1968.*
+
+### AGRICULTURAL FIRES REGULATIONS
 
 made under section 36
 
-**1.** These Regulations may be cited as the Agricultural Fires Citation. Regulations.
+*Citation.*
 
-**2.** In these Regulations— Definitions.
+**1.** These Regulations may be cited as the Agricultural Fires Regulations.
+
+*Definitions.*
+
+**2.** In these Regulations—
 
 “fire guardian” means a person appointed as a fire guardian or an honorary fire guardian under section 7 of the Act;
 
@@ -424,7 +462,9 @@ made under section 36
 
 “permit” means a fire permit issued by the County Fire Control Officer under section 18 of the Act.
 
-**3.** (1) A person may not be appointed as a fire guardian Qualifications for appointment unless he— as fire guardian.
+*Qualifications for appointment as fire guardian.*
+
+**3.** (1) A person may not be appointed as a fire guardian unless he—
 
 (a) is a citizen of Trinidad and Tobago;
 
@@ -438,9 +478,15 @@ made under section 36
 
 (2) The appointment of a fire guardian shall be for such period as may be determined by the County Fire Control Officer, with the approval of the Committee.
 
-**4.** (1) Any person may apply in writing on Form I as in the Application for fire permits. Schedule for a fire permit to set out a fire on any land to which the Schedule. Act applies, during the fire season for—
+*Application for fire permits. Schedule.*
+
+**4.** (1) Any person may apply in writing on Form I as in the Schedule for a fire permit to set out a fire on any land to which the Act applies, during the fire season for—
 
 (a) clearing the land for any purpose; or
+
+*MINISTRY OF THE*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
 
 (b) disposing of any accumulation of refuse, brushwood or other inflammable material caused by any mining or industrial operation or by any logging or any other woods operation of any kind.
 
@@ -472,7 +518,9 @@ made under section 36
 
 *Penalty.*
 
-**7.** Any person who fails to comply with the provisions of regulation 5 or regulation 6 is liable on summary conviction to a fine of seven hundred and fifty dollars or to imprisonment for three months.
+*regulation fine of three*
+
+**7.** Any person who fails to comply with the provisions of 5 or regulation 6 is liable on summary conviction to a seven hundred and fifty dollars or to imprisonment for months.
 
 ## SCHEDULE FORM I THE AGRICULTURAL FIRES ACT APPLICATION FOR A FIRE PERMIT
 

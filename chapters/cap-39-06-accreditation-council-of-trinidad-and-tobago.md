@@ -118,7 +118,9 @@ SCheDuLe.
 
 ACCReDITATION COuNCIL OF TRINIDAD AND TOBAGO ACT
 
-An Act to provide for the establishment of an Accreditation 16 of 2004. Council of Trinidad and Tobago and for related matters.
+*16 of 2004.*
+
+An Act to provide for the establishment of an Accreditation Council of Trinidad and Tobago and for related matters.
 
 *Commencement. [137/2004].*
 
@@ -128,7 +130,9 @@ An Act to provide for the establishment of an Accreditation 16 of 2004. Council 
 
 PReLIMINARY
 
-**1.** This Act may be cited as the Accreditation Council of Short title. Trinidad and Tobago Act.
+*Short title.*
+
+**1.** This Act may be cited as the Accreditation Council of Trinidad and Tobago Act.
 
 *interpretation.*
 
@@ -180,13 +184,19 @@ PReLIMINARY
 
 eSTABLIShMeNT OF The ACCReDITATION COuNCIL OF TRINIDAD AND TOBAGO
 
-*and*
+*establishment and*
 
-**3.** (1) There is established for the purposes of this Act a body establishment to be known as the Accreditation Council of Trinidad and Tobago. incorporation.
+*to*
+
+*incorporation.*
+
+**3.** (1) There is established for the purposes of this Act a body be known as the Accreditation Council of Trinidad and Tobago.
 
 (2) The Council shall be a body corporate.
 
-**4.** (1) The Council shall comprise not less than ten nor more Constitution. than thirteen members appointed by the President as follows:
+*Constitution.*
+
+**4.** (1) The Council shall comprise not less than ten nor more than thirteen members appointed by the President as follows:
 
 (a) two or three persons nominated by tertiary institutions or institutions involved in technical or vocational education or training, including a nominee of the association most representative of tertiary education institutions in Trinidad and Tobago;
 
@@ -226,7 +236,9 @@ eSTABLIShMeNT OF The ACCReDITATION COuNCIL OF TRINIDAD AND TOBAGO
 
 **7.** The Council shall have an official Seal which shall be authenticated by the signatures of the Chairman or Deputy Chairman or any other member of the Council authorised to act in that behalf and the Seal shall be officially and judicially noticed.
 
-**8.** (1) notwithstanding any other law to the contrary, the functions. Council shall be the principal body in Trinidad and Tobago for conducting and advising on the accreditation and recognition of post secondary and tertiary educational and training institutions, programmes and awards, whether local or foreign, and for the promotion of the quality and standards of post secondary and tertiary education and training in Trinidad and Tobago.
+*functions.*
+
+**8.** (1) notwithstanding any other law to the contrary, the Council shall be the principal body in Trinidad and Tobago for conducting and advising on the accreditation and recognition of post secondary and tertiary educational and training institutions, programmes and awards, whether local or foreign, and for the promotion of the quality and standards of post secondary and tertiary education and training in Trinidad and Tobago.
 
 (2) Without prejudice to the generality of the foregoing the functions of the Council shall be—
 
@@ -282,11 +294,21 @@ eSTABLIShMeNT OF The ACCReDITATION COuNCIL OF TRINIDAD AND TOBAGO
 
 (x) to do or cause to be done such other things as the Council considers expedient or necessary for the performance of its functions under this Act.
 
-(3) Subject to subsection (2), in order to qualify for institutional or programme accreditation all post secondary institutions shall register with the ministry in accordance with any regulations or rules made under this Act.
+*institutional institutions any*
 
-**9.** (1) Subject to this Act the Council has the power to do Powers. all things necessary or convenient for or in connection with the performance of its functions.
+(3) Subject to subsection (2), in order to qualify for or programme accreditation all post secondary shall register with the ministry in accordance with regulations or rules made under this Act.
 
-(2) notwithstanding the generality of the foregoing, the powers of the Council are—
+*\9. (1)*
+
+*Powers.*
+
+*all things*
+
+Subject to this Act the Council has the power to do necessary or convenient for or in connection with the performance of its functions.
+
+*powers of*
+
+(2) notwithstanding the generality of the foregoing, the the Council are—
 
 (a) to acquire, hold, sell or otherwise dispose of any property;
 
@@ -322,23 +344,29 @@ eSTABLIShMeNT OF The ACCReDITATION COuNCIL OF TRINIDAD AND TOBAGO
 
 (6) The Appeals Committee with the approval of the minister may make rules prescribing the matters required by this section to be prescribed.
 
-**12.** The provisions of the Schedule shall have effect with meetings and committees respect to the meetings and operation of the committees of the Schedule. Council.
+*meetings and committees Schedule.*
 
-**13.** (1) Subject to subsection (2), the President shall appoint executive Director. on such terms and conditions as the minister may approve a suitably qualified person as executive Director.
+**12.** The provisions of the Schedule shall have effect with respect to the meetings and operation of the committees of the Council.
+
+*executive Director.*
+
+**13.** (1) Subject to subsection (2), the President shall appoint on such terms and conditions as the minister may approve a suitably qualified person as executive Director.
 
 (2) The executive Director shall be appointed for a term not exceeding five years and shall be eligible for re-appointment.
 
 (3) The executive Director shall be paid such remuneration, including allowances, as the Council may with the approval of the minister determine.
 
-**14.** (1) The Council shall appoint a Secretary and such other Secretary. staff as the Council may deem necessary.
+*Secretary.*
+
+**14.** (1) The Council shall appoint a Secretary and such other staff as the Council may deem necessary.
 
 (2) The Secretary and staff of the Council shall be paid such remuneration including allowances and be appointed on such other terms and conditions as the Council may determine, except that salaries in excess of one hundred and twenty thousand dollars per annum shall be subject to the approval of the minister.
 
 (3) The minister may by order increase the limit stated in subsection (2).
 
-*on*
+*Transfer on secondment from and to the service of the Council.*
 
-**15.** (1) Any officer in the public service or the teaching Transfer secondment service or any person in the employ of any public body or from and to the authority or any private body may, with the approval of the service of the Council. appropriate Service Commission or authority or body and with the consent of the officer or other employed person, be transferred on secondment to the service of the Council and any person employed in the service of the Council may, with the consent of the Council, be transferred on secondment to the Public Service or Teaching Service or to the service of any public or private body.
+**15.** (1) Any officer in the public service or the teaching service or any person in the employ of any public body or authority or any private body may, with the approval of the appropriate Service Commission or authority or body and with the consent of the officer or other employed person, be transferred on secondment to the service of the Council and any person employed in the service of the Council may, with the consent of the Council, be transferred on secondment to the Public Service or Teaching Service or to the service of any public or private body.
 
 (2) Where any such transfer on secondment is effected the Council shall make, with the appropriate authority or body, such arrangements as may be necessary to preserve the rights of the officer or other employed person to superannuation benefits for which the officer or other employed person would have been eligible had that officer or other employed person remained in the service from which the transfer on secondment was effected.
 
@@ -372,19 +400,25 @@ eSTABLIShMeNT OF The ACCReDITATION COuNCIL OF TRINIDAD AND TOBAGO
 
 (e) any other expenditure authorised by the Council in the discharge of its functions.
 
-**18.** The Council may accumulate reserves and such reserves Use of surplus funds. and all other funds of the Council not immediately required to be spent in meeting the obligations of the Council or the discharge of any of its functions may be invested, from time to time, in such securities as the Council may with the approval of the minister with responsibility for finance deem fit.
+*Use of surplus funds.*
 
-**19.** The Council may, for the purpose of discharging its Power to borrow. functions under this Act, borrow such sums of money as are approved by the minister.
+**18.** The Council may accumulate reserves and such reserves and all other funds of the Council not immediately required to be spent in meeting the obligations of the Council or the discharge of any of its functions may be invested, from time to time, in such securities as the Council may with the approval of the minister with responsibility for finance deem fit.
 
-*from*
+*Power to borrow.*
 
-**20.** The Council shall be exempt from stamp duties, exemption taxes, duties, corporation taxes, customs duties, purchase taxes, value added etc. taxes, motor vehicle taxes and all other taxes, charges, levies and imports, on its income or profit or on assets, which it acquires for its own use in carrying out its functions under this Act.
+**19.** The Council may, for the purpose of discharging its functions under this Act, borrow such sums of money as are approved by the minister.
 
-**21.** The Council may by resolution make rules for the proper Accounting. control of the systems of accounting of the Council and for its finances.
+*exemption from taxes, duties, etc.*
 
-*of*
+**20.** The Council shall be exempt from stamp duties, corporation taxes, customs duties, purchase taxes, value added taxes, motor vehicle taxes and all other taxes, charges, levies and imports, on its income or profit or on assets, which it acquires for its own use in carrying out its functions under this Act.
 
-**22.** (1) The accounts of the Council shall be audited Audit accounts. annually by the Auditor general or by an auditor authorised by the Auditor general.
+*Accounting.*
+
+**21.** The Council may by resolution make rules for the proper control of the systems of accounting of the Council and for its finances.
+
+*Audit of accounts.*
+
+**22.** (1) The accounts of the Council shall be audited annually by the Auditor general or by an auditor authorised by the Auditor general.
 
 (2) The Council shall, within six months of the end of each financial year, submit to the minister an annual report dealing with the activities of the Council and containing such financial statements and such other information relating to the operations and policies of the Council as the minister may require.
 
@@ -436,15 +470,15 @@ GeNeRAL
 
 (1) or (2) is guilty of an offence and in addition to any other penalty imposed by this section is liable on summary conviction to a fine of twenty thousand dollars and to a further fine of five hundred dollars for each day that such offence is continued after written notice of the offence has been given by the Council.
 
-*regulations.*
+*Power to make regulations.*
 
-**27.** (1) The Council may, with the approval of the minister, Power to make make regulations for the better carrying out of the provisions of this Act.
+**27.** (1) The Council may, with the approval of the minister, make regulations for the better carrying out of the provisions of this Act.
 
 (2) regulations made under this section shall be laid as soon as practicable before both houses of Parliament and shall be subject to affirmative resolution.
 
-*of activities.*
+*review of activities.*
 
-**28.** (1) The Council, with the approval of the minister at review intervals of three years, shall cause a review to be undertaken of the functions of the Council in order to assess the impact of the operations of the Council on the society and its efficiency and effectiveness.
+**28.** (1) The Council, with the approval of the minister at intervals of three years, shall cause a review to be undertaken of the functions of the Council in order to assess the impact of the operations of the Council on the society and its efficiency and effectiveness.
 
 (2) A review pursuant to subsection (1) shall be undertaken in collaboration with regional accrediting bodies established for the Caribbean Community and with other recognised competent authorities.
 

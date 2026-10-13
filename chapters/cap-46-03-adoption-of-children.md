@@ -151,11 +151,9 @@ to (Repealed by Act No. 4 of 2015).
 
 ## SCHEDULE—(Repealed by Act No. 4 of 2015).
 
-### CHAPTER 46:03
-
 *67 of 2000.*
 
-ADOPTION OF CHILDREN ACT An Act to make provision for the regulation of procedures governing the adoption of children and to give effect to the United Nations Convention on the Rights of the Child, 1989.
+CHAPTER 46:03 ADOPTION OF CHILDREN ACT An Act to make provision for the regulation of procedures governing the adoption of children and to give effect to the United Nations Convention on the Rights of the Child, 1989.
 
 ### *[A SSENTED TO 12 TH O CTOBER 2000]
 
@@ -175,11 +173,9 @@ ADOPTION OF CHILDREN ACT An Act to make provision for the regulation of procedur
 
 “adoption order” means an order made under this Act and includes an interim order made under section 19;
 
-“child” means a person under the age of eighteen years who has
-
 *Ch. 45:55.*
 
-never been married;
+“child” means a person under the age of eighteen years who has never been married;
 
 “cohabitant” has the meaning assigned to it under section 2 of the Cohabitational Relationships Act;
 
@@ -199,19 +195,15 @@ never been married;
 
 “Minister” means the Minister to whom responsibility for the welfare of children is assigned;
 
-“relative” means a grandparent, brother, sister, uncle or aunt,
-
 *Ch. 18:01.*
 
-whether by consanguinity or affinity;
+“relative” means a grandparent, brother, sister, uncle or aunt, whether by consanguinity or affinity;
 
 “resident” has the meaning assigned to it by section 5 of the Immigration Act;
 
-“spouse” means the husband or wife of a person or the widow or
-
 *Ch. 46:10.*
 
-} widower of a deceased person;
+“spouse” means the husband or wife of a person or the widow or } widower of a deceased person;
 
 “the Authority” means the Children’s Authority established under the Children’s Authority Act.
 
@@ -223,33 +215,27 @@ to (Repealed by Act No. 4 of 2015).
 
 8.
 
-## PART III
+*Authority to make adoption arragements. [4 of 2015].*
 
-*make adoption arragements. [4 of 2015].*
+## PART III ARRANGEMENTS FOR ADOPTION
 
-### ARRANGEMENTS FOR ADOPTION
-
-**9.** (1) No person other than the Authority shall make Authority to arrangements for the adoption of a child.
+**9.** (1) No person other than the Authority shall make arrangements for the adoption of a child.
 
 (2) For the purposes of this Act, a person who takes part in the arranging of an adoption or in the management or control of a body of persons other than the Authority which exists wholly or in part for the purpose of making arrangements for the adoption of children is liable on summary conviction to a fine of ten thousand dollars or to imprisonment for two years.
 
 (3) For the purposes of this Act, a person shall be deemed to make arrangements for the adoption of a child if he, not being the parent or guardian of the child, enters into or makes any agreement or arrangement for, or for facilitating, the adoption of the child by any other person, whether the adoption is effected, in pursuance of an adoption order or otherwise, or if he initiates or takes part in any negotiations of which the purpose or effect is the conclusion of any agreement or the making of any arrangement therefor, or if he causes another to do so.
 
-(4) The Court shall not entertain an application for adoption unless that application is supported by a
-
 *Duty to promote welfare of child. [4 of 2015].*
 
-recommendation from the Authority.
+(4) The Court shall not entertain an application for adoption unless that application is supported by a recommendation from the Authority.
 
 **10.** In making arrangements for the adoption of a child the Authority shall—
 
 (a) have regard to all the circumstances and first consideration shall be given to the need to safeguard and to promote the welfare of the child;
 
-(b) so far as is practicable, ascertain the wishes of the child and give due consideration to them, having regard to the age and understanding of
-
 *Religious upbringing of child. [4 of 2015]. 4 of 2015. Probationary period. [4 of 2015].*
 
-the child.
+(b) so far as is practicable, ascertain the wishes of the child and give due consideration to them, having regard to the age and understanding of the child.
 
 **11.** The Authority, when placing a child with an adopter, shall have regard so far as practicable, to the wishes of the parent, guardian or child, in relation to the religious upbringing of the child.
 
@@ -277,15 +263,13 @@ the child.
 
 (6) If at the expiration of the probationary period no notice has been given in accordance with subsection (3), the adopter may, within twenty-one days following the expiration of the probationary period, apply to the Court for an adoption order in respect of the child or shall give notice in writing to the Authority of his intention not to apply for such an order.
 
-(7) Where notice is so given, or an application for an adoption order in respect of the child is refused by the Court, the Authority may, within twenty-one days of the date on which the notice was given or of the date upon which the application was
+*Removal of child from care and control of applicant. [4 of 2015].*
 
-*of child from care and control of applicant.*
+(7) Where notice is so given, or an application for an adoption order in respect of the child is refused by the Court, the Authority may, within twenty-one days of the date on which the notice was given or of the date upon which the application was refused, remove the child from the care of the adopter.
 
-refused, remove the child from the care of the adopter.
+**13.** (1) Before an adoption order is made in respect of a child who has been in the care and control of an applicant—
 
-**13.** (1) Before an adoption order is made in respect of a Removal child who has been in the care and control of an applicant—
-
-(a) for at least three years preceding the application; or [4 of 2015].
+(a) for at least three years preceding the application; or
 
 (b) for substantially all or most of his life, no person shall remove that child from such care and control of the applicant against the applicant’s will except with the leave of the Court or under any written law or upon the arrest of the child.
 
@@ -307,19 +291,15 @@ refused, remove the child from the care of the adopter.
 
 **14A.** A person referred to in section 12(3)(b) or 14 may appeal from a decision of the Authority to a Judge of the High Court.
 
-## PART IV
-
 *Freeing child for adoption. [4 of 2015].*
 
-### MAKING A CHILD AVAILABLE FOR ADOPTION
+## PART IV MAKING A CHILD AVAILABLE FOR ADOPTION
 
 **15.** (1) Where a person makes an application to the Authority to place a child for adoption and the Authority accepts that application, the Authority shall apply to the Court for an order declaring that child to be freed for adoption.
 
-(2) Where a child in respect of whom an application is
-
 *Chap. 46:10.*
 
-made under subsection (1) cannot be cared for prior to an adoption order being made, the Authority shall take the child into its care in accordance with the Children’s Authority Act and may place the child with a foster parent or in a community residence.
+(2) Where a child in respect of whom an application is made under subsection (1) cannot be cared for prior to an adoption order being made, the Authority shall take the child into its care in accordance with the Children’s Authority Act and may place the child with a foster parent or in a community residence.
 
 (2A) Where a child who has been in the care of the Authority, has been declared by the Court to be freed for adoption, the child shall remain in the care of the Authority, which may place the child with a foster parent or in a community residence, until such time as the Authority places the child with a suitable adopter.
 
@@ -331,9 +311,7 @@ made under subsection (1) cannot be cared for prior to an adoption order being m
 
 the Court shall make an order declaring the child available for adoption.
 
-(4) No application shall be made under subsection (1)
-
-unless—
+(4) No application shall be made under subsection (1) unless—
 
 (a) it is made with the consent of the parents or guardian of the child; or
 
@@ -343,11 +321,11 @@ unless—
 
 (6) On the making of an order under this section, parental responsibility for the child becomes that of the Authority.
 
+*Progress reports to former parents. [4 of 2015].*
+
 (7) Before making an order under this section, the Court shall satisfy itself in relation to the parent or guardian of the child that he has been given an opportunity to make a declaration that he prefers not to be involved in future questions concerning the adoption of the child and any such declaration shall be recorded by the Court.
 
-*to former [4 of 2015].*
-
-**16.** (1) This section and section 25 apply to a former parent Progress reports who was required to be given an opportunity of making a parents. declaration under section 15(7) but did not do so.
+**16.** (1) This section and section 25 apply to a former parent who was required to be given an opportunity of making a declaration under section 15(7) but did not do so.
 
 (2) Within 14 days following the period of twelve months after the making of the order under section 15, the Authority, unless it has previously by notice to the former parent informed
 
@@ -361,11 +339,9 @@ him that an adoption order has been made in respect of the child, shall by notic
 
 (3A) Nothing in this section shall be construed as permitting the Authority to divulge to a former parent, any information except the notifications required under subsections (2) and (3).
 
-(4) If at any time a former parent by notice makes a declaration to the Authority that he prefers not to be involved in future questions concerning the adoption of the child, the Authority shall ensure that the declaration is recorded by the Court which made the order under section 15, whereupon the Authority is released from further complying with subsection (3)
-
 *Revocation of order made under section 15. [4 of 2015].*
 
-as respects that former parent.
+(4) If at any time a former parent by notice makes a declaration to the Authority that he prefers not to be involved in future questions concerning the adoption of the child, the Authority shall ensure that the declaration is recorded by the Court which made the order under section 15, whereupon the Authority is released from further complying with subsection (3) as respects that former parent.
 
 **17.** (1) Where at any time more than twelve months after the making of an order under section 15—
 
@@ -397,45 +373,39 @@ as respects that former parent.
 
 (5) Subsection (4)(a) shall not apply where the Court which dismissed the application gives leave to the former parent to make a further application under subsection (1), but such leave shall not be given unless it appears to the Court that because of a change in the circumstances or for any other reason it is proper to allow the application to be made.
 
-## PART V
-
 *Power to make adoption orders. [4 of 2015].*
 
-### ADOPTION ORDERS
+## PART V ADOPTION ORDERS
 
 **18.** (1) Subject to this Act, upon an application for an adoption order made in the prescribed manner by any person whether resident or domiciled in Trinidad and Tobago or not, the Court may make an order authorising the applicant to adopt a child.
 
-(2) Where an application for an adoption order is made by two spouses jointly, the Court may make the order authorising the two spouses jointly to adopt, but save as aforesaid no adoption order shall be made authorising more than one person to
-
 *Power to make interim orders.*
 
-adopt a child.
+(2) Where an application for an adoption order is made by two spouses jointly, the Court may make the order authorising the two spouses jointly to adopt, but save as aforesaid no adoption order shall be made authorising more than one person to adopt a child.
 
 **19.** (1) If on application for an adoption order the Court is of the opinion that a probationary period is desirable it shall have the power to make an interim order to that effect not exceeding six months.
 
-(2) All consents required for an adoption order shall be necessary for an interim order but subject to the power of the
-
 *Power to make subsequent order in respect of child already subject to an order.*
 
-Court to dispense with such consents.
-
-**20.** An adoption order may be made in respect of a child who has already been the subject of an adoption order, and, upon any application for such further adoption order, the adopter or adopters under the adoption order last previously made shall, if living, be deemed to be the parent or parents of the child for all
+(2) All consents required for an adoption order shall be necessary for an interim order but subject to the power of the Court to dispense with such consents.
 
 *Application where child placed by Authority. [4 of 2015]. Consideration of views of the child. [4 of 2015].*
 
-the purposes of this Act.
+**20.** An adoption order may be made in respect of a child who has already been the subject of an adoption order, and, upon any application for such further adoption order, the adopter or adopters under the adoption order last previously made shall, if living, be deemed to be the parent or parents of the child for all the purposes of this Act.
 
 **21.** Where an application for an adoption order is made in respect of a child placed by the Authority, the Authority shall submit to the Court, a report on the suitability of the applicants and matters prescribed by section 10, and shall assist the Court in any manner the Court may direct.
 
 **22.** Where an application for an adoption order is made in respect of a child, the Court shall, before making the order, take into consideration the views and wishes of the child having regard to the age and understanding of that child.
 
-*Consent to the making of an [4 of 2015].*
+*\24. (1)*
+
+*Consent to the making of an order. [4 of 2015].*
 
 **23.** (Repealed by Act No. 4 of 2015).
 
-**24.** (1) An adoption order shall not be made—
+An adoption order shall not be made—
 
-(a) except with the consent of every person who— order.
+(a) except with the consent of every person who—
 
 (i) is a parent or guardian of the child in respect of whom the application is made; or
 
@@ -447,9 +417,9 @@ the purposes of this Act.
 
 (ii) his consent to the making of the adoption order should be dispensed with on a ground specified in subsection (2).
 
-(c) where an order has been made making the child available for adoption under section 15.
+*an adoption*
 
-(2) Notwithstanding subsection (1), the Court may make an adoption order where the Court finds that the parent—
+(c) where an order has been made making the child available for adoption under section 15. (2) Notwithstanding subsection (1), the Court may make order where the Court finds that the parent—
 
 (a) has abandoned, neglected, or deserted the child;
 
@@ -463,23 +433,25 @@ the purposes of this Act.
 
 (f) being a person liable to contribute to the support of the child, either has persistently neglected or refused to contribute to such support; or
 
+*application unless they and the*
+
 (g) is a person whose consent ought, in the opinion of the Court, to be dispensed with.
 
-(3) An adoption order shall not be made upon the application of one of two spouses without the consent of the other, unless they have separated and are living apart from each other and the separation is likely to be permanent.
+(3) An adoption order shall not be made upon the of one of two spouses without the consent of the other, have separated and are living apart from each other separation is likely to be permanent.
 
-(4) The Court may dispense with the consent required by this section if it is satisfied that—
+*MINISTRY OF THE by this*
+
+ATTORNEY GENERAL AND LEGAL AFFAIRS (4) The Court may dispense with the consent required section if it is satisfied that—
 
 (a) the person whose consent is to be dispensed with cannot be found or is incapable of giving consent;
 
-(b) the spouses have separated and are living apart and the separation is likely to be permanent.
+*if, in the with the Matters with satisfied respect to which Court must be*
 
-(5) For the purposes of this section a child is abandoned if, in the opinion of the Court, the parent has failed to make contact
+(b) the spouses have separated and are living apart and the separation is likely to be permanent. (5) For the purposes of this section a child is abandoned opinion of the Court, the parent has failed to make contact child for a period of at least six months.
 
-*Matters with respect to which Court must be satisfied. [4 of 2015].*
+*satisfied. [4 of 2015].*
 
-with the child for a period of at least six months.
-
-**25.** Before making an adoption order, the Court shall be satisfied that—
+**25.** Before making an adoption order, the Court shall be that—
 
 (a) the welfare and the best interest of the child will be promoted by the adoption, due consideration being for this purpose given to the wishes of the child having regard to the age and understanding of the child;
 
@@ -491,15 +463,23 @@ with the child for a period of at least six months.
 
 (e) no person has received or agreed to receive, has made or given, or agreed to make or give to another, any payment or other reward in consideration of the adoption.
 
-**26.** In making an adoption order the Court may impose such Terms and terms and conditions as the Court thinks fit, and in particular may orders. conditions of require the adopter by bond or otherwise to make such provision, [4 of 2015]. if any for the adopted child as in the opinion of the Court is just and expedient.
+*Terms and conditions of orders. [4 of 2015].*
 
-**27.** (1) The Rules Committee established by the Supreme Jurisdiction and Court of Judicature Act may, subject to negative resolution of [9 of 2003 procedure. Parliament, make rules directing the manner in which Ch. 4:01. 4 of 2015]. applications to the Court may be made, for regulating appeals under section 14 and for dealing generally with all matters of procedure and incidental matters arising out of this Act.
+*Jurisdiction and procedure. [9 of 2003 4 of 2015]. Ch. 4:01.*
+
+**26.** In making an adoption order the Court may impose such terms and conditions as the Court thinks fit, and in particular may require the adopter by bond or otherwise to make such provision, if any for the adopted child as in the opinion of the Court is just and expedient.
+
+**27.** (1) The Rules Committee established by the Supreme Court of Judicature Act may, subject to negative resolution of Parliament, make rules directing the manner in which applications to the Court may be made, for regulating appeals under section 14 and for dealing generally with all matters of procedure and incidental matters arising out of this Act.
+
+*Restriction of payments.*
 
 (2) Proceedings in respect of an application to free a child for adoption or an application for an adoption order shall be held in camera and not generally published.
 
-**28.** It shall not be lawful for an adopter or for any person to Restriction of receive payment or other reward in consideration of the adoption payments. of a child under this Act or for a person to make or give or agree to make or give to an adopter or to a parent or guardian any payment or reward.
+*Prohibition on advertisement. [4 of 2015].*
 
-**29.** (1) Except with the written consent of the Authority, no Prohibition on advertisement shall be published indicating— advertisement. [4 of 2015].
+**28.** It shall not be lawful for an adopter or for any person to receive payment or other reward in consideration of the adoption of a child under this Act or for a person to make or give or agree to make or give to an adopter or to a parent or guardian any payment or reward.
+
+**29.** (1) Except with the written consent of the Authority, no advertisement shall be published indicating—
 
 (a) that the parent or guardian of a child desires to cause the child to be adopted; or
 
@@ -519,11 +499,9 @@ with the child for a period of at least six months.
 
 (2) Before making an adoption order under this section the Court shall be satisfied after inquiry by the Authority that in all the circumstances of the case, it is just and equitable and for the welfare of the child, that no such consent should be required and that an adoption order should be made.
 
-## PART VI
-
 *The effect of adoption orders.*
 
-### REGISTRATION AND EFFECTS OF ADOPTION ORDERS
+## PART VI REGISTRATION AND EFFECTS OF ADOPTION ORDERS
 
 **31.** (1) The effect of an adoption order is to give parental responsibility for a child to the adopters.
 
@@ -539,19 +517,21 @@ with the child for a period of at least six months.
 
 (b) which expressly provides that the duty is not to be extinguished by the making of an adoption order.
 
-**32.** (1) Upon an adoption order being made, the adopted Rights and child shall stand in relation to the adopter in the position of a adopters, duties of child born to the adopter, and all rights accruing to, and all duties, obligations and liabilities incurred by the child shall vest in and be exercisable by and enforceable against the adopter, as the case may be.
+*Rights and duties of adopters,*
+
+**32.** (1) Upon an adoption order being made, the adopted child shall stand in relation to the adopter in the position of a child born to the adopter, and all rights accruing to, and all duties, obligations and liabilities incurred by the child shall vest in and be exercisable by and enforceable against the adopter, as the case may be.
+
+*Adopted Children Register, [4 of 2015].*
 
 (2) Where two spouses are the adopters, the spouses shall, in respect of the matters mentioned in subsection (1) and for the purposes of jurisdiction of any Court to make orders relating to the custody and maintenance of and right of access to children, stand to each other and to the adopted child in the same relation as they would have stood if they had been the natural parents of the adopted child.
 
-**33.** (1) The Registrar General shall establish and maintain at Adopted his office a register to be called the Adopted Children Register Register, Children (hereinafter called “the Register”) in which shall be made such [4 of 2015]. entries as may be directed to be made therein by an adoption order.
+**33.** (1) The Registrar General shall establish and maintain at his office a register to be called the Adopted Children Register (hereinafter called “the Register”) in which shall be made such entries as may be directed to be made therein by an adoption order.
 
 (2) Every adoption order shall contain a direction to the Registrar General to make in the Adopted Children Register—
 
 (a) an entry recording the adoption of the child; and
 
-(b) an entry recording the birth of the child in which each adopter shall be recorded as the parent of the child,
-
-and the entries shall be in such forms as the Registrar General may approve.
+(b) an entry recording the birth of the child in which each adopter shall be recorded as the parent of the child, and the entries shall be in such forms as the Registrar General may approve.
 
 (3) If, upon an application for an adoption order, it is proved to the satisfaction of the Court that—
 
@@ -565,11 +545,9 @@ and the entries shall be in such forms as the Registrar General may approve.
 
 (5A) A certified copy of an entry in the Register under subsection (2)(b) purporting to be signed by the Registrar General shall, without any further or other proof of such entry, be received as evidence of the date of the birth of the child to which the same relates in all respects as though it were a certified copy of an entry in the Register of Births.
 
-(6) The Registrar General shall cause an index of the Register to be made and kept in his office, and only the adopter of a child or a person authorised in writing, for the purpose, by the adopter or by the Authority, shall be entitled to search such index and to have a certified copy of any entry in the Register in
-
 *Ch. 44:01.*
 
-all respects upon, and subject to the same terms, conditions and regulations as to payment of fees and otherwise as are applicable under the Births and Deaths Registration Act, or any other Act, in respect of searches in indexes relating to births and deaths kept in the office of the Registrar General.
+(6) The Registrar General shall cause an index of the Register to be made and kept in his office, and only the adopter of a child or a person authorised in writing, for the purpose, by the adopter or by the Authority, shall be entitled to search such index and to have a certified copy of any entry in the Register in all respects upon, and subject to the same terms, conditions and regulations as to payment of fees and otherwise as are applicable under the Births and Deaths Registration Act, or any other Act, in respect of searches in indexes relating to births and deaths kept in the office of the Registrar General.
 
 (7) The Registrar General shall, in addition to the Register and the index thereof, keep such other registers and books, and make such entries therein as may be necessary, to record and make traceable the connection between any entry in
 
@@ -579,13 +557,19 @@ the Register of Births which has been marked “adopted” pursuant to this Act 
 
 (b) the Registrar General shall not, except under an order of the Court, furnish any person with any information contained in, or with any copy or extract from, those registers or books.
 
-(8) Regulations made by the Registrar General under the Births and Deaths Registration Act may make provision as to Ch. 44:01. the duties to be performed by Superintendent Registrars and Registrars of Births and Deaths in the execution of this Act.
+*Ch. 44:01. Birth certificate of adopted child. [4 of 2015].*
 
-**33A.** Notwithstanding any other written law, where the Birth certificate Registrar General issues a certificate in respect of the birth of an child. of adopted adopted child, the certificate shall bear no overt indication that [4 of 2015]. the child was adopted, except such code as has been approved by the Registrar General to distinguish the type of entry which is being certified.
+(8) Regulations made by the Registrar General under the Births and Deaths Registration Act may make provision as to the duties to be performed by Superintendent Registrars and Registrars of Births and Deaths in the execution of this Act.
 
-**33B.** Where the adopter of an adopted child or a person Issuance of authorised in writing for the purpose by that adopter, applies to adoption. certificate of the Registrar General for the issue of a certified copy of an entry [4 of 2015]. under section 33(2) in respect of that child and pays the prescribed fee, the Registrar General shall issue to that adopter or person the certified copy of the entry in the form approved by the Registrar General.
+*Issuance of certificate of adoption. [4 of 2015].*
 
-**33C.** (1) Where an adopted person who is at least eighteen Application by years of age applies to the Registrar General for a certified copy for certificate adopted person of an entry under section 33(2) in respect of his adoption, and of adoption. pays the prescribed fee, the Registrar General shall issue to him [4 of 2015]. the certified copy of the entry in the form approved by the Registrar General.
+**33A.** Notwithstanding any other written law, where the Registrar General issues a certificate in respect of the birth of an adopted child, the certificate shall bear no overt indication that the child was adopted, except such code as has been approved by the Registrar General to distinguish the type of entry which is being certified.
+
+*Application by adopted person for certificate of adoption. [4 of 2015].*
+
+**33B.** Where the adopter of an adopted child or a person authorised in writing for the purpose by that adopter, applies to the Registrar General for the issue of a certified copy of an entry under section 33(2) in respect of that child and pays the prescribed fee, the Registrar General shall issue to that adopter or person the certified copy of the entry in the form approved by the Registrar General.
+
+**33C.** (1) Where an adopted person who is at least eighteen years of age applies to the Registrar General for a certified copy of an entry under section 33(2) in respect of his adoption, and pays the prescribed fee, the Registrar General shall issue to him the certified copy of the entry in the form approved by the Registrar General.
 
 (2) Where an adopted person who is under the age of eighteen years wishes to obtain a certified copy of an entry under section 33(2), he may apply to the Authority to act on his behalf.
 
@@ -597,11 +581,9 @@ the Register of Births which has been marked “adopted” pursuant to this Act 
 
 (a) refer the applicant to the Authority for assistance with accessing counselling; or
 
-(b) direct the Registrar General to furnish the applicant with such information as the Court
-
 *Application by adopted persons for certain information. [4 of 2015].*
 
-thinks fit.
+(b) direct the Registrar General to furnish the applicant with such information as the Court thinks fit.
 
 **34A.** (1) An adopted person—
 
@@ -609,39 +591,35 @@ thinks fit.
 
 (b) who intends to get married; and
 
-(c) who pays the prescribed fee, may make an application in the prescribed manner to the
-
 *Ch. 45:01.*
 
-Registrar General to determine if the adopted person and the person they intend to marry are within the prohibited degrees of consanguinity or affinity for the purposes of the Marriage Act.
+(c) who pays the prescribed fee, may make an application in the prescribed manner to the Registrar General to determine if the adopted person and the person they intend to marry are within the prohibited degrees of consanguinity or affinity for the purposes of the Marriage Act.
 
 (2) Where an application is made under subsection (1), the Registrar General may issue to the applicant a written report indicating whether or not, from the information contained in the registers of birth or other records, the applicant and the person whom he intends to marry may be within the prohibited degrees of consanguinity or affinity for the purposes of the Marriage Act.
 
 (3) Before supplying any information to an applicant under subsection (2), the Registrar General shall inform the applicant that he may access the Authority for assistance with counselling.
 
-## PART VII
-
 *Restriction on sending child abroad for adoption. [4 of 2015].*
 
-### OVERSEAS ADOPTION
+## PART VII OVERSEAS ADOPTION
 
 **35.** (1) Where a child is the subject of adoption proceedings outside of Trinidad and Tobago, it shall not be lawful for any
 
 person to permit, cause or procure the care and possession of that child to be transferred to a person resident abroad who is not the parent, step-parent, guardian or relative of that child unless—
 
+*Ch. 18:02.*
+
 (a) an order has been made in respect of that child under section 36; or
 
-(b) the requirements of the Emigration (Children) Ch. 18:02. Act are satisfied.
+(b) the requirements of the Emigration (Children) Act are satisfied.
 
 (2) A person who contravenes this section commits an offence and is liable on summary conviction to a fine of ten thousand dollars and to imprisonment for two years.
 
+*Ch. 7:02. Order permitting child to be sent abroad for adoption. [4 of 2015].*
+
 (3) In any proceedings under this section, a report made by a Trinidad and Tobago consular officer or a deposition made before him and authenticated under the signature of that officer shall, upon proof that the officer or deponent cannot be found in Trinidad and Tobago, be admissible in evidence in accordance with section 19 of the Evidence Act.
 
-Ch. 7:02.
-
-*for*
-
-**36.** (1) The Court may make an order, subject to such Order conditions and restrictions as it thinks fit, authorising the care to be sent permitting child and control of a child for whom adoption arrangements have abroad been made or are likely to be made to be transferred to a person [4 of 2015]. adoption. resident abroad.
+**36.** (1) The Court may make an order, subject to such conditions and restrictions as it thinks fit, authorising the care and control of a child for whom adoption arrangements have been made or are likely to be made to be transferred to a person resident abroad.
 
 (2) Subject to this section, no such order shall be made unless the Court—
 
@@ -653,31 +631,27 @@ person to be entrusted therewith, and that the transfer is in the best interest 
 
 (3) The Court may dispense with any consent required by subsection (2)(a) if it is satisfied that the person whose consent is to be dispensed with has abandoned or deserted the child or cannot be found or is incapable of giving such consent or, being a person liable to contribute to the support of the child, either has persistently neglected or refused to contribute to such support or is a person whose consent ought, in the opinion of the Court and in all the circumstances of the case, to be dispensed with.
 
-(4) Where the Court makes an order under this section, the Court may authorise the making or receipt by any person of any payments in consideration of the transfer of the care and
-
 *Effect of overseas adoption. [4 of 2015].*
 
-possession of the child in respect of whom the order is made.
-
-**37.** Where a child has been adopted by a national or resident of Trinidad and Tobago, whether before or after the coming into force of this Act, in any place outside of Trinidad and Tobago according to the law of that place, then for the purposes of this Act and all other written law, the adoption shall have the same effect
+(4) Where the Court makes an order under this section, the Court may authorise the making or receipt by any person of any payments in consideration of the transfer of the care and possession of the child in respect of whom the order is made.
 
 *Adoption by non-nationals. [4 of 2015].*
 
-as an adoption order validly made in accordance with this Act.
+**37.** Where a child has been adopted by a national or resident of Trinidad and Tobago, whether before or after the coming into force of this Act, in any place outside of Trinidad and Tobago according to the law of that place, then for the purposes of this Act and all other written law, the adoption shall have the same effect as an adoption order validly made in accordance with this Act.
 
 **38.** Where a person who is not a national or resident of Trinidad and Tobago and who lives outside of Trinidad and Tobago makes an application to the Court to adopt a child in Trinidad and Tobago, before granting an order the Court shall be satisfied that it is in the best interest of the child to grant that order.
 
-## PART VIII
-
 *Serving of notices. [4 of 2015].*
 
-### MISCELLANEOUS
+## PART VIII MISCELLANEOUS
 
 **39.** Any notice under this Act may be served by registered post.
 
+*\40. (1)*
+
 *Regulations. [4 of 2015].*
 
-**40.** (1) The Minister may make Regulations for—
+The Minister may make Regulations for—
 
 (a) regulating the conduct of negotiations entered into, by or on behalf of the Authority with persons having the care and control of children and who are desirous of causing children to be adopted, and in particular for securing:
 
@@ -705,11 +679,9 @@ adopter respectively and, in particular, for requiring that a report on the heal
 
 (g) carrying out the purposes of this Act.
 
-(2) In any Regulation under this section, the Minister may prescribe for any offence a penalty not exceeding a fine of
-
 *Repeal of Act No. 31 of 1946. Transitional provisions. [4 of 2015].*
 
-ten thousand dollars or imprisonment for two years.
+(2) In any Regulation under this section, the Minister may prescribe for any offence a penalty not exceeding a fine of ten thousand dollars or imprisonment for two years.
 
 **41.** The Adoption of Children Act is repealed.
 
@@ -747,29 +719,27 @@ ten thousand dollars or imprisonment for two years.
 
 ## SCHEDULE.
 
-*110/2015.*
+*110/2015. Citation. Interpretation. Ch. 46:10.*
 
 ADOPTION OF CHILDREN REGULATIONS made under section 40
 
-**1.** These Regulations may be cited as the Adoption of Citation.
-
-*Interpretation.*
-
-Children Regulations.
+**1.** These Regulations may be cited as the Adoption of Children Regulations.
 
 **2.** In these Regulations—
 
 “the Act” means the Adoption of Children Act;
 
-“Adoption Committee” means a committee of the Board established under section 7A of the Children’s Authority Act; Ch. 46:10.
+“Adoption Committee” means a committee of the Board established under section 7A of the Children’s Authority Act;
 
 “Adoption Unit” means the unit referred to in section 11 of the Children’s Authority Act;
 
 “applicant” means a person who has submitted an application to the Authority in accordance with subregulation (3)(1);
 
+*Application.*
+
 “member of the household”, in relation to an applicant, means a person who habitually resides in the same dwelling house as the applicant.
 
-**3.** (1) A person who wishes to adopt a child shall make an Application. application to the Authority in the form approved by the Authority.
+**3.** (1) A person who wishes to adopt a child shall make an application to the Authority in the form approved by the Authority.
 
 (2) An application under subregulation (1) shall be accompanied by—
 
@@ -781,23 +751,21 @@ Children Regulations.
 
 (d) a medical certificate of fitness, as set out in the form approved by the Authority, as to the physical and mental health of the applicant. Where the applicant is the natural father or mother of the child, that person shall not be
 
-required to submit a certificate of fitness unless so requested by the Authority; and
+*MINISTRY OF THE*
 
-(e) any other information as considered necessary
+ATTORNEY GENERAL AND LEGAL AFFAIRS required to submit a certificate of fitness unless so requested by the Authority; and
 
-*List of suitable persons.*
+*\4. (1)*
 
-by the Authority.
+*List of suitable the persons.*
 
-**4.** (1) Upon receipt of an application under regulation 3(1), the Authority shall conduct an investigation if necessary to determine whether an applicant should be placed on a list of suitable persons.
+(e) any other information as considered necessary by the Authority.
 
-(2) The Authority may remove a person from the list of
+*determine suitable suitable 5. (1) Assessment of applicant.*
 
-*Assessment of applicant.*
+Upon receipt of an application under regulation 3(1), Authority shall conduct an investigation if necessary to whether an applicant should be placed on a list of persons.
 
-suitable persons where that person is found to be no longer suitable.
-
-**5.** (1) Where an investigation is conducted in pursuance of subregulation 4(1), the Authority may—
+(2) The Authority may remove a person from the list of persons where that person is found to be no longer suitable. Where an investigation is conducted in pursuance of subregulation 4(1), the Authority may—
 
 (a) verify the applicant’s information;
 
@@ -837,9 +805,11 @@ as the Authority sees fit; and
 
 (b) prepare a written assessment report of the applicant’s suitability and the suitability of the home of the applicant; and
 
+*Reports on the welfare of the child.*
+
 (c) submit an assessment report to the Adoption Unit.
 
-**6.** (1) The Authority shall, before placing a child with a Reports on the suitable person, make enquiries and obtain such reports on child. welfare of the matters generally pertaining to the welfare of the child.
+**6.** (1) The Authority shall, before placing a child with a suitable person, make enquiries and obtain such reports on matters generally pertaining to the welfare of the child.
 
 (2) The Authority shall obtain a report on the health of the child, as set out in the form approved by the Authority, which shall be signed by a duly qualified medical practitioner.
 
@@ -849,9 +819,11 @@ as the Authority sees fit; and
 
 (a) the suitability of the applicant referred to under regulation 4(1); and
 
+*Approval of placement of child.*
+
 (b) the capacity of such applicant to care adequately for that child.
 
-**7.** (1) When a possible match of a suitable person is Approval of identified, the Adoption Unit shall conduct such investigations child. placement of and submit all relevant reports, together with its recommendation, to the Adoption Committee.
+**7.** (1) When a possible match of a suitable person is identified, the Adoption Unit shall conduct such investigations and submit all relevant reports, together with its recommendation, to the Adoption Committee.
 
 (2) Where an application for adoption is submitted to the Adoption Committee, it shall examine—
 
@@ -863,11 +835,9 @@ as the Authority sees fit; and
 
 (d) any other relevant information relating to the application for adoption.
 
-(3) Where the Adoption Committee is satisfied that the placement pursuant to an application for adoption would be in the best interest of the child, the Adoption Committee shall
-
 *Duty to notify the Authority.*
 
-approve the placement with the prospective adopter.
+(3) Where the Adoption Committee is satisfied that the placement pursuant to an application for adoption would be in the best interest of the child, the Adoption Committee shall approve the placement with the prospective adopter.
 
 **8.** Where a child has been placed in the care of an adopter, the adopter shall be required to notify the Authority immediately in circumstances where—
 
@@ -897,17 +867,17 @@ approve the placement with the prospective adopter.
 
 (iii) as directed by the Court; and
 
+*Memorandum. Form A. Schedule. Form B. Schedule.*
+
 (b) submit a report of such visits and any other related matter to the Authority.
 
-**10.** (1) The Authority shall furnish the parent or guardian of Memorandum. the child with a memorandum in the form set out as Form A in Form A. the Schedule and shall not proceed further with any negotiations Schedule. or arrangements for the adoption of the child unless the parent or guardian has signed and delivered to the Authority, a certificate in the form set out as Form B in the Schedule to the effect that Form B. he has read and understood the memorandum.
+**10.** (1) The Authority shall furnish the parent or guardian of the child with a memorandum in the form set out as Form A in the Schedule and shall not proceed further with any negotiations or arrangements for the adoption of the child unless the parent or guardian has signed and delivered to the Authority, a certificate in the form set out as Form B in the Schedule to the effect that he has read and understood the memorandum.
 
-Schedule.
+*Declaration of parent or guardian. Form C. Schedule.*
 
 (2) The memorandum referred to in subregulation (1) shall be kept in a record maintained by the Authority.
 
-**11.** A declaration under section 15(7) of the Act shall be in Declaration of the form set out as Form C in the Schedule.
-
-parent or guardian. Form C. Schedule.
+**11.** A declaration under section 15(7) of the Act shall be in the form set out as Form C in the Schedule.
 
 *Regulation 10.*
 

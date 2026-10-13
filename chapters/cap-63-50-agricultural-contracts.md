@@ -200,6 +200,8 @@ Paupers.
 
 ## THIRD SCHEDULE.
 
+### MINISTRY OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### CHAPTER 63:50
 
 ### AGRICULTURAL CONTRACTS ACT
@@ -250,9 +252,15 @@ An Act relating to Agricultural Contracts.
 
 ### AGRICULTURAL CONTRACTS — GENERALLY
 
-**3.** Nothing contained in the Masters and Servants Ordinance Agricultural shall affect any contract falling within the provisions of this Act. contracts. Ch. 22. No. 5. (1950 Ed.).
+*Agricultural contracts. Ch. 22. No. 5. (1950 Ed.).*
 
-**4.** (1) A contract, whether entered into before or after the Rights of commencement of this Act, shall not be deemed or be construed to be contractor. or to create an interest in land; but a contractor shall, subject to the provisions contained below, be entitled as against the owner to the possession of the parcel of land in respect of which he has a contract although such parcel of land may be subject to the Real Property Act, Ch. 56:02. and although a note of such contract has not been endorsed on the State grant or certificate of title evidencing title to such land.
+**3.** Nothing contained in the Masters and Servants Ordinance shall affect any contract falling within the provisions of this Act.
+
+*Rights of contractor.*
+
+*Ch. 56:02.*
+
+**4.** (1) A contract, whether entered into before or after the commencement of this Act, shall not be deemed or be construed to be or to create an interest in land; but a contractor shall, subject to the provisions contained below, be entitled as against the owner to the possession of the parcel of land in respect of which he has a contract although such parcel of land may be subject to the Real Property Act, and although a note of such contract has not been endorsed on the State grant or certificate of title evidencing title to such land.
 
 (2) The contractor’s right to possession shall include the right to reap and apply to his own use the provisions on the land under contract, and the right to reap in the ordinary course of husbandry and to apply to his own use, unless prohibited by the terms of his contract, the produce of the trees on such land.
 
@@ -270,37 +278,29 @@ An Act relating to Agricultural Contracts.
 
 *Owner may impound animals of contractor.*
 
-**7.** If any animal, whether the property of the contractor or not, strays and damages the trees, plants or vegetable productions belonging to the owner, whether such damage be done on the land held under contract or not, the owner may impound the animal,
-
 *Ch. 67:03.*
 
-and the provisions of the Pounds Act shall apply to all such cases.
+**7.** If any animal, whether the property of the contractor or not, strays and damages the trees, plants or vegetable productions belonging to the owner, whether such damage be done on the land held under contract or not, the owner may impound the animal, and the provisions of the Pounds Act shall apply to all such cases.
 
 *Liability for existing contracts on sale or devolution of estate.*
 
 **8.** On the alienation or devolution of ownership of an allotment of any estate on which land may be held by a contractor, the incoming owner of such allotment or estate shall, subject to the provisions contained below, be bound by all contracts existing at the time of such alienation or devolution, and such incoming owner shall be liable for the performance of all unfulfilled parts of such contracts in the same manner and to the same extent as, but for such alienation or devolution, the former owner would have been liable.
 
-*entered into*
+*Contracts entered into subsequently to a mortgage on the estate.*
 
-**9.** (1) The owner of any land subject to a mortgage shall not Contracts
-
-*a mortgage on the estate.*
-
-enter into any contract save with the written consent of the subsequently to mortgagee.
+**9.** (1) The owner of any land subject to a mortgage shall not enter into any contract save with the written consent of the mortgagee.
 
 (2) Any person who contravenes subsection (1) is liable on summary conviction to a fine of one thousand dollars; but no such contravention shall affect the validity of the contract.
 
 (3) A contract made subsequently to a mortgage shall bind the mortgagee and any person claiming through him. However, such mortgagee or other person is not liable to pay for any tree which was planted prior to the date of the contract and which was at such date two years old or more, and such mortgagee or other person is not liable to pay more than half the stipulated price (which price shall not exceed the price ordinarily paid in the district) for trees which were planted prior to the date of the contract and which were at such date less than two years old. The onus of proving the age of any tree planted before the date of the contract shall be on the contractor.
 
-*pay off*
+*Mortgagee may pay off contractor.*
 
-(4) Such mortgagee or other person shall be entitled to Mortgagee may pay off such contractor, whether his contract is registered or not, contractor. and to recover possession of the land under contract upon giving notice to the contractor at any time within three months after taking possession of the allotment or estate of which the land subject to such contract forms part, although the term of such contract has not expired.
+(4) Such mortgagee or other person shall be entitled to pay off such contractor, whether his contract is registered or not, and to recover possession of the land under contract upon giving notice to the contractor at any time within three months after taking possession of the allotment or estate of which the land subject to such contract forms part, although the term of such contract has not expired.
 
 (5) Any additional payment to which the contractor is entitled under the terms of this contract shall be recoverable from the mortgagor or any other person who may be liable.
 
-(6) Every contract entered into in respect of land subject to a mortgage shall be registered by the mortgagor within one year of entry into possession by the contractor under such contract. Any person who fails to comply with the requirements of this subsection is liable on summary conviction to a fine of one thousand dollars;
-
-but no such failure shall affect the validity of the contract.
+(6) Every contract entered into in respect of land subject to a mortgage shall be registered by the mortgagor within one year of entry into possession by the contractor under such contract. Any person who fails to comply with the requirements of this subsection is liable on summary conviction to a fine of one thousand dollars; but no such failure shall affect the validity of the contract.
 
 *Illegal stipulations.*
 
@@ -316,35 +316,47 @@ but no such failure shall affect the validity of the contract.
 
 *Contractor dying intestate and without next of kin.*
 
-**13.** Where a contractor dies intestate and without next of kin, the owner shall, within two months from the date of such death, cause a valuation of the contract to be made, and the owner shall, after deducting any sum owing to him by the contractor, deposit in the Post Office Savings Bank such sum as may be found by such valuation to be due to the deceased contractor, and such deposit shall discharge the owner pro tanto from any claim or demand respecting the contract, and all such moneys shall be received at the said Bank under the name of the contractor with the addition of the words “contractor, deceased”, and may be drawn from the said Bank
-
 *Ch. 79:04.*
 
-in the manner provided by the Post Office Savings Bank Act.
+**13.** Where a contractor dies intestate and without next of kin, the owner shall, within two months from the date of such death, cause a valuation of the contract to be made, and the owner shall, after deducting any sum owing to him by the contractor, deposit in the Post Office Savings Bank such sum as may be found by such valuation to be due to the deceased contractor, and such deposit shall discharge the owner pro tanto from any claim or demand respecting the contract, and all such moneys shall be received at the said Bank under the name of the contractor with the addition of the words “contractor, deceased”, and may be drawn from the said Bank in the manner provided by the Post Office Savings Bank Act.
 
 *Inspection of land.*
 
 **14.** The owner and any person or persons appointed by him, and any person or persons appointed by the Court, may enter upon the land under contract at any reasonable times to inspect or to value the same, and any contractor obstructing or molesting any such person in so doing is liable on summary conviction to a fine of two hundred dollars.
 
-**15.** The contractor may, with the consent in writing of the Erection of buildings. owner, and upon such part of the land under contract as the owner may point out to him, erect buildings upon the said lands.
+*Erection of buildings.*
+
+**15.** The contractor may, with the consent in writing of the owner, and upon such part of the land under contract as the owner may point out to him, erect buildings upon the said lands.
 
 ### REGISTERED CONTRACTS
 
-**16.** (1) A contract in writing signed by the parties thereto, in Registration of written duplicate, in the presence of and attested by a functionary as a contracts. witness, shall be registered under this Act.
+*Registration of written contracts.*
+
+**16.** (1) A contract in writing signed by the parties thereto, in duplicate, in the presence of and attested by a functionary as a witness, shall be registered under this Act.
 
 (2) Before the contract is signed as mentioned above, the functionary before whom it is signed shall explain or cause to be explained the terms thereof to the parties to the contract, and shall satisfy himself that the said parties understand the terms and conditions thereof.
 
-**17.** There shall be paid on the signing and attestation of each Fees. duplicate as mentioned above the fee set forth in the Second Second Schedule. Schedule. The said fee shall be paid by the owner.
+*Fees. Second Schedule.*
 
-**18.** (1) Where the contract is not signed before the Judge, it Contracts in writing to be shall be the duty of the functionary before whom it is signed registered and forthwith to forward both duplicates to the Judge. filed.
+**17.** There shall be paid on the signing and attestation of each duplicate as mentioned above the fee set forth in the Second Schedule. The said fee shall be paid by the owner.
+
+*Contracts in writing to be registered and filed.*
+
+**18.** (1) Where the contract is not signed before the Judge, it shall be the duty of the functionary before whom it is signed forthwith to forward both duplicates to the Judge.
 
 (2) Where the contract is signed before the Judge, or where any contract has been forwarded to him under subsection (1), the Judge shall cause one of the duplicates to be securely and safely filed in his office, and shall forthwith transmit the other to the Registrar General who shall register it.
 
-**19.** Upon receipt by the Registrar General of a contract duly Registration of contracts. signed and attested as provided for in section 16, such contract shall be deemed to be registered under this Act.
+*Registration of contracts.*
 
-**20.** (1) The Registrar General shall keep a book, to be called Register of contracts. the Register Book of Agricultural Contracts, in which all such [2/1963]. contracts received by him as aforesaid shall be properly recorded.
+**19.** Upon receipt by the Registrar General of a contract duly signed and attested as provided for in section 16, such contract shall be deemed to be registered under this Act.
 
-(2) All persons shall be at liberty to search the Register Searches. Book or the file in the office of the Judge, on payment of the sum of twenty-five cents, and no multiplication of books shall increase the fee.
+*Register of contracts. [2/1963].*
+
+**20.** (1) The Registrar General shall keep a book, to be called the Register Book of Agricultural Contracts, in which all such contracts received by him as aforesaid shall be properly recorded.
+
+*Searches.*
+
+(2) All persons shall be at liberty to search the Register Book or the file in the office of the Judge, on payment of the sum of twenty-five cents, and no multiplication of books shall increase the fee.
 
 *Certified copies of contracts. [51/1980].*
 
@@ -384,7 +396,9 @@ in the manner provided by the Post Office Savings Bank Act.
 
 (e) where, by the terms of a registered contract, the owner is entitled to have the same cancelled;
 
-(f) where a registered contractor has been convicted of larceny, or of any offence under the Sale of Ch. 63:52. Produce Act, or of conveying or being in possession of produce suspected to have been stolen or unlawfully obtained;
+*Ch. 63:52.*
+
+(f) where a registered contractor has been convicted of larceny, or of any offence under the Sale of Produce Act, or of conveying or being in possession of produce suspected to have been stolen or unlawfully obtained;
 
 (g) where the owner disputes the validity of any registered contract;
 
@@ -396,9 +410,9 @@ the owner or mortgagee, as the case may be, may bring a claim—
 
 (ii) to obtain cancellation of the contract.
 
-*on determination*
+*Rights of parties on determination of contract.*
 
-**26.** Upon the determination of a registered contract, or in any Rights of parties case in which the owner brings a claim for possession or for of contract. cancellation of a registered contract, or at any time during the continuance of such contract when either party to it breaks or evades any of the terms or conditions thereof, the party aggrieved may bring a claim against the other party thereto for any moneys, whether on balance of account or otherwise, and whether sounding in damages or not, which the plaintiff may allege are due to him under the terms contained in such contract or as damages for the breach thereof.
+**26.** Upon the determination of a registered contract, or in any case in which the owner brings a claim for possession or for cancellation of a registered contract, or at any time during the continuance of such contract when either party to it breaks or evades any of the terms or conditions thereof, the party aggrieved may bring a claim against the other party thereto for any moneys, whether on balance of account or otherwise, and whether sounding in damages or not, which the plaintiff may allege are due to him under the terms contained in such contract or as damages for the breach thereof.
 
 *Set-off and counterclaim.*
 
@@ -418,13 +432,17 @@ the owner or mortgagee, as the case may be, may bring a claim—
 
 **30.** If, in any case in which the defendant brings a set-off or counterclaim, the claim of the plaintiff is stayed, discontinued or dismissed, the set-off or counterclaim may nevertheless be proceeded with.
 
-**31.** Where any claim is brought by the owner against a Court may grant time to put registered contractor and the owner proves his case to the contract in order. satisfaction of the Court, the Court may in its discretion, instead of ordering the contract to be cancelled or instead of awarding to the owner pecuniary compensation, order and direct that the contractor shall have such reasonable time allowed to him as the Court thinks fit to make good any defaults or to remedy any breaches of contract committed or suffered by the contractor, and the Court may adjourn the case until the expiration of the time so allowed; and if at such adjourned hearing the contractor fails to bring evidence to prove to the satisfaction of the Court that he has made good the said defaults or breaches of contract, the Court may proceed to decide the claim as if such adjournment had not taken place.
+*Court may grant time to put contract in order.*
 
-**32.** Where pecuniary compensation is awarded to an owner Payment of compensation against the contractor, the Court may, if it thinks fit, direct the said delayed. compensation instead of being paid at once to be deducted from such money that may become payable by the owner to the contractor at the termination or cancellation of the contract.
+**31.** Where any claim is brought by the owner against a registered contractor and the owner proves his case to the satisfaction of the Court, the Court may in its discretion, instead of ordering the contract to be cancelled or instead of awarding to the owner pecuniary compensation, order and direct that the contractor shall have such reasonable time allowed to him as the Court thinks fit to make good any defaults or to remedy any breaches of contract committed or suffered by the contractor, and the Court may adjourn the case until the expiration of the time so allowed; and if at such adjourned hearing the contractor fails to bring evidence to prove to the satisfaction of the Court that he has made good the said defaults or breaches of contract, the Court may proceed to decide the claim as if such adjournment had not taken place.
 
-**33.** In all Courts and in all proceedings whatever with reference Evidence of registered to any registered contract—
+*Payment of compensation delayed.*
 
-contracts.
+**32.** Where pecuniary compensation is awarded to an owner against the contractor, the Court may, if it thinks fit, direct the said compensation instead of being paid at once to be deducted from such money that may become payable by the owner to the contractor at the termination or cancellation of the contract.
+
+*Evidence of registered contracts.*
+
+**33.** In all Courts and in all proceedings whatever with reference to any registered contract—
 
 (a) the contract filed in the office of the Judge or registered at the office of the Registrar General shall be conclusive evidence of the terms therein contained;
 
@@ -448,9 +466,9 @@ contracts.
 
 ### PROCEDURE AND GENERAL PROVISIONS
 
-*possession.*
+*Warrants of possession.*
 
-**35.** (1) Where an order for delivery of possession of any parcel Warrants of of land has been made under this Act, the Judge may, on the application of the owner, at any time after such order or at any time after payment of all moneys which the owner may have been ordered to pay to the contractor where such order has been made, issue a warrant under his hand to the bailiff, commanding him within a period to be therein named, being not less than three clear days nor more than two months from the date of the warrant, to enter by force, if necessary, into the premises and give possession of the same to the said owner.
+**35.** (1) Where an order for delivery of possession of any parcel of land has been made under this Act, the Judge may, on the application of the owner, at any time after such order or at any time after payment of all moneys which the owner may have been ordered to pay to the contractor where such order has been made, issue a warrant under his hand to the bailiff, commanding him within a period to be therein named, being not less than three clear days nor more than two months from the date of the warrant, to enter by force, if necessary, into the premises and give possession of the same to the said owner.
 
 (2) Entry under any such warrant shall not be made on a Sunday, nor on any public holiday, nor at any time except between the hours of six in the morning and six in the afternoon.
 
@@ -472,17 +490,27 @@ contracts.
 
 **38.** Where any person is liable to pay any money to a contractor by virtue of section 9(4), such person may be made a co-defendant in any action by an owner or contractor, and the Court may, if such person is not made a co-defendant, require such person to be made a defendant and to be served with a copy of the summons and a statement showing briefly the facts and circumstances whereon such liability rests, and the Court shall adjudicate and make such order between the parties in accordance with this Act as the justice of the case requires.
 
-**39.** (1) When any claim arising out of a contract is brought Court may appoint persons before the Court, the Judge may visit the land under contract, or to report. he may appoint one or more skilled persons to go upon the said land and report to him as to the state of cultivation of the same and also as to any circumstances upon which he may desire information.
+*Court may appoint persons to report.*
+
+**39.** (1) When any claim arising out of a contract is brought before the Court, the Judge may visit the land under contract, or he may appoint one or more skilled persons to go upon the said land and report to him as to the state of cultivation of the same and also as to any circumstances upon which he may desire information.
 
 (2) The person or persons so appointed shall make a report in writing to the Court and shall attend at the hearing of the claim or at any adjournment thereof to be examined as a witness; and such report shall be read and may be referred back for further consideration.
 
 (3) Such reports or amended reports, as the case may be, shall form part of the evidence in the case, and any fees to be paid to the person or persons appointed under subsection (1) shall be paid by such party to the claim as the Judge shall order.
 
-**40.** The Judge shall have jurisdiction to hear and determine Jurisdiction of Petty Civil all claims arising out of a contract or under the provisions of this Courts. Act, provided such claim is not for, and does not include a claim for, a sum which exceeds four hundred and eighty dollars.
+*Jurisdiction of Petty Civil Courts.*
 
-**41.** All claims arising out of a contract which the Judge has Application of the Petty Civil jurisdiction to hear and determine and all applications and Courts Act. proceedings incidental to any such claim shall be deemed to be and the same are hereby declared to be actions and proceedings under the Petty Civil Courts Act, and, subject to this Act and so Ch. 4:21. far as the same shall be applicable, the Petty Civil Courts Act and any Rules made thereunder shall apply to all such claims and proceedings; and all judgments and orders made by the Judge in pursuance of this Act shall be deemed to be judgments and orders made under the Petty Civil Courts Act and shall be enforceable as such.
+**40.** The Judge shall have jurisdiction to hear and determine all claims arising out of a contract or under the provisions of this Act, provided such claim is not for, and does not include a claim for, a sum which exceeds four hundred and eighty dollars.
 
-**42.** (1) In any case where a claim is brought before the Payment into Court. Judge under this Act, the defendant may deposit with the Judge any sum to which he admits the plaintiff is entitled, and the Clerk shall forthwith give notice of such deposit to the plaintiff or his Attorney-at-law.
+*Application of the Petty Civil Courts Act.*
+
+*Ch. 4:21.*
+
+**41.** All claims arising out of a contract which the Judge has jurisdiction to hear and determine and all applications and proceedings incidental to any such claim shall be deemed to be and the same are hereby declared to be actions and proceedings under the Petty Civil Courts Act, and, subject to this Act and so far as the same shall be applicable, the Petty Civil Courts Act and any Rules made thereunder shall apply to all such claims and proceedings; and all judgments and orders made by the Judge in pursuance of this Act shall be deemed to be judgments and orders made under the Petty Civil Courts Act and shall be enforceable as such.
+
+*Payment into Court.*
+
+**42.** (1) In any case where a claim is brought before the Judge under this Act, the defendant may deposit with the Judge any sum to which he admits the plaintiff is entitled, and the Clerk shall forthwith give notice of such deposit to the plaintiff or his Attorney-at-law.
 
 (2) The plaintiff may accept the said sum in full satisfaction of his claim, and thereupon the Judge shall pay it over to him and take his receipt accordingly, and the Judge may allow him his costs up to the date of the said deposit.
 
@@ -494,11 +522,9 @@ contracts.
 
 *Certiorari.*
 
-**44.** No judgment or order of the Judge acting under the powers contained in this Act shall be brought before the High Court for
-
 *Ch. 4:01.*
 
-review, save and except under section 36 of the Supreme Court of Judicature Act or save and except in the manner and according to the provisions hereof.
+**44.** No judgment or order of the Judge acting under the powers contained in this Act shall be brought before the High Court for review, save and except under section 36 of the Supreme Court of Judicature Act or save and except in the manner and according to the provisions hereof.
 
 *Rehearing.*
 
@@ -514,19 +540,29 @@ review, save and except under section 36 of the Supreme Court of Judicature Act 
 
 (4) The Rules of practice and procedure governing appeals to the Court of Appeal in civil matters shall apply to appeals under this Act.
 
-**47.** At the trial or hearing of any claim tried by the Judge under Notes of evidence. this Act, he shall take a note of the evidence adduced therein, and he shall, at the request of either party, make a note of any question of law raised before him and of the facts in evidence in relation thereto and of his decision thereon, and of his decision on the claim.
+*Notes of evidence.*
 
-*of*
+**47.** At the trial or hearing of any claim tried by the Judge under this Act, he shall take a note of the evidence adduced therein, and he shall, at the request of either party, make a note of any question of law raised before him and of the facts in evidence in relation thereto and of his decision thereon, and of his decision on the claim.
 
-**48.** The manager, overseer or other person in charge of any Powers managers, etc. allotment or estate may sign contracts for and on behalf of the owner thereof, and may appear and prosecute or defend on his behalf before a Judge any claim by or against the owner of such allotment or estate.
+*Powers of managers, etc.*
 
-**49.** (1) The awarding of costs of any proceedings under this Act Costs. before the Judge shall be in the discretion of the Judge. He may order any party to such proceedings to pay such costs, including the costs of the summoning and the attendance of necessary witnesses, as he may think best, regard being had to the scale set out in the Third Schedule. Third Schedule.
+**48.** The manager, overseer or other person in charge of any allotment or estate may sign contracts for and on behalf of the owner thereof, and may appear and prosecute or defend on his behalf before a Judge any claim by or against the owner of such allotment or estate.
+
+*Costs.*
+
+*Third Schedule.*
+
+**49.** (1) The awarding of costs of any proceedings under this Act before the Judge shall be in the discretion of the Judge. He may order any party to such proceedings to pay such costs, including the costs of the summoning and the attendance of necessary witnesses, as he may think best, regard being had to the scale set out in the Third Schedule.
 
 (2) In all proceedings under this Act before the Judge, he may, in his discretion, allow in respect of the services of an Attorney-at-law the costs set forth in the Third Schedule or any less amounts he may think fit.
 
-**50.** Nothing contained in this Act shall in any way affect the Jurisdiction of High Court. jurisdiction of the High Court or any Judge thereof.
+*Jurisdiction of High Court.*
 
-**51.** (1) Where, in any action brought in the High Court upon any Remitting action to be tried by contract under this Act, the claim endorsed on the writ is either to recover inferior Court. possession of land held under the terms of the said contract, or where such claim does not exceed five hundred dollars, or in any case where such claim although it originally exceeded that amount is reduced by payment, an admitted set-off, or otherwise, to a sum not exceeding that amount, the defendant in the action may within fourteen days from the day upon which the writ has been served upon him, if the whole or part of the demand of the plaintiff be contested, apply to a Judge of the High Court in Chambers for a summons to the plaintiff to show cause why such action should not be tried before the Judge of the Petty Civil Court.
+**50.** Nothing contained in this Act shall in any way affect the jurisdiction of the High Court or any Judge thereof.
+
+*Remitting action to be tried by inferior Court.*
+
+**51.** (1) Where, in any action brought in the High Court upon any contract under this Act, the claim endorsed on the writ is either to recover possession of land held under the terms of the said contract, or where such claim does not exceed five hundred dollars, or in any case where such claim although it originally exceeded that amount is reduced by payment, an admitted set-off, or otherwise, to a sum not exceeding that amount, the defendant in the action may within fourteen days from the day upon which the writ has been served upon him, if the whole or part of the demand of the plaintiff be contested, apply to a Judge of the High Court in Chambers for a summons to the plaintiff to show cause why such action should not be tried before the Judge of the Petty Civil Court.
 
 (2) On the hearing of such summons, the Judge shall, unless there is good cause to the contrary, order such action to be tried accordingly, and thereupon the plaintiff shall lodge the original writ and the order with the Judge of the Petty Civil Court, who shall appoint a day for the hearing of the claim, notice whereof the Clerk shall send to both parties or their Attorneys-at-law, and the claim and all proceedings therein shall be heard before the Judge of the Petty Civil Court as if it had been originally commenced before him.
 
@@ -540,27 +576,29 @@ review, save and except under section 36 of the Supreme Court of Judicature Act 
 
 **53.** If, in any action upon any contract under this Act brought in the High Court, the plaintiff recovers a sum not exceeding two thousand dollars, whether by judgment, verdict, or on demurrer or otherwise he shall not be entitled to any costs of suit unless the Judge before whom the action is tried certifies on the proceedings that there was sufficient reason for bringing such action in the High Court.
 
-*costs.*
+*Security for costs.*
 
-**54.** (1) Any person against whom an action is brought in the Security for High Court upon any contract or alleged contract, may make an affidavit that the plaintiff has no visible means of paying the costs of the defendant should judgment not go for the plaintiff, and thereupon a Judge of the High Court in Chambers shall have power to make an order that unless the plaintiff, within a time to be therein mentioned, give full security for the defendant’s costs to the satisfaction of the Registrar of the Supreme Court, or satisfy such Judge that he has a cause of action fit to be prosecuted in the High Court, all proceedings in the action shall be stayed, and the cause shall be remitted for trial before the Judge of the Petty Civil Court.
+**54.** (1) Any person against whom an action is brought in the High Court upon any contract or alleged contract, may make an affidavit that the plaintiff has no visible means of paying the costs of the defendant should judgment not go for the plaintiff, and thereupon a Judge of the High Court in Chambers shall have power to make an order that unless the plaintiff, within a time to be therein mentioned, give full security for the defendant’s costs to the satisfaction of the Registrar of the Supreme Court, or satisfy such Judge that he has a cause of action fit to be prosecuted in the High Court, all proceedings in the action shall be stayed, and the cause shall be remitted for trial before the Judge of the Petty Civil Court.
 
 (2) Where the cause is ordered to be remitted to the Judge of the Petty Civil Court, the Registrar shall send the order to such Judge, who shall appoint a day for the hearing of the claim, notice whereof shall be sent by the Clerk to both parties or their Attorneys-at-law; and such Judge shall have all the same powers and jurisdiction as if the claim had been commenced before him under this Act.
 
-(3) The fees and costs of the parties in respect of the Scale of costs. proceeding subsequent to the order of the said Judge in Chambers shall be regulated by section 49, and the costs of the proceedings in the High Court shall be allowed according to the scale in use in such Court.
+*Scale of costs.*
+
+(3) The fees and costs of the parties in respect of the proceeding subsequent to the order of the said Judge in Chambers shall be regulated by section 49, and the costs of the proceedings in the High Court shall be allowed according to the scale in use in such Court.
 
 SERVICE OF PROCESS AND FEES, ETC.
 
-*process.*
+*Service of process.*
 
-**55.** (1) When a contractor cannot be found, it shall be Service of sufficient service on him to affix a summons or other process in some conspicuous position upon the land under contract.
+**55.** (1) When a contractor cannot be found, it shall be sufficient service on him to affix a summons or other process in some conspicuous position upon the land under contract.
 
 (2) It shall be sufficient service on an owner to serve the summons or other process on the person in charge of the allotment or estate upon which the contract exists or is alleged to exist.
 
 (3) In any case where it sees fit to do so, the Court may give special directions as to the mode in which service of any summons or process is to be effected.
 
-*Second Schedule.*
+*Fees. Second Schedule.*
 
-**56.** (1) The fees set forth in the Second Schedule shall be Fees. payable in respect of the several matters therein mentioned.
+**56.** (1) The fees set forth in the Second Schedule shall be payable in respect of the several matters therein mentioned.
 
 *Paupers.*
 
@@ -780,19 +818,15 @@ E.F., ............................................................... Functionar
 
 *$*
 
-PETTY CIVIL COURT FEES When a claim is for recovery of possession of a parcel of land held or alleged to be held under an unregistered contract, or includes or is for a sum
-
 *10.00 5.00*
 
-exceeding $500 … … … … … … In respect of any other claim … … … … …
+PETTY CIVIL COURT FEES When a claim is for recovery of possession of a parcel of land held or alleged to be held under an unregistered contract, or includes or is for a sum exceeding $500 … … … … … … In respect of any other claim … … … … …
 
 ### OTHER FEES
 
-(1) On the signing and attestation of a contract under section 16—in respect
-
 *1.00*
 
-of each duplicate … … … … … … The above fee is to be paid by stamps affixed to the contract.
+(1) On the signing and attestation of a contract under section 16—in respect of each duplicate … … … … … … The above fee is to be paid by stamps affixed to the contract.
 
 *1.00 2.00*
 
@@ -804,11 +838,9 @@ of each duplicate … … … … … … The above fee is to be paid by stamps 
 
 ## THIRD SCHEDULE
 
-### COSTS
-
 *$*
 
-In actions for money payable to a contractor under the terms of his contract—
+COSTS In actions for money payable to a contractor under the terms of his contract—
 
 (a) Where the amount recovered does not exceed $50 or the claim does not exceed $50 and the defendant obtains judgment—
 
@@ -824,11 +856,9 @@ A sum not exceeding… … … … … In actions under section 9(4) and section
 
 *40.00*
 
-A sum not exceeding… … … … … … In actions for the recovery of possession of land subject to a contract or for the cancellation of a contract, where the value of the contract does not exceed $120—
-
 *20.00*
 
-A sum not exceeding… … … … … … In actions for damages where the amount recovered does not exceed $120, or where the amount claimed does not exceed $120 and the defendant obtains judgment—
+A sum not exceeding… … … … … … In actions for the recovery of possession of land subject to a contract or for the cancellation of a contract, where the value of the contract does not exceed $120— A sum not exceeding… … … … … … In actions for damages where the amount recovered does not exceed $120, or where the amount claimed does not exceed $120 and the defendant obtains judgment—
 
 *20.00 75.00*
 

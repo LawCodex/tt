@@ -60,6 +60,8 @@ Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the 
 
 **10.** Extinguishment of right of way.
 
+### MINISTRY OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### BOTANIC GARDENS ACT
 
 *1950 Ed. Ch. 24. No. 2. 24 of 1938. Commencement.*
@@ -106,21 +108,25 @@ An Act relating to the Botanic Gardens.
 
 (3) Copies of the Regulations shall be put up at the main entrance of the Gardens and in such other conspicuous places about the Gardens as may be considered necessary.
 
-**5.** Any person who contravenes any regulation made under Penalty for contravening the authority of this Act is liable on summary conviction to a fine Regulations. of four hundred dollars.
+*Penalty for contravening Regulations.*
 
-**6.** Any person who assaults, or obstructs, or aids or abets Assault or obstruction of any person to assault or obstruct, the Superintendent or keeper, officers. or any other person employed in or about the Gardens, in the execution of his duty, is liable on summary conviction to a fine of four hundred dollars.
+**5.** Any person who contravenes any regulation made under the authority of this Act is liable on summary conviction to a fine of four hundred dollars.
 
-**7.** (1) The Superintendent, or any person authorised by Arrest without warrant. him, or any keeper in uniform, or any constable who may be called to his assistance, may arrest without warrant any person found committing any offence against this Act.
+*Assault or obstruction of officers.*
+
+**6.** Any person who assaults, or obstructs, or aids or abets any person to assault or obstruct, the Superintendent or keeper, or any other person employed in or about the Gardens, in the execution of his duty, is liable on summary conviction to a fine of four hundred dollars.
+
+*Arrest without warrant.*
+
+**7.** (1) The Superintendent, or any person authorised by him, or any keeper in uniform, or any constable who may be called to his assistance, may arrest without warrant any person found committing any offence against this Act.
 
 (2) Any person arrested under the authority of this section shall be taken with all reasonable speed and diligence before a Magistrate to be dealt with according to law; but in no case shall any person arrested be detained in custody longer than twenty-four hours before being brought before a Magistrate.
 
 *Superintendent and keeper to have powers of constables.*
 
-**8.** The Superintendent and the keeper, in addition to any powers and immunities conferred on them by this Act, shall have and exercise within the limits of the Gardens all the powers vested in any constable, and shall, for acts done in the bona fide performance of their duty under this Act, enjoy the same rights, privileges, and immunities as are possessed and enjoyed by
-
 *Ch. 15:01.*
 
-constables under the Police Service Act.
+**8.** The Superintendent and the keeper, in addition to any powers and immunities conferred on them by this Act, shall have and exercise within the limits of the Gardens all the powers vested in any constable, and shall, for acts done in the bona fide performance of their duty under this Act, enjoy the same rights, privileges, and immunities as are possessed and enjoyed by constables under the Police Service Act.
 
 *Procedure.*
 
@@ -132,11 +138,9 @@ constables under the Police Service Act.
 
 *Extinguishment of right of way.*
 
-**10.** The right of way on foot from the La Fantasie Road and the Circular Road dedicated to the public by virtue of section 5
-
 *36 of 1933.*
 
-of the Botanic Gardens (Amendment) Ordinance, 1933, and shown between the points marked B.B. on a certain plan dated 5th December 1933, signed by John Walker Macgillivray, and deposited in the office of the Director of Surveys, shall be and the same is hereby extinguished.
+**10.** The right of way on foot from the La Fantasie Road and the Circular Road dedicated to the public by virtue of section 5 of the Botanic Gardens (Amendment) Ordinance, 1933, and shown between the points marked B.B. on a certain plan dated 5th December 1933, signed by John Walker Macgillivray, and deposited in the office of the Director of Surveys, shall be and the same is hereby extinguished.
 
 ### SUBSIDIARY LEGISLATION
 
@@ -224,25 +228,43 @@ made under section 4
 
 (b) within the Emperor Valley Zoo, by or on behalf of the Zoological Society of Trinidad and Tobago.
 
-**9.** No visitor shall deposit bottles, paper or rubbish of any Rubbish. kind within the Gardens, except in the receptacles provided for the purpose.
+*Rubbish.*
 
-**10.** No visitor shall pick, handle, gather, cut, or collect any Picking of flowers. fruit, flower, plant, branch or portion thereof, or carry away fallen fruit, or in any way injure any tree, plant, or shrub growing in any part of the Gardens.
+**9.** No visitor shall deposit bottles, paper or rubbish of any kind within the Gardens, except in the receptacles provided for the purpose.
 
-**11.** No visitor shall climb or sit upon the fences, or swing or Injuring trees, notice boards, climb upon the trees or branches, or write, cut, or carve upon, or etc. otherwise deface, the benches or buildings in the Gardens, or remove, or break, or injure, the fences or boundary marks, or remove, injure, or deface the labels, notice boards or notices.
+*Picking of flowers.*
 
-**12.** No visitor shall use firearms or any other weapons of Firearms or other weapons. destruction in the Gardens.
+**10.** No visitor shall pick, handle, gather, cut, or collect any fruit, flower, plant, branch or portion thereof, or carry away fallen fruit, or in any way injure any tree, plant, or shrub growing in any part of the Gardens.
 
-**13.** No visitor shall hunt or molest any wild animals, birds, Molesting birds or animals. butterflies or other insects (except venomous reptiles or insects)
+*Injuring trees, notice boards, etc.*
 
-nor take any birds eggs within the Gardens.
+**11.** No visitor shall climb or sit upon the fences, or swing or climb upon the trees or branches, or write, cut, or carve upon, or otherwise deface, the benches or buildings in the Gardens, or remove, or break, or injure, the fences or boundary marks, or remove, injure, or deface the labels, notice boards or notices.
 
-**14.** No visitor shall cause annoyance, inconvenience, or Causing annoyance, etc. obstruction to other visitors.
+*Firearms or other weapons.*
 
-**15.** Ball games of all kinds are prohibited within the Gardens. Games prohibited.
+**12.** No visitor shall use firearms or any other weapons of destruction in the Gardens.
 
-**16.** Public meetings or speaking for political or other purposes Public meetings. are prohibited within the Gardens.
+*Molesting birds or animals.*
 
-**17.** (1) The Chief Technical Officer (Agriculture) may Guides. authorise in writing any person licensed under section 93(1) of the Summary Offences Act to act as a guide to visitors to the Gardens Ch. 11:02. and may at any time by a notice in writing served on any such person withdraw or suspend the authorisation.
+**13.** No visitor shall hunt or molest any wild animals, birds, butterflies or other insects (except venomous reptiles or insects) nor take any birds eggs within the Gardens.
+
+*Causing annoyance, etc.*
+
+**14.** No visitor shall cause annoyance, inconvenience, or obstruction to other visitors.
+
+*Games prohibited.*
+
+**15.** Ball games of all kinds are prohibited within the Gardens.
+
+*Public meetings.*
+
+**16.** Public meetings or speaking for political or other purposes are prohibited within the Gardens.
+
+*Guides.*
+
+*Ch. 11:02.*
+
+**17.** (1) The Chief Technical Officer (Agriculture) may authorise in writing any person licensed under section 93(1) of the Summary Offences Act to act as a guide to visitors to the Gardens and may at any time by a notice in writing served on any such person withdraw or suspend the authorisation.
 
 (2) No person shall within or at or near any entrance to the Gardens offer his services to any visitor to the Gardens unless he has been authorised to act as a guide by the Chief Technical Officer (Agriculture) under subregulation (1).
 

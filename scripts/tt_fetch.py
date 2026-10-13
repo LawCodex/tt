@@ -131,14 +131,18 @@ def main():
         cid = it["currentid"]
         mpath = os.path.join(RAW, "meta", cid + ".json")
         ppath = os.path.join(RAW, "pdf", cid + ".pdf")
-        if os.path.exists(mpath):
-            meta = json.load(open(mpath))
-        else:
-            meta = dict(it)
-            meta.update(detail(cid))
-            time.sleep(DELAY)
-        if meta["versions"] and not meta.get("pdf_ok"):
-            meta["pdf_ok"] = download(BASE + meta["versions"][0]["href"], ppath)
+        try:
+            if os.path.exists(mpath):
+                meta = json.load(open(mpath))
+            else:
+                meta = dict(it)
+                meta.update(detail(cid))
+                time.sleep(DELAY)
+            if meta["versions"] and not meta.get("pdf_ok"):
+                meta["pdf_ok"] = download(BASE + meta["versions"][0]["href"], ppath)
+        except RuntimeError as e:
+            print(n, cid, "FAILED", e, flush=True)
+            continue
         json.dump(meta, open(mpath, "w"), indent=1)
         print(n, cid, it["title"], meta.get("pdf_ok"), flush=True)
 

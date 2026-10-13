@@ -106,6 +106,8 @@ Forms of notice, etc.
 
 ## SECOND SCHEDULE.
 
+### MINISTRY OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### ASPHALT INDUSTRY REGULATION ACT
 
 *1950 Ed. Ch. 26. No. 10. 10 of 1906. Commencement.*
@@ -150,17 +152,29 @@ on under this Act at all reasonable times by day and night, but so as not to imp
 
 (d) to delegate any of the powers exercisable by him under this Act to assistants duly appointed hereunder.
 
-**5.** Every person who wilfully obstructs the Inspector or Obstructing Inspector. any of his assistants in the execution of his or their duty, and every owner, agent or servant who refuses or neglects to furnish to the Inspector or his assistants the means necessary for the making of any entry, inspection, examination or enquiry in relation to any diggings being carried on under this Act is guilty of an offence.
+*Obstructing Inspector.*
 
-**6.** (1) Subject to affirmative resolution of Parliament, the Regulations. [45 of 1979]. Minister may make Regulations for carrying into effect the provisions of this Act and, without prejudice to the generality of this provision, may prescribe the procedure for the application for, and the granting of, permits under section 10 and regulate the manner of digging of asphalt.
+**5.** Every person who wilfully obstructs the Inspector or any of his assistants in the execution of his or their duty, and every owner, agent or servant who refuses or neglects to furnish to the Inspector or his assistants the means necessary for the making of any entry, inspection, examination or enquiry in relation to any diggings being carried on under this Act is guilty of an offence.
 
-(2) The Regulations contained in the First Schedule and First Schedule. the forms contained in the Second Schedule shall have effect as if Second Schedule. they were made and prescribed under subsection (1).
+*Regulations. [45 of 1979].*
 
-**7.** The costs and expenses of the inspection and control hereby Expenses of working Act. authorised, shall be defrayed out of moneys provided by Parliament.
+**6.** (1) Subject to affirmative resolution of Parliament, the Minister may make Regulations for carrying into effect the provisions of this Act and, without prejudice to the generality of this provision, may prescribe the procedure for the application for, and the granting of, permits under section 10 and regulate the manner of digging of asphalt.
 
-**8.** The President may declare any land within Trinidad President may declare asphalt-to be asphalt-bearing land; any land so declared shall be bearing land. described in such declaration. The term “asphalt-bearing land”, when used in this Act, shall signify the land or any part of the land so described.
+*First Schedule. Second Schedule.*
 
-**9.** (1) No excavations or digging operations shall be begun or No digging without notice. carried on in asphalt-bearing land save after notice to commence, in writing, given to the Inspector and in accordance with the terms of such
+(2) The Regulations contained in the First Schedule and the forms contained in the Second Schedule shall have effect as if they were made and prescribed under subsection (1).
+
+*Expenses of working Act.*
+
+**7.** The costs and expenses of the inspection and control hereby authorised, shall be defrayed out of moneys provided by Parliament.
+
+*President may declare asphalt-bearing land.*
+
+**8.** The President may declare any land within Trinidad to be asphalt-bearing land; any land so declared shall be described in such declaration. The term “asphalt-bearing land”, when used in this Act, shall signify the land or any part of the land so described.
+
+*No digging without notice.*
+
+**9.** (1) No excavations or digging operations shall be begun or carried on in asphalt-bearing land save after notice to commence, in writing, given to the Inspector and in accordance with the terms of such
 
 notice. Such notice when received by the Inspector shall be entered in the Mining Register, shall bear date as of the day when it is so entered, and shall be given by the owner of the land in which the digging operations are to be carried on or by his agent, and not otherwise. Such notice shall not be deemed in any Court whatever to be presumptive evidence of ownership of the land therein specified. The commencement or carrying on of excavations or digging operations in contravention of this section is an offence against this Act.
 
@@ -186,19 +200,27 @@ notice. Such notice when received by the Inspector shall be entered in the Minin
 
 Inspector. Upon receiving notice of termination the Inspector shall forthwith enter the same in the Mining Register, and the entry shall determine the notice to commence in respect of the digging in question. So long as any notice to commence remains undetermined and unrevoked, the giver of the notice shall, for all purposes and in all Courts, be deemed to be continuing digging operations. A certificate of entry of notice of termination may be obtained in like manner as a certificate of entry of notice to commence.
 
-(7) The notices and certificates provided for in this section Forms of notice, etc. shall be in the forms 1, 2, 3, and 4 in the Second Schedule.
+*Forms of notice, etc. Second Schedule.*
 
-Second Schedule.
+(7) The notices and certificates provided for in this section shall be in the forms 1, 2, 3, and 4 in the Second Schedule.
 
-**10.** Any owner of asphalt-bearing land or his agent may at Application for permit. any time apply to the Inspector for a permit to dig asphalt in accordance with the provisions of this Act. Such application shall be according to Form 5 and such permit if granted shall be Forms 5,6. according to Form 6 in the Second Schedule, and such applications Second Schedule. and permits shall be made and issued under the Regulations, which shall be observed by every person digging by virtue of a permit and by all persons employed by him or under his superintendence.
+*Application for permit.*
 
-**11.** (1) Not less than seven days after the termination of each Notice of termination of and every digging operation conducted by virtue of a permit, the digging. holder of the permit shall give notice in writing of the termination of the digging to the Inspector. The notice shall specify the date upon which the digging operations have terminated.
+*Forms 5,6. Second Schedule.*
+
+**10.** Any owner of asphalt-bearing land or his agent may at any time apply to the Inspector for a permit to dig asphalt in accordance with the provisions of this Act. Such application shall be according to Form 5 and such permit if granted shall be according to Form 6 in the Second Schedule, and such applications and permits shall be made and issued under the Regulations, which shall be observed by every person digging by virtue of a permit and by all persons employed by him or under his superintendence.
+
+*Notice of termination of digging.*
+
+**11.** (1) Not less than seven days after the termination of each and every digging operation conducted by virtue of a permit, the holder of the permit shall give notice in writing of the termination of the digging to the Inspector. The notice shall specify the date upon which the digging operations have terminated.
 
 (2) Entry of such notice shall be made in the Mining Register, and a certificate of the entry shall be obtainable in like manner as described in section 9.
 
 (3) All issues and determinations of permits shall be published in the Gazette.
 
-**12.** Any owner or agent of asphalt-bearing land out of which Application for certificate of material, whether asphalt or other constituent of the soil, passes in loss of material. consequence of any excavation, whether conducted by virtue of a [51/1980]. permit or otherwise, may apply to the Inspector for a certificate of the quantity of material lost to such complaining owner by reason
+*Application for certificate of loss of material. [51/1980].*
+
+**12.** Any owner or agent of asphalt-bearing land out of which material, whether asphalt or other constituent of the soil, passes in consequence of any excavation, whether conducted by virtue of a permit or otherwise, may apply to the Inspector for a certificate of the quantity of material lost to such complaining owner by reason
 
 of the excavation, as provided below. Every such application shall be made not later than thirty days after the date of the termination of the digging, and, unless made by an officer of the State in respect of State lands, shall bear stamps to the value of one hundred dollars.
 
@@ -214,19 +236,17 @@ of the excavation, as provided below. Every such application shall be made not l
 
 **15.** The Inspector, if he is satisfied that the digging operations complained of have unduly depleted any asphalt-bearing land, shall issue a certificate to that effect, notice of which shall be given to the parties in difference, and which certificate shall contain a statement of the quantity of material which has been lost to the complaining owner by the undue depletion, and of the properties into which it has so passed. The certificate when issued shall have the same effect as an award by an arbitrator upon a
 
-submission in which the allegation that the land claimed by the complaining owner is asphalt-bearing land, the allegation that the disturbance complained of was caused by the operations of the owner complained against or his agent, and the quantity of the material lost to the complaining owner were matters in question between the parties, and on these points the certificate, when granted, shall be final and conclusive between the parties.
-
-The complaining owner in whose favour such a certificate is granted shall be entitled, subject to establishing his title to the land specified in the certificate as the land from which the material has been caused to pass, to recover a quantity of good merchantable asphalt equal to the quantity of material so certified, to be delivered to him free of cost at such place at La Brea, within reasonable distance of the excavation, as the Inspector or the High Court may direct, or he may, at his option, recover payment for the same at the current price of asphalt at La Brea.
+submission in which the allegation that the land claimed by the complaining owner is asphalt-bearing land, the allegation that the disturbance complained of was caused by the operations of the owner complained against or his agent, and the quantity of the material lost to the complaining owner were matters in question between the parties, and on these points the certificate, when granted, shall be final and conclusive between the parties. The complaining owner in whose favour such a certificate is granted shall be entitled, subject to establishing his title to the land specified in the certificate as the land from which the material has been caused to pass, to recover a quantity of good merchantable asphalt equal to the quantity of material so certified, to be delivered to him free of cost at such place at La Brea, within reasonable distance of the excavation, as the Inspector or the High Court may direct, or he may, at his option, recover payment for the same at the current price of asphalt at La Brea.
 
 However, the Court may order the payment of damages in respect of the disturbance complained of instead of the restitution of asphalt in kind. If the complaining owner recovers under any such certificate a sum of not less than one hundred dollars or asphalt to that value at the least, he shall be entitled to recover, in addition thereto, the further sum of one hundred dollars by way of reimbursement in respect of stamps, unless an order to deprive him thereof is specially made by the Court. But in any other case he shall not recover anything in respect of the stamps affixed to is application as mentioned above.
 
-**16.** No injunction shall be granted nor any proceedings had No injunction to restrain digging, upon any injunction heretofore granted by the High Court to etc., under restrain any digging or removal of asphalt from land, which permit. digging or removal is carried on by virtue of a permit, unless it is proved that the digging has been conducted in contravention of the permit.
+*No injunction to restrain digging, etc., under permit.*
 
-**17.** No action for loss of asphalt or other constituent of the No action for loss of asphalt soil resulting from digging operations, conducted in accordance due to
+**16.** No injunction shall be granted nor any proceedings had upon any injunction heretofore granted by the High Court to restrain any digging or removal of asphalt from land, which digging or removal is carried on by virtue of a permit, unless it is proved that the digging has been conducted in contravention of the permit.
 
-*under*
+*No action for loss of asphalt due to operations under permit.*
 
-with a permit, shall lie unless founded upon a certificate issued by operations permit. the Inspector under section 15.
+**17.** No action for loss of asphalt or other constituent of the soil resulting from digging operations, conducted in accordance with a permit, shall lie unless founded upon a certificate issued by the Inspector under section 15.
 
 *Saving certain rights of action.*
 
@@ -244,11 +264,9 @@ with a permit, shall lie unless founded upon a certificate issued by operations 
 
 **20.** (1) Any owner of asphalt-bearing land or his agent desiring to obtain a permit shall enter into a bond with one or more sureties to be approved by the Comptroller of Accounts in the sum of one thousand two hundred dollars for the due observance of this Act and of the regulations in respect of all diggings to be carried on by him or under his authority by virtue of the permit.
 
-(2) Such bond shall be given to the Inspector and his assigns and may be enforced by him by action brought in his official
-
 *Form 7. Second Schedule.*
 
-name, and shall be in the Form 7 in the Second Schedule.
+(2) Such bond shall be given to the Inspector and his assigns and may be enforced by him by action brought in his official name, and shall be in the Form 7 in the Second Schedule.
 
 (3) Whenever, by reason of the death, departure from Trinidad and Tobago, or bankruptcy of any party to any bond given as mentioned above, the bond shall, in the opinion of the Comptroller of Accounts (to be signified in writing to the Inspector), become an insufficient or unsatisfactory security, the Inspector may thereupon, by notice in writing, require the owner or his agent to enter into a new bond by a date to be limited in the notice, and if such new bond is not given accordingly the permit shall, upon the expiration of the time so limited, be suspended until the notice is complied with.
 
@@ -256,7 +274,9 @@ name, and shall be in the Form 7 in the Second Schedule.
 
 be so discharged unless complaint has been laid of loss of asphalt or other constituent of the soil in respect of any digging by virtue of the permit. If any such complaint has been laid, the bond shall remain in force until the complaint in question has been decided.
 
-**21.** There shall be kept at the office of the Inspector a book Mining Register. called the Mining Register, wherein shall be entered—
+*Mining Register.*
+
+**21.** There shall be kept at the office of the Inspector a book called the Mining Register, wherein shall be entered—
 
 (a) entry of all notices required by this Act and the regulations;
 
@@ -266,13 +286,21 @@ be so discharged unless complaint has been laid of loss of asphalt or other cons
 
 (d) particulars of permits.
 
-**22.** Every person who is guilty of an offence under this Act or Penalties for offences. the Regulations is liable on summary conviction to a fine of one thousand dollars for each offence.
+*Penalties for offences.*
 
-**23.** The Rules Committee established by the Supreme Court Rules of Court. Ch. 4:01. of Judicature Act, may make Rules of Court prescribing any matter of procedure that is necessary or expedient for the purposes of any of the provisions of this Act.
+**22.** Every person who is guilty of an offence under this Act or the Regulations is liable on summary conviction to a fine of one thousand dollars for each offence.
 
-**24.** The plan prepared by H. J. Massy under and in accordance Plan of La Brea. with the provisions of the La Brea Survey Ordinance 1905, dated 31st July 1907, and approved by the then Legislative Council on 1st February 1909, and any copy thereof certified to be a true copy by the Director of Surveys, shall be admissible in evidence in all Courts, and shall be conclusive evidence of the boundaries of the lots and the lines of the roads and streets shown thereon.
+*Rules of Court. Ch. 4:01.*
 
-**25.** The provisions of this Act shall not apply to the area of the Application to Pitch Lake. Pitch Lake leased by deed of Concession dated 12th July 1888, and made between Her Majesty the Queen of the one part and Joseph Weedon Previté, Henry Alfred Greig, and the New York and Trinidad Asphalt Company of the other part, during the continuance of such lease or of any extensions thereof, but shall apply thereto immediately after the expiration or sooner
+**23.** The Rules Committee established by the Supreme Court of Judicature Act, may make Rules of Court prescribing any matter of procedure that is necessary or expedient for the purposes of any of the provisions of this Act.
+
+*Plan of La Brea.*
+
+**24.** The plan prepared by H. J. Massy under and in accordance with the provisions of the La Brea Survey Ordinance 1905, dated 31st July 1907, and approved by the then Legislative Council on 1st February 1909, and any copy thereof certified to be a true copy by the Director of Surveys, shall be admissible in evidence in all Courts, and shall be conclusive evidence of the boundaries of the lots and the lines of the roads and streets shown thereon.
+
+*Application to Pitch Lake.*
+
+**25.** The provisions of this Act shall not apply to the area of the Pitch Lake leased by deed of Concession dated 12th July 1888, and made between Her Majesty the Queen of the one part and Joseph Weedon Previté, Henry Alfred Greig, and the New York and Trinidad Asphalt Company of the other part, during the continuance of such lease or of any extensions thereof, but shall apply thereto immediately after the expiration or sooner
 
 determination thereof. [NOTE.—Lease extended by Deed dated 19.2.1925 in favour of Trinidad Lake Asphalt Limited, for a term expiring on 31.1.1951.—Registered No. of Deed, 503 of 1925; and further extended by Deed registered No. 99 of 1946 for a term expiring on 31.1.1956].
 
@@ -314,7 +342,9 @@ than 3 inches in diameter, and projecting not less than 18 inches above the surf
 
 (2) The application shall contain a general notice that persons interested in opposing the issue of the permit may lodge with the Inspector notice of their opposition and the grounds thereof, within seven days of the date of the receipt of the application by the Inspector.
 
-(3) The application shall be drawn up in the Form 1 in the Second Second Schedule, or in such other form as the Inspector may approve, and shall be Schedule. furnished in duplicate to the Inspector, one of such duplicate forms at least being signed by the applicant.
+*Second Schedule.*
+
+(3) The application shall be drawn up in the Form 1 in the Second Schedule, or in such other form as the Inspector may approve, and shall be furnished in duplicate to the Inspector, one of such duplicate forms at least being signed by the applicant.
 
 (4) The Inspector shall forthwith, on receipt of the application, cause to be entered the date of its receipt by him upon the two copies thereof, and shall cause one copy of the application to be affixed for public notice in a conspicuous place for that purpose provided at La Brea.
 
@@ -326,9 +356,9 @@ than 3 inches in diameter, and projecting not less than 18 inches above the surf
 
 (8) No refusal of any application shall be held to prejudice the consideration of a fresh application in respect of the same property by the same or by any other applicant.
 
-(9) A permit when issued shall be in writing, and may be in the Form 6 in the Second Schedule. Until the issue or refusal of such a permit, no digging Second
+*Second Schedule.*
 
-*Schedule.*
+(9) A permit when issued shall be in writing, and may be in the Form 6 in the Second Schedule. Until the issue or refusal of such a permit, no digging
 
 operations or excavations shall be commenced on the land for which a permit has been applied for. The Inspector may, for good cause shown, extend the time within which the digging operations shall be concluded.
 

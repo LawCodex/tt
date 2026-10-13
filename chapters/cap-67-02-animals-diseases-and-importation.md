@@ -40,7 +40,9 @@ Current Authorised Pages Pages Authorised (inclusive) by L.R.O.
 
 87–111 ..
 
-Index of Subsidiary Legislation Page Equine Influenza (Infected Places) Orders:
+*Page*
+
+Index of Subsidiary Legislation Equine Influenza (Infected Places) Orders:
 
 [LN 30/1986—(Santa Rosa Paddock)] … … … … 18
 
@@ -50,9 +52,11 @@ Index of Subsidiary Legislation Page Equine Influenza (Infected Places) Orders:
 
 [LN 57/1994—(Paradise Farm, Carapo)] … … … … 19
 
-[LN 58/1994—(Trinidad Race Club Santa Rosa Park, O’Meara)] … 20 [LN 59/1994—(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations (GN 128/1949) … … … … … … … 21 Fowl Pest Order (GN 164/1952) … … … … … 22 Anthrax Regulations (GN 28/1955) … … … … … 31 Swine Fever Regulations (GN 29/1955) … … … … 38 Epizootic Abortion Regulations (GN 30/1955) … … … … 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) … … … … 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations (LN 108/2003) … … … … … … … 70 Amblyomma Variegatum (Prevention and Control) Regulations (LN 31/1998) … … … … … … … 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations (G 24.12.31; GN 27/1955) … … … … 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice (LN 233/1986) … … … … … … … 109 Poultry (Application of Act) Order (GN 16/1955) … … … 111 Note on Infected Places Orders The various Infected Places Orders made under section 5 should be read in the light of the amendments made to that section.
+*light of the 3:03) the Minister’s is made*
 
-Note on Adaptation Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister’s approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+[LN 58/1994—(Trinidad Race Club Santa Rosa Park, O’Meara)] … 20 [LN 59/1994—(Highclaire Stud Farm, Ragoonanan Road, Enterprise)] … 20 Diseases of Animals (Veterinary Export Certificates) Regulations (GN 128/1949) … … … … … … … 21 Fowl Pest Order (GN 164/1952) … … … … … 22 Anthrax Regulations (GN 28/1955) … … … … … 31 Swine Fever Regulations (GN 29/1955) … … … … 38 Epizootic Abortion Regulations (GN 30/1955) … … … … 44 Foot and Mouth Disease Regulations (GN 60/1955) … … … 45 Paralytic Rabies Regulations (GN 50/1956) … … … … 62 Equine Encephalomyelitis Regulations (GN 21/1960) … … … 66 Tuberculosis in Cattle and Goats Regulations (GN 15/1967) … … 69 Bovine Brucellosis or Contagious Abortion (Eradication) Regulations (LN 108/2003) … … … … … … … 70 Amblyomma Variegatum (Prevention and Control) Regulations (LN 31/1998) … … … … … … … 79 Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations (G 24.12.31; GN 27/1955) … … … … 86 Animals (Importation) Control Regulations (GN 27/1955) … … 88 Importation of Poultry and Non-Poultry Products Permit Notice (LN 233/1986) … … … … … … … 109 Poultry (Application of Act) Order (GN 16/1955) … … … 111 Note on Infected Places Orders The various Infected Places Orders made under section 5 should be read in the amendments made to that section.
+
+Note on Adaptation Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. Commission amended certain references to public officers in this Chapter. The approval of the amendments was signified by LN 52/1980, but no marginal reference to this Notice where any such amendment is made in the text.
 
 ### CHAPTER 67:02 ANIMALS (DISEASES AND IMPORTATION) ACT
 
@@ -124,19 +128,21 @@ Note on Adaptation Under paragraph 6 of the Second Schedule to the Law Revision 
 
 ## SCHEDULE.
 
-### CHAPTER 67:02
+*19 of 1954.*
 
-ANIMALS (DISEASES AND IMPORTATION) ACT An Act to make further and better provisions for controlling 19 of 1954. the Importation of Animals, Birds, Reptiles and Insects, and for regulating the treatment and disposal of animals which are suffering or are suspected to be suffering from any disease, and for other matters related thereto or connected therewith.
+*Commencement. 14/1955. Short title.*
 
-[15 TH M ARCH 1955] Commencement. 14/1955. *1. This Act may be cited as the Animals (Diseases and Short title. Importation) Act.
+CHAPTER 67:02 ANIMALS (DISEASES AND IMPORTATION) ACT An Act to make further and better provisions for controlling the Importation of Animals, Birds, Reptiles and Insects, and for regulating the treatment and disposal of animals which are suffering or are suspected to be suffering from any disease, and for other matters related thereto or connected therewith.
 
-## PART I — PRELIMINARY
+[15 TH M ARCH 1955] *1. This Act may be cited as the Animals (Diseases and Importation) Act.
+
+*Interpretation. [45 of 1979 17 of 1997].*
+
+## PART I PRELIMINARY
 
 **2.** In this Act—
 
-Interpretation.
-
-“animal” includes any species of poultry or birds, cattle, horses, 17 of 1997]. [45 of 1979 mules, asses, sheep, swine, goats, dogs and feline animals and all animals of whatsoever kind whether similar to the foregoing or not;
+“animal” includes any species of poultry or birds, cattle, horses, mules, asses, sheep, swine, goats, dogs and feline animals and all animals of whatsoever kind whether similar to the foregoing or not;
 
 “bird” does not include poultry;
 
@@ -144,11 +150,11 @@ Interpretation.
 
 “cattle” includes bulls, cows, oxen, steers, heifers, calves and the water buffalo;
 
+*Schedule.*
+
 “defined port” means a port as defined by any Regulation made under section 15;
 
 “disease” means any disease for the time being included in the Schedule;
-
-Schedule.
 
 “diseased” means affected with disease;
 
@@ -184,11 +190,9 @@ Schedule.
 
 (3) In exercising the duty referred to in subsection (2) all the officers mentioned therein have all the rights and powers conferred on the Inspector by this Act and by any Regulations made hereunder.
 
-## PART II
-
 *Segregation and notification of diseased or infested animals, etc. [17 of 1997].*
 
-### CONTROL OF DISEASED, SUSPECTED OR INFESTED ANIMALS
+## PART II CONTROL OF DISEASED, SUSPECTED OR INFESTED ANIMALS
 
 **4.** (1) Any person having in his possession or under his charge any diseased or infested animal shall—
 
@@ -196,59 +200,51 @@ Schedule.
 
 (b) with all practicable speed give notice of the fact of the animal being so diseased or infested to the Inspector or to the person in charge of the nearest police station.
 
+*Infected or infested places. [6 of 1963]. 17 of 1997].*
+
 (2) The person to whom notice under subsection (1) is given, if not the Inspector, shall forthwith give information thereof to the Inspector.
 
-**5.** (1) Where the Inspector suspects that any disease or Infected or infestation exists in any stable, shed, pen, field, pasture, or other [6 of 1963]. infested places. similar place, he shall forthwith sign a notice to that effect and the 17 of 1997]. notice shall contain a declaration that such place, the limits whereof shall be therein specified, is an infected or infested place. The Inspector shall serve a copy of the notice, or cause the same to be served, upon the occupier of such place.
+**5.** (1) Where the Inspector suspects that any disease or infestation exists in any stable, shed, pen, field, pasture, or other similar place, he shall forthwith sign a notice to that effect and the notice shall contain a declaration that such place, the limits whereof shall be therein specified, is an infected or infested place. The Inspector shall serve a copy of the notice, or cause the same to be served, upon the occupier of such place.
 
-(2) Upon the service of the notice, the place therein specified shall be an infected or infested place subject to confirmation or otherwise by the Minister under subsection (4)
-
-except that the Inspector may, at any time within seven days of the service and before the confirmation or otherwise, withdraw the notice and thereupon such place shall cease to be an infected or infested place.
+(2) Upon the service of the notice, the place therein specified shall be an infected or infested place subject to confirmation or otherwise by the Minister under subsection (4) except that the Inspector may, at any time within seven days of the service and before the confirmation or otherwise, withdraw the notice and thereupon such place shall cease to be an infected or infested place.
 
 (3) The Inspector shall with all practicable speed send a copy of the notice to the Minister and where the notice has been withdrawn, the Inspector shall forthwith inform the Minister.
 
 (4) Upon the receipt of a copy of the notice, the Minister shall forthwith consider the same and, if satisfied that such course is expedient or necessary, shall by Order declare the place specified in the notice to be an infected or infested place and also by Order declare that any area containing, adjoining or surrounding such place is an area infected or infested with disease or infestation and the Order shall specify the limits of such infected or infested area.
 
-(5) If the Minister is not satisfied that such course is expedient or necessary, he shall by Order revoke the notice and thereupon, as from the time specified in that behalf by such Order, the stable, pen, shed, field, pasture or other place shall
+*Infected or infested areas. [6 of 1963 17 of 1997].*
 
-*or*
+(5) If the Minister is not satisfied that such course is expedient or necessary, he shall by Order revoke the notice and thereupon, as from the time specified in that behalf by such Order, the stable, pen, shed, field, pasture or other place shall cease to be an infected or infested place.
 
-cease to be an infected or infested place.
-
-**6.** (1) The Minister whenever it appears necessary or Infected expedient to do so by reason of the existence of any disease or [6 of 1963 infested areas. infestation, may by Order declare any area in Trinidad and 17 of 1997]. Tobago to be infected or infested with disease or infestation, and the Order shall specify the limits of such infected or infested area.
-
-(2) The Minister may, if he thinks fit, by Order, extend,
+**6.** (1) The Minister whenever it appears necessary or expedient to do so by reason of the existence of any disease or infestation, may by Order declare any area in Trinidad and Tobago to be infected or infested with disease or infestation, and the Order shall specify the limits of such infected or infested area.
 
 *Defined port. [17 of 1997]. Slaughter of diseased, suspected or infested animals. [17 of 1997].*
 
-reduce or otherwise alter the limits of any infected or infested area.
+(2) The Minister may, if he thinks fit, by Order, extend, reduce or otherwise alter the limits of any infected or infested area.
 
 **7.** No defined port or part thereof shall be declared to be an infected or infested place or an infected or infested area.
 
 **8.** (1) The Inspector may cause any diseased, suspected or infested animal, or any animal which has been in the same stable, shed, pen, field, pasture, or other similar place, or in the same herd or flock as, or in contact with, any diseased, suspected or infested animal, whether or not any such place has been declared to be an infected or infested place or is within an infected or infested area, to be slaughtered or quarantined in order to prevent the spread of the disease or infestation; and for such purpose the Inspector may give all such directions as he may consider necessary.
 
-(2) The Inspector may, for the purpose of observation and treatment, take possession of and retain any animal liable to be slaughtered under this section, but subject to payment of
-
 *Disposal of animals.*
 
-compensation as in the case of actual slaughter.
-
-**9.** Any animal slaughtered under this Act, or which dies as the result of disease, shall be destroyed, buried or otherwise disposed of, as soon as possible in accordance with regulations made under this Act and in accordance with the orders, either general or particular, of the Inspector; and for such purposes the Inspector may use any suitable ground in the possession or
+(2) The Inspector may, for the purpose of observation and treatment, take possession of and retain any animal liable to be slaughtered under this section, but subject to payment of compensation as in the case of actual slaughter.
 
 *Straying of animals. [17 of 1997]. Compensation. [6 of 1963].*
 
-occupation of the owner of the animal.
+**9.** Any animal slaughtered under this Act, or which dies as the result of disease, shall be destroyed, buried or otherwise disposed of, as soon as possible in accordance with regulations made under this Act and in accordance with the orders, either general or particular, of the Inspector; and for such purposes the Inspector may use any suitable ground in the possession or occupation of the owner of the animal.
 
 **10.** Where any part of Trinidad and Tobago is stated or declared to be an infected or infested area, it shall not be lawful to allow any animal to be taken or moved or to stray into or out of such infected or infested area otherwise than in the prescribed manner.
 
 **11.** (1) The Minister may in his discretion award for the compulsory slaughter of any animal under this Act such compensation as he may think fit, which shall be payable out of moneys provided by Parliament. The amount of any such compensation shall not exceed the value of the animal immediately before slaughter, and compensation may be reduced or refused where the owner or the person having charge of the animal has, in the opinion of the Minister, been guilty, in relation to the animal, of an offence against this Act.
 
+*Order amending definition of disease. [6 of 1963]. Schedule. Regulations. [6 of 1963 17 of 1997].*
+
 (2) No compensation is payable in respect of any animal compulsorily slaughtered when in a quarantine station, if, in the opinion of the Inspector, the animal was diseased at the time of importation.
 
-*definition of [6 of 1963]. Schedule. [6 of 1963*
+**12.** The Minister may by Order amend the Schedule by adding thereto or deleting therefrom the name of any particular disease, or otherwise.
 
-**12.** The Minister may by Order amend the Schedule by Order amending adding thereto or deleting therefrom the name of any particular disease. disease, or otherwise.
-
-**13.** (1) The Minister may make Regulations generally for the Regulations. control and treatment of diseased, suspected or infested animals 17 of 1997]. and for the prevention and spread of disease or infestation.
+**13.** (1) The Minister may make Regulations generally for the control and treatment of diseased, suspected or infested animals and for the prevention and spread of disease or infestation.
 
 (2) Regulations made under this section may, without prejudice to the generality of such power, make provision with regard to—
 
@@ -274,11 +270,9 @@ occupation of the owner of the animal.
 
 (3) Regulations made under this section may prescribe in respect of any contravention thereof a penalty not exceeding five thousand dollars on summary conviction.
 
-## PART III
-
 *Prohibition of importation of birds, etc. [6 of 1963].*
 
-### IMPORTATION
+## PART III IMPORTATION
 
 **14.** (1) No bird, reptile or insect may be imported into Trinidad and Tobago save under and in accordance with a licence granted by the Chief Technical Officer (Agriculture) under section 16.
 
@@ -288,11 +282,11 @@ occupation of the owner of the animal.
 
 (b) contravenes any of the provisions of any such licence,
 
+*Regulations controlling the importation of animals, etc. [6 of 1963 of 1979 17 of 1997].*
+
 is guilty of an offence; and any bird, reptile or insect in respect of which any such offence is alleged to have been committed may be seized by any person acting under the directions of the Inspector or by any constable, and shall be forfeited to the State, if the person importing the bird, reptile or insect is convicted of an offence under this section.
 
-*controlling the animals, etc. of 1979 17 of 1997].*
-
-**15.** (1) The Minister may, for the purpose of preventing the Regulations introduction or spread of any disease or infestation into Trinidad importation of and Tobago, make Regulations prohibiting, restricting, [6 of 1963 controlling or regulating the importation or landing of animals, or 45 any specific kind thereof, or of carcases, fodder, litter, dung or other similar things.
+**15.** (1) The Minister may, for the purpose of preventing the introduction or spread of any disease or infestation into Trinidad and Tobago, make Regulations prohibiting, restricting, controlling or regulating the importation or landing of animals, or 45 any specific kind thereof, or of carcases, fodder, litter, dung or other similar things.
 
 (2) Regulations made under this section may, without prejudice to the generality of such power, make provision with regard to—
 
@@ -312,37 +306,29 @@ is guilty of an offence; and any bird, reptile or insect in respect of which any
 
 (2) Any licence granted under this section may contain such terms and conditions as the Chief Technical Officer (Agriculture) may think necessary.
 
-(3) Every person desirous of applying for a licence under this section shall make application to the Chief Technical
-
 *Quarantine stations. [6 of 1963 45 of 1979].*
 
-Officer (Agriculture) in such form as such Officer may require.
-
-**17.** The Minister may by Order under this section appoint quarantine stations in such places as he may deem necessary and all animals, reptiles or insects, required to be quarantined under this Act or any Regulations made, or licence granted thereunder, shall be placed within such stations in accordance with the
+(3) Every person desirous of applying for a licence under this section shall make application to the Chief Technical Officer (Agriculture) in such form as such Officer may require.
 
 *Imported animals, etc., to be quarantined. [45 of 1979].*
 
-directions of the Inspector.
+**17.** The Minister may by Order under this section appoint quarantine stations in such places as he may deem necessary and all animals, reptiles or insects, required to be quarantined under this Act or any Regulations made, or licence granted thereunder, shall be placed within such stations in accordance with the directions of the Inspector.
 
 **18.** All animals, reptiles and insects imported into Trinidad and Tobago shall, subject to any regulations made under this Act or to the terms and conditions of any licence granted under this Act, be placed in a quarantine station for such time and under such conditions as may be specified in the Regulations or in the licence.
 
-## PART IV
-
 *Powers of apprehension.*
 
-### GENERAL
+## PART IV GENERAL
 
 **19.** (1) Where any person is found committing, or is reasonably suspected of being engaged in committing, an offence against this Act or against any Regulation made thereunder, any constable may without warrant stop and detain him and, if his name and address are not known to the constable and he fails to give them to the satisfaction of the constable, the constable may without warrant apprehend him and may, whether he has so stopped,
 
 detained or apprehended such person or not, stop, detain and examine any animal, bird, reptile, insect, vehicle, boat or other thing, to which the offence or suspected offence relates and require it to be forthwith taken back to or into any place or district wherefrom or whereout it was unlawfully removed, and execute and enforce that requisition.
 
-(2) If any person obstructs or impedes a constable in the execution of his duty under this Act or of any regulation made thereunder or assists in any such obstructing or impeding, the
+*Powers of Inspector. [17 of 1997].*
 
-*of Inspector.*
+(2) If any person obstructs or impedes a constable in the execution of his duty under this Act or of any regulation made thereunder or assists in any such obstructing or impeding, the constable may without warrant arrest the offender.
 
-constable may without warrant arrest the offender.
-
-**20.** The Inspector shall have all the powers given to a Powers constable under section 19 of this Act and may at any time [17 of 1997]. enter—
+**20.** The Inspector shall have all the powers given to a constable under section 19 of this Act and may at any time enter—
 
 (a) any pen, building, land or place, where he has reasonable grounds for supposing—
 
@@ -374,23 +360,25 @@ constable may without warrant arrest the offender.
 
 (g) takes or moves, or allows to be taken or moved any animal, carcase, fodder, litter, dung or other thing, into or out of any infected or infested place or infected or infested area otherwise than in accordance with this Act or with any Regulations made thereunder; or
 
-(h) allows any animal to stray into or out of any infected or infested place or infected or infested area, is guilty of an offence against this Act.
+*is guilty of*
 
-**22.** Any person guilty of an offence against this Act shall, Penalty. save where otherwise expressly provided, be liable for each such [17 of 1997]. offence on summary conviction to a fine of five thousand dollars.
+(h) allows any animal to stray into or out of any infected or infested place or infected or infested area, an offence against this Act.
 
-**23.** All Regulations made under this Act shall be subject to Regulations to negative resolution of Parliament.
+*Penalty. [17 of 1997]. Regulations to be laid before Parliament. Transport through infected or infested places and areas. [17 of 1997].*
 
-be laid before Parliament.
+**22.** Any person guilty of an offence against this Act shall, save where otherwise expressly provided, be liable for each such offence on summary conviction to a fine of five thousand dollars.
 
-**24.** Subject to any specific provision in any Regulations Transport under this Act, nothing in this Act, or in any Regulations made or infested through infected thereunder, shall be construed as restricting or prohibiting the places and areas. transport of any person, animal or thing, by public road through [17 of 1997]. an infected or infested place or an infected or infested area if such person, animal or thing, is not detained within such place or area.
+**23.** All Regulations made under this Act shall be subject to negative resolution of Parliament.
 
-\*25. The Minister may by Order apply, subject to such Power to apply exceptions, adaptations and modifications as may be therein set Act to poultry. out, the provisions of this Act, and of any Regulations made thereunder, to poultry.
+*Power to apply Act to poultry.*
+
+*Bees. Saving. Ch. 25. No. 10. (1951–53 Ed.). [45 of 1979 164/1954].*
+
+**24.** Subject to any specific provision in any Regulations under this Act, nothing in this Act, or in any Regulations made thereunder, shall be construed as restricting or prohibiting the transport of any person, animal or thing, by public road through an infected or infested place or an infected or infested area if such person, animal or thing, is not detained within such place or area. *25. The Minister may by Order apply, subject to such exceptions, adaptations and modifications as may be therein set out, the provisions of this Act, and of any Regulations made thereunder, to poultry.
 
 **26.** Nothing in this Act shall apply to bees.
 
-Bees.
-
-**27.** Notwithstanding the repeal of the Diseases of Animals Saving. (Poultry) Ordinance, by the Law Revision (Miscellaneous (1951–53 Ed.). Ch. 25. No. 10. Amendments), the Fowl Pest Order, 1952–1953 made under [45 of 1979 section 3(2) of that Ordinance shall continue in force and have 164/1954]. effect as if made under this Act.
+**27.** Notwithstanding the repeal of the Diseases of Animals (Poultry) Ordinance, by the Law Revision (Miscellaneous Amendments), the Fowl Pest Order, 1952–1953 made under section 3(2) of that Ordinance shall continue in force and have effect as if made under this Act.
 
 \*See GN 16/1955.
 
@@ -518,11 +506,9 @@ Vesicular Stomatitis
 
 Viral Hemorrhagic Disease (rabbits)
 
-### SUBSIDIARY LEGISLATION
-
 *30/1986.*
 
-EQUINE INFLUENZA (INFECTED PLACES) ORDER made under section 5(4)
+SUBSIDIARY LEGISLATION EQUINE INFLUENZA (INFECTED PLACES) ORDER made under section 5(4)
 
 **1.** This Order may be cited as the Equine Influenza (Infected Places) Order.
 
@@ -598,7 +584,9 @@ DISEASES OF ANIMALS (VETERINARY EXPORT 128/1949. CERTIFICATES) REGULATIONS [6 of
 
 (d) For a certificate in respect of animals other than those provided for in paragraphs (a) to (c), including cattle, buffalo, mules, asses, dogs and cats… 20.00
 
-(e) For an endorsement of a certificate … 5.00 * These Regulations were made under section 12 of the Diseases of Animals Ordinance (now repealed) and continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01).
+*\\**
+
+(e) For an endorsement of a certificate … 5.00 These Regulations were made under section 12 of the Diseases of Animals Ordinance (now repealed) and continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01).
 
 ### FOWL PEST ORDER
 
@@ -628,11 +616,9 @@ DISEASES OF ANIMALS (VETERINARY EXPORT 128/1949. CERTIFICATES) REGULATIONS [6 of
 
 *164/1952.*
 
-### FOWL PEST ORDER
-
 *Citation and commencement. Interpretation.*
 
-\*deemed to be made under section 3
+FOWL PEST ORDER *deemed to be made under section 3
 
 **1.** This Order shall be cited as the Fowl Pest Order.
 
@@ -644,11 +630,11 @@ DISEASES OF ANIMALS (VETERINARY EXPORT 128/1949. CERTIFICATES) REGULATIONS [6 of
 
 “fowl pest” means any of the forms of that disease, including Newcastle disease and fowl plague;
 
+*Notice of disease.*
+
 “Veterinary Officer” means a Veterinary Officer of the Department of Agriculture.
 
-*disease.*
-
-**3.** (1) Every person having in his possession or under his Notice of charge any poultry or the carcase of any poultry which is affected or suspected of being affected with fowl pest shall, with all practicable speed, give notice of the fact to a constable of the police station nearest to the place wherein the poultry or carcase is.
+**3.** (1) Every person having in his possession or under his charge any poultry or the carcase of any poultry which is affected or suspected of being affected with fowl pest shall, with all practicable speed, give notice of the fact to a constable of the police station nearest to the place wherein the poultry or carcase is.
 
 (2) A Veterinary Surgeon who examines any poultry or the carcase of any poultry, and suspects that the poultry or carcase is affected with fowl pest, shall, with all practicable speed, give notice of the suspicion to a constable of the police station nearest to the place wherein the poultry or carcase is.
 
@@ -664,31 +650,27 @@ DISEASES OF ANIMALS (VETERINARY EXPORT 128/1949. CERTIFICATES) REGULATIONS [6 of
 
 (b) detain on the premises all poultry thereon and the carcases of any poultry.
 
-(2) The restrictions imposed by this subclause shall
-
 *Schedule.*
 
-remain in operation until they are withdrawn by a notice served on the occupier of the premises by a Veterinary Officer or until a notice according to the Form set out in the Schedule has been served on the occupier of the premises by a Veterinary Officer.
-
-(3) Nothing in this subclause shall prohibit the burning
+(2) The restrictions imposed by this subclause shall remain in operation until they are withdrawn by a notice served on the occupier of the premises by a Veterinary Officer or until a notice according to the Form set out in the Schedule has been served on the occupier of the premises by a Veterinary Officer.
 
 *Veterinary enquiry by Department of Agriculture.*
 
-or burying of the carcases on the premises.
+(3) Nothing in this subclause shall prohibit the burning or burying of the carcases on the premises.
 
 **5.** (1) A Veterinary Officer on receiving in any manner whatsoever information that fowl pest exists, or is suspected to exist, on any premises shall enquire as to the correctness of such information and examine any poultry or carcase of any poultry on such premises which the Veterinary Officer considers it desirable to examine for the purpose of the enquiry.
 
-(2) For the purposes of this subclause, the Veterinary Officer may enter on any part of the premises and the occupier of the premises and the persons in his employment shall render such reasonable assistance as may be required for all or any of the
-
 *Diagnosis by Department of Agriculture. Rules to be observed on an infected place.*
 
-purposes of this subclause.
+(2) For the purposes of this subclause, the Veterinary Officer may enter on any part of the premises and the occupier of the premises and the persons in his employment shall render such reasonable assistance as may be required for all or any of the purposes of this subclause.
 
 **6.** A certificate signed by a Veterinary Officer after enquiry shall, for the purposes of this Order, be conclusive evidence of the existence or otherwise of fowl pest.
 
 **7.** (1) Whenever a Veterinary Officer has grounds for suspecting that fowl pest exists on any premises or has existed on any premises within a period of twenty-eight days previous thereto,
 
-he shall forthwith serve a notice, in the form set out in the Schedule. Schedule or to the like effect, on the occupier of the premises, declaring the said premises, within the limits specified in the notice, to be an infected place for the purposes of this Order.
+*Schedule.*
+
+he shall forthwith serve a notice, in the form set out in the Schedule or to the like effect, on the occupier of the premises, declaring the said premises, within the limits specified in the notice, to be an infected place for the purposes of this Order.
 
 (2) On the service of such notice the premises therein shall become an infected place and shall be subject to the following Rules:
 
@@ -734,21 +716,19 @@ The occupier of any premises subject to these Rules shall, if so required by a N
 
 (c) such additional rules as may be specified in such Notice shall apply to the infected place.
 
+*Cleansing and disinfection.*
+
 (4) A Notice served under this subclause shall continue in force until it is withdrawn by a further notice signed by a Veterinary Officer.
 
-*disinfection.*
-
-**8.** (1) Any premises or place, public or private, or any part Cleansing and thereof, on which there has been any poultry or carcase affected with or suspected of fowl pest, and any vehicle in which such poultry or carcase has been conveyed, and any utensil, appliance or other thing therein or used in connection therewith shall be cleansed and disinfected with a disinfectant by the occupier of the premises or place or by the owner or person for the time being in charge of the vehicle, as the case may be, in the manner prescribed by a notice in writing served upon the said occupier, owner or person, by a Veterinary Officer, and to the satisfaction of this officer.
+**8.** (1) Any premises or place, public or private, or any part thereof, on which there has been any poultry or carcase affected with or suspected of fowl pest, and any vehicle in which such poultry or carcase has been conveyed, and any utensil, appliance or other thing therein or used in connection therewith shall be cleansed and disinfected with a disinfectant by the occupier of the premises or place or by the owner or person for the time being in charge of the vehicle, as the case may be, in the manner prescribed by a notice in writing served upon the said occupier, owner or person, by a Veterinary Officer, and to the satisfaction of this officer.
 
 (2) The Veterinary Officer may in the notice require the said occupier or the owner or person to cleanse and disinfect such premises, place or vehicle or such utensil, appliance or other thing at the expense of the said occupier, owner or person, as the case may be.
 
-(3) If the occupier of any premises or place or the owner or person in charge of any vehicle, utensil, appliance or other thing fails to comply with a notice served under this subclause it shall be lawful for the Chief Technical Officer (Agriculture)
+*Transmission of copies of Notice.*
 
-without prejudice to the recovery of any penalty for the infringement of this subclause, to cause such premises, vehicle, utensil or appliance, or other thing to be cleansed and disinfected, and to recover summarily as a civil debt from the said occupier, owner or person the expenses of so doing.
+(3) If the occupier of any premises or place or the owner or person in charge of any vehicle, utensil, appliance or other thing fails to comply with a notice served under this subclause it shall be lawful for the Chief Technical Officer (Agriculture) without prejudice to the recovery of any penalty for the infringement of this subclause, to cause such premises, vehicle, utensil or appliance, or other thing to be cleansed and disinfected, and to recover summarily as a civil debt from the said occupier, owner or person the expenses of so doing.
 
-*copies of*
-
-**9.** A Veterinary Officer shall with all practicable speed send Transmission of copies of any notice served by him under this Order to the Notice. constable in charge of the police station nearest the infected place to which the notice relates.
+**9.** A Veterinary Officer shall with all practicable speed send copies of any notice served by him under this Order to the constable in charge of the police station nearest the infected place to which the notice relates.
 
 *Offences.*
 
@@ -828,11 +808,9 @@ The occupier of any premises subject to these Rules shall, if so required by a N
 
 *28/1955.*
 
-### ANTHRAX REGULATIONS
-
 *Citation and commencement. Notification of anthrax.*
 
-made under section 13
+ANTHRAX REGULATIONS made under section 13
 
 **1.** These Regulations may be cited as the Anthrax Regulations, and shall come into force on 15th March 1955.
 
@@ -844,11 +822,9 @@ made under section 13
 
 (a) forthwith transmit the information by telephone to the Inspector; and
 
-(b) as soon as may be practicable thereafter confirm in writing to the Inspector the transmission by
-
 *Service of notice. Form A. Schedule.*
 
-telephone of the information.
+(b) as soon as may be practicable thereafter confirm in writing to the Inspector the transmission by telephone of the information.
 
 **3.** (1) The Inspector shall, upon receipt of any information pursuant to regulation 2(3), forthwith cause a notice in the form set out as Form A in the Schedule to be served upon the occupier of any premises whereon the animal is.
 
@@ -870,55 +846,57 @@ telephone of the information.
 
 (b) detain on the premises any animal affected with or suspected of being affected with anthrax, and any other animal which has been in the same shed, stable, building, yard or field with any such animal;
 
-(c) disinfect as soon as practicable with a five per cent solution of Jeyes fluid or carbolic acid or such other antiseptic as the Inspector may in any particular case authorise any place where the animal or carcase has lain or where its blood or
+*Movement of animal, carcase, etc.*
 
-*of animal, carcase,*
+(c) disinfect as soon as practicable with a five per cent solution of Jeyes fluid or carbolic acid or such other antiseptic as the Inspector may in any particular case authorise any place where the animal or carcase has lain or where its blood or body discharges have escaped.
 
-body discharges have escaped.
-
-**5.** (1) No animal shall be moved into, or out of, an infected Movement place, except in accordance with the terms of a permit in writing etc. granted by the Inspector.
+**5.** (1) No animal shall be moved into, or out of, an infected place, except in accordance with the terms of a permit in writing granted by the Inspector.
 
 (2) No animal shall be allowed to stray into or out of an infected place.
 
-(3) No carcase, litter, dung, fodder, utensil, pen, hurdle or other thing used in connection with any animal affected with, or suspected of being affected with anthrax, shall be removed from an infected place except in accordance with the terms of a
-
 *Burning and burying of carcase.*
 
-permit in writing granted by the Inspector.
+(3) No carcase, litter, dung, fodder, utensil, pen, hurdle or other thing used in connection with any animal affected with, or suspected of being affected with anthrax, shall be removed from an infected place except in accordance with the terms of a permit in writing granted by the Inspector.
 
 **6.** The carcase of every animal which dies within an infected place shall—
 
 (a) within twelve hours of death, be burnt within the infected place as near to the place where the animal died as practicable; or
 
-(b) be buried with lime within the infected place in a pit not less than seven feet deep and the pit shall be dug as near to the place where the animal died as practicable and shall in no case be less than one hundred feet from any dwelling house, river, well, watercourse, drain
-
 *Opening pit, etc.*
 
-or other channel.
-
-**7.** No person, except in accordance with the terms of a permit in writing granted by the Inspector, shall open any pit in which the carcase of any animal has been buried pursuant to
+(b) be buried with lime within the infected place in a pit not less than seven feet deep and the pit shall be dug as near to the place where the animal died as practicable and shall in no case be less than one hundred feet from any dwelling house, river, well, watercourse, drain or other channel.
 
 *Skinning, opening or mutilating carcase.*
 
-regulation 6 or dig up or remove the carcase or any part thereof.
-
-**8.** No person shall skin, open or in any way mutilate the carcase of any animal which died or is suspected to have died from anthrax except that this regulation does not apply to any autopsy or diagnostic examination performed by, or on the
+**7.** No person, except in accordance with the terms of a permit in writing granted by the Inspector, shall open any pit in which the carcase of any animal has been buried pursuant to regulation 6 or dig up or remove the carcase or any part thereof.
 
 *Milk from affected animal.*
 
-instructions of, the Inspector.
+**8.** No person shall skin, open or in any way mutilate the carcase of any animal which died or is suspected to have died from anthrax except that this regulation does not apply to any autopsy or diagnostic examination performed by, or on the instructions of, the Inspector.
 
 **9.** No milk obtained from any animal affected with, or suspected of being affected with, anthrax shall be used as food either for human beings or for animals and any container in which the milk has been shall be thoroughly sterilised before being used for any other purpose.
 
-**10.** Every occupier of an infected place shall at his own Cleansing and expense and in such manner as the Inspector shall direct, cleanse disinfection. and disinfect—
+*Cleansing and*
+
+*expense*
+
+*disinfection.*
+
+*and*
+
+**10.** Every occupier of an infected place shall at his own and in such manner as the Inspector shall direct, cleanse disinfect—
 
 (a) all parts of any shed, stable, building, field or other place in which any animal affected with, or suspected of being affected with anthrax has died or was slaughtered or was kept prior to its death or slaughter;
 
-(b) every utensil, pen, hurdle or other thing used in connection with any animal affected with, or suspected of being affected with, anthrax.
+*\11. (1)*
+
+*Exposing, etc.,*
+
+*with, or*
 
 *animal affected.*
 
-**11.** (1) No person shall, in relation to any animal affected Exposing, etc., with, or suspected of being affected with, anthrax—
+(b) every utensil, pen, hurdle or other thing used in connection with any animal affected with, or suspected of being affected with, anthrax. No person shall, in relation to any animal affected suspected of being affected with, anthrax—
 
 (a) expose the animal in any market, fair, sale yard or in any other place at which animals are exposed for sale;
 
@@ -930,9 +908,11 @@ instructions of, the Inspector.
 
 (e) place, keep or graze the animal or permit it to be placed, kept or grazed, on the sides of any public road or on any land adjoining a public road which is unfenced or insufficiently fenced;
 
+*person found in any by or at the and there*
+
 (f) allow the animal to stray on to a public road or on to the sides thereof or to be on unenclosed land or in any field or place which is insufficiently fenced.
 
-(2) In addition to any penalty recoverable against any person convicted of an offence against this regulation, every animal found in any place in contravention of this regulation may be moved by or at the direction of the Inspector to some convenient place and there detained and isolated.
+(2) In addition to any penalty recoverable against any convicted of an offence against this regulation, every animal place in contravention of this regulation may be moved direction of the Inspector to some convenient place detained and isolated.
 
 *Vaccination, inoculation, etc. of animal.*
 
@@ -940,11 +920,9 @@ instructions of, the Inspector.
 
 (2) Every such owner shall comply with the directions as the Inspector may from time to time give with regard to the care, management and method of handling any such animal during and subsequent to the time of the vaccination, inoculation or other treatment.
 
-(3) Every such owner shall from time to time report to the Inspector the number of animals which have been vaccinated, inoculated or otherwise treated and the report shall indicate the respective numbers of each type of animal and the date upon
-
 *Penalty.*
 
-which each such animal was so treated.
+(3) Every such owner shall from time to time report to the Inspector the number of animals which have been vaccinated, inoculated or otherwise treated and the report shall indicate the respective numbers of each type of animal and the date upon which each such animal was so treated.
 
 **13.** Any person who contravenes these Regulations or any directions lawfully given, or the terms of any permit lawfully imposed by any person under the authority of these Regulations is liable on summary conviction to a penalty of one thousand dollars.
 
@@ -1004,15 +982,15 @@ FORM B ANTHRAX REGULATIONS WITHDRAWAL NOTICE To ................................
 
 **16.** Non-application.
 
-SWINE FEVER REGULATIONS 29/1955. made under section 13
+*29/1955.*
 
-**1.** These Regulations may be cited as the Swine Fever Citation.
+*Citation. Swine, etc., affected with swine fever.*
 
-*etc.,*
+SWINE FEVER REGULATIONS made under section 13
 
-Regulations.
+**1.** These Regulations may be cited as the Swine Fever Regulations.
 
-**2.** (1) Every person having in his possession or under his Swine, charge any swine affected with, or suspected of being affected swine fever. affected with with, swine fever, or the carcase of any swine so affected or suspected, shall with all practicable speed give notice of the swine or the carcase being or having been so affected or suspected to the constable in charge of the nearest police station.
+**2.** (1) Every person having in his possession or under his charge any swine affected with, or suspected of being affected with, swine fever, or the carcase of any swine so affected or suspected, shall with all practicable speed give notice of the swine or the carcase being or having been so affected or suspected to the constable in charge of the nearest police station.
 
 (2) Every veterinary surgeon who, upon examining any swine or the carcase of any swine, is of opinion or suspects that such swine is or was when it died or was slaughtered affected with swine fever, shall with all practicable speed give notice of the affection or suspicion of affection to the constable in charge of the nearest police station.
 
@@ -1020,11 +998,11 @@ Regulations.
 
 (a) forthwith transmit the information by telephone to the Inspector; and
 
+*Serving of notice. Form A. Schedule.*
+
 (b) as soon as may be practicable thereafter confirm in writing to the Inspector the transmission by telephone of the information.
 
-*A.*
-
-**3.** (1) The Inspector shall, upon receipt of any information Serving of pursuant to regulation 2(3), forthwith cause a notice in the form notice. set out as Form A in the Schedule to be served upon the occupier Form of any premises whereon the animal is. Schedule.
+**3.** (1) The Inspector shall, upon receipt of any information pursuant to regulation 2(3), forthwith cause a notice in the form set out as Form A in the Schedule to be served upon the occupier of any premises whereon the animal is.
 
 (2) The Inspector shall immediately after the service of the notice referred to in subregulation (1) proceed to the place to which the notice refers, and shall there make a full investigation of all the circumstances and shall make a report thereon to the Chief Technical Officer (Agriculture).
 
@@ -1034,19 +1012,15 @@ Regulations.
 
 (4) A notice under subregulation (1) shall remain in force until withdrawn by a withdrawal notice in the form set out as Form B in the Schedule, or until revoked by Order of the Minister.
 
-**4.** No swine nor the carcase of any swine nor any portion of the carcase shall be moved out of or into, or from place to place within, any infected place or area except in accordance with the
-
 *Confinement. Swine straying.*
 
-terms of a permit in writing given by the Inspector.
+**4.** No swine nor the carcase of any swine nor any portion of the carcase shall be moved out of or into, or from place to place within, any infected place or area except in accordance with the terms of a permit in writing given by the Inspector.
 
 **5.** All swine within an infected place or area shall be kept confined in a sty, pen or other enclosure.
 
-**6.** Any swine straying into or out of an infected place or an infected area may, in the discretion of the Inspector or constable in charge of the nearest police station, be shot or
-
 *Burning or burial of carcase.*
 
-otherwise destroyed.
+**6.** Any swine straying into or out of an infected place or an infected area may, in the discretion of the Inspector or constable in charge of the nearest police station, be shot or otherwise destroyed.
 
 **7.** (1) The carcase of any swine—
 
@@ -1058,51 +1032,47 @@ otherwise destroyed.
 
 (2) Where the carcase of any such swine is buried, it shall be buried at a depth of not less than five feet below the surface of the ground.
 
-**8.** No person shall exhume or dig up the carcase of any Exhumation, swine nor any portion thereof which is buried within an infected etc., of carcase. place or area except in accordance with the terms of a permit in writing granted by the Inspector.
+*Exhumation, etc., of carcase.*
 
-**9.** (1) No dung of any swine, nor food, fodder, litter or Dung of swine, utensils used in connection with any swine in an infected place or in connection food, etc., used area shall be moved out of the infected place or area.
+*Dung of swine, food, etc., used in connection with swine.*
 
-with swine.
+**8.** No person shall exhume or dig up the carcase of any swine nor any portion thereof which is buried within an infected place or area except in accordance with the terms of a permit in writing granted by the Inspector.
+
+**9.** (1) No dung of any swine, nor food, fodder, litter or utensils used in connection with any swine in an infected place or area shall be moved out of the infected place or area.
+
+*Cleansing and treatment of sty, etc.*
 
 (2) Any such dung, food, fodder, litter or utensils shall be burnt or buried or otherwise treated, dealt with, or disposed of as the Inspector may in any particular case direct.
 
-**10.** Every part of every sty, pen or other enclosure where any Cleansing and swine affected with, or suspected of being affected with, swine etc. treatment of sty, fever has been kept or isolated shall be cleansed and treated in such manner as the Inspector may in any particular case direct.
+*Confinement and immunisation.*
 
-**11.** (1) Any swine which, within a period of thirty days, has Confinement been in contact with any swine affected with swine fever shall be immunisation. and isolated and kept confined in a sty, pen or other enclosure for a period of not less than thirty days after the death or destruction of the last of such swine affected with swine fever.
+**10.** Every part of every sty, pen or other enclosure where any swine affected with, or suspected of being affected with, swine fever has been kept or isolated shall be cleansed and treated in such manner as the Inspector may in any particular case direct.
+
+**11.** (1) Any swine which, within a period of thirty days, has been in contact with any swine affected with swine fever shall be isolated and kept confined in a sty, pen or other enclosure for a period of not less than thirty days after the death or destruction of the last of such swine affected with swine fever.
 
 (2) For the purposes of subregulation (1), every person who has disposed of any swine which has been in contact with swine affected with swine fever shall, upon being required by the Inspector, disclose the name and address of any person to whom the swine was disposed of and the place at which the swine was delivered or the destination to which it was consigned.
 
 (3) The Inspector may order that any swine within any infected place or area shall at the risk and expense of the owner be immunised against swine fever by vaccination or otherwise.
 
-(4) All swine immunised pursuant to subregulation (3)
-
-shall be isolated from other swine and kept confined for such period as may be specified by the Inspector.
+(4) All swine immunised pursuant to subregulation (3) shall be isolated from other swine and kept confined for such period as may be specified by the Inspector.
 
 *Isolation.*
 
-**12.** All swine on separate premises within an infected place or area shall be isolated from swine on adjoining premises within
-
 *Sale.*
 
-or upon the boundary of the infected place or area.
-
-**13.** No flesh of any swine butchered or slaughtered within an infected place or area shall be offered for sale or used for human
+**12.** All swine on separate premises within an infected place or area shall be isolated from swine on adjoining premises within or upon the boundary of the infected place or area.
 
 *Seizure and destruction.*
 
-consumption.
-
-**14.** The carcase of any swine which has within seven days immediately preceding the date of its slaughter been in contact with any other swine affected with or suspected of being affected
+**13.** No flesh of any swine butchered or slaughtered within an infected place or area shall be offered for sale or used for human consumption.
 
 *Penalty.*
 
-with swine fever may be seized and destroyed by the Inspector.
-
-**15.** Any person who contravenes these Regulations or any directions lawfully given, or the terms of any permit lawfully imposed by any person under the authority of these Regulations
+**14.** The carcase of any swine which has within seven days immediately preceding the date of its slaughter been in contact with any other swine affected with or suspected of being affected with swine fever may be seized and destroyed by the Inspector.
 
 *Non-application.*
 
-is liable on summary conviction to a fine of one thousand dollars.
+**15.** Any person who contravenes these Regulations or any directions lawfully given, or the terms of any permit lawfully imposed by any person under the authority of these Regulations is liable on summary conviction to a fine of one thousand dollars.
 
 **16.** These Regulations shall not apply to swine which originate outside of any infected place or area and which are moved in a vehicle into or through any such place or area for slaughter, within forty-eight hours of being moved through any such place or area, at any public abattoir or other place authorised or licensed for the slaughter or butchering of animals.
 
@@ -1126,23 +1096,17 @@ EPIZOOTIC ABORTION REGULATIONS made under section 13
 
 **1.** These Regulations may be cited as the Epizootic Abortion Regulations.
 
-**2.** No person shall expose or cause or permit to be exposed in any market, fair ground or sale yard any cow or heifer which, to his knowledge, or according to information in his possession, has calved prematurely within two months immediately
-
 *Sale, etc. of cow or heifer.*
 
-preceding the exposure.
-
-**3.** No person shall sell or cause or permit to be sold a cow or heifer which to his knowledge, or according to information in his possession, has calved prematurely within the two months immediately preceding the sale unless before the sale he has
+**2.** No person shall expose or cause or permit to be exposed in any market, fair ground or sale yard any cow or heifer which, to his knowledge, or according to information in his possession, has calved prematurely within two months immediately preceding the exposure.
 
 *Sending bull to service cow or heifer.*
 
-given to the purchaser notice in writing of the premature calving.
-
-**4.** No person shall send or cause or permit to be sent to any bull for service, a cow or heifer which to his knowledge, or according to information in his possession, has calved prematurely within the two months immediately preceding, unless before the service he has given notice in writing of the
+**3.** No person shall sell or cause or permit to be sold a cow or heifer which to his knowledge, or according to information in his possession, has calved prematurely within the two months immediately preceding the sale unless before the sale he has given to the purchaser notice in writing of the premature calving.
 
 *Grazing cow or heifer.*
 
-premature calving to the owner of the bull.
+**4.** No person shall send or cause or permit to be sent to any bull for service, a cow or heifer which to his knowledge, or according to information in his possession, has calved prematurely within the two months immediately preceding, unless before the service he has given notice in writing of the premature calving to the owner of the bull.
 
 **5.** No person shall cause or permit any cow or heifer which to his knowledge, or according to information in his possession, has calved prematurely within the two months immediately preceding, to graze—
 
@@ -1152,11 +1116,9 @@ premature calving to the owner of the bull.
 
 (c) on the side of any road; or
 
-(d) on any land on which there are cattle which are
-
 *Penalty.*
 
-not the property of the owner of the cow or heifer.
+(d) on any land on which there are cattle which are not the property of the owner of the cow or heifer.
 
 **6.** Any person who contravenes these Regulations is liable on summary conviction to a penalty of one thousand dollars.
 
@@ -1198,11 +1160,9 @@ not the property of the owner of the cow or heifer.
 
 *60/1955.*
 
-### FOOT AND MOUTH DISEASE REGULATIONS
-
 *Citation. Interpretation.*
 
-made under section 13
+FOOT AND MOUTH DISEASE REGULATIONS made under section 13
 
 **1.** These Regulations may be cited as the Foot and Mouth Disease Regulations.
 
@@ -1212,11 +1172,9 @@ made under section 13
 
 “suspected animal” means an animal affected with, or suspected of being affected with, foot and mouth disease;
 
-“suspected place” means any premises in which foot and mouth
-
 *Notification of outbreak or suspected outbreak of foot and mouth disease.*
 
-disease exists or is suspected to exist.
+“suspected place” means any premises in which foot and mouth disease exists or is suspected to exist.
 
 **3.** (1) Every person having in his possession or under his charge any suspected animal or carcase shall with all practicable speed give notice of the fact of the animal or carcase being or having been so affected or suspected of having been so affected to the constable in charge of the nearest police station, or to the Inspector.
 
@@ -1228,9 +1186,9 @@ disease exists or is suspected to exist.
 
 (b) as soon as may be practicable thereafter confirm in writing to the Inspector the transmission of such information.
 
-*as to*
+*Certificate as to a suspected place. Form A. Schedule.*
 
-**4.** (1) The Inspector, upon receipt of information pursuant Certificate to regulation 3(3) or having reasonable grounds for suspecting place. a suspected that foot and mouth disease exists or has within forty-six days existed on any premises, shall forthwith cause a certificate in the form set out as Form A in the Schedule to be served on the Form A. occupier of any premises whereon the animal is or with respect Schedule. to which the suspicion exists.
+**4.** (1) The Inspector, upon receipt of information pursuant to regulation 3(3) or having reasonable grounds for suspecting that foot and mouth disease exists or has within forty-six days existed on any premises, shall forthwith cause a certificate in the form set out as Form A in the Schedule to be served on the occupier of any premises whereon the animal is or with respect to which the suspicion exists.
 
 (2) The Inspector shall immediately after the service of the notice referred to in subregulation (1) proceed to the place to which the notice refers and shall there make a full investigation of all the circumstances and shall make a full report thereon to the Chief Technical Officer (Agriculture).
 
@@ -1238,11 +1196,13 @@ disease exists or is suspected to exist.
 
 (4) The Inspector and every person accompanying him shall, before entering any suspected place, put on suitable rubber boots and overall clothing which are capable of being disinfected, and immediately before leaving the premises shall thoroughly disinfect his boots, overall clothing and hands.
 
-(5) If the Inspector is satisfied that foot and mouth disease does not exist on premises certified to be a suspected place under subregulation (1), he shall cause notice in the form set out as Form B Form B. in the Schedule to be served on the occupier of the premises.
+*Form B. Schedule. Action if disease is suspected.*
 
-Schedule.
+(5) If the Inspector is satisfied that foot and mouth disease does not exist on premises certified to be a suspected place under subregulation (1), he shall cause notice in the form set out as Form B in the Schedule to be served on the occupier of the premises.
 
-**5.** (1) Where a certificate has been signed by the Inspector Action if under regulation 4(1), it shall thereupon be unlawful for any person suspected. disease is to move any animal out of the area lying within a radius of five miles from the suspected place or along, over, or across a highway, road or lane in the area except where the movement, being movement entirely within the area, is necessary or expedient for the detention of the animal. Such movement shall be authorised by a licence in the form set out as Form E in the Schedule, signed by Form E. the Inspector and shall be subject to such conditions as are set Schedule. out in the licence.
+*Form E. Schedule.*
+
+**5.** (1) Where a certificate has been signed by the Inspector under regulation 4(1), it shall thereupon be unlawful for any person to move any animal out of the area lying within a radius of five miles from the suspected place or along, over, or across a highway, road or lane in the area except where the movement, being movement entirely within the area, is necessary or expedient for the detention of the animal. Such movement shall be authorised by a licence in the form set out as Form E in the Schedule, signed by the Inspector and shall be subject to such conditions as are set out in the licence.
 
 (2) Dogs and poultry within a suspected area shall be kept under control being—
 
@@ -1256,15 +1216,11 @@ Any dog or poultry not so restrained is liable to seizure and destruction.
 
 (3) The Inspector may extend the suspected area by a notice to that effect signed by him and the restrictions mentioned above shall apply forthwith to the area so extended. The Inspector shall forthwith notify any change in the area to the police officer in charge of the district concerned.
 
-(4) The restrictions imposed by this regulation shall
-
 *Form B. Schedule.*
-
-remain in operation until the serving of a notice in the form set out as Form B in the Schedule in relation to the suspected place referred to in subregulation (1). Notice of the serving of the form set out as Form B shall be sent to the police officer in charge of
 
 *Rules to be observed on a suspected place.*
 
-the district concerned.
+(4) The restrictions imposed by this regulation shall remain in operation until the serving of a notice in the form set out as Form B in the Schedule in relation to the suspected place referred to in subregulation (1). Notice of the serving of the form set out as Form B shall be sent to the police officer in charge of the district concerned.
 
 **6.** (1) Any premises certified to be a suspected place under regulation 4(1) shall be subject to the following rules:
 
@@ -1312,27 +1268,31 @@ Rule 13 Milk from any suspected animal shall not be moved from a suspected place
 
 (a) such additional rules as may be specified in the notice shall apply to the suspected place;
 
+*Declaration of infected place. Form C. Schedule.*
+
 (b) any of the rules prescribed in this regulation shall cease to apply or shall be modified in the manner specified in the notice.
 
-**7.** (1) Where the Inspector suspects that foot and mouth Declaration of disease exists on any premises, the notice he is required by infected place. section 5(1) of the Act to sign and to be served on the occupier of the premises shall be in the form set out as Form C in the Form C. Schedule, and the Inspector shall with all practicable speed send Schedule. a copy of the notice to the Minister for action in accordance with section 5 of the Act.
+**7.** (1) Where the Inspector suspects that foot and mouth disease exists on any premises, the notice he is required by section 5(1) of the Act to sign and to be served on the occupier of the premises shall be in the form set out as Form C in the Schedule, and the Inspector shall with all practicable speed send a copy of the notice to the Minister for action in accordance with section 5 of the Act.
 
 (2) Upon service of the notice the Inspector shall cause notice of the infected place to be printed in the Gazette and shall inform by telephone or other speedy means the police officer in charge of the district concerned.
 
-(3) Subject as provided below and to the provisions of the Act, the rules applied to premises declared under subregulation (1) to be an infected place shall remain in force until such time as a further notice in the form set out as Form D Form D. in the Schedule shall be served on the occupier of the place by the Schedule. Inspector or until an order is made by the Minister under section 5(5) of the Act revoking the notice.
+*Form D. Schedule.*
 
-**8.** Any premises declared to be an infected place under Rules to be regulation 7(1) shall be subject to the rules set out in regulation 6. infected place. observed on an
+*Rules to be observed on an infected place. Valuation and slaughter of diseased animals. Form C. Schedule.*
 
-**9.** (1) The Inspector shall, as soon as is practicable after the Valuation and serving of notice in the form set out as Form C in the Schedule with diseased slaughter of respect to any premises, with the approval of the Minister, arrange animals. for, and undertake the valuation and slaughter of all cloven hoofed Schedule. Form C. infected animals and, in his discretion, such other animals in the same field, shed or other place or in the same herd or flock,
+(3) Subject as provided below and to the provisions of the Act, the rules applied to premises declared under subregulation (1) to be an infected place shall remain in force until such time as a further notice in the form set out as Form D in the Schedule shall be served on the occupier of the place by the Inspector or until an order is made by the Minister under section 5(5) of the Act revoking the notice.
+
+**8.** Any premises declared to be an infected place under regulation 7(1) shall be subject to the rules set out in regulation 6.
+
+**9.** (1) The Inspector shall, as soon as is practicable after the serving of notice in the form set out as Form C in the Schedule with respect to any premises, with the approval of the Minister, arrange for, and undertake the valuation and slaughter of all cloven hoofed infected animals and, in his discretion, such other animals in the same field, shed or other place or in the same herd or flock,
 
 or otherwise in contact with infected animals, or in any way exposed to infection with foot and mouth disease, and the disposal of the carcases of such animals as may be slaughtered by cremation or by such other means as he may deem advisable and in accordance with these Regulations.
 
 (2) Compensation for any animals slaughtered under this regulation shall be payable in accordance with section 11 of the Act.
 
-(3) In cases where the Minister does not approve of the slaughter of animals under subregulation (1), any such animals
-
 *Rules for an infected area.*
 
-shall be treated in such manner as the Inspector may direct.
+(3) In cases where the Minister does not approve of the slaughter of animals under subregulation (1), any such animals shall be treated in such manner as the Inspector may direct.
 
 **10.** (1) Any area declared by the Minister under section 5(4) or under section 6 of the Act to be an infected area shall be subject to the following provisions of this regulation.
 
@@ -1354,9 +1314,9 @@ shall be treated in such manner as the Inspector may direct.
 
 (7) No exhibition or sale of animals shall be held in an infected area.
 
-*E. Schedule.*
+*Form E. Schedule.*
 
-(8) (a) Licences for the movement of animals in accordance with this regulation shall be given by the Inspector in the form set out as Form E in the Schedule. The licence shall set Form forth the conditions under which such movement may be made.
+(8) (a) Licences for the movement of animals in accordance with this regulation shall be given by the Inspector in the form set out as Form E in the Schedule. The licence shall set forth the conditions under which such movement may be made.
 
 (b) No person shall efface, alter, obliterate or remove or attempt to efface, alter, obliterate or remove any mark painted, stamped or clipped on any animal as required by the conditions of any licence granted under this regulation.
 
@@ -1378,11 +1338,9 @@ Any dog or poultry not so restrained is liable to seizure and destruction.
 
 (12) The Inspector may (notwithstanding the existence of any footpath or right of way) prohibit the entry of any person into any field, shed or other place in an infected area after giving notice of the prohibition in writing to the occupier thereof. In such cases the owner or occupier or his servants may enter the premises or place for the purpose of feeding or tending any animals. No other person shall enter the premises or place except with a written licence granted by the Inspector.
 
-Notices shall be affixed or exhibited by the Inspector as he may consider desirable to ensure compliance with the restrictions
-
 *Cleansing and disinfection of premises for foot and mouth disease.*
 
-imposed under this regulation.
+Notices shall be affixed or exhibited by the Inspector as he may consider desirable to ensure compliance with the restrictions imposed under this regulation.
 
 **11.** (1) Every shed or other place in which an infected animal has been kept or has died or been slaughtered shall be disinfected and cleansed as follows:
 
@@ -1394,11 +1352,11 @@ imposed under this regulation.
 
 (2) All litter, dung or other things removed from the shed or other place shall be forthwith thoroughly disinfected, burnt or otherwise destroyed to the satisfaction of the Inspector.
 
+*Disinfection of vehicles.*
+
 (3) Where any field or other like place is not capable of being so disinfected and cleansed, it shall be sufficient if the field or place is disinfected and cleansed to the satisfaction of the Inspector.
 
-*vehicles.*
-
-**12.** (1) Any cart, van, truck or other vehicle used for the Disinfection of conveyance of any animal or carcase thereof into, within, or out of an infected area or with respect to which the Inspector shall issue a notice requiring disinfection shall, as soon as practicable after each occasion on which it is so used and before any other animal or any fodder or litter or any other thing intended for use on or about animals is placed therein, be disinfected, cleansed and again disinfected by and at the expense of the person using or the person in charge of the same in the following manner:
+**12.** (1) Any cart, van, truck or other vehicle used for the conveyance of any animal or carcase thereof into, within, or out of an infected area or with respect to which the Inspector shall issue a notice requiring disinfection shall, as soon as practicable after each occasion on which it is so used and before any other animal or any fodder or litter or any other thing intended for use on or about animals is placed therein, be disinfected, cleansed and again disinfected by and at the expense of the person using or the person in charge of the same in the following manner:
 
 (a) the floor, roof, sides and ends of the inside of the vehicle and all other parts thereof with which any animal or its droppings or discharges have or may have come in contact, shall be scraped and swept, and the scrapings and the sweepings and all dung, sawdust, litter and other matter shall be effectually removed therefrom; the same parts of the vehicle shall then be thoroughly washed or scrubbed or scoured with water and then be disinfected by being thoroughly coated or washed with a disinfectant approved by the Inspector;
 
@@ -1406,11 +1364,9 @@ imposed under this regulation.
 
 (2) Every crate, box, hamper, loading board, rope, net or other apparatus used in connection with the conveyance of animals as mentioned above shall, on each occasion when the vehicle is required by this regulation to be disinfected, be disinfected by being thoroughly coated, washed or saturated with a disinfectant approved by the Inspector and at the expense of the person in charge of the vehicle.
 
-(3) If the owner or person using, or the person in charge of any vehicle or other thing used in connection with the conveyance of an animal as mentioned above, fails to cleanse to the satisfaction of the Inspector the vehicle or thing as required by this regulation or by a notice served by the Inspector, it shall be lawful for the Inspector to cause the vehicle to be cleansed and disinfected and to recover from the owner or person the expenses
-
 *Control of movement of animals exposed to infection. Form F. Schedule. Form G. Schedule.*
 
-of the cleansing and disinfection as a civil debt.
+(3) If the owner or person using, or the person in charge of any vehicle or other thing used in connection with the conveyance of an animal as mentioned above, fails to cleanse to the satisfaction of the Inspector the vehicle or thing as required by this regulation or by a notice served by the Inspector, it shall be lawful for the Inspector to cause the vehicle to be cleansed and disinfected and to recover from the owner or person the expenses of the cleansing and disinfection as a civil debt.
 
 **13.** (1) Where the Inspector, as a result of information received, believes that any animal or herd or group of animals have been exposed to infection with foot and mouth disease, or, if he considers it expedient to do so for the purpose of preventing the spread of the disease, he shall serve a notice in the form set out as Form F in the Schedule on the owner or person in charge of the animal or animals.
 
@@ -1422,17 +1378,17 @@ of the cleansing and disinfection as a civil debt.
 
 (3) The Inspector may insert in any notice given under this regulation such conditions governing the isolation, housing, pasturage, movement or handling of any animal or group of animals as he may consider expedient.
 
-(4) In the case where an animal or group of animals may be in such a situation as to make effective isolation impracticable, the Inspector may require that such animal or animals be
+*Form E. Schedule. Additional restrictions.*
 
-*Schedule. restrictions.*
+(4) In the case where an animal or group of animals may be in such a situation as to make effective isolation impracticable, the Inspector may require that such animal or animals be removed, before the serving of the notice in the form set out as Form E in the Schedule, to such more convenient and isolated place as he may direct.
 
-removed, before the serving of the notice in the form set out as Form E in the Schedule, to such more convenient and isolated Form E. place as he may direct.
+**14.** (1) If the Inspector has reasonable grounds for believing that the movement of any person, animal, or thing on to or from any place may be attended with risk of spread of foot and mouth disease or that such animal, place or thing has been exposed to the contamination by such disease, he may for the purpose of preventing the spread of the disease prohibit the movement of any person, animal, or thing on to or from any place, or direct the movement of any person, animal, or thing from any place or impose any condition on any such movement or any requirement in relation to the person, place, animal or thing either in respect of subsequent detention or disinfection or otherwise, by the service of a notice in writing to that effect on such person or on the owner or person in charge of the animal or thing.
 
-**14.** (1) If the Inspector has reasonable grounds for believing Additional that the movement of any person, animal, or thing on to or from any place may be attended with risk of spread of foot and mouth disease or that such animal, place or thing has been exposed to the contamination by such disease, he may for the purpose of preventing the spread of the disease prohibit the movement of any person, animal, or thing on to or from any place, or direct the movement of any person, animal, or thing from any place or impose any condition on any such movement or any requirement in relation to the person, place, animal or thing either in respect of subsequent detention or disinfection or otherwise, by the service of a notice in writing to that effect on such person or on the owner or person in charge of the animal or thing.
+*Penalty.*
 
 (2) Any disinfection required by the provisions of a notice under this regulation shall, if so required by the notice, be carried out by and at the expense of the person on whom the notice is served.
 
-**15.** Any person who contravenes these Regulations or any Penalty. directions lawfully given or the terms of any notice or licence lawfully imposed by or under the authority of these Regulations is liable on summary conviction to a penalty of one thousand dollars.
+**15.** Any person who contravenes these Regulations or any directions lawfully given or the terms of any notice or licence lawfully imposed by or under the authority of these Regulations is liable on summary conviction to a penalty of one thousand dollars.
 
 *Regulation 4(1).*
 
@@ -1508,11 +1464,9 @@ In addition the above-named animals are subject to such conditions as are set ou
 
 Schedule of any Special Conditions of this Notice ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... Date.........................................................
 
-................................................................
-
 *Regulation 13(2).*
 
-Inspector FORM G FOOT AND MOUTH DISEASE REGULATIONS WITHDRAWAL OF NOTICE PROHIBITING MOVEMENT OF ANIMALS I, the undersigned, being the Inspector ....................................... under the Animals (Diseases and Importation) Act hereby withdraw as from the .............. day of ........................................., 20...... the Notice in the form of Form F signed by ..................................................... and served on you on the .............. day of ............................................., 20......... prohibiting movement of the animals referred to in that Notice.
+................................................................ Inspector FORM G FOOT AND MOUTH DISEASE REGULATIONS WITHDRAWAL OF NOTICE PROHIBITING MOVEMENT OF ANIMALS I, the undersigned, being the Inspector ....................................... under the Animals (Diseases and Importation) Act hereby withdraw as from the .............. day of ........................................., 20...... the Notice in the form of Form F signed by ..................................................... and served on you on the .............. day of ............................................., 20......... prohibiting movement of the animals referred to in that Notice.
 
 Date ........................................................
 
@@ -1538,13 +1492,13 @@ Date ........................................................
 
 **8.** Penalty.
 
-PARALYTIC RABIES REGULATIONS 50/1956. made under section 13
+*50/1956. Citation. Animal affected with paralytic rabies.*
 
-**1.** These Regulations may be cited as the Paralytic Rabies Citation. Regulations.
+PARALYTIC RABIES REGULATIONS made under section 13
 
-*paralytic*
+**1.** These Regulations may be cited as the Paralytic Rabies Regulations.
 
-**2.** (1) Every person having in his possession or under his Animal affected charge any animal affected with, or suspected of being affected with with, paralytic rabies (Bat transmitted) (hereinafter referred to as rabies. paralytic rabies), or the carcase of any animal so affected or suspected, shall with all practicable speed give notice of the animal or carcase being so affected or suspected to the constable in charge of the nearest police station.
+**2.** (1) Every person having in his possession or under his charge any animal affected with, or suspected of being affected with, paralytic rabies (Bat transmitted) (hereinafter referred to as paralytic rabies), or the carcase of any animal so affected or suspected, shall with all practicable speed give notice of the animal or carcase being so affected or suspected to the constable in charge of the nearest police station.
 
 (2) Every veterinary surgeon who, upon examining any animal or the carcase of any animal, is of the opinion that the animal is, or was when it died, affected with paralytic rabies, shall with all practicable speed give notice of the affection or suspicion of affection to the constable in charge of the nearest police station.
 
@@ -1552,9 +1506,11 @@ PARALYTIC RABIES REGULATIONS 50/1956. made under section 13
 
 (a) forthwith transmit the information by telephone to the Inspector; and
 
+*Movement, etc. of animal or carcase.*
+
 (b) as soon as may be practicable thereafter confirm in writing to the Inspector the transmission by telephone of the information.
 
-**3.** (1) No person shall move, or shall cause or permit to be Movement, etc. moved, or shall dispose of, whether by sale or otherwise, any carcase. of animal or animal or carcase referred to in subregulation (2) except in accordance with the directions of the Inspector given under the subregulation except that it is not an offence to bury the carcase of any such animal if no such directions are received within eighteen hours of the making of a report in relation to the animal or carcase under regulation 2, or where the report cannot be made within eighteen hours after the death of the animal on account of distance, or on account of difficulty of terrain or of communications.
+**3.** (1) No person shall move, or shall cause or permit to be moved, or shall dispose of, whether by sale or otherwise, any animal or carcase referred to in subregulation (2) except in accordance with the directions of the Inspector given under the subregulation except that it is not an offence to bury the carcase of any such animal if no such directions are received within eighteen hours of the making of a report in relation to the animal or carcase under regulation 2, or where the report cannot be made within eighteen hours after the death of the animal on account of distance, or on account of difficulty of terrain or of communications.
 
 Paralytic Rabies Regulations
 
@@ -1562,35 +1518,31 @@ Paralytic Rabies Regulations
 
 (a) any animal affected with, or suspected of being affected with, paralytic rabies; or
 
-(b) the carcase of any animal which has died from, or is suspected of having died from, or while
-
 *Destruction of animal.*
 
-afflicted with paralytic rabies.
+(b) the carcase of any animal which has died from, or is suspected of having died from, or while afflicted with paralytic rabies.
 
 **4.** (1) The Inspector may direct the immediate destruction of any animal found, or reasonably believed, to be affected with paralytic rabies as a result of any examination or otherwise.
 
-(2) The owner or person in charge of any animal which has been destroyed by the direction of the Inspector shall dispose
-
 *Examination of carcase.*
 
-of the carcase thereof as the Inspector may direct.
+(2) The owner or person in charge of any animal which has been destroyed by the direction of the Inspector shall dispose of the carcase thereof as the Inspector may direct.
 
 **5.** (1) The Inspector may conduct a post-mortem examination of the carcase of any animal which has died from, or is suspected of having died from, or while afflicted with paralytic rabies, and may remove such portions of the carcase as he may deem necessary for laboratory examinations and may direct that the carcase be delivered to him at such place and time as he may specify.
 
-(2) The Inspector may direct the carcase of any animal which has been buried to be exhumed for the purpose of conducting a post-mortem examination of the carcase under
-
 *Compensation not payable. Inoculation.*
 
-subregulation (1).
+(2) The Inspector may direct the carcase of any animal which has been buried to be exhumed for the purpose of conducting a post-mortem examination of the carcase under subregulation (1).
 
 **6.** No compensation is payable in respect of any animal or carcase which has been dealt with in any manner authorised by these Regulations.
 
 **7.** The Inspector may direct that any animal shall, at the risk of the owner, be inoculated with vaccine against paralytic
 
+*Penalty.*
+
 Paralytic Rabies Regulations rabies and shall appoint the places, dates and hours at which the animals shall be produced for the purpose of the inoculation. The owner or person in charge of every such animal shall comply with any such directions.
 
-**8.** Any person who contravenes these Regulations or Penalty. directions lawfully given by any person under authority of these Regulations is liable on summary conviction to a penalty of one thousand dollars.
+**8.** Any person who contravenes these Regulations or directions lawfully given by any person under authority of these Regulations is liable on summary conviction to a penalty of one thousand dollars.
 
 ### EQUINE ENCEPHALOMYELITIS REGULATIONS
 
@@ -1610,17 +1562,13 @@ Paralytic Rabies Regulations rabies and shall appoint the places, dates and hour
 
 **7.** Penalty.
 
-*21/1960.*
+*21/1960. Citation. Animal affected with the disease.*
 
 EQUINE ENCEPHALOMYELITIS REGULATIONS made under section 13
 
-**1.** These Regulations may be cited as the Equine Citation.
+**1.** These Regulations may be cited as the Equine Encephalomyelitis Regulations.
 
-*affected with the disease.*
-
-Encephalomyelitis Regulations.
-
-**2.** (1) Every person having in his possession or under his Animal charge any animal affected with, or suspected of being affected with, Equine Encephalomyelitis (hereinafter referred to as “the disease”), or the carcase of any animal affected with or suspected of being affected with the disease, shall with all practicable speed give notice of the animal or carcase affected with or suspected of being affected with the disease to the constable in charge of the nearest police station.
+**2.** (1) Every person having in his possession or under his charge any animal affected with, or suspected of being affected with, Equine Encephalomyelitis (hereinafter referred to as “the disease”), or the carcase of any animal affected with or suspected of being affected with the disease, shall with all practicable speed give notice of the animal or carcase affected with or suspected of being affected with the disease to the constable in charge of the nearest police station.
 
 (2) Every veterinary surgeon who, upon examining any animal or the carcase of any animal, is of the opinion that the animal is, or was, when it died, affected with the disease, shall with all practicable speed give notice of the affection or suspicion of affection to the constable in charge of the nearest police station.
 
@@ -1628,11 +1576,11 @@ Encephalomyelitis Regulations.
 
 (a) forthwith transmit the information to the Inspector by telephone or by any other means of communication; and
 
+*Movement, etc. of animal or carcase.*
+
 (b) as soon as may be practicable thereafter confirm in writing to the Inspector the transmission of the information by telephone or by any other means of communication.
 
-*of animal or*
-
-**3.** (1) No person shall move or shall cause or permit to be Movement, etc. moved, or shall dispose of, whether by sale or otherwise, any animal or carcase. carcase referred to in subregulation (2) except in accordance with the directions of the Inspector given under that subregulation but it is not an offence to bury the carcase of the animal if no such directions have been received within eighteen hours of the making of a report in relation to the animal or carcase under regulation 2, or where the report cannot be made within eighteen hours after the death of the animal on account of distance, or on account of difficulty of terrain or of communications.
+**3.** (1) No person shall move or shall cause or permit to be moved, or shall dispose of, whether by sale or otherwise, any animal or carcase referred to in subregulation (2) except in accordance with the directions of the Inspector given under that subregulation but it is not an offence to bury the carcase of the animal if no such directions have been received within eighteen hours of the making of a report in relation to the animal or carcase under regulation 2, or where the report cannot be made within eighteen hours after the death of the animal on account of distance, or on account of difficulty of terrain or of communications.
 
 Equine Encephalomyelitis Regulations
 
@@ -1640,51 +1588,51 @@ Equine Encephalomyelitis Regulations
 
 (a) any animal affected with, or suspected of being affected with, the disease; or
 
-(b) the carcase of any animal which has died from, or is suspected of having died from, or while
-
 *Duties of Inspector.*
 
-afflicted with the disease.
+(b) the carcase of any animal which has died from, or is suspected of having died from, or while afflicted with the disease.
 
 **4.** (1) The Inspector may secure ante-mortem blood specimens or conduct a post-mortem examination of the carcase of any animal which has died from, or is suspected of having died from, or while afflicted with the disease, and may remove such portions of the carcase as he may deem necessary for laboratory examinations and may direct that the carcase be delivered to him at such place and time as he may specify in the directions.
 
-(2) The Inspector may order the carcase of any animal which has been buried to be exhumed for the purpose of conducting a post-mortem examination of the carcase for the
-
 *Compensation not payable. Inoculation.*
 
-purposes of subregulation (1).
+(2) The Inspector may order the carcase of any animal which has been buried to be exhumed for the purpose of conducting a post-mortem examination of the carcase for the purposes of subregulation (1).
 
 **5.** No compensation is payable in respect of any animal or carcase which has been dealt with in any manner authorised by these Regulations.
 
-**6.** The Inspector may direct that any animal shall, at the risk of the owner, be inoculated with vaccine against the disease and shall appoint the places, dates and hours at which the animals shall be produced for the purpose of the inoculation. The owner or person in
-
 *Penalty.*
 
-charge of every such animal shall comply with the directions.
+**6.** The Inspector may direct that any animal shall, at the risk of the owner, be inoculated with vaccine against the disease and shall appoint the places, dates and hours at which the animals shall be produced for the purpose of the inoculation. The owner or person in charge of every such animal shall comply with the directions.
 
 **7.** Any person who contravenes these Regulations or any directions lawfully given by any person under authority of these Regulations is liable on summary conviction to a penalty of one thousand dollars.
 
-TUBERCULOSIS IN CATTLE AND GOATS REGULATIONS 15/1967. made under section 13
+*15/1967. Citation. Interpretation.*
 
-**1.** These Regulations may be cited as the Tuberculosis in Citation. Cattle and Goats Regulations.
+TUBERCULOSIS IN CATTLE AND GOATS REGULATIONS made under section 13
 
-**2.** In these Regulations, the expression “premises” includes Interpretation. any house, stable, shed, pen or other building capable of housing cattle or goats, and any vehicle or boat.
+**1.** These Regulations may be cited as the Tuberculosis in Cattle and Goats Regulations.
 
-**3.** A Government Veterinary Officer or any other Veterinary Examination of Officer authorised in writing by the Chief Technical Officer cattle or goats. (Agriculture) may examine cattle or goats for tuberculosis and apply the Tuberculin test to cattle or goats whether or not the cattle or goats show signs from which the disease may be suspected and for that purpose may, if necessary enter any premises at any time to secure the examination and apply the test.
+*Examination of cattle or goats.*
+
+**2.** In these Regulations, the expression “premises” includes any house, stable, shed, pen or other building capable of housing cattle or goats, and any vehicle or boat.
+
+*Rendering assistance.*
+
+**3.** A Government Veterinary Officer or any other Veterinary Officer authorised in writing by the Chief Technical Officer (Agriculture) may examine cattle or goats for tuberculosis and apply the Tuberculin test to cattle or goats whether or not the cattle or goats show signs from which the disease may be suspected and for that purpose may, if necessary enter any premises at any time to secure the examination and apply the test.
 
 **4.** Any person who is—
 
-Rendering
-
-(a) the owner of cattle or goats; assistance.
+(a) the owner of cattle or goats;
 
 (b) in control of cattle or goats;
 
 (c) the owner or occupier of any premises on which cattle or goats are kept;
 
+*Penalty.*
+
 (d) employed by the owner or occupier of any premises on which cattle or goats are kept, shall render assistance to a Government Veterinary Officer or other authorised Veterinary Officer as such officer may reasonably require for the purposes of these Regulations.
 
-**5.** Any person who contravenes these Regulations or any Penalty. order or instruction lawfully made or given by any person under the authority of these Regulations is liable on summary conviction to a penalty of seven hundred and fifty dollars.
+**5.** Any person who contravenes these Regulations or any order or instruction lawfully made or given by any person under the authority of these Regulations is liable on summary conviction to a penalty of seven hundred and fifty dollars.
 
 ### BOVINE BRUCELLOSIS OR CONTAGIOUS ABORTION (ERADICATION) REGULATIONS
 
@@ -1714,13 +1662,15 @@ Rendering
 
 ## SCHEDULE.
 
-BOVINE BRUCELLOSIS OR CONTAGIOUS ABORTION 108/2003. (ERADICATION) REGULATIONS made under section 13
+*108/2003.*
 
-**1.** These Regulations may be cited as the Bovine Citation. Brucellosis or Contagious Abortion (Eradication) Regulations.
+*Citation. Application and interpretation.*
 
-**2.** (1) These Regulations shall apply to cattle, pigs, sheep Application and and goats.
+BOVINE BRUCELLOSIS OR CONTAGIOUS ABORTION (ERADICATION) REGULATIONS made under section 13
 
-interpretation.
+**1.** These Regulations may be cited as the Bovine Brucellosis or Contagious Abortion (Eradication) Regulations.
+
+**2.** (1) These Regulations shall apply to cattle, pigs, sheep and goats.
 
 (2) In these Regulations—
 
@@ -1734,27 +1684,27 @@ interpretation.
 
 “herd” for the purpose of these Regulations, includes one animal;
 
+*Duty to inform.*
+
 “reactor” means the animal reacting positively to the approved test referred to in regulation 4.
 
-**3.** A person who has in his possession or under his charge, Duty to inform. an animal affected or suspected of being affected with Brucellosis shall, within seven days of becoming aware or suspecting that the animal is affected, inform the nearest Government Veterinary Officer of that fact.
+*Testing of animals for Brucellosis.*
 
-**4.** (1) A person who has in his possession or under his charge Testing of an animal, shall have that animal tested for Brucellosis, within six Brucellosis. animals for months from the date of the commencement of these Regulations and thereafter at the request of the Inspector.
+**3.** A person who has in his possession or under his charge, an animal affected or suspected of being affected with Brucellosis shall, within seven days of becoming aware or suspecting that the animal is affected, inform the nearest Government Veterinary Officer of that fact.
+
+**4.** (1) A person who has in his possession or under his charge an animal, shall have that animal tested for Brucellosis, within six months from the date of the commencement of these Regulations and thereafter at the request of the Inspector.
 
 (2) The test shall be approved by the Chief Veterinary Officer and shall be carried out at the Government Veterinary Diagnostic Laboratory or a laboratory approved by the Minister.
 
 (3) A blood sample taken for the test shall be collected by a veterinary surgeon or any person designated by the Chief Veterinary Officer for that purpose, under the supervision of the Inspector.
 
-(4) Where the owner of a herd of cattle has not had his
-
 *Form A. Schedule.*
 
-cattle tested for Brucellosis under subregulation (1), he may be required by the Inspector, within three months from the date of service of a Notice set out on Form A of the Schedule, to have the herd tested.
-
-(5) Every animal, from the date of the coming into operation of these Regulations, except a reactor from a previous test, shall be tested periodically, and the owner of an animal may be required by the Inspector within three months from the date of
+(4) Where the owner of a herd of cattle has not had his cattle tested for Brucellosis under subregulation (1), he may be required by the Inspector, within three months from the date of service of a Notice set out on Form A of the Schedule, to have the herd tested.
 
 *Submission of reports.*
 
-service of a Notice to have the herd tested for Brucellosis.
+(5) Every animal, from the date of the coming into operation of these Regulations, except a reactor from a previous test, shall be tested periodically, and the owner of an animal may be required by the Inspector within three months from the date of service of a Notice to have the herd tested for Brucellosis.
 
 **5.** (1) Where the test is carried out by—
 
@@ -1766,29 +1716,33 @@ service of a Notice to have the herd tested for Brucellosis.
 
 (3) The Chief Veterinary Officer shall, after receiving the report submitted to him in accordance with subregulation (2), submit a report to the Director, Veterinary Public Health.
 
-**6.** (1) Where a reactor is discovered, the owner or person Disposition of in charge of the reactor shall immediately take all practicable reactors. steps to ensure the effective isolation of the reactor and its maintenance, until it is slaughtered.
+*Disposition of reactors.*
+
+**6.** (1) Where a reactor is discovered, the owner or person in charge of the reactor shall immediately take all practicable steps to ensure the effective isolation of the reactor and its maintenance, until it is slaughtered.
 
 (2) The Veterinary Officer shall cause the reactor to be branded on the left rump with the letter “B”, which shall be three inches high and two and one-quarter inches wide.
 
 (3) Where a reactor is discovered, the owner shall cause the reactor to be slaughtered at an abattoir approved by the Minister, within ten days from the date of receiving the results of the test, and the owner shall be entitled to compensation determined by the Minister, in respect of the animal slaughtered.
 
-(4) Where the owner of a reactor fails to have that reactor immediately removed to a place of isolation or to an approved place for slaughter, the Inspector may by Notice, set out on Form B of the Schedule, served on the owner, require the Form B. slaughter and disposal of the reactor within the period set out in Schedule. the Notice and in accordance with the provisions of the Act.
+*Form B. Schedule.*
+
+(4) Where the owner of a reactor fails to have that reactor immediately removed to a place of isolation or to an approved place for slaughter, the Inspector may by Notice, set out on Form B of the Schedule, served on the owner, require the slaughter and disposal of the reactor within the period set out in the Notice and in accordance with the provisions of the Act.
 
 (5) Where there is failure to comply with the requirements of the Notice specified in subregulation (4), the Inspector may take possession of the reactor, and such reactor shall be slaughtered at an approved abattoir.
 
+*Notice to cleanse and disinfect premises. Form C. Schedule.*
+
 (6) The cost of taking possession of a reactor and moving it to the approved abattoir and thereafter of maintaining and disposing the reactor, may be recovered on behalf of the State as a debt owed by the owner of the reactor to the State or from any funds generated by the sale of the carcass.
 
-**7.** (1) Where a reactor has been discovered, the Inspector Notice to may by Notice, set out on Form C of the Schedule, served on the disinfect cleanse and occupier of premises, require the occupier to cleanse and disinfect premises. specified parts of the premises in accordance with the Notice. Form C. Schedule.
+**7.** (1) Where a reactor has been discovered, the Inspector may by Notice, set out on Form C of the Schedule, served on the occupier of premises, require the occupier to cleanse and disinfect specified parts of the premises in accordance with the Notice.
 
 (2) Where there is failure to comply with the requirements of a Notice under subregulation (1), the Minister may cause the
 
 cleansing and disinfecting of the specified parts of the premises to be carried out by persons authorised by him for such purpose.
 
-(3) The cost of cleansing and disinfecting under subregulation (2), may be recovered on behalf of the State as a
-
 *Owner to keep records.*
 
-debt owed by the occupier of the premises to the State.
+(3) The cost of cleansing and disinfecting under subregulation (2), may be recovered on behalf of the State as a debt owed by the occupier of the premises to the State.
 
 **8.** (1) The owner of a herd of animals shall keep records of the following information:
 
@@ -1806,23 +1760,21 @@ debt owed by the occupier of the premises to the State.
 
 (iv) in relation to each animal moved out of the herd, whether or not it was for slaughter.
 
-(2) The owner shall produce the records for inspection
-
 *Offence.*
 
-by an Inspector, on demand.
-
-**9.** A person who fails to comply with these Regulations commits an offence and is liable on summary conviction to a fine
+(2) The owner shall produce the records for inspection by an Inspector, on demand.
 
 *Eradication.*
 
-of five thousand dollars.
+**9.** A person who fails to comply with these Regulations commits an offence and is liable on summary conviction to a fine of five thousand dollars.
 
 **10.** (1) The Minister may, for the purposes of preventing the spread of and eradicating Brucellosis, declare an area in which Brucellosis is found, to be an eradication area.
 
 (2) Eradication of Brucellosis shall be done on an area by area basis as prescribed by the Minister, and no animal shall be moved into or out of an eradication area except with the permission of the Inspector and only for slaughter.
 
-**11.** (1) On completion of an eradication of Brucellosis in an Certification. eradication area, the owner of a herd of animals in that area may apply to the Chief Veterinary Officer to have his herd certified as a Brucellosis-Free Listed Herd.
+*Certification.*
+
+**11.** (1) On completion of an eradication of Brucellosis in an eradication area, the owner of a herd of animals in that area may apply to the Chief Veterinary Officer to have his herd certified as a Brucellosis-Free Listed Herd.
 
 (2) The Chief Veterinary Officer shall follow a prescribed procedure in accordance with accepted international standards in determining whether the herd of animals is free from Brucellosis.
 
@@ -1886,11 +1838,9 @@ to cleanse and disinfect the parts of the premises listed below by .............
 
 *31/1998.*
 
-### AMBLYOMMA VARIEGATUM (PREVENTION AND CONTROL) REGULATIONS
-
 *Citation. Interpretation.*
 
-made under sections 13 and 15
+AMBLYOMMA VARIEGATUM (PREVENTION AND CONTROL) REGULATIONS made under sections 13 and 15
 
 **1.** These Regulations may be cited as the Amblyomma Variegatum (Prevention and Control) Regulations.
 
@@ -1908,33 +1858,39 @@ made under sections 13 and 15
 
 **3.** (1) Where a person has in his possession or under his charge an animal infested with the Amblyomma Variegatum Tick or suspects that the animal is so infested he shall make a report to the Inspector in respect of the said animal.
 
-(2) A veterinary surgeon who, upon examining an animal, is of the opinion that it is infested with the Amblyomma Variegatum Tick, shall forthwith send written notice to that effect
-
 *Duties of Inspector. Form A. Schedule.*
 
-to the Inspector.
+(2) A veterinary surgeon who, upon examining an animal, is of the opinion that it is infested with the Amblyomma Variegatum Tick, shall forthwith send written notice to that effect to the Inspector.
 
 **4.** (1) The Inspector shall, upon receipt of any information pursuant to subregulation (3), cause a notice, in the manner set out as Form A in the Schedule, to be served upon the occupier of the premises where the animal is located and such notice shall effectively put the premises under quarantine.
 
 (2) The Inspector shall, immediately after service of the notice referred to in subregulation (1), proceed to the place to which the notice refers, make a full investigation of all the circumstances and report to the Chief Technical Officer.
 
-(3) In making an investigation of the circumstances the Inspector shall—
+*Inspector*
+
+(3) In making an investigation of the circumstances the shall—
 
 (a) enter upon and search the said premises in order to determine the presence of the tick and where necessary cause the infested animal to be treated;
 
 (b) search any vehicle or vessel used in the transportation of any animal to or from the premises; and
 
+*premises by at least one mark or tag record in a name of the force until out as Form*
+
 (c) search any vehicle or vessel belonging to the owner of the premises whether on the premises or not.
 
-(4) The Inspector shall notify the public of the infested premises by way of Notification published in the Gazette and in at least one daily newspaper.
+(4) The Inspector shall notify the public of the infested way of Notification published in the Gazette and in daily newspaper.
 
-(5) The Inspector shall place a clearly defined brand, mark or tag upon each animal infested with the tick and make a record in a register of such brand, mark or tag together with the name of the owner of the said animal.
+(5) The Inspector shall place a clearly defined brand, upon each animal infested with the tick and make a register of such brand, mark or tag together with the owner of the said animal.
 
-*Form B. Schedule. or occupier of infested premises.*
+*Form B. Schedule.*
 
-(6) A notice under subregulation (1) shall remain in force until withdrawn by a withdrawal notice in the manner set out as Form B in the Schedule.
+*\5. (1)*
 
-**5.** (1) The owner or occupier of infested premises shall— Duties of owner
+*Duties of owner or occupier of infested premises.*
+
+(6) A notice under subregulation (1) shall remain in withdrawn by a withdrawal notice in the manner set B in the Schedule.
+
+The owner or occupier of infested premises shall—
 
 (a) confine all animals to the premises;
 
@@ -1942,9 +1898,11 @@ to the Inspector.
 
 (c) prevent access of non-infested animals to any part of the premises which is infested;
 
+*identify the by the*
+
 (d) treat the infested animal and premises with an approved acaricide under the supervision of the Inspector.
 
-(2) The owner or occupier of quarantined premises shall identify the said premises with appropriate posters as authorised by the Inspector.
+(2) The owner or occupier of quarantined premises shall said premises with appropriate posters as authorised Inspector.
 
 *Movement of animals.*
 
@@ -1962,11 +1920,9 @@ to the Inspector.
 
 (d) allow such animal to stray onto a public road or to be on unenclosed land or in any field or place which is insufficiently fenced.
 
-(4) An animal found on premises in contravention of the provisions of these Regulations may, at the direction of the Inspector, be moved to some designated place and there be
-
 *Stray animals.*
 
-detained and isolated.
+(4) An animal found on premises in contravention of the provisions of these Regulations may, at the direction of the Inspector, be moved to some designated place and there be detained and isolated.
 
 **7.** (1) An animal found straying within an infested area may be seized by a police officer or a government veterinary officer and taken to premises designated by the Inspector.
 
@@ -1974,15 +1930,15 @@ detained and isolated.
 
 (3) If after ninety-six hours the animal is not claimed by its owner, then it shall be dealt with at the discretion of the Inspector.
 
-*carcase.*
+*Disposal of carcase.*
 
-**8.** (1) The carcase of an animal which dies in an infested Disposal of place shall, within twelve hours of death, be buried with lime in a pit not less than seven feet deep as near to the place of death as is practicable though not less than one hundred feet from any dwelling house, river, well, watercourse, drain or other channel.
+**8.** (1) The carcase of an animal which dies in an infested place shall, within twelve hours of death, be buried with lime in a pit not less than seven feet deep as near to the place of death as is practicable though not less than one hundred feet from any dwelling house, river, well, watercourse, drain or other channel.
+
+*Importation of animals.*
 
 (2) Where for all practical purposes it is impossible to comply with the provisions of subsection (1), the carcase shall be disposed of in such manner as the Inspector, in his discretion, directs.
 
-*animals.*
-
-**9.** (1) No animal shall be imported into Trinidad and Tobago Importation of from a country in which Cowdriosis (Heartwater) is present.
+**9.** (1) No animal shall be imported into Trinidad and Tobago from a country in which Cowdriosis (Heartwater) is present.
 
 (2) No animal shall be imported into Trinidad and Tobago unless accompanied by a health certificate from a government veterinary officer of the country from which the animal has been shipped, stating that—
 
@@ -1998,11 +1954,9 @@ detained and isolated.
 
 (5) An animal imported into Trinidad and Tobago which is subsequently suspected of or determined to be infected with Cowdriosis (Heartwater) shall be euthanised, necropsied and disposed of immediately in accordance with the provisions of regulation 8.
 
-(6) The Minister may, by Notice published in the Gazette and at least one daily newspaper, prohibit the landing in Trinidad
-
 *Penalties.*
 
-and Tobago of animals from such countries as he specifies.
+(6) The Minister may, by Notice published in the Gazette and at least one daily newspaper, prohibit the landing in Trinidad and Tobago of animals from such countries as he specifies.
 
 **10.** A person who contravenes any of these Regulations is guilty of an offence and liable on summary conviction to a fine not exceeding five thousand dollars.
 
@@ -2020,11 +1974,9 @@ FORM B AMBLYOMMA VARIEGATUM (PREVENTION AND CONTROL) REGULATIONS WITHDRAWAL NOTI
 
 *G. 24.12.31. [27/1955].*
 
-### IMPORTATION OF FROZEN CARCASES AND BOILING OF ANIMAL FOODSTUFFS REGULATIONS
-
 *Citation.*
 
-\* deemed to be made under section 15
+IMPORTATION OF FROZEN CARCASES AND BOILING OF ANIMAL FOODSTUFFS REGULATIONS * deemed to be made under section 15
 
 **1.** These Regulations may be cited as the Importation of Frozen Carcases and Boiling of Animal Foodstuffs Regulations.
 
@@ -2040,11 +1992,9 @@ FORM B AMBLYOMMA VARIEGATUM (PREVENTION AND CONTROL) REGULATIONS WITHDRAWAL NOTI
 
 “swill” means any broken or waste foodstuffs including table or kitchen refuse, scraps or waste, containing any meat, bones, offal or portions thereof, or any other part of the carcase of an animal.
 
-## PART II PRECAUTIONS TO BE ADOPTED IN REGARD TO
-
 *Precautions to be adopted in animal foodstuffs.*
 
-### CERTAIN ANIMAL FOODSTUFFS
+## PART II PRECAUTIONS TO BE ADOPTED IN REGARD TO CERTAIN ANIMAL FOODSTUFFS
 
 **3.** (1) Every person having in his possession or under his charge—
 
@@ -2190,27 +2140,25 @@ and health information for a specific dog or cat, and allows that a dog or cat m
 
 (g) in the case of any other country, by an Official Veterinarian of the National Government of such country;
 
+*Importation of animals.*
+
 “vessel” means any ship, schooner, boat or other floating craft.
 
-*animals.*
+**3.** (1) No animal shall be imported into Trinidad and Tobago except in accordance with these Regulations.
 
-**3.** (1) No animal shall be imported into Trinidad and Importation of Tobago except in accordance with these Regulations.
+*Landing of animals. [56/2014].*
 
-(2) No animal shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted
+(2) No animal shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
 
-*of animals.*
-
-by the Chief Technical Officer.
-
-**4.** (1) No animal shall be landed at any port, except the Landing ports of Port-of-Spain, San Fernando, Chaguaramas, Point Lisas [56/2014]. and Scarborough or at any aerodrome other than the Piarco Airport and the A.N.R. Robinson International Airport.
+**4.** (1) No animal shall be landed at any port, except the ports of Port-of-Spain, San Fernando, Chaguaramas, Point Lisas and Scarborough or at any aerodrome other than the Piarco Airport and the A.N.R. Robinson International Airport.
 
 (2) Notwithstanding subregulation (1) the Chief Technical Officer may in his absolute discretion grant a permit in writing for an animal to be landed at such port or at such aerodrome and upon such conditions as may be specified in the permit.
 
-*Inspection, disinfection and quarantine of vessels and aircraft.*
+*Inspection, imported disinfection and quarantine of shall have vessels and aircraft.*
 
 **5.** (Revoked by LN 56/2014).
 
-**6.** Where any vessel or aircraft by which animals are imported arrives in Trinidad and Tobago the following provisions shall have effect:
+**6.** Where any vessel or aircraft by which animals are arrives in Trinidad and Tobago the following provisions effect:
 
 (a) the Agent or Owners of the vessel or aircraft shall notify the Inspector of the fact that animals are being imported by the vessel or aircraft;
 
@@ -2220,13 +2168,11 @@ by the Chief Technical Officer.
 
 (d) the Master or Captain of the vessel or aircraft shall carry out such written directions as he may receive from the Inspector with respect to the quarantine;
 
-(e) the Master or Captain of the vessel or aircraft shall take such measures as the Inspector may direct for the cleaning and disinfection of all stalls and boxes in and of any portion of the vessel or
+*\7. (1)*
 
-*Inspection of animals.*
+*Inspection of inspection animals.*
 
-aircraft used for the transportation of animals.
-
-**7.** (1) Every animal before being landed shall be subject to inspection by the Inspector who may—
+(e) the Master or Captain of the vessel or aircraft shall take such measures as the Inspector may direct for the cleaning and disinfection of all stalls and boxes in and of any portion of the vessel or aircraft used for the transportation of animals. Every animal before being landed shall be subject to by the Inspector who may—
 
 (a) if satisfied—
 
@@ -2234,25 +2180,25 @@ aircraft used for the transportation of animals.
 
 (ii) that any condition of a permit permitting the importation of any such animal has not been complied with, refuse permission for any such animal to be landed; or
 
+*Form. First Schedule.*
+
 (b) grant permission for any such animal to be landed either unconditionally or subject to such conditions as he may impose.
 
-*First Schedule.*
+(2) No animal shall be landed without the prior written permission of the Inspector in the Form set out in the First Schedule.
 
-(2) No animal shall be landed without the prior written permission of the Inspector in the Form set out in the First Schedule. Form.
+*Quarantine of animals.*
 
 (3) Any animal landed in contravention of this regulation may be seized by the Inspector and, in his discretion, detained, destroyed or otherwise disposed of as he shall direct.
 
-*animals.*
-
-**8.** (1) Subject to regulations 7 and 10 and if so required by Quarantine of the Inspector, every animal upon being landed in Trinidad and Tobago shall be removed by such means, in such manner and subject to such conditions as the Inspector may direct to a quarantine station approved by the Inspector for the purpose of quarantine and shall there be kept in quarantine for such period as the Inspector may direct.
+**8.** (1) Subject to regulations 7 and 10 and if so required by the Inspector, every animal upon being landed in Trinidad and Tobago shall be removed by such means, in such manner and subject to such conditions as the Inspector may direct to a quarantine station approved by the Inspector for the purpose of quarantine and shall there be kept in quarantine for such period as the Inspector may direct.
 
 (2) The release from quarantine of any animal shall be subject to and dependent upon the result of re-inspection and of any diagnostic examination and any tests which the Inspector may consider necessary to employ for the detection of disease.
 
+*Expenses of and destruction of animals in quarantine.*
+
 (3) Notwithstanding the expiry of the period of quarantine directed by the Inspector under subregulation (1), no animal shall be removed from any quarantine station without the prior written permission of the Inspector and the permission may be either unconditional or subject to such conditions as may be specified.
 
-*of animals in quarantine.*
-
-**9.** (1) The expenses of and incidental to the keeping in Expenses of and quarantine of an animal shall be borne by the consignee of destruction the animal.
+**9.** (1) The expenses of and incidental to the keeping in quarantine of an animal shall be borne by the consignee of the animal.
 
 (2) Every animal shall be kept in quarantine at the risk of the consignee.
 
@@ -2308,11 +2254,23 @@ satisfies the requirements of the import permits; and
 
 (i) is in English or translated into English; and
 
+*Dog or cat other*
+
+*than a dog*
+
 (ii) satisfies the requirements of the import permit.
 
-*a dog or cat in Category or Category 2 [56/2014].*
+*than a dog or*
 
-**11A.** Subject to regulations 7 and 8, where a dog or cat, other Dog or cat other than a dog or cat to which regulation 11(1) or (2) applies, is than imported into Trinidad and Tobago, the dog or cat shall not be 1 countries. landed unless—
+*imported*
+
+*cat in Category 1 countries. or Category 2*
+
+*landed*
+
+*[56/2014].*
+
+**11A.** Subject to regulations 7 and 8, where a dog or cat, other or cat to which regulation 11(1) or (2) applies, is into Trinidad and Tobago, the dog or cat shall not be unless—
 
 (a) the dog or cat has been fitted with and can be permanently identified by a microchip, which satisfies the requirements of the import permit;
 
@@ -2340,9 +2298,23 @@ satisfies the requirements of the import permits; and
 
 (ii) satisfies the requirements of the import permit.
 
-*returning to from abroad. [56/2014].*
+*11B. (1)*
 
-**11B.** (1) Subject to subregulation (2), a dog or cat born in Dog or cat Trinidad and Tobago or resident in Trinidad and Tobago for a Trinidad and period of at least six months and returning to Trinidad and Tobago Tobago from abroad, shall not be landed unless—
+*Dog or cat*
+
+*Trinidad*
+
+*returning to Trinidad and*
+
+*period of*
+
+*Tobago from*
+
+*Tobago*
+
+*abroad. [56/2014].*
+
+Subject to subregulation (2), a dog or cat born in and Tobago or resident in Trinidad and Tobago for a at least six months and returning to Trinidad and from abroad, shall not be landed unless—
 
 (a) the dog or cat was fitted with and can be permanently identified by a microchip, approved by the Chief Technical Officer;
 
@@ -2364,13 +2336,11 @@ satisfies the requirements of the import permits; and
 
 (ii) satisfies the requirements of the import permit.
 
-(2) A dog or cat referred to in subregulation (1) which does not meet the requirements of paragraphs (a) to (f) may be
+*Horses. [26/1967]. Third Schedule.*
 
-*Horses. [26/1967].*
+(2) A dog or cat referred to in subregulation (1) which does not meet the requirements of paragraphs (a) to (f) may be landed in accordance with regulation 11 or 11A as applicable.
 
-landed in accordance with regulation 11 or 11A as applicable.
-
-**12.** (1) No horse shall be imported into Trinidad and Tobago except the horse is imported directly from one of the countries Third Schedule. specified in the Third Schedule.
+**12.** (1) No horse shall be imported into Trinidad and Tobago except the horse is imported directly from one of the countries specified in the Third Schedule.
 
 (2) No horse so imported shall be landed in Trinidad and Tobago unless there is produced to the Inspector in respect thereof the prescribed certificate.
 
@@ -2390,9 +2360,9 @@ landed in accordance with regulation 11 or 11A as applicable.
 
 (5) For the purpose of this regulation, “horses” includes mares, mules, donkeys and zebras.
 
-*and goals. Fourth Schedule.*
+*Cattle, sheep and goals. Fourth Schedule.*
 
-**13.** (1) No cattle, sheep or goats shall be imported into Cattle, sheep Trinidad and Tobago except any such animal is imported directly from one of the countries specified in the Fourth Schedule.
+**13.** (1) No cattle, sheep or goats shall be imported into Trinidad and Tobago except any such animal is imported directly from one of the countries specified in the Fourth Schedule.
 
 (2) No cattle so imported shall be landed in Trinidad and Tobago unless there is produced to the Inspector in respect thereof the prescribed certificate.
 
@@ -2426,15 +2396,15 @@ landed in accordance with regulation 11 or 11A as applicable.
 
 (c) the goat has passed negatively to an intradermal tuberculin test within ten days prior to the date of exportation; and
 
-(d) the goat has reacted negatively to the serum-agglutination test for Brucellosis within thirty
+*\14. (1)*
 
-*Pigs. Fifth Schedule.*
+*Pigs.*
 
-days prior to the date of exportation of the goat.
+*except any specified in Fifth Schedule. Tobago thereof the*
 
-**14.** (1) No pig shall be imported into Trinidad and Tobago except any such pig is imported directly from one of the countries specified in the Fifth Schedule.
+(d) the goat has reacted negatively to the serum-agglutination test for Brucellosis within thirty days prior to the date of exportation of the goat. No pig shall be imported into Trinidad and Tobago such pig is imported directly from one of the countries the Fifth Schedule.
 
-(2) No pig so imported shall be landed in Trinidad and Tobago unless there is produced to the Inspector in respect thereof the prescribed certificate.
+(2) No pig so imported shall be landed in Trinidad and unless there is produced to the Inspector in respect prescribed certificate.
 
 (3) The certificate shall state—
 
@@ -2442,33 +2412,35 @@ days prior to the date of exportation of the goat.
 
 (b) if the country is not free from foot and mouth disease and swine fever, that the area from which the pig originated and through which it was transported to the port of exportation is free from foot and mouth disease and swine fever; and
 
-(c) that the pig is free from symptoms of infectious
+*\15. (1)*
 
-*Poultry. [42/1965]. Sixth Schedule.*
+*Poultry. [42/1965]. Sixth Schedule. to the prescribed and have not*
 
-and contagious diseases.
+(c) that the pig is free from symptoms of infectious and contagious diseases.
 
-**15.** (1) Poultry may be imported into Trinidad and Tobago only—
+Poultry may be imported into Trinidad and Tobago only—
 
 (a) from one of the countries specified in the Sixth Schedule; and
 
-(b) in accordance with the terms and conditions of a permit granted by the Chief Technical Officer.
+(b) in accordance with the terms and conditions of a permit granted by the Chief Technical Officer. (2) No poultry shall be landed unless there is delivered Comptroller of Customs and Excise in respect thereof the certificate.
 
-(2) No poultry shall be landed unless there is delivered to the Comptroller of Customs and Excise in respect thereof the prescribed certificate.
+(3) The certificate shall state that the poultry are free from been exposed to Newcastle disease (fowl pest).
 
-(3) The certificate shall state that the poultry are free from and have not been exposed to Newcastle disease (fowl pest).
+*Pigeons. [40/1967].*
 
-**16.** (1) Notwithstanding regulation 15, pigeons may be Pigeons. imported into Trinidad and Tobago from Venezuela subject to the [40/1967]. terms and conditions specified in a permit granted by the Chief Technical Officer.
+**16.** (1) Notwithstanding regulation 15, pigeons may be imported into Trinidad and Tobago from Venezuela subject to the terms and conditions specified in a permit granted by the Chief Technical Officer.
 
 (2) No such pigeons shall be landed unless there is delivered to the Comptroller of Customs and Excise in respect thereof the prescribed certificate.
 
+*Monkeys. Carcases of cattle, pigs, sheep and goats. [174/1955 210/1955 79/1956]. Seventh Schedule.*
+
 (3) The certificate shall state that the pigeon is free from and has not been exposed to Newcastle disease.
 
-**17.** No monkey shall be imported into Trinidad and Tobago. Monkeys.
+**17.** No monkey shall be imported into Trinidad and Tobago.
 
-**18.** (1) No fresh carcase, whether frozen or chilled, nor any Carcases of cured or pickled or smoked carcase, of any cattle, pig, sheep or goat, sheep and goats. cattle, pigs, or any portion of any such carcase, shall be imported into Trinidad [174/1955 and Tobago except the carcase or portion thereof is imported— 210/1955 79/1956].
+**18.** (1) No fresh carcase, whether frozen or chilled, nor any cured or pickled or smoked carcase, of any cattle, pig, sheep or goat, or any portion of any such carcase, shall be imported into Trinidad and Tobago except the carcase or portion thereof is imported—
 
-(a) directly from any of the countries specified in the Seventh Schedule, or from any other country Seventh from which the Chief Technical Officer is Schedule. satisfied that the importation is unlikely to result in the introduction or spread of disease in Trinidad and Tobago; and
+(a) directly from any of the countries specified in the Seventh Schedule, or from any other country from which the Chief Technical Officer is satisfied that the importation is unlikely to result in the introduction or spread of disease in Trinidad and Tobago; and
 
 (b) in accordance with the terms of a permit granted by the Chief Technical Officer.
 
@@ -2490,17 +2462,13 @@ and contagious diseases.
 
 (2) Subregulation (1) does not apply to any carcase or part of a carcase of any poultry which has been fully cooked.
 
-(3) In this regulation, “fully cooked” means cooked throughout the whole of its substance so as to render it unnecessary for it to be further cooked before being used for
-
 *Animal products.*
 
-human consumption.
-
-**21.** No animal products including hides, skins, horns, hair, wool, bones, bone meal, meat scrap and tankage shall be imported into Trinidad and Tobago except in accordance with the terms of a permit issued by the Chief Technical Officer and
+(3) In this regulation, “fully cooked” means cooked throughout the whole of its substance so as to render it unnecessary for it to be further cooked before being used for human consumption.
 
 *Fodder and litter. Ninth Schedule.*
 
-subject to such conditions as he may impose therein.
+**21.** No animal products including hides, skins, horns, hair, wool, bones, bone meal, meat scrap and tankage shall be imported into Trinidad and Tobago except in accordance with the terms of a permit issued by the Chief Technical Officer and subject to such conditions as he may impose therein.
 
 **22.** (1) No fodder or litter shall be imported into Trinidad and Tobago except—
 
@@ -2512,39 +2480,41 @@ subject to such conditions as he may impose therein.
 
 (3) The certificate shall state that the area from which the fodder or litter originated and the district through which it was transported to the port of exportation is free from foot and mouth disease.
 
-**23.** (1) No dung (other than the excrements of birds) shall Dung and dead be imported into Trinidad and Tobago. carcases.
+*Dung and dead carcases.*
+
+**23.** (1) No dung (other than the excrements of birds) shall be imported into Trinidad and Tobago.
 
 (2) Subregulation (1) does not apply to any dung which is contained in any box or crate in which any animal is lawfully imported into Trinidad and Tobago.
 
 (3) No carcase of an animal which has died or been slaughtered on board a vessel or aircraft while in port or during the voyage shall be landed in Trinidad and Tobago.
 
-**24.** (1) No used or second-hand animal blanket, saddle Used and cloth, felting, pad, or other similar article shall be imported into animal blankets, second-hand Trinidad and Tobago. saddle cloth, cloths, felting, pads, etc.
+*Used and second-hand animal blankets, saddle cloth, cloths, felting, pads, etc.*
+
+**24.** (1) No used or second-hand animal blanket, saddle cloth, felting, pad, or other similar article shall be imported into Trinidad and Tobago.
+
+*Used and second-hand animal trappings.*
 
 (2) Subregulation (1) does not apply to any such article which accompanies and forms part of the clothing or individual accoutrement of any animal lawfully imported into Trinidad and Tobago if the article was new at the time of exportation.
 
-**25.** No used or second-hand harness, saddle, halter, rein, Used and girth, yoke, rope, chain or other trapping shall be landed in animal second-hand Trinidad and Tobago unless the trapping shall first be treated to trappings. the satisfaction of the Inspector at the risk of the person to whom the trapping is consigned before delivery to the consignee.
+*Biological products.*
 
-**26.** (1) No biological product prepared from animal tissues Biological intended for use in veterinary medicine shall be imported into products. Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
+**25.** No used or second-hand harness, saddle, halter, rein, girth, yoke, rope, chain or other trapping shall be landed in Trinidad and Tobago unless the trapping shall first be treated to the satisfaction of the Inspector at the risk of the person to whom the trapping is consigned before delivery to the consignee.
 
-(2) In this regulation, “biological product” includes any substance commonly known as hormones, vaccines, sera, toxins, anti-toxins and antigens intended for use in the practice of
+**26.** (1) No biological product prepared from animal tissues intended for use in veterinary medicine shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
 
 *Semen.*
 
-veterinary medicine.
-
-**27.** No semen of animals for artificial insemination shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief
+(2) In this regulation, “biological product” includes any substance commonly known as hormones, vaccines, sera, toxins, anti-toxins and antigens intended for use in the practice of veterinary medicine.
 
 *Fees. [6 of 1993]. Tenth Schedule.*
 
-Technical Officer.
+**27.** No semen of animals for artificial insemination shall be imported into Trinidad and Tobago except in accordance with the terms of a permit granted by the Chief Technical Officer.
 
 **28.** (1) The fees set out in the Tenth Schedule shall be payable, by the consignee or importer of an animal in respect of the matters therein set forth, to the Comptroller of Customs and Excise, the Inspector or other person, as specified therein, and all such fees as are not payable to the Inspector shall be paid to the general revenue of Trinidad and Tobago.
 
-(2) All fees payable under subregulation (1) may be recovered at the suit of the Chief Technical Officer in any Court
-
 *Penalty.*
 
-of competent jurisdiction.
+(2) All fees payable under subregulation (1) may be recovered at the suit of the Chief Technical Officer in any Court of competent jurisdiction.
 
 **29.** (1) Any person who contravenes these Regulations, or any Order, instruction, or condition lawfully made, given, or imposed by any person under the authority of these Regulations, is liable on summary conviction to a penalty of one thousand dollars.
 

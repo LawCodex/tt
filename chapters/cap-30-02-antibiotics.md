@@ -118,11 +118,9 @@ Note on Adaptation Under paragraph 6 of the Second Schedule to the Law Revision 
 
 ## SCHEDULE.
 
-### CHAPTER 30:02
-
 *1950 Ed. Ch. 12. No. 8. 18 of 1948. Commencement. Short title. Interpretation. [20 of 1960]. Schedule. Establishment of Antibiotics Control Committee. [20 of 1960].*
 
-ANTIBIOTICS ACT An Act to regulate the importation, storage, distribution, sale and use of antibiotics.
+CHAPTER 30:02 ANTIBIOTICS ACT An Act to regulate the importation, storage, distribution, sale and use of antibiotics.
 
 ### [1 ST A PRIL 1949]
 
@@ -138,45 +136,47 @@ ANTIBIOTICS ACT An Act to regulate the importation, storage, distribution, sale 
 
 (4) The Minister, the Council of the Medical Board of Trinidad and Tobago or the Branch Council of the British Medical Association, as the case may be, may, in the absence or inability to act of any member of the Committee appointed by him or them, appoint any other person to act in the place of the member.
 
-**4.** No person shall manufacture any antibiotic in Trinidad Restriction on and Tobago unless he is the holder of a licence granted by the antibiotics. manufacture of Committee to manufacture the antibiotic.
+*Restriction on manufacture of antibiotics. Restriction on importation of antibiotics. [20 of 1960]. Licences to import antibiotics. Licences to store antibiotics.*
 
-**5.** No person shall import into Trinidad and Tobago any Restriction on antibiotic other than an antibiotic manufactured by a antibiotics. importation of pharmaceutical firm approved by the Minister.
+**4.** No person shall manufacture any antibiotic in Trinidad and Tobago unless he is the holder of a licence granted by the Committee to manufacture the antibiotic.
 
-[20 of 1960].
+**5.** No person shall import into Trinidad and Tobago any antibiotic other than an antibiotic manufactured by a pharmaceutical firm approved by the Minister.
 
-**6.** No person shall import any antibiotic into Trinidad and Licences to Tobago unless he is the holder of a licence granted by the antibiotics. import Committee to import the antibiotic.
+**6.** No person shall import any antibiotic into Trinidad and Tobago unless he is the holder of a licence granted by the Committee to import the antibiotic.
 
-**7.** No person shall store any antibiotic for the purpose of sale Licences to unless he is the holder of a licence granted by the Committee to store antibiotics. store the antibiotic; and no such licence shall be granted except on proof to the satisfaction of the Committee that the storage facilities of the applicant are adequate.
+*Appointment of licensing officer. Form of licence. Cancellation of licences. Restriction of sale or transfer of antibiotics. Ch. 29:50. Ch. 67:04.*
 
-**8.** The Committee may appoint a fit and proper person to be Appointment of a licensing officer under this Act. licensing officer.
+**7.** No person shall store any antibiotic for the purpose of sale unless he is the holder of a licence granted by the Committee to store the antibiotic; and no such licence shall be granted except on proof to the satisfaction of the Committee that the storage facilities of the applicant are adequate.
 
-**9.** Licences issued under this Act shall be in such form as the Form of licence. Committee may approve.
+**8.** The Committee may appoint a fit and proper person to be a licensing officer under this Act.
 
-**10.** The Committee may cancel any licence issued under this Cancellation Act if the holder thereof fails to comply with any of the provisions of licences. of this Act or of any Regulations made under this Act.
+**9.** Licences issued under this Act shall be in such form as the Committee may approve.
 
-**11.** No importer of antibiotics shall sell or transfer any Restriction of antibiotic to any person other than a person registered as a of antibiotics. sale or transfer member of the Medical Board of Trinidad and Tobago (hereinafter referred to as a “medical practitioner”) or as a dentist under the Medical Board Act (hereinafter referred to as a “dentist”) or as a Ch. 29:50. veterinary surgeon under the Veterinary Surgeons (Registration) Ch. 67:04. Act (hereinafter referred to as a “veterinary surgeon”) unless such person is the holder of a licence to store antibiotics granted under the provisions of this Act.
+**10.** The Committee may cancel any licence issued under this Act if the holder thereof fails to comply with any of the provisions of this Act or of any Regulations made under this Act.
+
+**11.** No importer of antibiotics shall sell or transfer any antibiotic to any person other than a person registered as a member of the Medical Board of Trinidad and Tobago (hereinafter referred to as a “medical practitioner”) or as a dentist under the Medical Board Act (hereinafter referred to as a “dentist”) or as a veterinary surgeon under the Veterinary Surgeons (Registration) Act (hereinafter referred to as a “veterinary surgeon”) unless such person is the holder of a licence to store antibiotics granted under the provisions of this Act.
 
 *Right of entry on premises to ensure compliance with provisions of Act.*
 
 **12.** (1) Any person authorised in writing by or on behalf of the Committee may at any time between the hours of 6.00 a.m. and 6.00 p.m. enter any premises in which he has reason to believe that any antibiotic is kept which has been acquired or is being kept in contravention of any of the provisions of this Act or of any Regulations hereunder and may carry out such inspection of the premises as he considers necessary, and may require the occupier or person in charge of the premises to furnish him with such information in connection with such antibiotic as he considers necessary.
 
-(2) Any antibiotic in respect of which there has been a breach of any of the provisions of this Act or of any Regulations hereunder may be seized by such person authorised as aforesaid and on conviction of the offender shall be forfeited to
-
 *Taking samples of antibiotics.*
 
-the Committee.
+(2) Any antibiotic in respect of which there has been a breach of any of the provisions of this Act or of any Regulations hereunder may be seized by such person authorised as aforesaid and on conviction of the offender shall be forfeited to the Committee.
 
 **13.** (1) Any person authorised in writing by or on behalf of the Committee may require the holder of a licence to store antibiotics granted under the provisions of this Act to produce samples of any antibiotic in his possession and, on payment of the current market value of any sample, may require that it be delivered to him for purposes of assay.
 
-(2) If any such sample is found on assay to have deteriorated to an extent or to contain toxic substances in amounts which, in the opinion of the Committee, render it ineffective or unfit for use as a therapeutic substance, or not to contain the antibiotic or to contain the antibiotic in a lesser degree of potency than it purports to possess, the Committee may require to be destroyed the entire stock of the antibiotic in the possession of the licensee which bears the same batch identification number as
-
 *Further restriction on issue of antibiotics.*
 
-the sample.
+(2) If any such sample is found on assay to have deteriorated to an extent or to contain toxic substances in amounts which, in the opinion of the Committee, render it ineffective or unfit for use as a therapeutic substance, or not to contain the antibiotic or to contain the antibiotic in a lesser degree of potency than it purports to possess, the Committee may require to be destroyed the entire stock of the antibiotic in the possession of the licensee which bears the same batch identification number as the sample.
 
 **14.** (1) Subject to the provisions of this Act, no antibiotic shall be issued to any person except on the prescription of a medical practitioner, dentist or veterinary surgeon.
 
-(2) Every such prescription as is referred to in subsection (1) shall—
+*subsection*
+
+(2) Every such prescription as is referred to in
+
+(1) shall—
 
 (a) be in indelible writing or typescript and be signed by the person giving it with his usual signature in indelible writing and be dated by him;
 
@@ -188,9 +188,11 @@ the sample.
 
 “for animal treatment only”;
 
+*comply*
+
 (e) indicate the total quantity of the antibiotic to be supplied and instructions for its use.
 
-(3) Every person dispensing any such prescription shall comply with the following requirements:
+(3) Every person dispensing any such prescription shall with the following requirements:
 
 (a) the prescription shall not be dispensed otherwise than in accordance with the prescription, or more than once unless the prescription contains a direction in accordance with the provisions of paragraph (b);
 
@@ -202,25 +204,19 @@ the sample.
 
 it on the premises on which it was last dispensed and be made available for inspection by any person authorised by or on behalf of the Committee;
 
-(e) if the prescription may not be dispensed more than once it shall be retained for a period of two years by the person dispensing it on the premises on which it was dispensed and be made available for inspection by any person
-
 *Administering of antibiotics.*
 
-authorised by or on behalf of the Committee.
-
-**15.** An antibiotic shall not be administered to any person except by or under the direction of a medical practitioner or dentist except that in any case of emergency it may be administered by a nurse who is a state registered nurse in Trinidad and Tobago or has passed the final examination for
+(e) if the prescription may not be dispensed more than once it shall be retained for a period of two years by the person dispensing it on the premises on which it was dispensed and be made available for inspection by any person authorised by or on behalf of the Committee.
 
 *Identification marks or numbers on containers.*
 
-nurses at the Port of Spain or San Fernando General Hospital.
+**15.** An antibiotic shall not be administered to any person except by or under the direction of a medical practitioner or dentist except that in any case of emergency it may be administered by a nurse who is a state registered nurse in Trinidad and Tobago or has passed the final examination for nurses at the Port of Spain or San Fernando General Hospital.
 
 **16.** (1) Every container of an antibiotic shall carry a batch identification mark or number and the date of manufacture of the antibiotic; and the contents of any such containers, supplied by any person and bearing the same identification marks or numbers, shall be deemed to have been manufactured at the same time and under identical conditions until the contrary is proved.
 
-(2) No person shall sell, transfer or dispense any antibiotic after the date of expiry endorsed on the container thereof, except to a medical practitioner, dentist or veterinary surgeon, who has been informed in writing of such date by the
-
 *Licence holder to keep records.*
 
-person selling, transferring or dispensing the antibiotic.
+(2) No person shall sell, transfer or dispense any antibiotic after the date of expiry endorsed on the container thereof, except to a medical practitioner, dentist or veterinary surgeon, who has been informed in writing of such date by the person selling, transferring or dispensing the antibiotic.
 
 **17.** Every holder of a licence under this Act shall keep records showing—
 
@@ -230,27 +226,29 @@ person selling, transferring or dispensing the antibiotic.
 
 (c) the names of the manufacturers of any such antibiotic;
 
+*Examination of records.*
+
 (d) the names and addresses of the persons to whom any such antibiotic has been issued by him and the quantity and date of every such issue.
 
-**18.** Any person authorised in writing by or on behalf of the Examination Committee may, at any time during business hours, enter the of records. premises of any holder of a licence under this Act and call for and examine any records required to be kept by the holder.
+*Lists of approved pharmaceutical firms. [20 of 1960]. Variation of lists of approved pharmaceutical firms. [20 of 1960]. Minister may amend Schedule and impose restrictions. [4 of 1988].*
 
-**19.** It is the function of the Committee to submit to the Lists of Minister lists of pharmaceutical firms for approval as pharmaceutical approved manufacturing firms from whom antibiotics may be imported into [20 of 1960]. firms. Trinidad and Tobago; and the names of the firms so approved shall be published in the Gazette.
+**18.** Any person authorised in writing by or on behalf of the Committee may, at any time during business hours, enter the premises of any holder of a licence under this Act and call for and examine any records required to be kept by the holder.
 
-**20.** The Minister may, on the recommendation of the Variation of lists Committee, add to or delete from the list of approved firms, and pharmaceutical of approved every such addition or deletion shall be published in the Gazette. [20 of 1960]. firms.
+**19.** It is the function of the Committee to submit to the Minister lists of pharmaceutical firms for approval as manufacturing firms from whom antibiotics may be imported into Trinidad and Tobago; and the names of the firms so approved shall be published in the Gazette.
 
-**21.** The Minister may, on the recommendation of the Minister may Committee, by Order— amend Schedule and impose
+**20.** The Minister may, on the recommendation of the Committee, add to or delete from the list of approved firms, and every such addition or deletion shall be published in the Gazette.
 
-(a) amend the Schedule by adding or deleting any [4 of 1988]. restrictions. antimicrobial organic substance produced by living organisms;
+**21.** The Minister may, on the recommendation of the Committee, by Order—
+
+*Schedule. Regulations. [20 of 1960].*
+
+(a) amend the Schedule by adding or deleting any antimicrobial organic substance produced by living organisms;
 
 (b) attach conditions to the use of any substance listed in the Schedule.
 
-Schedule.
-
 **22.** The Minister may make Regulations—
 
-Regulations.
-
-(a) defining the powers and duties of the Committee; [20 of 1960].
+(a) defining the powers and duties of the Committee;
 
 (b) providing for regulating the storage and transport of any antibiotic;
 
@@ -258,11 +256,9 @@ Regulations.
 
 *Offences.*
 
-**23.** Any person who obstructs any person authorised in writing by or on behalf of the Committee in the performance of any duty imposed by or under this Act or refuses to give any information lawfully demanded by any such authorised person or otherwise contravenes any of the provisions of this Act is guilty
-
 *Penalty.*
 
-of an offence against this Act.
+**23.** Any person who obstructs any person authorised in writing by or on behalf of the Committee in the performance of any duty imposed by or under this Act or refuses to give any information lawfully demanded by any such authorised person or otherwise contravenes any of the provisions of this Act is guilty of an offence against this Act.
 
 **24.** Any person found guilty of an offence against this Act is liable on summary conviction to a fine of three thousand dollars and to imprisonment for six months.
 
@@ -354,11 +350,9 @@ Mitomycin
 
 40/2011.
 
-SUBSIDIARY LEGISLATION *IMPORTATION OF ANTIBIOTICS PREPARATIONS ORDER made under section 5 Approval has been given for the following antibiotics
-
 *52/1967.*
 
-preparations to be imported into Trinidad and Tobago:
+SUBSIDIARY LEGISLATION *IMPORTATION OF ANTIBIOTICS PREPARATIONS ORDER made under section 5 Approval has been given for the following antibiotics preparations to be imported into Trinidad and Tobago:
 
 Maurry Biological Co., 6109S, Western Avenue, Los Angeles 47, California, U.S.A.
 
@@ -396,7 +390,9 @@ Versapen Capsules 250-mgm. (contg: Hetacillin)
 
 Versapen Powder for Oral Suspension (contg: Hetacillin)
 
-\* See Note on page 2.
+\*
+
+See Note on page 2.
 
 Marsing & Co. Ltd., Copenhagen, Denmark.
 
@@ -604,11 +600,9 @@ Allen & Hanburys Ltd., Bethnal Green, London, E.2., England.
 
 Propaderm A Ointment
 
-G. D. Searle & Co. Ltd., Lane End Road, High Wycombe, Bucks., England. Lomotil with Neomycin Tablets (each tablet containing diphenoxylate hydrochloride 2.5-mg., neomycin sulphate B.P. 250-mg. and
-
 *170/1968.*
 
-atropine sulphate, 0.025 mg.)
+G. D. Searle & Co. Ltd., Lane End Road, High Wycombe, Bucks., England. Lomotil with Neomycin Tablets (each tablet containing diphenoxylate hydrochloride 2.5-mg., neomycin sulphate B.P. 250-mg. and atropine sulphate, 0.025 mg.)
 
 Riker Laboratories, Morley Street, Loughborough, England.
 
@@ -636,9 +630,11 @@ Vibramycin Capsules 50 mgm.
 
 Vibramycin Syrup.
 
+*E. R.*
+
 *180/1968.*
 
-E. R. Squibb & Sons, Inc., New York.
+Squibb & Sons, Inc., New York.
 
 Fungizone Intravenous 50-mgm.
 
@@ -650,11 +646,13 @@ Mycostatin Topical Powder 15-gm.
 
 Pentids “400” for Syrup
 
+*E. R.*
+
 Pentids “400” Tablets
 
 Pentids “800” Tablets
 
-E. R. Squibb & Sons, Montreal, Canada.
+Squibb & Sons, Montreal, Canada.
 
 Kenacomb Mild Ointment 0.025%
 
@@ -756,9 +754,7 @@ Crystapen V. Tablets (phenoxymethylpenicillin)
 
 125 mgm. x 100
 
-Carlisle Laboratories Ltd., 48, Tudor Street, Bridgetown, Barbados.
-
-Oxytet Tablets (Oxytetracycline 250 mgm./tab.)
+Carlisle Laboratories Ltd., 48, Tudor Street, Bridgetown, Barbados. Oxytet Tablets (Oxytetracycline 250 mgm./tab.)
 
 Dome Laboratories, Division of Miles Laboratories Ltd., Stoke Court, Stoke Poges, Slough, Buckinghamshire, England.
 
@@ -782,9 +778,9 @@ Aerodrin Nasal Solution and Nasal Spray Carlo Erba S.p.A., Milan, Italy.
 
 Kemicetine (Chloramphenicol 250 mgm.) Capsules x 100 Kemicetine (Chloramphenicol 250 mgm.) Capsules x 1000 Kemicetine Syrup, 60cc. (= 4.56 gm. Amorphous Chloramphenicol Stearate/100 gm.)
 
-Kemicetine (Chloramphenicol Sod. Succinate) Injection 1 gm.
+*122/1969.*
 
-Lederle Laboratories Division Cyanamid of Great Britain, London, England. 122/1969. Ledermycin Ointment 0.5 per cent (Demethylchlortetracycline) Hydrochloride
+Kemicetine (Chloramphenicol Sod. Succinate) Injection 1 gm. Lederle Laboratories Division Cyanamid of Great Britain, London, England. Ledermycin Ointment 0.5 per cent (Demethylchlortetracycline) Hydrochloride
 
 Neo-Ledercort Eye and Ear Drops x 2.5 cc. (Neomycin-Triamcinolone Acetamide c Phenylephrine Hydrochloride)
 
@@ -850,9 +846,7 @@ Messrs. Lederle Laboratories, Division of American Cyanamid Company, Pearl River
 
 Minocycline Capsules 100-mg.
 
-Upjohn Inter-American Corporation, Kalamazoo, Michigan, U.S.A.
-
-E-Mycin containing: Erythromycin 250 mg.
+Upjohn Inter-American Corporation, Kalamazoo, Michigan, U.S.A. E-Mycin containing: Erythromycin 250 mg.
 
 Schering Corporation, Pointe Claire, Quebec, Canada.
 
@@ -866,9 +860,11 @@ Cefalexin Monohydrate 250 mg. per 5-ml.
 
 Cefalexin Monohydrate 125 mg. per 5-ml.
 
+*29/1971.*
+
 Cyanamid International (Ledermycin Laboratories), Wayne, New Jersey, U.S.A. Ledermycin Tablets (film-coated 150 mg. and 300 mg.)
 
-Lederle Laboratories Division, Cyanamid of Great Britain Ltd., 29/1971. London, England.
+Lederle Laboratories Division, Cyanamid of Great Britain Ltd., London, England.
 
 Deteclo Tablets 300 mg. containing: Demethylchlortetracycline Hcl. 69.2 mgm., Tetracycline Hcl. 115.4 mgm. and Chlortetracycline Hcl. 115.4 mgm.
 
@@ -880,19 +876,17 @@ Ledermycin Film-coated Tablets 150 mgm., Product No. 9218 Ledermycin Film-coated
 
 Dumex Limited, Copenhagen, Denmark.
 
-Fenocin Penicillin V Potassium Suspension Fenocin Penicillin V Potassium Tablets
-
-Glaxo-Allenbury (Export) Limited, Greenford, Middlesex, England.
-
-Grisovin Tablets 500 mg. 25’s and 250’s Ceporex Capsules 250 mg.
+Fenocin Penicillin V Potassium Suspension Fenocin Penicillin V Potassium Tablets Glaxo-Allenbury (Export) Limited, Greenford, Middlesex, England. Grisovin Tablets 500 mg. 25’s and 250’s Ceporex Capsules 250 mg.
 
 Ceporex Capsules 500 mg.
 
 Roussel Laboratories Limited, Middlesex, London, England.
 
+*91/1971.*
+
 Soframycin Unitulle
 
-Pfizer Inc. (J.B. Roerig Division), 235, East 42nd Street, N.Y., N.Y. 91/1971. 10017, U.S.A.
+Pfizer Inc. (J.B. Roerig Division), 235, East 42nd Street, N.Y., N.Y. 10017, U.S.A.
 
 Geopen (brand of disodium carbenicillin)
 
@@ -904,11 +898,9 @@ Fenocin Penicillin V Potassium Suspension Fenocin Penicillin V Potassium Tablets
 
 Ceporex Capsules 500 mg.
 
-Roussel Laboratories Limited, Middlesex, London, England.
-
 *149/1971.*
 
-Soframycin Unitulle
+Roussel Laboratories Limited, Middlesex, London, England. Soframycin Unitulle
 
 Burroughs Wellcome & Co. (Canada) Ltd., Montreal, P.Q., Canada. Lidosporin Antiseptic cream x 15-gm.
 
@@ -972,11 +964,9 @@ Minocycline Capsules x 100 mgm.
 
 Cyanamide International, Wayne, New Jersey, U.S.A.
 
-Demeclocycline (Ledermycin) (formerly
-
 *233/1971.*
 
-Demethychylchlortetracycline)
+Demeclocycline (Ledermycin) (formerly Demethychylchlortetracycline)
 
 Laboratoire Octo Limitée, Ville de Laval, Quebec, Canada.
 
@@ -1238,9 +1228,7 @@ Antibiotic Preparations
 
 Eli Lilly International Corporation U.S.A., U.S.A.
 
-Keflex Paediatric Drops (Cefalexin Monohydrate) 100 mgm.
-
-Merck Sharp & Dohme, I.A. Corporation Holland (Subsidiary of Merck & Co. Ltd., U.S.A.), Puerto Rico.
+Keflex Paediatric Drops (Cefalexin Monohydrate) 100 mgm. Merck Sharp & Dohme, I.A. Corporation Holland (Subsidiary of Merck & Co. Ltd., U.S.A.), Puerto Rico.
 
 Pivatil Capsules (contg: Alphacillin) Pivampicillin Hcl.
 
@@ -1258,9 +1246,7 @@ Veterinary
 
 May & Baker Ltd., England.
 
-Strypen Rapid containing Penicillin 0.1-mega units & Dihydrostreptomycin 0.1 mega units
-
-Strypen Forde
+Strypen Rapid containing Penicillin 0.1-mega units & Dihydrostreptomycin 0.1 mega units Strypen Forde
 
 Poultry
 
@@ -1268,9 +1254,11 @@ Tuco Upjohn Co., Kalamazoo, Michigan, U.S.A.
 
 LS–50 (containing Lincomycin-Spectomycin)
 
+*96/1975.*
+
 Antibiotic Preparations
 
-John Bell, Hills & Lucas (Subsidiary A. J. Seward & Co. Ltd.), Imberhorne 96/1975. Lane, East Grinstead, Sussex RH19 1QX, England.
+John Bell, Hills & Lucas (Subsidiary A. J. Seward & Co. Ltd.), Imberhorne Lane, East Grinstead, Sussex RH19 1QX, England.
 
 Oxytetracycline Tablets B.P. 250 mg.
 
@@ -1354,11 +1342,9 @@ Veterinary
 
 Elanco Products Company (a Division of Eli Lilly & Company), Indianapolis IN. 46206 Indiana, U.S.A.
 
-A.F. 1304 Coban 45 Premix, containing Monesin Sodium (Crystalline)
-
 *62/1976.*
 
-Antibiotic Preparations
+A.F. 1304 Coban 45 Premix, containing Monesin Sodium (Crystalline) Antibiotic Preparations
 
 Marcopharma Laboratory, Copenhagen, Denmark.
 
@@ -1548,11 +1534,9 @@ Vetropolycin* (Bacitracin Neomycin-Polymyxin)
 
 Entromycin* (Bacitracin Methylene Disalisylate and Streptomycin Sulphate Oral)
 
-\*APPROVED PHARMACEUTICAL FIRMS ORDER made under section 20 Approval has been given for the following pharmaceutical firms as manufacturing firms from whom antibiotics may be
-
 *167/1950.*
 
-imported into Trinidad and Tobago:
+\*APPROVED PHARMACEUTICAL FIRMS ORDER made under section 20 Approval has been given for the following pharmaceutical firms as manufacturing firms from whom antibiotics may be imported into Trinidad and Tobago:
 
 Abbott Laboratories, U.K.
 
@@ -1578,9 +1562,11 @@ Imperial Chemical (Pharmaceuticals Ltd.), U.K.
 
 H. & T. Kirby & Co., Ltd., U.K.
 
+*\\**
+
 Parke Davis & Co., Ltd., U.K.
 
-\* The pharmaceutical firms mentioned in this Order have been approved by the following: GNs 167 and 273/1950; 11 and 198/1952; 73/1953; 42, 58, 146 and 162/1954; 77/1955; 62 and 173/1956; 77, 78, 112, 139 and 154/1957; 48, 91, 92 and 114/1958; 75, 101 and 110/1959; 8, 127 and 148/1960; 20/1961; 29/1962; 44, 52 and 102/1963; 38 and 80/1964; 6, 35 and 44/1965; 32/1966; 53, 118 and 169/1967; 112, 171 and 177/1968; 18/1969; 43/1970; 110, 150, 197 and 232/1971; 34 and 145/1972; 150/1973; 93 and 94/1975; 63 and 170/1976; 195/1977; 132/1978; 162/1978; 46/1979—*See also page 2 of this Act.
+The pharmaceutical firms mentioned in this Order have been approved by the following: GNs 167 and 273/1950; 11 and 198/1952; 73/1953; 42, 58, 146 and 162/1954; 77/1955; 62 and 173/1956; 77, 78, 112, 139 and 154/1957; 48, 91, 92 and 114/1958; 75, 101 and 110/1959; 8, 127 and 148/1960; 20/1961; 29/1962; 44, 52 and 102/1963; 38 and 80/1964; 6, 35 and 44/1965; 32/1966; 53, 118 and 169/1967; 112, 171 and 177/1968; 18/1969; 43/1970; 110, 150, 197 and 232/1971; 34 and 145/1972; 150/1973; 93 and 94/1975; 63 and 170/1976; 195/1977; 132/1978; 162/1978; 46/1979—*See also page 2 of this Act.
 
 Pharmaceuticals Specialities
 
@@ -1716,11 +1702,9 @@ Ets Sopar, Brussels, Belgium.
 
 Merck Sharp & Dohme Ltd., Hoddesdon, Herts., U.K.
 
-Merck Sharp & Dohme (I.A.) Corp., P.O. Box 7217, Santurce, Puerto Rico. Merck (Pan American) Inc., 161, Avenue of the Americas, New York 13,
-
 *75/1959.*
 
-New York, U.S.A.
+Merck Sharp & Dohme (I.A.) Corp., P.O. Box 7217, Santurce, Puerto Rico. Merck (Pan American) Inc., 161, Avenue of the Americas, New York 13, New York, U.S.A.
 
 E. R. Squibb & Sons Ltd., 17/18, Old Bond Street, London, W.1, U.K. The British Oil and Cake Mills Limited, a company registered in the United Kingdom and having offices in England with the following postal addresses:
 
@@ -1800,11 +1784,9 @@ Messrs. British Schering Ltd., 225, Bath Road, Slough, Bucks., U.K. Maurry Biolo
 
 Therapharm, 86A, Richmond Road, Kingston-on-Thames, Surrey, U.K. Nordia, 6, Chestnut Road, Rayes Park, London, S.W.20., U.K., or Hilleroed, Denmark.
 
-Allergan Pharmaceuticals Ltd., 1000, South Grand Avenue, Santa Ana,
-
 *118/1967.*
 
-California, U.S.A.
+Allergan Pharmaceuticals Ltd., 1000, South Grand Avenue, Santa Ana, California, U.S.A.
 
 Phial Aust. Pty. Ltd., 7, West Street, North Sydney, Australia.
 
@@ -1852,21 +1834,25 @@ Halewood Chemicals Ltd., Horton Road, Stanwell Moor, Staines, Middlesex, U.K.
 
 John Wyeth & Brother (Canada) Ltd., Windsor, Ontario, Canada.
 
-Amdal Co., (Division of Abbott International), Abbott Park, 197/1971. North Chicago, U.S.A.
+*197/1971.*
+
+Amdal Co., (Division of Abbott International), Abbott Park, North Chicago, U.S.A.
 
 Cyanamide of Canada Ltd., Montreal, P.Q., Canada.
+
+*232/1971. 93/1975. 94/1975.*
 
 Minnesota 3M Laboratories Ltd., Morley Street, Loughborough, Leicestershire, U.K.
 
 Laboratoire Octo Limitée, Ville de Laval, Quebec, Canada.
 
-232/1971. Schering Pharmaceutical Corporation, Puerto Rico 93/1975. *Adtelco (Alfred Telfer & Co., Ltd.)
+Schering Pharmaceutical Corporation, Puerto Rico *Adtelco (Alfred Telfer & Co., Ltd.)
 
 Lloyd’s Pharmaceutical, Hull, U.K.
 
 \*Alstons Marketing Co. Ltd.
 
-Unigreg Ltd., 15/17 Worple Road, Wimbledon, London, S.W.19 4JS, U.K. 94/1975. *Queen’s Pharmacy.
+Unigreg Ltd., 15/17 Worple Road, Wimbledon, London, S.W.19 4JS, U.K. *Queen’s Pharmacy.
 
 Approved Prescription Services, P.O. Box 15, Whitcliffe Road, Cleckheaton, Yorkshire, U.K.
 
@@ -1876,9 +1862,7 @@ Desbergers Ltd., 8480 Street, Lawrence Blvd., Montreal, Quebec P. 2 M6, Canada.
 
 \*Queen’s Pharmacy.
 
-John Bell, Hills & Lucas Subsidiary of A. J. Seward & Co. Ltd., Imberhorne Lane, East Grinstead, Sussex, R.H. 19, 1QX, U.K.
-
-\*Alfred Telfer & Co. Ltd.
+John Bell, Hills & Lucas Subsidiary of A. J. Seward & Co. Ltd., Imberhorne Lane, East Grinstead, Sussex, R.H. 19, 1QX, U.K. *Alfred Telfer & Co. Ltd.
 
 Wolins Pharmacal Corporation, 72, Marcus Drive, Melville, New York 11746, U.S.A.
 
@@ -1888,13 +1872,17 @@ Laboratorio Farmaceutico-Squibb, Squibb, Guatemala, S.A.
 
 \*Alstons Marketing Co. Ltd.
 
+*63/1976.*
+
 Elanco Products Company (a Division of Eli Lilly & Co.), Indianapolis IN46206 Indiana, U.S.A.
 
 \*Ross Drugs.
 
-Harris Pharmaceuticals Ltd., Patman House, 26, Electric Parade, 63/1976. George Lane, South Woodford, London E.18, U.K.
+Harris Pharmaceuticals Ltd., Patman House, 26, Electric Parade, George Lane, South Woodford, London E.18, U.K.
 
 \*Alstons Manufacturing Co. Ltd.
+
+*170/1976. 195/1977.*
 
 Instituto Biochemico Italiano, Milan, Italy.
 
@@ -1902,15 +1890,13 @@ Instituto Biochemico Italiano, Milan, Italy.
 
 Purepac Pharmaceutical Co., Elizabeth, New Jersey, U.S.A.
 
-170/1976. *Alstons Marketing Co. Ltd.
+\*Alstons Marketing Co. Ltd.
 
 I. N. C. Canada Ltd., Montreal, Canada.
 
 \*Queen’s Pharmacy.
 
-Pitman-Moore Inc., Washington Crossing, New Jersey 08560, U.S.A.
-
-195/1977. *Johnson & Johnson (Trinidad) Ltd.
+Pitman-Moore Inc., Washington Crossing, New Jersey 08560, U.S.A. *Johnson & Johnson (Trinidad) Ltd.
 
 Harris Laboratories (Pharmaceutical Division of Canada Packes), Hamilton, Canada.
 
@@ -1948,13 +1934,19 @@ Eli Lilly (Puerto Rico Branch), P.O. Box 1268, Heto Rey Station, Puerto Rico 009
 
 Desbergers Limited, 8480 Boul. St. Laurent, Montreal 351, Canada. *Trinidrugs (Caribbean) Co., 2, Henry Street, Port of Spain. Capital Pharmaceuticals Ltd., Dublin, Republic of Ireland.
 
-\*Trindrugs (Caribbean Ltd.), 7, Saddle Road, San Juan. Consolidated Agricultural Supplies Ltd. (C. Vet Ltd.), Suffolk, England. * Pharmaceutical and General Supplies Ltd., Tacarigua. N OTE : *Denotes Name of Sponsor.
+*N*
 
-*29/1989. Citation. Conditions for use.*
+\*Trindrugs (Caribbean Ltd.), 7, Saddle Road, San Juan. Consolidated Agricultural Supplies Ltd. (C. Vet Ltd.), Suffolk, England. * Pharmaceutical and General Supplies Ltd., Tacarigua. OTE : *Denotes Name of Sponsor.
+
+*29/1989. Citation.*
+
+*for Conditions*
 
 ANTIBIOTICS (CONDITIONS FOR USE) ORDER made under section 21
 
-**1.** This Order may be cited as the Antibiotics (Conditions for Use) Order.
+**1.** This Order may be cited as the Antibiotics (Conditions Use) Order.
+
+*for use.*
 
 **2.** The use of chloramphenicol, an antibiotic listed in the Schedule to the Antibiotics Act shall be subject to the conditions that—
 

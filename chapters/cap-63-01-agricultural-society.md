@@ -76,6 +76,10 @@ Vacancies.
 
 **14.** Free postage.
 
+*MINISTRY OF*
+
+### THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### AGRICULTURAL SOCIETY ACT
 
 *1950 Ed. Ch. 23. No. 2. 1 of 1919. Commencement.*
@@ -118,25 +122,37 @@ An Act relating to the Agricultural Society.
 
 **7.** There shall be a committee, to be called the committee of management, of the Society, which shall be charged with the general administration of the affairs and funds of the Society, and shall be the governing and executive body of the Society.
 
-**8.** (1) The Committee shall consist of a President and a Vice- Constitution and election of President and of eight representatives of the sugar industry, eight committee. representatives of the cocoa industry, and eight representatives of other industries, elected at the annual general meeting in each year.
+*Constitution and election of committee.*
 
-(2) The President and the Vice-President shall be elected Retirement. annually from among members of the Society not being public officers; and two members representing the sugar industry, two members representing the cocoa industry, and two members representing other industries shall retire in order of seniority of election in January of each year, but shall be eligible for re-election.
+**8.** (1) The Committee shall consist of a President and a Vice-President and of eight representatives of the sugar industry, eight representatives of the cocoa industry, and eight representatives of other industries, elected at the annual general meeting in each year.
 
-(3) In the event of any vacancy occurring in the Vacancies. committee, the same shall be filled from among the members of the Society at a general meeting.
+*Retirement.*
 
-**9.** (1) The Society shall have power to appoint deputies to President and Vice-President. act for the President, the Vice-President, or for any member of the committee.
+(2) The President and the Vice-President shall be elected annually from among members of the Society not being public officers; and two members representing the sugar industry, two members representing the cocoa industry, and two members representing other industries shall retire in order of seniority of election in January of each year, but shall be eligible for re-election.
+
+*Vacancies.*
+
+(3) In the event of any vacancy occurring in the committee, the same shall be filled from among the members of the Society at a general meeting.
+
+*President and Vice-President.*
+
+**9.** (1) The Society shall have power to appoint deputies to act for the President, the Vice-President, or for any member of the committee.
 
 (2) The Society shall have power to elect an Honorary President and Honorary Vice-Presidents of the Society. Such Honorary President and Honorary Vice-Presidents need not be members of the Society.
 
-*may*
+*Committee may make rules and appoint committees.*
 
-**10.** (1) The committee shall have power to make such rules Committee make rules and as may be considered necessary for the management of the Society, appoint committees. including the conditions of membership of the Society.
+**10.** (1) The committee shall have power to make such rules as may be considered necessary for the management of the Society, including the conditions of membership of the Society.
 
 (2) The committee shall have power to appoint standing and special committees, who shall be subject to such rules.
 
-\*11. The secretary shall be appointed by the committee and Secretary. shall receive such salary as may from time to time be fixed by the committee.
+*Secretary.*
 
-**12.** The funds of the Society shall consist of the subscription Funds. fees of members, of moneys received as donations or from other sources, and of such annual grant as may be provided by Parliament.
+\*11. The secretary shall be appointed by the committee and shall receive such salary as may from time to time be fixed by the committee.
+
+*Funds.*
+
+**12.** The funds of the Society shall consist of the subscription fees of members, of moneys received as donations or from other sources, and of such annual grant as may be provided by Parliament.
 
 \*See Note on page 2.
 

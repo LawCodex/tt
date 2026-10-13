@@ -90,6 +90,10 @@ Application of fees.
 
 ## THIRD SCHEDULE.
 
+*MINISTRY OF THE*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### BILLS OF SALE ACT
 
 *1950 Ed. Ch. 31. No. 8. 33 of 1925. Commencement.*
@@ -104,7 +108,11 @@ An Act relating to Bills of Sale.
 
 *Application of Act.*
 
-**2.** This Act shall apply to every bill of sale (whether the same be absolute, or subject or not subject to any trust) whereby the holder or grantee has power, either with or without notice, and either immediately or at any future time, to seize or take possession of any personal chattels comprised in or made subject to such bill of sale.
+*the and*
+
+*to*
+
+**2.** This Act shall apply to every bill of sale (whether the same be absolute, or subject or not subject to any trust) whereby holder or grantee has power, either with or without notice, either immediately or at any future time, to seize or take possession of any personal chattels comprised in or made subject such bill of sale.
 
 *Interpretation.*
 
@@ -120,13 +128,9 @@ documents used in the ordinary course of business as proof of the possession or 
 
 “Registrar” means the Registrar General.
 
-*instruments*
+*Certain instruments giving powers of distress to be subject to this Act.*
 
-**4.** Every attornment, instrument or agreement whereby a Certain power of distress is given or agreed to be given by any person giving powers
-
-*of distress to be*
-
-to any other person by way of security for any present, future subject to this or contingent debt or advance, and whereby any rent is reserved Act. or made payable as a mode of providing for the payment of interest on such debt or advance, or otherwise for the purpose of such security only, shall be deemed to be a bill of sale within the meaning of this Act of any personal chattels which may be seized or taken under such power of distress. However, nothing in this section shall extend to any mortgage of any estate or interest in any lands or tenements which the mortgagee, being in possession, has demised to the mortgagor as his tenant at a fair and reasonable rent.
+**4.** Every attornment, instrument or agreement whereby a power of distress is given or agreed to be given by any person to any other person by way of security for any present, future or contingent debt or advance, and whereby any rent is reserved or made payable as a mode of providing for the payment of interest on such debt or advance, or otherwise for the purpose of such security only, shall be deemed to be a bill of sale within the meaning of this Act of any personal chattels which may be seized or taken under such power of distress. However, nothing in this section shall extend to any mortgage of any estate or interest in any lands or tenements which the mortgagee, being in possession, has demised to the mortgagor as his tenant at a fair and reasonable rent.
 
 *Fixtures or growing crops not to be deemed separately assigned.*
 
@@ -148,9 +152,9 @@ to any other person by way of security for any present, future subject to this o
 
 **9.** Every bill of sale and every transfer or assignment thereof shall be duly attested and shall be registered within seven clear days after the execution thereof, or if it is executed in any place out of Trinidad and Tobago, then within seven clear days after the time at which it would in the ordinary course of post arrive in Trinidad and Tobago if posted immediately after the execution thereof; and shall truly set forth the consideration for which it was given; otherwise such bill of sale, transfer, or assignment shall be void in respect of the personal chattels comprised therein.
 
-*to seize chattels.*
+*Power to seize chattels.*
 
-**10.** Personal chattels assigned under a mortgage bill of sale Power shall not be liable to be seized or taken possession of by the grantee for any other than the following causes:
+**10.** Personal chattels assigned under a mortgage bill of sale shall not be liable to be seized or taken possession of by the grantee for any other than the following causes:
 
 (a) if the grantor makes default in payment of the sum or sums of money thereby secured at the time therein provided for payment, or in the performance of any covenant or agreement contained in the mortgage bill of sale and necessary for maintaining the security;
 
@@ -164,7 +168,11 @@ to any other person by way of security for any present, future subject to this o
 
 However, the grantor may, within five days from the seizure or taking possession of any chattels on account of any of the above-mentioned causes, apply to the High Court or to a Judge thereof, and such Court or Judge, if satisfied that by payment of money or otherwise the said cause of seizure no longer exists, may restrain the grantee from removing or selling the said chattels, or may make such other order as may seem just.
 
-**11.** A mortgage bill of sale shall be void, except as against Form. the grantor, unless made in accordance with the form set out in the First Schedule. However, no variation of such form shall First Schedule. render a bill of sale void if the Court is satisfied that such variation was accidental or due to inadvertence or to some other sufficient cause and is not of a nature to prejudice the rights of third parties.
+*Form.*
+
+*First Schedule.*
+
+**11.** A mortgage bill of sale shall be void, except as against the grantor, unless made in accordance with the form set out in the First Schedule. However, no variation of such form shall render a bill of sale void if the Court is satisfied that such variation was accidental or due to inadvertence or to some other sufficient cause and is not of a nature to prejudice the rights of third parties.
 
 *Execution and registration.*
 
@@ -190,17 +198,25 @@ In case two or more bills of sale are given, comprising in whole or in part any 
 
 **15.** A mortgage bill of sale to which this Act applies shall be no protection in respect of personal chattels included in such bill of sale which but for such bill of sale would have been liable to distress for the recovery of rates or taxes.
 
-**16.** When a subsequent bill of sale is executed within or on Avoidance of certain duplicate the expiration of seven days after the execution of a prior bills of sale. unregistered bill of sale and comprises all or any part of the personal chattels comprised in such prior bill of sale, then if such subsequent bill of sale is given as a security for the same debt as is secured by the prior bill of sale, or for any part of such debt, it shall, to the extent to which it is a security for the same debt or part thereof, and so far as respects the personal chattels or part thereof comprised in the prior bill, be absolutely void, unless it is proved to the satisfaction of the Court having cognisance of the case that the subsequent bill of sale was bona fide given for the purpose of correcting some material error in the prior bill of sale, and not for the purpose of evading this Act.
+*Avoidance of certain duplicate bills of sale.*
 
-**17.** The registration of a bill of sale must be renewed once at Renewal of registration. least every three years, and if a period of three years elapses from the registration or renewed registration of a bill of sale without a renewal or further renewal (as the case may be), the registration shall become void. The renewal of a registration shall be effected by registering an affidavit stating the date of the bill of sale and of the last registration thereof, and the names of the parties thereto as stated therein, and that the bill of sale is still a subsisting security.
+**16.** When a subsequent bill of sale is executed within or on the expiration of seven days after the execution of a prior unregistered bill of sale and comprises all or any part of the personal chattels comprised in such prior bill of sale, then if such subsequent bill of sale is given as a security for the same debt as is secured by the prior bill of sale, or for any part of such debt, it shall, to the extent to which it is a security for the same debt or part thereof, and so far as respects the personal chattels or part thereof comprised in the prior bill, be absolutely void, unless it is proved to the satisfaction of the Court having cognisance of the case that the subsequent bill of sale was bona fide given for the purpose of correcting some material error in the prior bill of sale, and not for the purpose of evading this Act.
 
-Every such affidavit may be in the form set out in the Second Schedule. Second Schedule.
+*Renewal of registration.*
 
-*of*
+**17.** The registration of a bill of sale must be renewed once at least every three years, and if a period of three years elapses from the registration or renewed registration of a bill of sale without a renewal or further renewal (as the case may be), the registration shall become void. The renewal of a registration shall be effected by registering an affidavit stating the date of the bill of sale and of the last registration thereof, and the names of the parties thereto as stated therein, and that the bill of sale is still a subsisting security.
 
-**18.** Any Judge of the High Court, on being satisfied that the Rectification register. omission to register a bill of sale or an affidavit of renewal thereof within the time prescribed by this Act was accidental or due to inadvertence, may, in his discretion, extend the time for such registration on such terms and conditions (if any) as to security, notice by advertisement or otherwise, or as to any other matter, as he thinks fit to direct.
+*Second Schedule.*
 
-**19.** On the production of a receipt or memorandum signed by Entry of satisfaction. the grantee, his executors, administrators, or assigns, acknowledging that the debt for which any mortgage bill of sale was made or given has been satisfied or discharged, the signature
+Every such affidavit may be in the form set out in the Second Schedule.
+
+*Rectification of register.*
+
+**18.** Any Judge of the High Court, on being satisfied that the omission to register a bill of sale or an affidavit of renewal thereof within the time prescribed by this Act was accidental or due to inadvertence, may, in his discretion, extend the time for such registration on such terms and conditions (if any) as to security, notice by advertisement or otherwise, or as to any other matter, as he thinks fit to direct.
+
+*Entry of satisfaction.*
+
+**19.** On the production of a receipt or memorandum signed by the grantee, his executors, administrators, or assigns, acknowledging that the debt for which any mortgage bill of sale was made or given has been satisfied or discharged, the signature
 
 or signatures of such grantee, his executors, administrators, or assigns, being duly attested by one witness at least and verified by the affidavit or solemn declaration of such witness, the Registrar shall endorse upon or annex to such mortgage bill of sale an entry to the effect that such bill of sale is discharged and the same shall be deemed to be discharged accordingly.
 
@@ -244,22 +260,14 @@ Sworn, etc.
 
 ## THIRD SCHEDULE
 
-FEES The following fees shall be paid to the Registrar, namely— On registering any bill of sale, transfer, or assignment by which any property is sold, mortgaged or assigned, when the consideration
-
 *$20.00*
-
-money expressed to be paid does not exceed $300.00 … … And when such consideration money exceeds the sum of $300.00
 
 *$40.00*
 
-and does not exceed the sum of $500.00 … … … And when such consideration money exceeds the sum of
-
 *$60.00*
 
-$500.00 … … … … … … On the affidavit or instrument used for the purpose of re-registering or discharging a bill of sale or bills of sale, in respect of each bill of sale so re-registered or discharged—
-
-When the consideration money does not exceed the sum of
+FEES The following fees shall be paid to the Registrar, namely— On registering any bill of sale, transfer, or assignment by which any property is sold, mortgaged or assigned, when the consideration money expressed to be paid does not exceed $300.00 … … And when such consideration money exceeds the sum of $300.00 and does not exceed the sum of $500.00 … … … And when such consideration money exceeds the sum of $500.00 … … … … … … On the affidavit or instrument used for the purpose of re-registering or discharging a bill of sale or bills of sale, in respect of each bill of sale so re-registered or discharged—
 
 *$20.00 $40.00*
 
-$300.00 … … … … … … When the consideration money exceeds the sum of $300.00 …
+When the consideration money does not exceed the sum of $300.00 … … … … … … When the consideration money exceeds the sum of $300.00 …

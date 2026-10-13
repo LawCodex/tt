@@ -79,29 +79,25 @@ For the Third Schedule See Act No. 18 of 1994.
 
 **20.** Amendments.
 
+*FIRST*
+
 **21.** Saving.
 
-## FIRST SCHEDULE.
+## SCHEDULE.
 
 ## SECOND SCHEDULE.
 
-### CHAPTER 4:60
-
 *18 of 1994.*
-
-BAIL ACT An Act to amend the law relating to release from custody of accused persons in criminal proceedings and to make provision for legal aid for persons kept in custody and
 
 *Commencement. Preamble.*
 
-for connected purposes.
+CHAPTER 4:60 BAIL ACT An Act to amend the law relating to release from custody of accused persons in criminal proceedings and to make provision for legal aid for persons kept in custody and for connected purposes.
 
 [15 TH S EPTEMBER 1994] W HEREAS it is enacted by section 13(1) of the Constitution that an Act of Parliament to which that section applies may expressly declare that it shall have effect even though inconsistent with sections 4 and 5 of the Constitution and, if any Act does so declare, it shall have effect accordingly:
 
-And whereas it is provided in section 13(2) of the Constitution that an Act of Parliament to which that section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House: And whereas it is necessary and expedient that the provisions of this Act shall have effect notwithstanding sections 4 and 5 of the
-
 *Short title. Act inconsistent with sections 4 and 5 of the Constitution. Ch. 1:01. Interpretation.*
 
-Constitution:
+And whereas it is provided in section 13(2) of the Constitution that an Act of Parliament to which that section applies is one the Bill for which has been passed by both Houses of Parliament and at the final vote thereon in each House has been supported by the votes of not less than three-fifths of all the members of that House: And whereas it is necessary and expedient that the provisions of this Act shall have effect notwithstanding sections 4 and 5 of the Constitution:
 
 **1.** This Act may be cited as the Bail Act.
 
@@ -121,13 +117,17 @@ Constitution:
 
 (a) a finding of guilt;
 
+*Ch. 4:20.*
+
 (b) a finding that a person is not guilty by reason of insanity; and
 
-(c) a finding under section 66A(1) of the Summary Ch. 4:20. Courts Act that the person in question did the act or made the omission charged;
+(c) a finding under section 66A(1) of the Summary Courts Act that the person in question did the act or made the omission charged;
+
+*Ch. 12:04.*
 
 “Court” includes a Judge, a Magistrate, a Justice of the Peace or a Coroner and, in the case of a specified Court, includes a Judge or Magistrate or, as the case may be, the Justice having power to act in connection with proceedings before that Court;
 
-“proceedings against a fugitive offender” means proceedings under section 12 of the Extradition (Commonwealth and Ch. 12:04. Foreign Territories) Act;
+“proceedings against a fugitive offender” means proceedings under section 12 of the Extradition (Commonwealth and Foreign Territories) Act;
 
 “surrender to custody” means in relation to a person released on bail, surrendering himself into the custody of the Court or of a police officer, in accordance with the conditions under which bail was granted, at the time and place appointed for him to do so;
 
@@ -135,17 +135,15 @@ Constitution:
 
 “young person” means a person who has attained the age of fourteen and is under the age of sixteen.
 
-(2) Where a written law which relates to bail in criminal proceedings refers to the person bailed appearing before a Court, it is to be construed, unless the context otherwise requires, as
+*Application of Act. Ch. 12:04.*
 
-*Application of Act.*
-
-referring to his surrendering himself into the custody of the Court.
+(2) Where a written law which relates to bail in criminal proceedings refers to the person bailed appearing before a Court, it is to be construed, unless the context otherwise requires, as referring to his surrendering himself into the custody of the Court.
 
 **4.** This Act applies—
 
 (a) to an offence committed in Trinidad and Tobago or elsewhere; and
 
-(b) to an extraditable offence under the Extradition Ch. 12:04. (Commonwealth and Foreign Territories) Act.
+(b) to an extraditable offence under the Extradition (Commonwealth and Foreign Territories) Act.
 
 *Eligibility for bail. Part I. First Schedule. Part II. First Schedule.*
 
@@ -157,11 +155,9 @@ referring to his surrendering himself into the custody of the Court.
 
 (b) of any combination of offences, listed in that Part, unless on application to a Judge he can show sufficient cause why his remand in custody is not justified.
 
-(3) In calculating the three prior convictions referred to in subsection (2), only those convictions recorded within the last
-
 *Circumstances in which bail may be denied. [19 of 2005 12 of 2012]. Ch. 13:51.*
 
-ten years shall be taken into account.
+(3) In calculating the three prior convictions referred to in subsection (2), only those convictions recorded within the last ten years shall be taken into account.
 
 **6.** (1) In this section—
 
@@ -169,17 +165,17 @@ ten years shall be taken into account.
 
 (b) references to previous grants to bail in criminal proceedings include a reference to bail granted before the coming into operation of this Act;
 
-(c) references to a defendant’s being kept in custody
-
 *Ch. 46:01.*
 
-or being in custody include, where a defendant is a child or young person, his being kept in a place of detention provided under Part X of the Children Act;
+(c) references to a defendant’s being kept in custody or being in custody include, where a defendant is a child or young person, his being kept in a place of detention provided under Part X of the Children Act;
 
 (d) the question whether an offence is one which is punishable with imprisonment shall be determined without regard to any enactment prohibiting or restricting the imprisonment of young offenders or first offenders.
 
 (2) Where the offence or one of the offences of which the defendant is accused in the proceedings is punishable with
 
-imprisonment, it shall be within the discretion of the Court to deny bail to the defendant in the following circumstances:
+*deny bail*
+
+imprisonment, it shall be within the discretion of the Court to to the defendant in the following circumstances:
 
 (a) where the Court is satisfied that there are substantial grounds for believing that the defendant, if released on bail would—
 
@@ -201,11 +197,15 @@ imprisonment, it shall be within the discretion of the Court to deny bail to the
 
 (f) where he is charged with an offence alleged to have been committed while he was released on bail; or
 
-(g) where his case is adjourned for inquiries or a report and it appears to the Court that it would be impracticable to complete the inquiries or make the report without keeping him in custody.
+*(2)(a) the*
 
-(3) In the exercise of its discretion under subsection (2)(a) the Court may consider the following:
+(g) where his case is adjourned for inquiries or a report and it appears to the Court that it would be impracticable to complete the inquiries or make the report without keeping him in custody. (3) In the exercise of its discretion under subsection Court may consider the following:
 
 (a) the nature and seriousness of the offence or default and the probable method of dealing with the defendant for it;
+
+*MINISTRY OF THE*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
 
 (b) the character, antecedents, associations and social ties of the defendant;
 
@@ -213,9 +213,9 @@ imprisonment, it shall be within the discretion of the Court to deny bail to the
 
 (d) except in the case of a defendant whose case is adjourned for inquiries or a report; the strength of the evidence of his having committed the offence or having failed to surrender to custody; and
 
-(e) any other factor which appears to be relevant.
+*accused or punishable the Court*
 
-(4) Where any offence of which the defendant is accused or convicted in the proceedings is one which is not punishable with imprisonment, it shall be within the discretion of the Court to deny bail in the following circumstances:
+(e) any other factor which appears to be relevant. (4) Where any offence of which the defendant is convicted in the proceedings is one which is not with imprisonment, it shall be within the discretion of to deny bail in the following circumstances:
 
 (a) where it appears to the Court that, having been previously granted bail in criminal proceedings, he has failed to surrender to custody in accordance with his obligations under the grant of bail and the Court believes, in view of that failure, that the defendant, if released on bail, would fail to surrender to custody;
 
@@ -225,51 +225,61 @@ imprisonment, it shall be within the discretion of the Court to deny bail to the
 
 (c) where he is in custody in pursuance of a sentence of a Court or any authority acting under the Defence Act;
 
-(d) where, having been released on bail in or in connection with the proceedings for the offence,
+*6A. (1)*
 
-*Appeals. [19 of 2005].*
+*Appeals. [19 of 2005]. that person decision of*
 
-he is arrested in pursuance of section 14.
-
-**6A.** (1) Where a person—
+(d) where, having been released on bail in or in connection with the proceedings for the offence, he is arrested in pursuance of section 14. Where a person—
 
 (a) is convicted by a Magistrates’ Court for an offence punishable with imprisonment;
 
 (b) appeals; and
 
-(c) is refused or granted bail by the High Court, that person or the prosecution, as the case may be, may appeal the decision of the High Court to the Court of Appeal.
+(c) is refused or granted bail by the High Court, or the prosecution, as the case may be, may appeal the the High Court to the Court of Appeal.
 
 (2) Where an appellant seeks bail under subsection (1), the Court of Appeal may—
 
 (a) grant bail; or
 
+*to the Appeal*
+
 (b) deny bail if the Court is satisfied that there are no special circumstances to justify the granting of bail,
 
-to the appellant.
+appellant.
 
-(3) Where the prosecution appeals a decision of the High Court to grant bail under subsection (1), the Court of Appeal may—
+(3) Where the prosecution appeals a decision of the High Court to grant bail under subsection (1), the Court of may—
 
 (a) dismiss the appeal and uphold the decision of the High Court;
 
 (b) allow the appeal, revoke the grant of bail and order that the person be arrested; or
 
+*Restrictions on*
+
+*granted*
+
 (c) vary the conditions of the bail.
 
-**7.** (1) Subject to subsection (3), where the defendant is Restrictions on granted bail, the conditions mentioned in subsections (3) to (6) of bail. conditions of section 12 shall not be imposed unless it appears to the Court that it is necessary to do so—
+*conditions of bail.*
+
+*section 12 it is*
+
+**7.** (1) Subject to subsection (3), where the defendant is bail, the conditions mentioned in subsections (3) to (6) of shall not be imposed unless it appears to the Court that necessary to do so—
 
 (a) for the purpose of preventing the occurrence of any of the events referred to in section 6;
 
-(b) to enable enquiries or a report to be made into the defendant’s physical or mental condition.
+*Court to respect of power*
 
-(2) Subsection (1) also applies to any application to the Court to vary the conditions of bail or to impose conditions in respect of bail which has been granted unconditionally.
+*Ch. 4:20.*
 
-(3) Nothing in this section shall restrict the Magistrate’s power under section 66A of the Summary Courts Act to remand Ch. 4:20. the defendant.
+*the*
+
+*Record of decision as to bail.*
+
+(b) to enable enquiries or a report to be made into the defendant’s physical or mental condition. (2) Subsection (1) also applies to any application to the vary the conditions of bail or to impose conditions in bail which has been granted unconditionally. (3) Nothing in this section shall restrict the Magistrate’s under section 66A of the Summary Courts Act to remand defendant.
 
 **8.** (1) Subject to subsection (2), where—
 
-Record of
-
-(a) a Court or a police officer grants bail in criminal bail. decision as to proceedings;
+(a) a Court or a police officer grants bail in criminal proceedings;
 
 (b) a Court refuses bail in criminal proceedings to an accused person;
 
@@ -279,11 +289,9 @@ Record of
 
 that Court or police officer shall make a record of the decision and, where requested to do so by the person in relation to whom the decision was taken, shall cause a copy of the record of the decision as soon as practicable after the record is made, to be given to him.
 
-(2) Where bail in criminal proceedings is granted by endorsing a warrant of arrest, the police officer who releases on bail the person arrested shall make the record required by subsection (1)
-
 *Court to give reasons for granting or refusing bail.*
 
-instead of the Judge or Magistrate who issued the warrant.
+(2) Where bail in criminal proceedings is granted by endorsing a warrant of arrest, the police officer who releases on bail the person arrested shall make the record required by subsection (1) instead of the Judge or Magistrate who issued the warrant.
 
 **9.** (1) Where a Magistrate’s Court—
 
@@ -295,31 +303,33 @@ instead of the Judge or Magistrate who issued the warrant.
 
 (d) varies any conditions of bail, in relation to an accused person, then the Magistrate shall, in order to enable the accused person and the police to consider making an application in the matter to the High Court, give reasons for granting or refusing bail or for imposing or varying the conditions.
 
-(2) A Court, which is by virtue of subsection (1) required to give reasons for its decisions, shall include a note of those reasons in the record of its decision and shall give a copy of that note to the police and to the accused person in relation to
-
 *Accused to be informed of his right to apply to High Court for bail.*
 
-whom the decision is taken.
+(2) A Court, which is by virtue of subsection (1) required to give reasons for its decisions, shall include a note of those reasons in the record of its decision and shall give a copy of that note to the police and to the accused person in relation to whom the decision is taken.
 
 **10.** Where a Magistrate’s Court inquiring into or trying an offence alleged to have been committed by a person refuses bail, it shall inform him that he may apply to the High Court to be granted bail.
 
-**11.** (1) Where a Magistrate’s Court grants or refuses bail in Power of High criminal proceedings or imposes conditions in granting bail in refuse or vary Court to grant, criminal proceedings, the High Court may, on application by an bail. conditions of accused person or the prosecution, grant or refuse bail or vary [19 of 2005]. the conditions.
+*Power of High Court to grant, refuse or vary conditions of bail. [19 of 2005].*
+
+**11.** (1) Where a Magistrate’s Court grants or refuses bail in criminal proceedings or imposes conditions in granting bail in criminal proceedings, the High Court may, on application by an accused person or the prosecution, grant or refuse bail or vary the conditions.
 
 (2) Where the High Court grants bail to an accused person under subsection (1), it may direct him to appear at a time and place which the Magistrate’s Court could have directed and the recognisance of any surety shall be conditioned accordingly.
 
 (3) Where the High Court refuses an accused person bail under subsection (1) and the accused is not then in custody, the Court shall issue a warrant for the arrest of the accused, and the accused shall be brought before a Magistrate’s Court and shall be remanded in custody.
 
+*Right of appeal. [19 of 2005].*
+
 (4) The powers of the High Court under this section are without prejudice to the jurisdiction vested in the High Court under any other law.
 
-**11A.** (1) Where an application is made to the High Court under Right of appeal. section 11(1) and the High Court refuses or grants the application [19 of 2005]. or varies the conditions, the accused person or the prosecution, as the case may be, may appeal that decision to the Court of Appeal.
+**11A.** (1) Where an application is made to the High Court under section 11(1) and the High Court refuses or grants the application or varies the conditions, the accused person or the prosecution, as the case may be, may appeal that decision to the Court of Appeal.
 
 (2) Where the Court of Appeal hears an appeal under subsection (1), the Court of Appeal may make any order as it thinks just.
 
+*General provisions relating to bail.*
+
 (3) No appeal shall lie from an order of the Court of Appeal made under subsection (2).
 
-**12.** (1) A person granted bail in criminal proceedings shall General surrender to custody.
-
-provisions relating to bail.
+**12.** (1) A person granted bail in criminal proceedings shall surrender to custody.
 
 (2) A Court may require any person applying for bail to provide, as a condition for bail before his release, a surety to secure his surrender to custody.
 
@@ -355,11 +365,11 @@ his consent does not extend and shall not in respect of those conditions to whic
 
 (b) by the prosecutor or a police officer, vary the conditions of bail or, in respect of bail which it has granted unconditionally, impose conditions.
 
-*Ch. 4:20. absconding by*
+*Ch. 4:20. Offence of absconding by person released on bail.*
 
 (7) This section is subject to section 66A(3) of the Summary Courts Act.
 
-**13.** (1) A person who has been released on bail in criminal Offence of proceedings and has failed to surrender to custody is guilty of an person released offence unless he has reasonable cause for his failure to surrender on bail. to custody.
+**13.** (1) A person who has been released on bail in criminal proceedings and has failed to surrender to custody is guilty of an offence unless he has reasonable cause for his failure to surrender to custody.
 
 (2) A failure to give to a person granted bail in criminal proceedings a copy of the record of the decision shall not constitute a reasonable cause for that person’s failure to surrender to custody.
 
@@ -377,19 +387,15 @@ which the person to whom the record relates was released; and
 
 (i) in the case of a Magistrate’s Court, the Clerk of the Peace or such other officer as may be authorised by a Magistrate to act for the purpose;
 
-(ii) in the case of the Supreme Court of Judicature, the Registrar, the Deputy Registrar, an Assistant Registrar, or such other officer as may be authorised to act
-
 *Penalty for absconding.*
 
-for the purpose.
+(ii) in the case of the Supreme Court of Judicature, the Registrar, the Deputy Registrar, an Assistant Registrar, or such other officer as may be authorised to act for the purpose.
 
 **14.** (1) An offence under section 13(1) is punishable on summary conviction.
 
-(2) A person who is convicted summarily of any offence under section 13(1) is liable to imprisonment for two years and to
-
 *Liability to arrest for absconding or breaking conditions of bail. [12 of 2012].*
 
-a fine of three thousand dollars.
+(2) A person who is convicted summarily of any offence under section 13(1) is liable to imprisonment for two years and to a fine of three thousand dollars.
 
 **15.** (1) Where a person who has been released on bail in criminal proceedings and is under a duty to surrender into the custody of a Court fails to surrender to custody at the time appointed for him to do so, the Court may issue a warrant for his arrest.
 
@@ -421,11 +427,9 @@ a fine of three thousand dollars.
 
 the Magistrate may, subject to subsection (6), remand him in custody or commit him to custody, as the case may require or, alternatively, grant him bail subject to the same or different conditions, save that where the Magistrate is not of any such opinion, the Magistrate shall grant him bail subject to the same conditions, if any, as were originally imposed.
 
-(6) Where the person brought before the Magistrate
-
 *Ch. 46:01.*
 
-under subsection (4) is a child or young person and the Magistrate does not grant him bail, subsection (5) shall have effect subject to section 52 of the Children Act.
+(6) Where the person brought before the Magistrate under subsection (4) is a child or young person and the Magistrate does not grant him bail, subsection (5) shall have effect subject to section 52 of the Children Act.
 
 *Bail with surety.*
 
@@ -439,11 +443,9 @@ under subsection (4) is a child or young person and the Magistrate does not gran
 
 (ii) his character and his previous convictions, if any; and
 
-(iii) his proximity, whether of kinship, place or residence or otherwise, to the person
-
 *Second Schedule.*
 
-for whom he is to be a surety; and
+(iii) his proximity, whether of kinship, place or residence or otherwise, to the person for whom he is to be a surety; and
 
 (b) require the surety to make a statutory declaration in the form set out in the Second Schedule.
 
@@ -465,11 +467,11 @@ person declines to take his recognisance because he is not satisfied with the su
 
 for that Court to take his recognisance and that Court shall, if satisfied of his suitability, take his recognisance.
 
+*Forfeiture of security or recognisance.*
+
 (6) Where, in pursuance of subsection (4), a recognisance is entered into otherwise than before the Court that fixed the amount of the recognisance, the recognisance shall have the full force and effect as if it had been entered into before that Court.
 
-*or*
-
-**17.** (1) Where a person has given security in pursuance of Forfeiture of section 12(4), and the Court is satisfied that he failed to surrender security to custody, then, unless it appears that he had reasonable cause recognisance. for his failure, the Court may order the forfeiture of the security.
+**17.** (1) Where a person has given security in pursuance of section 12(4), and the Court is satisfied that he failed to surrender to custody, then, unless it appears that he had reasonable cause for his failure, the Court may order the forfeiture of the security.
 
 (2) Where a Court orders the forfeiture of security under subsection (1), the Court may declare that the forfeiture extends to such amount less than the full value of the security as it thinks fit to order.
 
@@ -479,27 +481,23 @@ for that Court to take his recognisance and that Court shall, if satisfied of hi
 
 (b) where it does not consist of money, be enforced by such Magistrate’s Court as may be specified in the order.
 
+*Offence of agreeing to indemnify surety in criminal proceedings.*
+
 (4) This section shall be in addition to any other provision relating to enforcement of recognisances entered into in criminal proceedings under any other written law.
 
-*to in*
-
-**18.** (1) Where a person agrees with another to indemnify Offence of that other against any liability which that other may incur as a agreeing surety to secure the surrender to custody of a person accused or surety indemnify convicted of or under arrest for an offence, he and that other proceedings. criminal person are guilty of an offence.
+**18.** (1) Where a person agrees with another to indemnify that other against any liability which that other may incur as a surety to secure the surrender to custody of a person accused or convicted of or under arrest for an offence, he and that other person are guilty of an offence.
 
 (2) An offence under subsection (1) is committed whether the agreement is made before or after the person to be indemnified becomes a surety, whether or not he becomes a surety and whether or not the agreement contemplates compensation in money’s worth.
 
-(3) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for two years and
-
 *Offence to stand surety on consideration of property being used as security.*
 
-to a fine of three thousand dollars.
+(3) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for two years and to a fine of three thousand dollars.
 
 **19.** (1) It is an offence for a person to stand surety on the consideration of property which, at the time of standing such surety, is being used as security for the purpose of standing surety for any other person unless the approval of the Court is first obtained.
 
-(2) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for two years and
-
 *Amendments. Third Schedule. Saving.*
 
-to a fine of three thousand dollars.
+(2) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for two years and to a fine of three thousand dollars.
 
 \*20. The laws specified in the Third Schedule are amended in the manner specified therein.
 

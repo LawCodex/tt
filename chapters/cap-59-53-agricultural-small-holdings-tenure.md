@@ -234,11 +234,9 @@ Ch. 57:05.
 
 *32 of 1961.*
 
-An Act to provide for better security of tenure for farmers of small agricultural holdings, to restrict the right to recover possession of such holdings and for purposes connected with the matters aforesaid, and to apply the
-
 *Ch. 79:07.*
 
-loan provisions of the Agricultural Development Bank Act to certain tenancies.
+An Act to provide for better security of tenure for farmers of small agricultural holdings, to restrict the right to recover possession of such holdings and for purposes connected with the matters aforesaid, and to apply the loan provisions of the Agricultural Development Bank Act to certain tenancies.
 
 *\\* Commencement. [24/1966. 31 of 1980]. Short title.*
 
@@ -260,11 +258,9 @@ loan provisions of the Agricultural Development Bank Act to certain tenancies.
 
 “cane land” means land that is let or agreed to be let for the farming, either wholly or mainly, of sugar cane;
 
-“contract of tenancy” means any contract express or implied that creates a tenancy in respect of agricultural land or any transaction that creates a licence to cultivate any agricultural land, but does not include an agricultural contract as defined
-
 *Ch. 63:50.*
 
-in the Agricultural Contracts Act when the terms and conditions of such contracts are in writing and signed by the parties thereto;
+“contract of tenancy” means any contract express or implied that creates a tenancy in respect of agricultural land or any transaction that creates a licence to cultivate any agricultural land, but does not include an agricultural contract as defined in the Agricultural Contracts Act when the terms and conditions of such contracts are in writing and signed by the parties thereto;
 
 \*See Act No. 31 of 1980.
 
@@ -290,11 +286,9 @@ in the Agricultural Contracts Act when the terms and conditions of such contract
 
 “tribunal” means an agricultural tribunal established pursuant to section 12.
 
-(2) A parcel of agricultural land that, immediately before the commencement of this Act, was a holding or small holding for the
+*Ch. 23 No. 11 (1950 Ed.). Ch. 23. No. 20 (1950 Ed.).*
 
-*(1950 Ed.).*
-
-purposes of the Sugar Cane Small Holdings Ordinance (now repealed) Ch. 23 No. 11 or the Rents of Small Agricultural Holdings Ordinance (now repealed) Ch. 23. No. 20 but is not a small holding as defined in subsection (1) shall be deemed (1950 Ed.). for the purposes of this Act to be a small holding—
+(2) A parcel of agricultural land that, immediately before the commencement of this Act, was a holding or small holding for the purposes of the Sugar Cane Small Holdings Ordinance (now repealed) or the Rents of Small Agricultural Holdings Ordinance (now repealed) but is not a small holding as defined in subsection (1) shall be deemed for the purposes of this Act to be a small holding—
 
 (a) during the subsistence of any tenancy agreement in relation to that parcel and in effect on the commencement of this Act; and
 
@@ -324,9 +318,9 @@ purposes of the Sugar Cane Small Holdings Ordinance (now repealed) Ch. 23 No. 11
 
 **4.** No contract of tenancy of any land mentioned in section 3(1), whether the contract was made before or after the commencement of this Act, shall be terminated by the landlord or tenant of the land within the term fixed for that contract by that subsection, except in the manner provided by this Act.
 
-*in writing.*
+*Contract to be in writing.*
 
-**5.** (1) A contract of tenancy shall be evidenced by an Contract to be instrument in writing called, in this Act, the tenancy instrument.
+**5.** (1) A contract of tenancy shall be evidenced by an instrument in writing called, in this Act, the tenancy instrument.
 
 (2) The tenancy instrument shall contain the names and addresses of the parties, the rent provided for, and the place at which the rent is to be paid, the purpose of the tenancy, the term of the contract of tenancy and such other particulars as may be prescribed.
 
@@ -334,9 +328,9 @@ purposes of the Sugar Cane Small Holdings Ordinance (now repealed) Ch. 23 No. 11
 
 (4) This section does not apply to a contract of tenancy of a small holding that was entered into before the commencement of this Act.
 
-*conditions.*
+*Statutory conditions.*
 
-**6.** (1) The conditions set forth in this section shall be implied Statutory in every contract of tenancy of a small holding, whether entered into before or after the commencement of this Act, and shall be written under the heading “statutory conditions” into every tenancy instrument executed after the commencement of this Act.
+**6.** (1) The conditions set forth in this section shall be implied in every contract of tenancy of a small holding, whether entered into before or after the commencement of this Act, and shall be written under the heading “statutory conditions” into every tenancy instrument executed after the commencement of this Act.
 
 ### STATUTORY CONDITIONS
 
@@ -382,13 +376,9 @@ is, subject to the provisions of this Act relating to the termination of a contr
 
 (3) The aggregate of the original period of a contract of tenancy and the periods of extension thereof shall not, except with the consent in writing of the landlord, exceed twenty-five years.
 
-*extension of*
+*Further extension of contract of tenancy. [16 of 1987].*
 
-**8A.** (1) Where a tenant requires consent in writing of a Further landlord under section 8(3), the tenant shall, not less than three contract of
-
-*tenancy.*
-
-months before the expiry of the period of twenty-five years, serve [16 of 1987]. notice in writing upon the landlord of his intention to further renew the contract of tenancy for such period as may be applicable to the type of small holdings held by the tenant under section 3(1).
+**8A.** (1) Where a tenant requires consent in writing of a landlord under section 8(3), the tenant shall, not less than three months before the expiry of the period of twenty-five years, serve notice in writing upon the landlord of his intention to further renew the contract of tenancy for such period as may be applicable to the type of small holdings held by the tenant under section 3(1).
 
 (2) Where a tenant serves a landlord with notice under subsection (1) of the tenant’s intention to further renew the contract of tenancy, the landlord may, not less than thirty days before the date of expiry of the contract of tenancy under section 8(3), either give or withhold his consent by notice in writing served on the tenant.
 
@@ -396,9 +386,11 @@ months before the expiry of the period of twenty-five years, serve [16 of 1987].
 
 (4) Sections 3 and 8 of this Act apply to a contract of tenancy renewed under subsection (2) or subsection (3) as they apply to an original contract of tenancy, so however that the aggregate of the original period of a contract of tenancy and the periods of extension thereof, shall not exceed fifty years.
 
-*Practice of good husbandry.*
+*\9. (1)*
 
-**9.** (1) For the purposes of this Act, the “practice of good husbandry” in relation to a small holding shall be determined as a matter of fact by the tribunal, who in making or giving an order under section 38, shall take into consideration the following factors:
+*Practice of good husbandry. husbandry” matter of under*
+
+For the purposes of this Act, the “practice of good in relation to a small holding shall be determined as a fact by the tribunal, who in making or giving an order section 38, shall take into consideration the following factors:
 
 (a) the character and location of the small holding, and the increase or decrease in the capital value of the small holding as a result of the cultivation practices of the tenant;
 
@@ -420,21 +412,17 @@ months before the expiry of the period of twenty-five years, serve [16 of 1987].
 
 (2) Nothing in this section implies an obligation on the part of a tenant of a small holding to carry out repairs to drains, ditches, gates, fences, walls and farm buildings unless repairs thereto are required to be carried out by him under his contract of tenancy of the small holding.
 
-*out of Act void.*
+*Contracting out of Act void.*
 
-**10.** A provision in a contract of tenancy of a small holding Contracting whereby the tenant purports to contract himself out of the provisions of this Act or the effect of which would be to contract the tenant out of the provisions of this Act is against public policy and void.
+**10.** A provision in a contract of tenancy of a small holding whereby the tenant purports to contract himself out of the provisions of this Act or the effect of which would be to contract the tenant out of the provisions of this Act is against public policy and void.
 
-**11.** The landlord of a small holding, or any person authorised Right of entry. by him, may at all reasonable times enter in the small holding or any part of it for the purpose of making any inspection thereof that may reasonably be required for the purposes of this Act.
+*Right of entry.*
 
-### ESTABLISHMENT OF AGRICULTURAL TRIBUNALS
+**11.** The landlord of a small holding, or any person authorised by him, may at all reasonable times enter in the small holding or any part of it for the purpose of making any inspection thereof that may reasonably be required for the purposes of this Act.
 
-*tribunals.*
+*Agricultural tribunals. [40 of 1970 45 of 1979 16 of 1987].*
 
-\*12. (1) The President may by Order establish as many Agricultural agricultural tribunals as he may think fit and appoint the [40 of 1970
-
-*45 of 1979 16 of 1987].*
-
-members thereof, in accordance with this Act.
+ESTABLISHMENT OF AGRICULTURAL TRIBUNALS *12. (1) The President may by Order establish as many agricultural tribunals as he may think fit and appoint the members thereof, in accordance with this Act.
 
 (2) The President when establishing a tribunal shall specify in respect of that tribunal the agricultural district of the tribunal, which shall be the area of the Territory in which the tribunal shall exercise its powers and duties under this Act.
 
@@ -478,9 +466,9 @@ members thereof, in accordance with this Act.
 
 \* See section 3 of Act No. 40 of 1970.
 
-*before tribunals.*
+*Witnesses before tribunals.*
 
-**16.** (1) For the purpose of securing the attendance of a Witnesses witness before a tribunal, the chairman of the tribunal has the powers of a judge of a Petty Civil Court to compel the attendance and examination of witnesses and the production of documents.
+**16.** (1) For the purpose of securing the attendance of a witness before a tribunal, the chairman of the tribunal has the powers of a judge of a Petty Civil Court to compel the attendance and examination of witnesses and the production of documents.
 
 (2) A person is liable on summary conviction to a fine of three hundred dollars who without lawful excuse—
 
@@ -494,15 +482,15 @@ members thereof, in accordance with this Act.
 
 (3) A person is liable on summary conviction to a fine of one thousand five hundred dollars and to imprisonment for one year who wilfully gives a false answer to any question material to the subject of an investigation by a tribunal and put to him during the course of any proceedings before the tribunal.
 
-*proceedings and records.*
+*Regulation of proceedings and records.*
 
-**17.** (1) Subject to this Act and to the Regulations, a tribunal Regulation of may regulate its own proceedings.
+**17.** (1) Subject to this Act and to the Regulations, a tribunal may regulate its own proceedings.
 
 (2) The chairman of a tribunal shall cause to be kept a record of each proceeding before the tribunal, of the evidence taken before it, the decision arrived at, and of the names of the members taking part in the proceedings.
 
-*staff of tribunal.*
+*Appointment of staff of tribunal.*
 
-**18.** With the approval of the Minister, a tribunal may appoint Appointment of and employ, at such remuneration and on such terms and conditions as the Minister may determine either generally or particularly, a secretary and such other officers and employees as the tribunal may consider necessary for the proper carrying out of its functions under this Act.
+**18.** With the approval of the Minister, a tribunal may appoint and employ, at such remuneration and on such terms and conditions as the Minister may determine either generally or particularly, a secretary and such other officers and employees as the tribunal may consider necessary for the proper carrying out of its functions under this Act.
 
 *Expenses and allowances of members of tribunal.*
 
@@ -534,13 +522,11 @@ members thereof, in accordance with this Act.
 
 (4) The prescribed percentage shall be four per cent or such other percentage as may be fixed by Order of the President, approved by both Houses of Parliament.
 
-*Provisions for securing*
+*Provisions for securing tenancy instrument.*
 
 **21.** (1) Where—
 
-*instrument.*
-
-(a) in respect of any contract of tenancy of a small tenancy holding of any land mentioned in section 3(1)(a) to (e) entered into after the commencement of this Act, a tenancy instrument has not been executed by the parties or the tenancy instrument does not contain the statutory conditions required by section 6 to be written therein; or
+(a) in respect of any contract of tenancy of a small holding of any land mentioned in section 3(1)(a) to (e) entered into after the commencement of this Act, a tenancy instrument has not been executed by the parties or the tenancy instrument does not contain the statutory conditions required by section 6 to be written therein; or
 
 (b) in respect of a contract of tenancy of a small holding of any land, mentioned in section 3(1)(a) to (e) and entered into before the commencement of this Act, the terms and conditions of the contract have not been reduced to writing and signed by the parties, or if reduced to writing do not include conditions similar in substance and not less favourable to the tenant than the statutory conditions required by section 6,
 
@@ -576,13 +562,19 @@ the landlord or tenant, if he has first requested the other to have the contract
 
 (c) if the landlord resides elsewhere than in Trinidad and Tobago.
 
-**24.** (1) On an investigation by a tribunal, the landlord or his Voluntary evidence on agent may give evidence, produce documents and call witnesses; investigation. and the tenant thereof may cross-examine the landlord or his agent and any witnesses called on behalf of the landlord.
+*Voluntary evidence on investigation.*
+
+**24.** (1) On an investigation by a tribunal, the landlord or his agent may give evidence, produce documents and call witnesses; and the tenant thereof may cross-examine the landlord or his agent and any witnesses called on behalf of the landlord.
 
 (2) On an investigation by a tribunal, the tenant may give evidence, produce documents and call witnesses, and any other person may give evidence for the purpose of ascertaining all the relevant facts; and the landlord or his agent and the tenant may cross-examine any witness called on behalf of the tenant and the landlord or his agent and the tenant may cross-examine any other person giving evidence on the investigation.
 
-**25.** A tribunal may require the landlord, or his agent, the Compulsory evidence on tenant or any other person to give evidence for the purpose of investigation. ascertaining all the relevant facts; and the landlord or his agent and the tenant may cross-examine any such witness.
+*Compulsory evidence on investigation.*
 
-**26.** Subject to the Evidence Act, all oral evidence given Oral evidence to be upon oath. before a tribunal on an investigation of an application under Ch. 7:02. section 22 shall be given upon oath, and the chairman of the tribunal shall administer the oath.
+**25.** A tribunal may require the landlord, or his agent, the tenant or any other person to give evidence for the purpose of ascertaining all the relevant facts; and the landlord or his agent and the tenant may cross-examine any such witness.
+
+*Oral evidence to be upon oath. Ch. 7:02.*
+
+**26.** Subject to the Evidence Act, all oral evidence given before a tribunal on an investigation of an application under section 22 shall be given upon oath, and the chairman of the tribunal shall administer the oath.
 
 *Place and hearing of investigation.*
 
@@ -614,13 +606,9 @@ the landlord or tenant, if he has first requested the other to have the contract
 
 (3) Where a tribunal inspects a small holding under the authority of this section, the tribunal shall record or cause to be recorded the results of its inspection.
 
-*of*
+*Assessment of maximum rent in absence of evidence of landlord.*
 
-**31.** Without prejudice to the power of a tribunal to assess, fix Assessment maximum rent and certify a maximum rent following an investigation, a tribunal in absence of
-
-*of*
-
-may assess, fix and certify a maximum rent for a small holding in evidence landlord. respect of which an application is made under section 22, where—
+**31.** Without prejudice to the power of a tribunal to assess, fix and certify a maximum rent following an investigation, a tribunal may assess, fix and certify a maximum rent for a small holding in respect of which an application is made under section 22, where—
 
 (a) the landlord or his agent fails without reasonable cause to attend before the tribunal on the date and at the time and place fixed in the notice given under section 22, or on any date on which the holding of the investigation was adjourned or postponed, if the notice was received by the landlord or his agent;
 
@@ -630,7 +618,9 @@ may assess, fix and certify a maximum rent for a small holding in evidence landl
 
 (d) the investigation was held under section 23(3).
 
-**32.** (1) The chairman of a tribunal investigating an Witness expenses and application under section 22 may direct that out of pocket expenses costs. of any witness shall be paid by such party as he thinks proper.
+*Witness expenses and costs.*
+
+**32.** (1) The chairman of a tribunal investigating an application under section 22 may direct that out of pocket expenses of any witness shall be paid by such party as he thinks proper.
 
 (2) Notwithstanding subsection (1), no direction for the payment of out of pocket expenses of a witness called by the tenant shall be given against the landlord where the maximum rent fixed by the tribunal on the application of the tenant is the same as or greater than the rent actually paid by the tenant to the landlord before the application was made.
 
@@ -662,9 +652,9 @@ that the maximum rent of the small holdings described in the certificate is as s
 
 ### APPEALS
 
-*rent assessment.*
+*Appeal from rent assessment.*
 
-**36.** (1) Where a landlord or tenant is dissatisfied with a Appeal from decision of a tribunal in respect of any matter referred to the tribunal for decision under this Act, the landlord or tenant may, except where the decision is in this Act stated to be final, appeal therefrom to the Court of Appeal in the manner and subject to the conditions provided in this section.
+**36.** (1) Where a landlord or tenant is dissatisfied with a decision of a tribunal in respect of any matter referred to the tribunal for decision under this Act, the landlord or tenant may, except where the decision is in this Act stated to be final, appeal therefrom to the Court of Appeal in the manner and subject to the conditions provided in this section.
 
 (2) Within twenty-one days after the date upon which in the normal course of post he would have received the certificate of maximum rent issued by the tribunal, an appellant shall—
 
@@ -710,15 +700,13 @@ and the chairman shall authenticate the copies of the evidence, reasons and cert
 
 ### RIGHTS OF LANDLORDS AND TENANTS
 
-*by*
+*Termination by tenant.*
 
-*tenant.*
+**37.** A tenant may terminate his contract of tenancy of a small holding by giving to the landlord not less than six months notice in writing.
 
-**37.** A tenant may terminate his contract of tenancy of a small Termination holding by giving to the landlord not less than six months notice in writing.
+*Termination by landlord, application therefor.*
 
-*landlord,*
-
-**38.** (1) A landlord of a small holding may apply to the Termination by tribunal of the agricultural district in which the small holding is application situated for the possession of the small holding, or for the therefor. ejectment of the tenant from the small holding.
+**38.** (1) A landlord of a small holding may apply to the tribunal of the agricultural district in which the small holding is situated for the possession of the small holding, or for the ejectment of the tenant from the small holding.
 
 (2) No order for the recovery of possession of a small holding, or for the ejectment of a tenant therefrom shall, whether in respect of a notice given or proceedings begun before or after the commencement of this Act, be made or given unless—
 
@@ -742,33 +730,31 @@ and the chairman shall authenticate the copies of the evidence, reasons and cert
 
 (i) himself, or
 
-(ii) any son or daughter of his over the age of eighteen years, and the tribunal is satisfied that having regard to all the circumstances of the case greater hardship would be caused by refusing to grant an order than by granting it;
+(ii) any son or daughter of his over the age of eighteen years,
+
+and the tribunal is satisfied that having regard to all the circumstances of the case greater hardship would be caused by refusing to grant an order than by granting it;
 
 (j) the landlord reasonably requires the small holding or a part thereof for the purpose of adjusting boundaries between the agricultural units of his land or for drainage or irrigation, or for making access roads, or for developing other lands of the landlord,
 
-and in any such case the tribunal considers it reasonable to make
+*and in any the order.*
 
-*the order.*
+such case the tribunal considers it reasonable to make
 
-(3) An order made in pursuance of subsection (2)(e) or
+*(j) may required, as*
 
-(j) may relate to the part only of the small holding, acquired or required, as the case may be, and in any such event—
+(3) An order made in pursuance of subsection (2)(e) or relate to the part only of the small holding, acquired or the case may be, and in any such event—
 
 (a) the provisions of this Act respecting compensation shall apply as if the part to which the order relates were a separate holding; and
 
 (b) the tenant shall be entitled to a reduction of rent proportionate to the part to which the order relates, and in respect of any depreciation of the market value of the residue of the holding caused by the severance or by the use to be made of the part severed, and the amount of that reduction shall be settled as in the case of compensation under this Act.
 
-(4) An order by a tribunal for the recovery of possession of a small holding, or for the ejectment of a tenant therefrom, may be enforced as if it were an order for possession made by a
-
 *Ch. 27. No. 16. (1950 Ed.).*
 
-Court under the Landlord and Tenant Ordinance.
+(4) An order by a tribunal for the recovery of possession of a small holding, or for the ejectment of a tenant therefrom, may be enforced as if it were an order for possession made by a Court under the Landlord and Tenant Ordinance.
 
-*postponement,*
+*Stay, postponement, etc., of order on conditions.*
 
-**39.** (1) Where an application is made under section 38 to a Stay, tribunal for the possession of a small holding, the tribunal may— etc., of order on
-
-*conditions.*
+**39.** (1) Where an application is made under section 38 to a tribunal for the possession of a small holding, the tribunal may—
 
 (a) adjourn the hearing of the application from time to time;
 
@@ -776,13 +762,13 @@ Court under the Landlord and Tenant Ordinance.
 
 (2) An adjournment, stay, suspension or postponement may be granted subject to such conditions, if any, as the tribunal thinks proper; and if the conditions are complied with and the order has been made the tribunal may discharge or rescind the order.
 
-*granted to take crops.*
+*Time granted to take crops.*
 
-**40.** In making an order under section 38, the tribunal shall Time not require a tenant to quit a small holding until the crop then growing thereon has been reaped, or until after the date when the kind of crop growing thereon would normally be reaped in the agricultural district in which the small holding is situated.
+**40.** In making an order under section 38, the tribunal shall not require a tenant to quit a small holding until the crop then growing thereon has been reaped, or until after the date when the kind of crop growing thereon would normally be reaped in the agricultural district in which the small holding is situated.
 
-*[16 of 1987].*
+*Compensation. [16 of 1987].*
 
-**41.** (1) Where an order for the possession of a small holding Compensation. has been made on any of the grounds set out in section 38(2), the tribunal making the order may, subject to subsection (3) of this section, award the tenant and any subtenant such compensation as the tribunal considers just in the circumstances.
+**41.** (1) Where an order for the possession of a small holding has been made on any of the grounds set out in section 38(2), the tribunal making the order may, subject to subsection (3) of this section, award the tenant and any subtenant such compensation as the tribunal considers just in the circumstances.
 
 (2) Where a contract of tenancy is terminated by reason of effluxion of time or by any other cause under the Act, the tenant or subtenant may, not later than forty-five days after the termination of the contract of tenancy, make an application to the tribunal for an award of compensation and subject to subsection (3), the tribunal may award such compensation as it considers just in the circumstances.
 
@@ -808,7 +794,9 @@ but in fixing compensation the tribunal shall set off against the compensation t
 
 ### SUBLETTING AND ASSIGNMENTS
 
-**44.** (1) A tenant may with the consent of the landlord sublet Subletting small holding. the entire small holding; and the consent of the landlord thereto shall not be unreasonably withheld.
+*Subletting small holding.*
+
+**44.** (1) A tenant may with the consent of the landlord sublet the entire small holding; and the consent of the landlord thereto shall not be unreasonably withheld.
 
 (2) A tenant may sublet a part of the small holding with the consent of the landlord.
 
@@ -818,15 +806,19 @@ but in fixing compensation the tribunal shall set off against the compensation t
 
 (b) render it a term of the subtenancy of the small holding that the subtenant is to pay to the landlord the full amount of the rent payable by the tenant in respect of the small holding.
 
-**45.** (1) Where a tenant claims that his landlord has Consent given by order of unreasonably withheld consent to the subletting of the tenant’s tribunal. small holding, the tenant may apply in writing to the tribunal of the agricultural district in which the small holding is situated for an order consenting to the subletting.
+*Consent given by order of tribunal.*
+
+**45.** (1) Where a tenant claims that his landlord has unreasonably withheld consent to the subletting of the tenant’s small holding, the tenant may apply in writing to the tribunal of the agricultural district in which the small holding is situated for an order consenting to the subletting.
 
 (2) If the tribunal considers that the consent of the landlord to the subletting has been unreasonably withheld, the tribunal shall by order give its consent thereto; and the order of the tribunal has effect as if it were the consent of the landlord previously obtained in writing.
 
-**46.** A tenant of a small holding may, with the consent of his Assignment of contract of landlord, assign his contract of tenancy of the small holding.
+*Assignment of contract of tenancy.*
 
-tenancy.
+**46.** A tenant of a small holding may, with the consent of his landlord, assign his contract of tenancy of the small holding.
 
-**47.** (1) Where a tenant of a small holding desires to assign Assignment by consent order. his contract of tenancy thereof in circumstances where the landlord is or appears to be unwilling to give consent thereto, the tenant shall give or send to the landlord a written notice of intention to assign the small holding and, at the same time, he shall give or send a copy of that notice to the tribunal of the agricultural district in which the small holding is situated.
+*Assignment by consent order.*
+
+**47.** (1) Where a tenant of a small holding desires to assign his contract of tenancy thereof in circumstances where the landlord is or appears to be unwilling to give consent thereto, the tenant shall give or send to the landlord a written notice of intention to assign the small holding and, at the same time, he shall give or send a copy of that notice to the tribunal of the agricultural district in which the small holding is situated.
 
 (2) At any time after the receipt of the copy of the notice mentioned in subsection (1) the tribunal may require the landlord or the tenant to furnish within a specified time answers to such particulars of information as the tribunal may reasonably require; and on receipt of the answers or after the expiration of the time within which the answers were required to be furnished, the tribunal shall inquire into the matter.
 
@@ -850,13 +842,21 @@ tenancy.
 
 (2) The provisions of section 120 of the Summary Courts Act shall apply mutatis mutandis in respect of proof of service of notice under this Act before a tribunal or Court of Appeal.
 
-**51.** Anything that, by or under this Act, is required or Agents of landlords. authorised to be done to, by or in respect of a landlord of a small holding may be done to, by or in respect of an agent of the landlord duly authorised in that behalf.
+*Agents of landlords.*
 
-**52.** Without affecting in any way proceedings that may be Validity of agreements taken under an Act imposing stamp duties on the execution of under this Act. instruments, it is no objection to a contract of tenancy, subletting, assignment of a contract of tenancy or authorisation made pursuant to this Act in respect of a small holding that the contract, sublease, assignment or authorisation is not stamped or is insufficiently stamped or in the case of a contract, other than one requiring to be evidenced by a tenancy instrument, that the contract or some memorandum or note thereof is not in writing and signed by the party to be charged.
+**51.** Anything that, by or under this Act, is required or authorised to be done to, by or in respect of a landlord of a small holding may be done to, by or in respect of an agent of the landlord duly authorised in that behalf.
 
-**53.** Notwithstanding any provision in a contract of tenancy Extent of damages of a small holding making either the landlord or the tenant recoverable. liable to pay any liquidated damages or any penalty in the event of any breach or non-fulfilment of any of the terms or conditions in the contract, neither party is entitled to recover any sum in consequence of any such breach or non-fulfilment in excess of the damage actually suffered by him in consequence of the breach or non-fulfilment of any of the terms or conditions in the contract.
+*Validity of agreements under this Act.*
 
-**54.** (1) No person shall, as a condition of the grant, renewal Restriction on premiums. or continuance of a tenancy of any small holding, require the payment of any fine, premium, or other like sum, or the giving of any consideration, in addition to the rent.
+**52.** Without affecting in any way proceedings that may be taken under an Act imposing stamp duties on the execution of instruments, it is no objection to a contract of tenancy, subletting, assignment of a contract of tenancy or authorisation made pursuant to this Act in respect of a small holding that the contract, sublease, assignment or authorisation is not stamped or is insufficiently stamped or in the case of a contract, other than one requiring to be evidenced by a tenancy instrument, that the contract or some memorandum or note thereof is not in writing and signed by the party to be charged.
+
+*Extent of damages recoverable.*
+
+**53.** Notwithstanding any provision in a contract of tenancy of a small holding making either the landlord or the tenant liable to pay any liquidated damages or any penalty in the event of any breach or non-fulfilment of any of the terms or conditions in the contract, neither party is entitled to recover any sum in consequence of any such breach or non-fulfilment in excess of the damage actually suffered by him in consequence of the breach or non-fulfilment of any of the terms or conditions in the contract.
+
+*Restriction on premiums.*
+
+**54.** (1) No person shall, as a condition of the grant, renewal or continuance of a tenancy of any small holding, require the payment of any fine, premium, or other like sum, or the giving of any consideration, in addition to the rent.
 
 (2) A person requiring any payment or the giving of any consideration in contravention of this section is liable on summary conviction to a fine of one thousand five hundred dollars and the Court by which he is convicted may order the amount paid or the value of the consideration to be repaid to the person by whom it was made or given.
 
@@ -892,9 +892,9 @@ is liable on summary conviction to a fine of seven hundred and fifty dollars.
 
 (d) generally, for carrying out the provisions of this Act.
 
-*saving*
+*General saving of rights.*
 
-**58.** Except as in this Act expressly provided, nothing in this General of rights. Act prejudicially affects any power, right or remedy of a landlord, or tenant, or other person, vested in or exercisable by him by virtue of any other Act or law, in respect of any contract of tenancy or other contract, or of any fixtures, tax, rate, rent or other thing.
+**58.** Except as in this Act expressly provided, nothing in this Act prejudicially affects any power, right or remedy of a landlord, or tenant, or other person, vested in or exercisable by him by virtue of any other Act or law, in respect of any contract of tenancy or other contract, or of any fixtures, tax, rate, rent or other thing.
 
 ### SUBSIDIARY LEGISLATION
 
@@ -936,29 +936,43 @@ made under section 57
 
 **1.** These Regulations may be cited as the Agricultural Small Citation. Holdings Tenure Regulations.
 
-**2.** A tenancy instrument required by section 5 of the Act Form of tenancy agreement. shall be in the form set out as Form 1 in the Schedule. Form 1.
+*tenancy*
 
-**3.** A receipt issued under section 6(1) to a tenant by a Form of receipt for payment by landlord for the payment of rent by or on behalf of a tenant shall a tenant under a contract of be in the form set out as Form 2 in the Schedule. tenancy. Form 2.
+**2.** A tenancy instrument required by section 5 of the Act Form of agreement. shall be in the form set out as Form 1 in the Schedule. Form 1.
 
-**4.** An application made under section 22(1) of the Act by a Form of application to tenant or landlord to a tribunal for the purpose of having the fix maximum rent. maximum rent of a small holding assessed, fixed and certified shall be in the form set out as Form 3 in the Schedule. Form 3.
+*receipt by under a of*
 
-**5.** A notice given under section 22(2) of the Act to a tenant Form of notice required by and landlord of the date, time and place fixed for investigating an section 22(2) of Act. application referred to in regulation 4 shall be in the form set out as Form 4 in the Schedule. Form 4.
+**3.** A receipt issued under section 6(1) to a tenant by a Form of for payment landlord for the payment of rent by or on behalf of a tenant shall a tenant contract be in the form set out as Form 2 in the Schedule. tenancy. Form 2.
 
-**6.** A notice given under section 30(2) of the Act of a Form of notice required by tribunal’s intention to inspect a small holding shall be in the form section 30(2) of Act. set out as Form 5 in the Schedule. Form 5.
+*to*
 
-**7.** A certificate of maximum rent issued under section 33 of Form of certificate of the Act by the chairman of a tribunal shall be in the form set out maximum rent. as Form 6 in the Schedule. Form 6.
+**4.** An application made under section 22(1) of the Act by a Form of application tenant or landlord to a tribunal for the purpose of having the fix maximum rent. maximum rent of a small holding assessed, fixed and certified shall be in the form set out as Form 3 in the Schedule. Form 3.
 
-**8.** A written notice of appeal from the decision of a tribunal Form of notice of appeal required by section 36(2)(b) of the Act shall be in the form set out required by section 36(2)(b). as Form 7 in the Schedule.
+*notice by 22(2) of*
+
+**5.** A notice given under section 22(2) of the Act to a tenant Form of required and landlord of the date, time and place fixed for investigating an section Act. application referred to in regulation 4 shall be in the form set out as Form 4 in the Schedule. Form 4.
+
+*notice by 30(2) of*
+
+**6.** A notice given under section 30(2) of the Act of a Form of required tribunal’s intention to inspect a small holding shall be in the form section Act. set out as Form 5 in the Schedule. Form 5.
+
+*of rent.*
+
+**7.** A certificate of maximum rent issued under section 33 of Form of certificate the Act by the chairman of a tribunal shall be in the form set out maximum as Form 6 in the Schedule. Form 6.
+
+*notice*
+
+*by 36(2)(b).*
+
+**8.** A written notice of appeal from the decision of a tribunal Form of of appeal required by section 36(2)(b) of the Act shall be in the form set out required section as Form 7 in the Schedule.
 
 Form 7.
 
 *Form of application for possession or ejectment.*
 
-**9.** An application made under section 38 of the Act by a landlord to a tribunal for the possession of a small holding or for the ejectment of a tenant from a small holding shall be in the form
-
 *Form 8.*
 
-set out as Form 8 in the Schedule.
+**9.** An application made under section 38 of the Act by a landlord to a tribunal for the possession of a small holding or for the ejectment of a tenant from a small holding shall be in the form set out as Form 8 in the Schedule.
 
 *Form of application for an order consenting to subletting. Form 9.*
 
@@ -968,11 +982,9 @@ set out as Form 8 in the Schedule.
 
 *Form of notice of intention to assign small holding.*
 
-**11.** A written notice given under section 47(1) by a tenant of an intention to assign his contract of tenancy of a small holding, where the landlord is or appears to be unwilling to give consent to such assignment, shall be in the form set out as
-
 *Form 10.*
 
-Form 10 in the Schedule.
+**11.** A written notice given under section 47(1) by a tenant of an intention to assign his contract of tenancy of a small holding, where the landlord is or appears to be unwilling to give consent to such assignment, shall be in the form set out as Form 10 in the Schedule.
 
 *Expenses and allowances of members of a tribunal.*
 
@@ -980,11 +992,9 @@ Form 10 in the Schedule.
 
 (2) A member of a tribunal shall be paid an allowance of $20.00 for each day on which he attends a sitting of the tribunal.
 
-(3) Where the chairman or a member of the tribunal uses his own motor vehicle for the performance of his duties, he shall be paid a travelling allowance at the rates provided for civil
-
 *Ch. 23:50. Sub. Leg.*
 
-servants by the Travelling Allowances Regulations for the time being in force.
+(3) Where the chairman or a member of the tribunal uses his own motor vehicle for the performance of his duties, he shall be paid a travelling allowance at the rates provided for civil servants by the Travelling Allowances Regulations for the time being in force.
 
 (4) Where the chairman or a member of the tribunal uses public transport for the performance of his duties, he shall be reimbursed the actual amount spent in such transport.
 
@@ -1012,6 +1022,10 @@ WHEREBY the Landlord agrees to let and the Tenant to take subject to the followi
 
 (2) The Landlord undertakes and agrees to issue to the Tenant a receipt in writing for the payment of rent by or on behalf of the Tenant, and the receipt shall be in such form as may be prescribed under the Agricultural Small Holdings Tenure Act.
 
+*Chap.*
+
+59:53
+
 (3) The Landlord undertakes and agrees not to evict or attempt to evict the Tenant or to give the Tenant notice to quit or otherwise to terminate or attempt to terminate the contract except as permitted and authorised by the Agricultural Small Holdings Tenure Act.
 
 (4) The Tenant undertakes and agrees not to terminate or attempt to terminate the tenancy except as permitted and authorised by the Agricultural Small Holdings Tenure Act.
@@ -1034,17 +1048,27 @@ The Landlord undertakes and agrees that the Tenant may not use more than one-fif
 
 ## SCHEDULE
 
-ALL that parcel of land comprising ..................................................... Acres, ...................................... Roods, and ................... Perches, situated in the Ward of .................................................... and bounded on the N ..............................., S .................................... E ..................................... and W ................................
+*ALL*
 
-IN WITNESS WHEREOF the parties hereto have hereunto subscribed their names the day and the year first hereinbefore written.
+*of S*
+
+that parcel of land comprising ..................................................... Acres, ...................................... Roods, and ................... Perches, situated in the Ward .................................................... and bounded on the N ..............................., .................................... E ..................................... and W ................................
+
+*IN names*
+
+WITNESS WHEREOF the parties hereto have hereunto subscribed their the day and the year first hereinbefore written.
 
 SIGNED by the within named
 
 ......................................................
 
-and the within named
+*and the*
 
-...................................................... ............................................................ in the presence of me, Justice of the Peace
+within named
+
+*in the*
+
+...................................................... ............................................................ presence of me, Justice of the Peace
 
 REPUBLIC OF TRINIDAD AND TOBAGO.
 
@@ -1194,11 +1218,9 @@ made under section 12
 
 *Establishment of tribunals.*
 
-**2.** The undermentioned tribunals are hereby established and shall exercise their powers and duties within the boundaries
-
 *Schedule.*
 
-defined in the Schedule—
+**2.** The undermentioned tribunals are hereby established and shall exercise their powers and duties within the boundaries defined in the Schedule—
 
 (a) Agricultural Tribunal—North;
 

@@ -40,15 +40,17 @@ Note on Revision The pages of this Act bearing the notation L.R.O. 1/2015 are he
 
 ### CHAPTER 12:07 ANTI-TERRORISM ACT
 
-## ARRANGEMENT OF SECTIONS SECTION
+*SECTION*
 
-## PART I PRELIMINARY
+## ARRANGEMENT OF SECTIONS
+
+## PART I — PRELIMINARY
 
 **1.** Short title.
 
 **2.** Interpretation.
 
-## PART II OFFENCES
+## PART II — OFFENCES
 
 **3.** Terrorist act.
 
@@ -76,7 +78,7 @@ Note on Revision The pages of this Act bearing the notation L.R.O. 1/2015 are he
 
 **15.** Providing facilities in support of terrorist acts.
 
-## PART III CONVENTION OFFENCES
+## PART III — CONVENTION OFFENCES
 
 **16.** Endangering the safety of maritime navigation.
 
@@ -174,23 +176,17 @@ Note on Revision The pages of this Act bearing the notation L.R.O. 1/2015 are he
 
 ## SCHEDULE.
 
-### CHAPTER 12:07
-
 *26 of 2005. [2 of 2010].*
-
-ANTI-TERRORISM ACT An Act to criminalise terrorism and the financing of terrorism, to provide for the detection, prevention, prosecution, conviction and punishment of terrorist activities and the confiscation, forfeiture and seizure of terrorists’ assets and of those involved in the financing
 
 *Commencement.*
 
-of terrorism and for related matters.
+CHAPTER 12:07 ANTI-TERRORISM ACT An Act to criminalise terrorism and the financing of terrorism, to provide for the detection, prevention, prosecution, conviction and punishment of terrorist activities and the confiscation, forfeiture and seizure of terrorists’ assets and of those involved in the financing of terrorism and for related matters.
 
 ### [13 TH S EPTEMBER 2005]
 
-## PART I
-
 *Short title. Interpretation. [2 of 2010 16 of 2011 15 of 2014].*
 
-### PRELIMINARY
+## PART I PRELIMINARY
 
 **1.** This Act may be cited as the Anti-Terrorism Act.
 
@@ -220,17 +216,21 @@ of terrorism and for related matters.
 
 (k) International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on 15th December 1997;
 
+*“explosive that is bodily “Financial by the “FIU” section*
+
 (l) International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations on 9th December 1999;
 
-“explosive or other lethal device” means—
+or other lethal device” means—
 
 (a) a weapon; or
 
-(b) an explosive or incendiary weapon, that is designed or has the capability to cause death, serious bodily injury or substantial material damage;
+(b) an explosive or incendiary weapon, designed or has the capability to cause death, serious injury or substantial material damage;
 
-“Financial Action Task Force” means the task force established by the Group of Seven to develop and provide national and international policies to combat money laundering and terrorist financing;
+*Ch. 72:01.*
 
-“FIU” means the Financial Intelligence Unit established under section 3 of the Financial Intelligence Unit of Trinidad and Ch. 72:01. Tobago Act;
+Action Task Force” means the task force established Group of Seven to develop and provide national and international policies to combat money laundering and terrorist financing;
+
+means the Financial Intelligence Unit established under 3 of the Financial Intelligence Unit of Trinidad and Tobago Act;
 
 *Ch. 11:27.*
 
@@ -244,11 +244,9 @@ of terrorism and for related matters.
 
 “judge” means a judge of the High Court of Trinidad and Tobago;
 
-“legal entity” means a body corporate, foundation, partnership, association or other similar body that can establish a permanent customer relationship with a financial institution
-
 *Ch. 11:27.*
 
-or otherwise own property;
+“legal entity” means a body corporate, foundation, partnership, association or other similar body that can establish a permanent customer relationship with a financial institution or otherwise own property;
 
 “listed business” has the meaning assigned to it in section 2 of the Proceeds of Crime Act;
 
@@ -290,7 +288,9 @@ or otherwise own property;
 
 (ii) with the knowledge of the intention of the group of persons to commit the terrorist act or the financing of terrorism;
 
-“terrorist act” means—
+*“terrorist*
+
+act” means—
 
 (a) an act whether committed in or outside of Trinidad and Tobago which causes or is likely to cause—
 
@@ -298,7 +298,9 @@ or otherwise own property;
 
 (ii) damage to property; or
 
-(iii) prejudice to national security or disruption of public safety including disruption in the provision of emergency services or to any computer or electronic system or to the provision of services directly related to banking, communications, infrastructure, financial services, public utilities, transportation or other essential infrastructure, and is intended to—
+(iii) prejudice to national security or disruption of public safety including disruption in the provision of emergency services or to any computer or electronic system or to the provision of services directly related to banking, communications, infrastructure, financial services, public utilities, transportation or other essential infrastructure,
+
+and is intended to—
 
 (iv) compel a government or an international organisation to do or refrain from doing any act; or
 
@@ -308,9 +310,11 @@ for the purpose of advancing a political, ideological or a religious cause;
 
 (b) an offence under any of the Conventions; or
 
+*“terrorist*
+
 (c) an offence under Part II, Part III or section 22A of this Act;
 
-“terrorist organisation” means a legal entity or group of terrorists that—
+organisation” means a legal entity or group of terrorists that—
 
 (a) commits a terrorist act by any means, directly or indirectly, unlawfully and wilfully;
 
@@ -318,9 +322,11 @@ for the purpose of advancing a political, ideological or a religious cause;
 
 (c) organises or directs others to commit terrorist acts or the financing of terrorism; or
 
+*“terrorist*
+
 (d) contributes to the commission of terrorists acts or the financing of terrorism by a group of persons acting with a common purpose where the contribution is made intentionally and with the aim of furthering the terrorist act or the financing of terrorism with the knowledge of the intention of the group to commit the terrorist act or the financing of terrorism;
 
-“terrorist property” means—
+property” means—
 
 (a) proceeds from the commission of a terrorist act;
 
@@ -328,39 +334,43 @@ for the purpose of advancing a political, ideological or a religious cause;
 
 (c) property which has been collected for the purpose of funding a terrorist act or terrorist organisation; or
 
+*“vessel” water, “weapon”*
+
 (d) property belonging to a terrorist or terrorist organisation;
 
-“vessel” means any thing made or adapted for the conveyance by water, of people or property;
+means any thing made or adapted for the conveyance by of people or property;
 
-“weapon” includes a firearm, explosive, chemical, biological or nuclear weapon.
+includes a firearm, explosive, chemical, biological or nuclear weapon.
 
 (2) An act which—
 
 (a) causes death or serious bodily harm to a person taking active part in armed conflict in accordance with the applicable rules of international law; or
 
-(b) disrupts any service and is committed in pursuance of a demonstration, protest or stoppage of work and is not intended to result in any harm referred to in paragraph (a) of the definition of “terrorist act”, shall not be considered a terrorist act.
+*shall not be 3. (1)*
+
+(b) disrupts any service and is committed in pursuance of a demonstration, protest or stoppage of work and is not intended to result in any harm referred to in paragraph (a) of the definition of “terrorist act”, considered a terrorist act.
 
 ## PART II
 
-*act. [2 of 2010].*
+*Terrorist act.*
 
-### OFFENCES
+*terrorist act*
 
-**3.** (1) Any person who participates in the commission of a Terrorist terrorist act commits an offence and is liable on conviction on indictment to imprisonment for twenty-five years.
+*[2 of 2010].*
+
+*indictment*
+
+OFFENCES Any person who participates in the commission of a commits an offence and is liable on conviction on to imprisonment for twenty-five years.
 
 (2) When a terrorist act involves the commission of a crime under some other law, the person committing it shall be liable to be punished for that crime as well as for the offence created by subsection (1), and any term of imprisonment imposed in respect of such crime shall run consecutively to that imposed under subsection (1).
 
-(3) The penalty specified in this section does not apply
-
 *Provision of services for commission of terrorist acts.*
 
-to offences referred to in Part III.
-
-**4.** A person who, directly or indirectly, provides or makes available financial or other related services intending that they be used, in whole or in part, for the purpose of committing or facilitating the commission of, a terrorist act commits an offence and shall, on conviction on indictment, be liable to imprisonment
+(3) The penalty specified in this section does not apply to offences referred to in Part III.
 
 *Collection or provision of property to commit terrorist acts. Use of property for commission of terrorist acts.*
 
-for twenty years.
+**4.** A person who, directly or indirectly, provides or makes available financial or other related services intending that they be used, in whole or in part, for the purpose of committing or facilitating the commission of, a terrorist act commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
 **5.** A person who collects, provides, or makes available property having reasonable grounds to believe that the property will be used to commit a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
@@ -368,19 +378,15 @@ for twenty years.
 
 (a) uses property, directly or indirectly, in whole or in part, for the purpose of committing or facilitating the commission of a terrorist act; or
 
-(b) possesses property intending that it be used or knowing that it will be used, directly or indirectly, in whole or in part, for the purpose of committing or facilitating the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be
-
 *Arrangements for retention or control of terrorist property.*
 
-liable to imprisonment for twenty years.
+(b) possesses property intending that it be used or knowing that it will be used, directly or indirectly, in whole or in part, for the purpose of committing or facilitating the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
 **7.** Any person who knowingly becomes concerned in or enters into an arrangement which facilitates the acquisition,
 
-control or retention of terrorist property by or on behalf of another person commits an offence and shall, on conviction on
-
 *Dealing with terrorist property.*
 
-indictment, be liable to imprisonment for twenty years.
+control or retention of terrorist property by or on behalf of another person commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
 **8.** Any person who knowingly—
 
@@ -390,19 +396,15 @@ indictment, be liable to imprisonment for twenty years.
 
 (c) deals directly or indirectly with any terrorist property; or
 
-(d) enters into or facilitates directly or indirectly any transaction in relation to terrorist property, commits an offence and shall, on conviction on indictment, be
-
 *Soliciting or giving support for the commission of terrorist acts.*
 
-liable to imprisonment for twenty years.
+(d) enters into or facilitates directly or indirectly any transaction in relation to terrorist property, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
 **9.** (1) Any person who knowingly—
 
 (a) supports; or
 
-(b) solicits support for,
-
-the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
+(b) solicits support for, the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
 (2) For the purposes of subsection (1) “support” includes but is not limited to—
 
@@ -410,25 +412,19 @@ the commission of a terrorist act, commits an offence and shall, on conviction o
 
 (b) an offer to provide or the provision of falsified or forged documents; and
 
-(c) entering or remaining in any country,
+*Harbouring of persons committing terrorist acts.*
 
-*of persons terrorist acts.*
+(c) entering or remaining in any country, for the purpose of committing or facilitating a terrorist act.
 
-for the purpose of committing or facilitating a terrorist act.
-
-**10.** Any person who conceals or harbours another person or Harbouring hinders, interferes with or prevents the apprehension of, any committing other person having reason to believe or knowing that that other person has committed, is planning or is likely to commit a
-
-terrorist act, commits an offence and shall, on conviction on
+**10.** Any person who conceals or harbours another person or hinders, interferes with or prevents the apprehension of, any other person having reason to believe or knowing that that other person has committed, is planning or is likely to commit a
 
 *Provision of devices.*
 
-indictment, be liable to imprisonment for twenty years.
-
-**11.** A person who knowingly offers to provide, or provides any explosive or other lethal device for the purpose of committing or facilitating a terrorist act commits an offence and shall, on conviction on indictment, be liable to imprisonment
+terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
 *Recruitment of persons for terrorist purposes. Provision of instruction or training to persons committing terrorist acts.*
 
-for twenty-five years.
+**11.** A person who knowingly offers to provide, or provides any explosive or other lethal device for the purpose of committing or facilitating a terrorist act commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty-five years.
 
 **12.** A person who agrees to recruit or recruits any other person to participate in the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
 
@@ -438,11 +434,9 @@ for twenty-five years.
 
 (b) the making or use of any explosive or other lethal device; or
 
-(c) the practice of military exercises or movements, to a person engaging in or preparing to engage in the commission of a terrorist act, commits an offence and shall, on conviction on
-
 *Incitement, promotion or solicitation of property for the commission of terrorist acts. Providing facilities in support of terrorist acts.*
 
-indictment, be liable to imprisonment for twenty-five years.
+(c) the practice of military exercises or movements, to a person engaging in or preparing to engage in the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty-five years.
 
 **14.** A person who, knowingly incites or promotes the commission of a terrorist act, or solicits property for the commission of a terrorist act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty-five years.
 
@@ -454,15 +448,23 @@ indictment, be liable to imprisonment for twenty-five years.
 
 (c) lessee, occupier, owner or person in charge of any place or premises permits a meeting to be held in that place or building; or
 
-(d) lessee, owner or person in charge of any equipment or facility that may be used for conferencing, recording of meetings through the use of technological means permits the equipment or facility to be used, to facilitate the commission of an offence under this Act, commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
+*to commits an liable to 16. A*
+
+(d) lessee, owner or person in charge of any equipment or facility that may be used for conferencing, recording of meetings through the use of technological means permits the equipment or facility to be used, facilitate the commission of an offence under this Act, offence and shall, on conviction on indictment, be imprisonment for twenty years.
 
 ## PART III
 
-*the safety of navigation.*
+*Endangering*
 
-### CONVENTION OFFENCES
+*and*
 
-**16.** A person who, in respect of a ship registered in Trinidad Endangering and Tobago or within the archipelagic or territorial waters of maritime Trinidad and Tobago unlawfully and intentionally—
+*the safety of maritime*
+
+*Trinidad*
+
+*navigation.*
+
+CONVENTION OFFENCES person who, in respect of a ship registered in Trinidad Tobago or within the archipelagic or territorial waters of and Tobago unlawfully and intentionally—
 
 (a) seizes or exercises control over the ship by force or threat thereof or any other form of intimidation;
 
@@ -478,11 +480,9 @@ indictment, be liable to imprisonment for twenty-five years.
 
 (i) to imprisonment for twenty years;
 
-(ii) if the death of any person results from any act prohibited by this section, to be sentenced in accordance with the penalty
-
 *Bombing offences.*
 
-prescribed for the offence.
+(ii) if the death of any person results from any act prohibited by this section, to be sentenced in accordance with the penalty prescribed for the offence.
 
 **17.** (1) A person who unlawfully and intentionally delivers, places, discharges or detonates an explosive or other lethal device in, into or against a place of public use, a State or government facility, a public transport facility, a public transportation system or an infrastructure facility—
 
@@ -494,35 +494,43 @@ prescribed for the offence.
 
 (a) during an armed conflict; or
 
-(b) in respect of activities undertaken in the
-
 *Protection of internationally protected persons. [2 of 2010].*
 
-exercise of their official duties.
+(b) in respect of activities undertaken in the exercise of their official duties.
 
 **18.** (1) A person who kidnaps an internationally protected person commits an offence and shall, on conviction on indictment, be liable to imprisonment for life.
 
-(2) A person who commits any other attack upon the person or liberty of an internationally protected person commits an offence and shall, on conviction on indictment, be liable—
+*person or an offence*
+
+(2) A person who commits any other attack upon the liberty of an internationally protected person commits and shall, on conviction on indictment, be liable—
 
 (a) where the attack causes death, to be sentenced in accordance with the penalty prescribed for the offence;
 
 (b) where the attack causes grievous bodily harm, to imprisonment for twenty years; or
 
-(c) in any other case, to imprisonment for ten years.
+*damages*
 
-(3) A person who intentionally destroys or damages otherwise than by means of fire or explosive—
-
-(a) official premises, private accommodation or means of transport, of an internationally protected person; or
-
-(b) other premises or property in or upon which an internationally protected person is present, or is likely to be present, commits an offence and shall, on conviction on indictment, be liable to imprisonment for ten years.
-
-(4) A person who intentionally destroys or damages otherwise than by means of fire or explosive—
+(c) in any other case, to imprisonment for ten years. (3) A person who intentionally destroys or otherwise than by means of fire or explosive—
 
 (a) official premises, private accommodation or means of transport, of an internationally protected person; or
 
-(b) other premises or property in or upon which an internationally protected person is present, or is likely to be present, with intent to endanger the life of that internationally protected person by that destruction or damage commits an offence and shall, on conviction on indictment, be liable to imprisonment for twenty years.
+*commits an liable to otherwise*
 
-(5) A person who intentionally destroys or damages by means of fire or explosive—
+(b) other premises or property in or upon which an internationally protected person is present, or is likely to be present,
+
+offence and shall, on conviction on indictment, be imprisonment for ten years.
+
+(4) A person who intentionally destroys or damages than by means of fire or explosive—
+
+(a) official premises, private accommodation or means of transport, of an internationally protected person; or
+
+*with intent person by shall, on twenty means of*
+
+(b) other premises or property in or upon which an internationally protected person is present, or is likely to be present,
+
+to endanger the life of that internationally protected that destruction or damage commits an offence and conviction on indictment, be liable to imprisonment for years.
+
+(5) A person who intentionally destroys or damages by fire or explosive—
 
 (a) official premises, private accommodation or means of transport, of an internationally protected person; or
 
@@ -542,17 +550,13 @@ exercise of their official duties.
 
 (b) refuses to depart from such building or premises after a request by an employee of a foreign government or an international organisation, if such employee is authorised to make such request,
 
-commits an offence, and is liable on conviction on indictment to a fine of one hundred thousand dollars and to imprisonment for five years.
+*commits an a fine of five years. protected Convention 19. (1)*
 
-(9) For the purposes of this section “internationally protected person” has the meaning assigned to it in the Convention on the Prevention and Punishment of Crimes against
+*Offences relating to fixed platforms.*
 
-*Offences relating to fixed*
+offence, and is liable on conviction on indictment to one hundred thousand dollars and to imprisonment for (9) For the purposes of this section “internationally person” has the meaning assigned to it in the on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents. A person who unlawfully and intentionally—
 
-Internationally Protected Persons, including Diplomatic Agents.
-
-**19.** (1) A person who unlawfully and intentionally—
-
-(a) seizes or exercises control over a fixed platforms. platform on the continental shelf, or in the exclusive economic zone or any fixed platform on the high seas while it is located on the continental shelf of Trinidad and Tobago, by force or threat thereof or by any other form of intimidation;
+(a) seizes or exercises control over a fixed platform on the continental shelf, or in the exclusive economic zone or any fixed platform on the high seas while it is located on the continental shelf of Trinidad and Tobago, by force or threat thereof or by any other form of intimidation;
 
 (b) performs an act of violence against a person on board such a fixed platform if that act is likely to endanger the platform’s safety;
 
@@ -560,23 +564,25 @@ Internationally Protected Persons, including Diplomatic Agents.
 
 (d) places or causes to be placed on such a fixed platform, by any means whatsoever, a device or substance which is likely to destroy that fixed platform or likely to endanger its safety;
 
+*commits an subsection*
+
 (e) injures or kills any person in connection with the commission or the attempted commission of any of the offences referred to in paragraphs (a) to (d); or
 
-(f) damages or destroys any off-shore installation, commits an offence.
+(f) damages or destroys any off-shore installation, offence.
 
-(2) A person convicted of an offence referred to in subsection (1) is—
+(2) A person convicted of an offence referred to in
+
+(1) is—
 
 (a) liable, on conviction on indictment, to imprisonment for twenty years; and
 
-(b) in the case where death results from the commission of the offence, liable on conviction on indictment to be sentenced to death.
+*island, purpose of economic 20. (1) Offences with*
 
-(3) In this section “fixed platform” means an artificial island, installation or structure attached to the seabed for the purpose of exploration or exploitation of resources or for other
+(b) in the case where death results from the commission of the offence, liable on conviction on indictment to be sentenced to death. (3) In this section “fixed platform” means an artificial installation or structure attached to the seabed for the exploration or exploitation of resources or for other purposes.
 
-*Offences with regard to nuclear matter or facilities.*
+*regard to nuclear matter or facilities.*
 
-economic purposes.
-
-**20.** (1) A person who unlawfully and intentionally—
+A person who unlawfully and intentionally—
 
 (a) intends to acquire or possesses nuclear material or designs or manufactures or possesses a device, or attempts to manufacture or acquire a device, with the intent—
 
@@ -590,29 +596,31 @@ economic purposes.
 
 (ii) to cause damage to property or the environment; or
 
-(iii) to compel a natural or legal person, an inter-governmental organisation or a State to do or refrain from doing an act, commits an offence.
+*commits an*
+
+(iii) to compel a natural or legal person, an inter-governmental organisation or a State to do or refrain from doing an act, offence.
 
 (2) A person who—
 
 (a) threatens, under circumstances which indicate the credibility of the threat, to commit an offence referred to in subsection (1)(b); or
 
+*commits an*
+
 (b) unlawfully and intentionally demands radioactive material, a device or control of a nuclear facility by threat, under circumstances which indicate the credibility of the threat, or by use of force,
 
-commits an offence.
+offence.
 
 (3) A person convicted of an offence under this section is liable on conviction on indictment to imprisonment for life.
 
-(4) In this section “device” means a weapon of
+*Hoaxes involving noxious substances or things or explosives or other lethal material. [2 of 2010].*
 
-*Hoaxes involving substances or things or explosives or material. [2 of 2010].*
-
-mass destruction.
+(4) In this section “device” means a weapon of mass destruction.
 
 **21.** (1) A person commits an offence if he—
 
-(a) places any substance or other thing in any noxious place; or
+(a) places any substance or other thing in any place; or
 
-(b) sends any substance or other thing from one other lethal place to another by any means whatsoever, with the intention of inducing in a person anywhere in the world a belief that it is likely to be or contain a noxious substance or other noxious thing or a lethal device or chemical, biological or nuclear weapon.
+(b) sends any substance or other thing from one place to another by any means whatsoever, with the intention of inducing in a person anywhere in the world a belief that it is likely to be or contain a noxious substance or other noxious thing or a lethal device or chemical, biological or nuclear weapon.
 
 (2) A person commits an offence if he communicates any information which he knows or believes to be false with the intention of inducing in a person anywhere in the world a belief that a noxious substance or other noxious thing or a lethal device or a weapon of mass destruction is likely to be present, whether at the time the information is communicated or later, in any place.
 
@@ -628,11 +636,9 @@ expenses with each other person, if any, who is ordered to make reimbursement un
 
 (7) An order of reimbursement under subsection (5) shall, for the purposes of enforcement, be treated as a civil judgment.
 
-(8) For the purposes of this section “substance” includes any biological agent and any other natural or artificial
-
 *Use of chemical, biological or nuclear weapons.*
 
-substance, whatever its form, origin or method of production.
+(8) For the purposes of this section “substance” includes any biological agent and any other natural or artificial substance, whatever its form, origin or method of production.
 
 **22.** (1) A person who, unlawfully and intentionally uses, threatens or attempts or conspires to use chemical, biological or nuclear weapons—
 
@@ -644,11 +650,9 @@ substance, whatever its form, origin or method of production.
 
 (2) A citizen of Trinidad and Tobago or person ordinarily resident within Trinidad and Tobago who, unlawfully and intentionally, uses chemical, biological or nuclear weapons outside of Trinidad and Tobago commits an offence and is liable on conviction on indictment to imprisonment for life.
 
-## PART IIIA
-
 *Offence of financing of terrorism. [2 of 2010 15 of 2014].*
 
-### FINANCING OF TERRORISM
+## PART IIIA FINANCING OF TERRORISM
 
 **22A.** (1) Any person who by any means, directly or indirectly, wilfully provides or collects funds, or attempts to do
 
@@ -674,11 +678,11 @@ so, with the intention or in the knowledge that such funds are to be used in who
 
 (b) in the case of a legal entity, to a fine of twenty-five million dollars.
 
+*Special provisions for designated entities. [16 of 2011 14 of 2012].*
+
 (4) A director or person in charge of a legal entity who commits an offence under this section is liable on conviction on indictment to imprisonment for twenty-five years and to a fine of five million dollars.
 
-*provisions for [16 of 2011 14 of 2012].*
-
-**22AA.** (1) In this section and sections 22AB, 22B and 22C, the Special term “designated entities” means individuals or entities and their designated associates designated as terrorist entities by the Security Council entities. of the United Nations.
+**22AA.** (1) In this section and sections 22AB, 22B and 22C, the term “designated entities” means individuals or entities and their associates designated as terrorist entities by the Security Council of the United Nations.
 
 (2) For the purposes of section 22B, the FIU shall be responsible for—
 
@@ -690,15 +694,19 @@ so, with the intention or in the knowledge that such funds are to be used in who
 
 (d) furnishing the Attorney General with information required to facilitate an application under section 22B, where a designated entity has funds in Trinidad and Tobago; and
 
-(e) maintaining a consolidated list of all Orders issued by the Court under section 22B(3) and circulating the same by facsimile transmission or other electronic means to all financial institutions and listed businesses immediately at intervals of three months.
+*information months, 22AB. As*
 
-(3) Notwithstanding its obligation to circulate the consolidated list under subsection 2(c), the FIU shall, when new information has been obtained before the expiration of three months, circulate any additions to that list or a new list
+*Certain*
 
-*Certain Procedures apply. [16 of 2011 14 of 2012].*
+*receives Procedures*
 
-immediately by facsimile transmission.
+(e) maintaining a consolidated list of all Orders issued by the Court under section 22B(3) and circulating the same by facsimile transmission or other electronic means to all financial institutions and listed businesses immediately at intervals of three months. (3) Notwithstanding its obligation to circulate the consolidated list under subsection 2(c), the FIU shall, when new has been obtained before the expiration of three circulate any additions to that list or a new list immediately by facsimile transmission.
 
-**22AB.** As soon as a financial institution or listed business receives the list of designated entities or the consolidated list referred to in section 22AA(2)(c) or (e), the following procedures shall apply:
+*apply.*
+
+*referred to [16 of 2011 14 of 2012]. procedures*
+
+soon as a financial institution or listed business the list of designated entities or the consolidated list in section 22AA(2)(c) or (e), the following shall apply:
 
 (a) the financial institution shall immediately inform the FIU on the prescribed form, if any person or entity named on either list has funds with the financial institution or listed business;
 
@@ -706,27 +714,33 @@ immediately by facsimile transmission.
 
 (c) (Deleted by Act No. 14 of 2012); and
 
+*22B. (1)*
+
+*Listing of*
+
 (d) if a person or entity named on that list attempts to enter into a transaction or continue a business relationship, the financial institution or listed business shall submit a suspicious activity report to the FIU immediately and shall not enter into or continue a business transaction or business relationship with such person or entity.
 
-*terrorist entities. [2 of 2010 14 of 2012].*
+*Order*
 
-**22B.** (1) The Attorney General shall apply to a judge for an Listing of Order under subsection (3)—
+*terrorist entities. [2 of 2010 16 of 2011 14 of 2012].*
 
-(a) in respect of an entity, where the entity is a 16 of 2011 designated entity; or
+The Attorney General shall apply to a judge for an under subsection (3)—
+
+(a) in respect of an entity, where the entity is a designated entity; or
 
 (b) in respect of an entity or individual where there are reasonable grounds to believe that the entity or individual—
 
 (i) has knowingly committed or participated in the commission of a terrorist act; or
 
-(ii) is knowingly acting on behalf of, at the direction of, or in association with, an entity referred to in paragraph (a).
-
-(2) An application under subsection (1) shall be—
+(ii) is knowingly acting on behalf of, at the direction of, or in association with, an entity referred to in paragraph (a). (2) An application under subsection (1) shall be—
 
 (a) ex parte; and
 
+*shall, by*
+
 (b) accompanied by an affidavit deposing to the matters referred to in subsection (1).
 
-(3) Upon an application under subsection (1) the judge shall, by Order—
+(3) Upon an application under subsection (1) the judge Order—
 
 (a) declare an individual or a designated or legal entity to be a listed entity for the purposes of this Act if the judge is satisfied as to the matters referred to in subsection (1); and
 
@@ -754,17 +768,19 @@ immediately by facsimile transmission.
 
 (c) provide the applicant with a reasonable opportunity to be heard; and
 
+*this section, the opinion*
+
 (d) determine whether or not the Order should be revoked on the basis of the information available to the judge and, if he determines that the Order should be revoked, make an Order for such revocation.
 
-(8) For the purposes of any application or review under this section, the judge may receive in evidence anything that, in the opinion of the judge, is reliable and relevant.
+(8) For the purposes of any application or review under the judge may receive in evidence anything that, in of the judge, is reliable and relevant.
 
 (9) The Attorney General shall, every six months—
 
 (a) review all Orders made under subsection (3) so as to determine whether the circumstances referred to in subsection (1) continue to exist in respect of the listed entity; and
 
-(b) if he determines that such circumstances no longer exist, apply to a judge for the revocation of the Order in respect of the listed entity.
+*shall, if subsection, be general*
 
-(10) Upon an application under subsection (9), the judge shall, if satisfied as to the matters referred to in that subsection, make an order for the revocation, which Order shall be published in the Gazette and in two daily newspapers of general circulation in Trinidad and Tobago.
+(b) if he determines that such circumstances no longer exist, apply to a judge for the revocation of the Order in respect of the listed entity. (10) Upon an application under subsection (9), the judge satisfied as to the matters referred to in that make an order for the revocation, which Order shall published in the Gazette and in two daily newspapers of circulation in Trinidad and Tobago.
 
 *Reporting requirements. [2 of 2010 16 of 2011 15 of 2014].*
 
@@ -790,11 +806,9 @@ immediately by facsimile transmission.
 
 (e) monitor compliance with the Regulations made under section 41(2).
 
-(3) Where a financial institution or listed business knows or has reasonable grounds to suspect that funds are linked or related to, or to be used for terrorism, terrorist acts or by terrorist organisations or those who finance terrorism, the
-
 *Ch. 11:27. Third Schedule.*
 
-financial institution or listed business shall make a suspicious transaction, or a suspicious activity report to the FIU in the forms as set out in the Third Schedule to the Proceeds of Crime Act.
+(3) Where a financial institution or listed business knows or has reasonable grounds to suspect that funds are linked or related to, or to be used for terrorism, terrorist acts or by terrorist organisations or those who finance terrorism, the financial institution or listed business shall make a suspicious transaction, or a suspicious activity report to the FIU in the forms as set out in the Third Schedule to the Proceeds of Crime Act.
 
 (4) Subject to section 22D, where a financial institution or listed business makes a suspicious transaction or suspicious activity report to the FIU under this section, the Director or staff of the FIU or of such financial institution or listed business shall not disclose the fact or content of such report to any person.
 
@@ -806,11 +820,9 @@ financial institution or listed business shall make a suspicious transaction, or
 
 *Identification of offence of financing of terrorism. [2 of 2010].*
 
-**22D.** (1) Where the FIU receives information from a financial institution or listed business and it considers that an investigation may disclose that funds in the possession of any individual or legal entity are being used, have been used or are intended for use in the financing of terrorism, it shall forward such information
-
 *FIU may suspend certain transactions. [2 of 2010 14 of 2012].*
 
-to the Commissioner of Police for further investigation.
+**22D.** (1) Where the FIU receives information from a financial institution or listed business and it considers that an investigation may disclose that funds in the possession of any individual or legal entity are being used, have been used or are intended for use in the financing of terrorism, it shall forward such information to the Commissioner of Police for further investigation.
 
 **22E.** (1) The FIU may instruct a financial institution or listed business in writing, to suspend the processing of a transaction for a period not exceeding five working days, pending the completion of an evaluation and analysis of a suspicious transaction or suspicious activity report.
 
@@ -818,11 +830,9 @@ to the Commissioner of Police for further investigation.
 
 (3) After the FIU has concluded its evaluation and analysis of a suspicious transaction or suspicious activity report, and where the Director of the FIU is of the view that the circumstances warrant investigation, a report shall be submitted to the Commissioner of Police for investigation to determine whether an offence of financing of terrorism has been committed and whether the funds are located in Trinidad and Tobago or elsewhere.
 
-## PART IV
-
 *Detention Orders. [2 of 2010].*
 
-### INVESTIGATION OF OFFENCES
+## PART IV INVESTIGATION OF OFFENCES
 
 **23.** (1) Subject to subsection (2), a police officer above the rank of sergeant may, for the purpose of preventing the commission of an offence under this Act or preventing interference in the investigation of an offence under this Act, apply ex parte, to a judge for a detention Order.
 
@@ -840,13 +850,11 @@ to the Commissioner of Police for further investigation.
 
 (5) Every Order shall specify the place at which the person named in the Order is to be detained and conditions in respect of access to a medical officer.
 
-(6) An accurate and continuous record shall be kept in accordance with the Schedule, in respect of any detainee for the Schedule.
+*Schedule. Power to gather information. [2 of 2010].*
 
-*to gather information.*
+(6) An accurate and continuous record shall be kept in accordance with the Schedule, in respect of any detainee for the whole period of his detention.
 
-whole period of his detention.
-
-**24.** (1) Subject to subsection (2), a police officer of the rank Power of Inspector or above may, for the purpose of an investigation of [2 of 2010]. an offence under this Act, apply ex parte to a judge for an Order for the gathering of information from named persons.
+**24.** (1) Subject to subsection (2), a police officer of the rank of Inspector or above may, for the purpose of an investigation of an offence under this Act, apply ex parte to a judge for an Order for the gathering of information from named persons.
 
 (2) A police officer above the rank of sergeant may make an application under subsection (1) only with the prior written consent of the Director of Public Prosecutions.
 
@@ -902,11 +910,9 @@ whole period of his detention.
 
 to be relevant to the investigation of any offence under this Act, shall order that the document or thing be given into the custody of the police officer above the rank of sergeant.
 
-(13) Subject to subsection (8), nothing in this section requires the disclosure of any information which is protected
-
 *Authority for search. [2 of 2010].*
 
-by privilege.
+(13) Subject to subsection (8), nothing in this section requires the disclosure of any information which is protected by privilege.
 
 **24A.** (1) A police officer above the rank of sergeant may, for the purposes of an investigation into the offence of financing of terrorism apply to a judge for a warrant under this section.
 
@@ -932,11 +938,11 @@ by privilege.
 
 (b) if the warrant was executed, setting out a detailed description of anything seized; or
 
+*Customer Information Order. [2 of 2010 15 of 2014].*
+
 (c) if the warrant was not executed, setting out briefly the reasons why the warrant was not executed.
 
-*Information of 2010 15 of 2014].*
-
-**24B.** (1) A judge may on application made by a police officer Customer above the rank of sergeant and if the conditions set out in Order. subsection (2) are met, make an Order that a financial institution [2 or listed business provide to an authorised officer any such customer information relating to the person or account specified in the application.
+**24B.** (1) A judge may on application made by a police officer above the rank of sergeant and if the conditions set out in subsection (2) are met, make an Order that a financial institution or listed business provide to an authorised officer any such customer information relating to the person or account specified in the application.
 
 (2) An application under subsection (1) shall state—
 
@@ -946,7 +952,9 @@ by privilege.
 
 (3) Customer information is information as to whether a person holds, or has held an account or accounts at the financial
 
-institution or listed business (whether solely or jointly), and information identifying a person who holds an account, and includes all information as to—
+*institution information includes all*
+
+or listed business (whether solely or jointly), and identifying a person who holds an account, and information as to—
 
 (a) the account number or numbers;
 
@@ -964,9 +972,11 @@ institution or listed business (whether solely or jointly), and information iden
 
 (h) the account number or numbers of any other account or accounts held at the financial institution to which he is a signatory and details of the person holding the other account or accounts; and
 
+*shall*
+
 (i) any other information which the Court specifies in the customer information Order.
 
-(4) Where the customer is a legal entity, the information shall include—
+(4) Where the customer is a legal entity, the information include—
 
 (a) a description of any business which it carries on;
 
@@ -1000,11 +1010,13 @@ person who is a signatory to the account or any of the accounts; and
 
 (10) Where a financial institution or listed business contravenes subsection (9), it commits an offence and is liable on conviction on indictment to a fine of five million dollars.
 
-*Monitoring Order. [2 of 2010 15 of 2014].*
+*24C. (1)*
 
-**24C.** (1) A police officer above the rank of sergeant may apply, ex parte to a judge for a monitoring Order directing a financial institution, listed business or non-profit organisation to provide certain information.
+*Monitoring apply, ex Order. [2 of 2010 financial 15 of 2014]. provide supported subsection*
 
-(2) An application under subsection (1) shall be supported by an affidavit deposing to matters referred to in subsection (4).
+A police officer above the rank of sergeant may parte to a judge for a monitoring Order directing a institution, listed business or non-profit organisation to certain information.
+
+(2) An application under subsection (1) shall be by an affidavit deposing to matters referred to in (4).
 
 (3) A monitoring Order shall—
 
@@ -1012,9 +1024,11 @@ person who is a signatory to the account or any of the accounts; and
 
 (b) not have retrospective effect; and
 
+*satisfied*
+
 (c) only apply for a period not exceeding three months from the date it is made.
 
-(4) A judge shall issue a monitoring Order only if he is satisfied that there are reasonable grounds for believing that—
+(4) A judge shall issue a monitoring Order only if he is that there are reasonable grounds for believing that—
 
 (a) the person in respect of whose account the Order is sought—
 
@@ -1050,11 +1064,9 @@ person who is a signatory to the account or any of the accounts; and
 
 (10) Nothing in this section shall be construed as requiring a legal adviser to disclose to any Court the existence or operation of a monitoring Order.
 
-## PART V
-
 *Jurisdiction of Trinidad and Tobago Courts.*
 
-### JURISDICTION AND TRIAL OF OFFENCES
+## PART V JURISDICTION AND TRIAL OF OFFENCES
 
 **25.** (1) The Courts of Trinidad and Tobago shall have jurisdiction in respect of any offence referred to in this Act if—
 
@@ -1100,25 +1112,19 @@ either directly or through the Secretary-General of the United Nations, of—
 
 (b) the circumstances that justify the person’s detention.
 
-(7) When the Director of Public Prosecutions declines to prosecute, and another foreign State has jurisdiction over the offence concerned, he shall inform such foreign State, accordingly with the view to the surrender of such person to such
-
 *Extradition from Trinidad and Tobago. Ch. 12:04.*
 
-foreign State for prosecution by that State.
-
-**26.** The proceedings referred to in the Extradition (Commonwealth and Foreign Territories) Act, (hereinafter referred to as the “Extradition Act”) shall apply with the necessary changes in respect of any surrender referred to in
+(7) When the Director of Public Prosecutions declines to prosecute, and another foreign State has jurisdiction over the offence concerned, he shall inform such foreign State, accordingly with the view to the surrender of such person to such foreign State for prosecution by that State.
 
 *Evidence by a certificate.*
 
-section 25.
+**26.** The proceedings referred to in the Extradition (Commonwealth and Foreign Territories) Act, (hereinafter referred to as the “Extradition Act”) shall apply with the necessary changes in respect of any surrender referred to in section 25.
 
 **27.** Where in any proceedings for an offence under this Act, a question arises as to whether any thing or substance is a weapon, a hazardous, radioactive or a harmful substance, a toxic chemical or microbial or other biological agent or toxin, a certificate purporting to be signed by an appropriate authority to the effect that the thing or substance, described in the certificate is a weapon, a hazardous, radioactive or a harmful substance, a toxic chemical or microbial or other biological agent or toxin, shall be admissible in evidence without proof of the signature or authority of the person appearing to have signed it and shall, in the absence of evidence to the contrary, be proof of the facts stated therein.
 
-## PART VI INFORMATION SHARING, EXTRADITION AND
-
 *Exchange of information relating to terrorist acts.*
 
-### MUTUAL ASSISTANCE IN CRIMINAL MATTERS
+## PART VI INFORMATION SHARING, EXTRADITION AND MUTUAL ASSISTANCE IN CRIMINAL MATTERS
 
 **28.** The Minister may, after consultation with the Attorney General, on a request made by the appropriate authority of a foreign State, disclose to that authority, any information in his possession or, with the necessary permission, in the possession
 
@@ -1130,61 +1136,53 @@ of any other government, department or agency, relating to any of the following:
 
 (c) traffic in explosives or other lethal devices or sensitive materials by persons suspected of involvement in the commission of terrorist acts; or
 
+*Treaty to be used as basis for extradition. Ch. 12:04.*
+
 (d) the use of communication technologies by persons suspected of involvement in the commission of terrorist acts, if the disclosure is not prohibited by any law and will not, in the Minister’s view be prejudicial to national security or public safety.
 
-**29.** (1) Where Trinidad and Tobago becomes a party to a Treaty to be treaty and there is in force, an extradition arrangement between for extradition. used as basis the Government of Trinidad and Tobago and another State which is a party to that treaty, the extradition arrangement shall be deemed, for the purpose of the Extradition Act, to include Ch. 12:04. provision for extradition in respect of offences falling within the scope of that treaty.
+**29.** (1) Where Trinidad and Tobago becomes a party to a treaty and there is in force, an extradition arrangement between the Government of Trinidad and Tobago and another State which is a party to that treaty, the extradition arrangement shall be deemed, for the purpose of the Extradition Act, to include provision for extradition in respect of offences falling within the scope of that treaty.
+
+*Treaty to be used as basis for Mutual Assistance in Criminal Matters. Ch.11:24.*
 
 (2) Where Trinidad and Tobago becomes a party to a treaty and there is no extradition arrangement between the Government of Trinidad and Tobago and another State which is a party to that treaty, the Attorney General may, by Order, subject to a negative resolution of Parliament treat the treaty, for the purposes of the Extradition Act, as an extradition arrangement between the Government of Trinidad and Tobago and that State providing for extradition, in respect of offences falling within the scope of that treaty.
 
-*in*
-
-**30.** (1) Where Trinidad and Tobago becomes a party to a Treaty to be treaty and there is in force, an arrangement between the for Mutual used as basis Government of Trinidad and Tobago and another State which is Assistance a party to that treaty, for mutual assistance in criminal matters, Matters. Criminal Ch.11:24.
+**30.** (1) Where Trinidad and Tobago becomes a party to a treaty and there is in force, an arrangement between the Government of Trinidad and Tobago and another State which is a party to that treaty, for mutual assistance in criminal matters,
 
 the arrangement shall be deemed, for the purposes of the Mutual Assistance in Criminal Matters Act, to include provision for mutual assistance in criminal matters in respect of offences falling within the scope of that treaty.
 
-(2) Where Trinidad and Tobago becomes a party to a treaty and there is no arrangement between the Government of Trinidad and Tobago and another State which is a party to that treaty for mutual assistance in criminal matters, the Attorney General may, by Order subject to a negative resolution of Parliament, treat the treaty as an arrangement between the Government of Trinidad and Tobago and that State providing for mutual assistance in criminal matters in respect of offences
-
 *Offences under this Act not deemed to be offences of a political character. Ch. 12:04. Ch. 11:24.*
 
-falling within the scope of that treaty.
+(2) Where Trinidad and Tobago becomes a party to a treaty and there is no arrangement between the Government of Trinidad and Tobago and another State which is a party to that treaty for mutual assistance in criminal matters, the Attorney General may, by Order subject to a negative resolution of Parliament, treat the treaty as an arrangement between the Government of Trinidad and Tobago and that State providing for mutual assistance in criminal matters in respect of offences falling within the scope of that treaty.
 
 **31.** Notwithstanding anything in the Extradition Act or the Mutual Assistance in Criminal Matters Act, an offence under this Act or an offence under any other Act where the act or omission constituting the offence also constitutes a terrorist act, shall, for the purposes of extradition or of mutual assistance, be deemed not to be an offence of a political character or an offence connected with a political offence or an offence inspired by political motives.
 
-## PART VII
-
 *Duty to disclose information relating to offences and terrorist acts. [2 of 2010].*
 
-### DISCLOSURE AND SHARING INFORMATION
+## PART VII DISCLOSURE AND SHARING INFORMATION
 
 **32.** (1) Every person or regulatory authority who has any information which will assist in—
 
 (a) preventing the commission by another person, of a terrorist act; or
 
-(b) securing the arrest or prosecution of another person for an offence under this Act, or an offence under any other law and which also constitutes a terrorist act,
-
 *Ch. 11:24.*
 
-shall forthwith disclose the information to a police officer above the rank of sergeant or the Central Authority as defined under the Mutual Assistance in Criminal Matters Act.
+(b) securing the arrest or prosecution of another person for an offence under this Act, or an offence under any other law and which also constitutes a terrorist act, shall forthwith disclose the information to a police officer above the rank of sergeant or the Central Authority as defined under the Mutual Assistance in Criminal Matters Act.
 
 (2) Notwithstanding subsection (1) a person referred to in subsection (1), shall not be required to disclose any information which is protected by privilege.
 
 (3) Civil or criminal proceedings shall not lie against any person for disclosing any information in good faith pursuant to subsection (1).
 
-(4) Any person who fails to comply with subsection (1)
+(4) Any person who fails to comply with subsection (1) commits an offence and is liable on conviction on indictment to a fine of ten thousand dollars and to imprisonment for two years.
 
-commits an offence and is liable on conviction on indictment to a fine of ten thousand dollars and to imprisonment for two years.
+*Duty to disclose information relating to property used for commission of offences under this Act. [2 of 2010 16 of 2011].*
 
 (5) For the purposes of this section, “regulatory authority” means the Central Bank, the Securities Exchange Commission, the Financial Intelligence Unit, the Trinidad and Tobago Stock Exchange, the Inspector of Financial Institutions and the Commissioner of Co-operatives.
 
-*to commission*
+**33.** (1) Every person shall forthwith disclose to the FIU—
 
-**33.** (1) Every person shall forthwith disclose to the FIU— Duty to
+(a) the existence of any property in his possession or control, which to his knowledge is terrorist property, or which there are reasonable grounds to believe is terrorist property;
 
-(a) the existence of any property in his possession information disclose or control, which to his knowledge is terrorist relating property, or which there are reasonable grounds for property used to believe is terrorist property;
-
-of offences under this Act.
-
-(b) any information regarding a transaction or 16 of 2011]. [2 of 2010 proposed transaction in respect of terrorist property; or
+(b) any information regarding a transaction or proposed transaction in respect of terrorist property; or
 
 (c) any information regarding a transaction or proposed transaction which there are reasonable grounds to believe may involve terrorist property.
 
@@ -1202,11 +1200,9 @@ of offences under this Act.
 
 (6) Every person who fails to comply with subsection (1) or (3) commits an offence and shall, on conviction on indictment, be liable to imprisonment for five years.
 
-## PART VIII
-
 *Application for restraint Order. [2 of 2010 14 of 2012 15 of 2014].*
 
-### SEIZURE AND FORFEITURE OF TERRORIST PROPERTY
+## PART VIII SEIZURE AND FORFEITURE OF TERRORIST PROPERTY
 
 **34.** (1) Where a customs officer, immigration officer, or police officer above the rank of sergeant reasonably believes that property in the possession of a person is terrorist property, he may apply to a judge for a restraint Order in respect of that property.
 
@@ -1238,11 +1234,11 @@ days, and may, on application, be renewed by a judge, for a further period of si
 
 (5) No civil or criminal proceedings shall lie against an officer for a seizure of property, made in good faith, under subsections (1) and (1A).
 
+*Orders for forfeiture of property on conviction for offences under this Act. [2 of 2010].*
+
 (6) An appeal from a decision of the judge made under this section shall lie to the Court of Appeal.
 
-*forfeiture of for offences under this Act. [2 of 2010].*
-
-**35.** (1) Where a person is convicted of an offence under Orders for this Act, or an offence under any other Act where the act or property on omission also constitutes a terrorist act, the Court may order that conviction any property—
+**35.** (1) Where a person is convicted of an offence under this Act, or an offence under any other Act where the act or omission also constitutes a terrorist act, the Court may order that any property—
 
 (a) used for, or in connection with; or
 
@@ -1258,11 +1254,9 @@ days, and may, on application, be renewed by a judge, for a further period of si
 
 (a) if no appeal has been made against the Order, at the end of the period within which an appeal may be made against the Order; or
 
-(b) if an appeal has been made against the Order, on the final determination of the matter, where the
-
 *Orders for seizure and restraint of property. [2 of 2010].*
 
-decision is made in favour of the State.
+(b) if an appeal has been made against the Order, on the final determination of the matter, where the decision is made in favour of the State.
 
 **36.** (1) Where on an ex parte application is made by the Director of Public Prosecutions to a judge, the judge is satisfied that there are reasonable grounds to believe that there is in any building, place or vessel, any property in respect of which an Order of forfeiture may be made under section 37, the judge may issue—
 
@@ -1288,11 +1282,11 @@ or rapidly depreciating property, the power to sell that property; and in the ca
 
 (7) A management Order under subsection (2) shall cease to have effect when the property which is the subject of the management Order is returned to an applicant in accordance with the law or forfeited to the State.
 
+*Orders for forfeiture of property. [2 of 2010].*
+
 (8) The Director of Public Prosecutions may at any time apply to a judge to cancel or vary a warrant or Order issued under this section.
 
-*forfeiture of [2 of 2010].*
-
-**37.** (1) The Attorney General may make an application to a Orders for judge for an Order of forfeiture in respect of terrorist property. property.
+**37.** (1) The Attorney General may make an application to a judge for an Order of forfeiture in respect of terrorist property.
 
 (2) The Attorney General shall be required to name as respondents to an application under subsection (1) only those persons who are known to own or control the property that is the subject of the application.
 
@@ -1316,15 +1310,17 @@ application is terrorist property, the judge shall Order that the property be fo
 
 (9) Pending the determination of an appeal against an Order of forfeiture made under this section, property restrained under section 37 shall continue to be restrained, property seized under a warrant issued under that section shall continue to be detained, and any person appointed to manage, control or otherwise deal with the property under that section shall continue in that capacity.
 
+*Sharing of forfeited property.*
+
 (10) The provisions of this section shall not affect the operation of any other provision of this Act respecting forfeiture.
 
-**38.** (1) Trinidad and Tobago may, pursuant to any Sharing of agreement with any other State, share with that State on a property. forfeited reciprocal basis the property derived from forfeiture pursuant to this Act.
+**38.** (1) Trinidad and Tobago may, pursuant to any agreement with any other State, share with that State on a reciprocal basis the property derived from forfeiture pursuant to this Act.
+
+*Seizure and detention of cash. [2 of 2010].*
 
 (2) Property referred to under subsection (1), may be utilised to compensate victims of the offences referred to under this Act.
 
-*of*
-
-**38A.** (1) Any customs officer or police officer above the rank Seizure and of sergeant may seize and detain part of or the whole amount of detention any cash where there are reasonable grounds for suspecting that [2 of 2010]. cash. it is—
+**38A.** (1) Any customs officer or police officer above the rank of sergeant may seize and detain part of or the whole amount of any cash where there are reasonable grounds for suspecting that it is—
 
 (a) intended for use in the commission of an offence under this Act; or
 
@@ -1362,17 +1358,15 @@ application is terrorist property, the judge shall Order that the property be fo
 
 travellers cheques, negotiable instruments including cheques, promissory notes and money orders that are either in bearer form, endorsed without restriction made out to a fictitious payee, or otherwise in such form that title thereto passes upon delivery; incomplete instruments including cheques, promissory notes and money orders signed, but with the payee’s name omitted.
 
-## PART IX
+*Duty to disclose information relating to passengers of aircraft and vessels.*
 
-*Duty to disclose information relating to aircraft and vessels.*
-
-### MISCELLANEOUS POWERS
+## PART IX MISCELLANEOUS POWERS
 
 **39.** (1) The operator of an aircraft or master of a vessel—
 
 (a) departing from Trinidad and Tobago; or
 
-(b) registered in Trinidad and Tobago departing passengers of from any place outside Trinidad and Tobago, shall, in accordance with Regulations made under this section provide to the—
+(b) registered in Trinidad and Tobago departing from any place outside Trinidad and Tobago, shall, in accordance with Regulations made under this section provide to the—
 
 (i) Chief Immigration Officer any information in his possession relating to persons on board or expected to be on board the aircraft or vessel; or
 
@@ -1388,17 +1382,13 @@ travellers cheques, negotiable instruments including cheques, promissory notes a
 
 (a) respecting the types or classes of information that may be provided under this section;
 
-(b) specifying the foreign States to which the
-
 *Power to refuse refugee application.*
 
-information may be provided.
-
-**40.** The Minister may, having regard to the interests of national security and public safety, refuse the application of any person applying for status as a refugee, if he has reasonable grounds to believe that the applicant has committed a terrorist act
+(b) specifying the foreign States to which the information may be provided.
 
 *Power to make Regulations. [16 of 2011].*
 
-or is likely to be, involved in the commission of a terrorist act.
+**40.** The Minister may, having regard to the interests of national security and public safety, refuse the application of any person applying for status as a refugee, if he has reasonable grounds to believe that the applicant has committed a terrorist act or is likely to be, involved in the commission of a terrorist act.
 
 **41.** (1) The Minister may make Regulations in respect of all matters for which Regulations are required or authorised to be made by this Act.
 
@@ -1422,31 +1412,43 @@ or is likely to be, involved in the commission of a terrorist act.
 
 (ii) disciplinary actions when possible;
 
-(f) the manner and time frame in which due diligence may be undertaken in respect of existing customers and business relationships established prior to the coming into force of the Proceeds of Crime Act, by a financial institution Ch. 11:27. or listed business; and
+*Ch. 11:27.*
+
+(f) the manner and time frame in which due diligence may be undertaken in respect of existing customers and business relationships established prior to the coming into force of the Proceeds of Crime Act, by a financial institution or listed business; and
+
+*subject to 42. (1)*
 
 (g) generally, for the purpose of giving effect to Part IIIA of this Act.
 
-(3) Regulations made under subsection (1) shall be subject to negative resolution of Parliament.
+*Offences and*
 
-*penalties. [16 of 2011 14 of 2012*
+*listed*
 
-**42.** (1) Subject to subsection (2), a financial institution or Offences and listed business which fails to comply with—
+(3) Regulations made under subsection (1) shall be negative resolution of Parliament.
 
-(a) section 22AB or 22C(1), (2) or (3) commits an 15 of 2014]. offence and is liable on summary conviction to a fine of five hundred thousand dollars and to imprisonment for two years and on conviction on indictment, to a fine of three million dollars and to imprisonment for seven years; or
+*penalties. [16 of 2011 14 of 2012 15 of 2014].*
+
+Subject to subsection (2), a financial institution or business which fails to comply with—
+
+(a) section 22AB or 22C(1), (2) or (3) commits an offence and is liable on summary conviction to a fine of five hundred thousand dollars and to imprisonment for two years and on conviction on indictment, to a fine of three million dollars and to imprisonment for seven years; or
+
+*sections agent of the*
 
 (b) Regulations made under section 41(2) is liable on summary conviction to a fine of five hundred thousand dollars and to imprisonment for two years.
 
-(2) Where a company commits an offence under sections 22AB and 22C(1), (2) and (3), any officer, director or agent of the company—
+(2) Where a company commits an offence under 22AB and 22C(1), (2) and (3), any officer, director or company—
 
 (a) who directed, authorised, assented to, or acquiesced in the commission of the offence; or
 
-(b) to whom any omission is attributable, is a party to the offence and is liable on summary conviction or on conviction on indictment, to the penalty prescribed in subsection (1)(a).
+*is a on*
 
-*Section 23. [2 of 2010].*
+(b) to whom any omission is attributable, party to the offence and is liable on summary conviction or conviction on indictment, to the penalty prescribed in subsection (1)(a).
+
+*Section 23. [2 of 2010]. of In*
 
 ## SCHEDULE CUSTODY RECORD FOR DETAINED PERSON
 
-**1.** Entries shall be made in respect of all matters relevant to the detention of the arrested person and shall be referred to as the Custody Record. In particular, the entries shall be made in respect of the following:
+**1.** Entries shall be made in respect of all matters relevant to the detention the arrested person and shall be referred to as the Custody Record. particular, the entries shall be made in respect of the following:
 
 (a) an accurate record of the time and place of—
 
@@ -1472,9 +1474,11 @@ or is likely to be, involved in the commission of a terrorist act.
 
 (i) the ground or grounds, on which the detention is based.
 
-**2.** The Custody Record shall be opened as soon as practicable after the start of a person’s detention.
+*start time*
 
-**3.** The person making an entry in the Custody Record shall insert the time at which the entry is made and his signature against the entry made.
+**2.** The Custody Record shall be opened as soon as practicable after the of a person’s detention.
+
+**3.** The person making an entry in the Custody Record shall insert the at which the entry is made and his signature against the entry made.
 
 **4.** The Custody Record or copy of the Record shall accompany a detained person to any other place where he is transferred.
 
@@ -1514,35 +1518,37 @@ or is likely to be, involved in the commission of a terrorist act.
 
 **10.** Prosecutions.
 
-FINANCIAL OBLIGATIONS (FINANCING OF 7/2011. TERRORISM) REGULATIONS made under section 41
+*7/2011.*
 
-**1.** These Regulations may be cited as the Financial Citation. Obligations (Financing of Terrorism) Regulations.
+*Citation. Interpretation. Ch. 11:27. Ch. 72:01. Ch. 12:07. Sub. Leg. 7/2010.*
+
+FINANCIAL OBLIGATIONS (FINANCING OF TERRORISM) REGULATIONS made under section 41
+
+**1.** These Regulations may be cited as the Financial Obligations (Financing of Terrorism) Regulations.
 
 **2.** In these Regulations—
 
-Interpretation.
-
 “financial institution” has the meaning assigned to it in the Proceeds of Crime Act;
 
-Ch. 11:27.
-
-“FIU” means the Financial Intelligence Unit of Trinidad and Tobago, established under section 3 of the Financial Intelligence Unit Ch. 72:01. of Trinidad and Tobago Act;
+“FIU” means the Financial Intelligence Unit of Trinidad and Tobago, established under section 3 of the Financial Intelligence Unit of Trinidad and Tobago Act;
 
 “listed business” has the meaning assigned to it in the Act;
 
-Ch. 12:07.
-
 “Supervisory Authority” has the meaning assigned to it in the Financial Obligations Regulations;
 
-Sub. Leg. 7/2010. “terrorist organisation” has the meaning assigned to it in the Act; and
+“terrorist organisation” has the meaning assigned to it in the Act; and
+
+*Application of the Financial Obligations Regulations. 7/2010.*
 
 “the Act” means the Anti-Terrorism Act.
 
-**3.** (1) Subject to subregulation (2), the obligations, Application of prohibitions and offences contained in the Financial Obligations Obligations the Financial Regulations, (hereinafter referred to as “the Regulations”) shall 7/2010. Regulations. apply mutatis mutandis to a financial institution or a listed business, in relation to the financing of terrorism.
+**3.** (1) Subject to subregulation (2), the obligations, prohibitions and offences contained in the Financial Obligations Regulations, (hereinafter referred to as “the Regulations”) shall apply mutatis mutandis to a financial institution or a listed business, in relation to the financing of terrorism.
+
+*Training of staff.*
 
 (2) Every financial institution or listed business to which the Regulations apply, shall also comply with any additional or specific provisions contained in these Regulations.
 
-**4.** (1) A financial institution or listed business shall, in Training of addition to its training obligations under Regulations, make staff. arrangements for the training of its directors and members of staff on the subject of the financing of terrorism.
+**4.** (1) A financial institution or listed business shall, in addition to its training obligations under Regulations, make arrangements for the training of its directors and members of staff on the subject of the financing of terrorism.
 
 Financial Obligations (Financing of Terrorism) Regulations
 
@@ -1558,19 +1564,15 @@ Financial Obligations (Financing of Terrorism) Regulations
 
 (a) in such a manner that employees at different levels of the financial institution or listed business, would develop the ability to identify funds which may be linked or related to or may be used for terrorist acts, by any known legal entity or terrorist organisations; and
 
-(b) continuously, in order to ensure that information and technology available to the
-
 *Customer due diligence in the financing of terrorism. Sub. Leg. 7/2010.*
 
-directors and staff are constantly being updated.
+(b) continuously, in order to ensure that information and technology available to the directors and staff are constantly being updated.
 
 **5.** (1) The policies and procedures for customer due diligence established under Part III of the Regulations, shall be applied by every financial institution or listed business, where it is known or there are reasonable grounds to suspect that funds for a transaction are linked or related to or to be used in whole or in part for the financing of terrorism.
 
-(2) A financial institution or listed business shall adopt a risk based approach in determining the standard of due diligence to be applied to a customer or to a person conducting a
-
 *Report of suspicious transactions and suspicious activities*
 
-one-off transaction.
+(2) A financial institution or listed business shall adopt a risk based approach in determining the standard of due diligence to be applied to a customer or to a person conducting a one-off transaction.
 
 **6.** (1) In addition to the responsibilities given to the internal and external auditors or other competent professionals under regulation 10 of the Regulations, they shall report to the
 
@@ -1578,21 +1580,21 @@ Financial Obligations (Financing of Terrorism) Regulations Compliance Officer an
 
 (2) On receipt of such a report, the Compliance Officer shall consider the same, with a view to determining whether he should submit a suspicious activity or suspicious transaction report to the FIU.
 
+*Technological developments.*
+
 (3) Where the Compliance Officer determines that the report referred to in subsection (2) should be submitted, he shall do so immediately, but in any case, within the statutory time frame for so doing.
 
-*developments.*
+**7.** (1) A financial institution or listed business shall pay special attention to the use of new and developing technology in terrorist financing offences and any patterns of terrorist financing arising from any technology that may favour anonymity.
 
-**7.** (1) A financial institution or listed business shall pay Technological special attention to the use of new and developing technology in terrorist financing offences and any patterns of terrorist financing arising from any technology that may favour anonymity.
+*Offences and penalties.*
 
 (2) A financial institution or listed business shall take appropriate measures to deal with such patterns referred to in subsection (1).
 
-*penalties.*
+*Offences by Companies and other bodies.*
 
-**8.** A financial institution or listed business which does not Offences and comply with these Regulations commits an offence and is liable on summary conviction or on conviction on indictment, to the penalty prescribed in the Act.
+**8.** A financial institution or listed business which does not comply with these Regulations commits an offence and is liable on summary conviction or on conviction on indictment, to the penalty prescribed in the Act.
 
-*Companies and other bodies.*
-
-**9.** (1) Where a company commits an offence under these Offences by Regulations, any officer, director or agent of the company—
+**9.** (1) Where a company commits an offence under these Regulations, any officer, director or agent of the company—
 
 (a) who directed, authorised, assented to, or acquiesced in the commission of the offence; or
 
@@ -1610,10 +1612,8 @@ Financial Obligations (Financing of Terrorism) Regulations paragraph (a) or (b) 
 
 “partner” includes a person purporting to act as a partner; and
 
-“officer”, in relation to a body corporate, means a director, manager, secretary, Chief Executive Officer, member of the committee of management or a person acting in such a
-
 *Prosecutions.*
 
-capacity.
+“officer”, in relation to a body corporate, means a director, manager, secretary, Chief Executive Officer, member of the committee of management or a person acting in such a capacity.
 
 **10.** Proceedings for an offence under these Regulations may not be instituted without the approval of the Director of Public Prosecutions.

@@ -53,6 +53,8 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 ## SCHEDULE.
 
+### MINISTRY OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### CHAPTER 81:09
 
 ### ASSOCIATION OF CARIBBEAN STATES (HEADQUARTERS) ACT
@@ -79,11 +81,9 @@ An Act to provide for the implementation by the Government of Trinidad and Tobag
 
 “Headquarters” has the meaning assigned to it in Article 1 of the Headquarters Agreement;
 
-“Headquarters Agreement” means the Agreement, the text of
-
 *Schedule.*
 
-which is set out in the Schedule, between the Government and the Association of Caribbean States regarding the Headquarters of the Association of Caribbean States;
+“Headquarters Agreement” means the Agreement, the text of which is set out in the Schedule, between the Government and the Association of Caribbean States regarding the Headquarters of the Association of Caribbean States;
 
 “Minister” means the Minister to whom responsibility for foreign affairs is assigned.
 
@@ -95,11 +95,11 @@ of Trinidad and Tobago under the Headquarters Agreement shall be a charge on the
 
 (2) Any sums received by the Government from the Association shall be paid into the Consolidated Fund.
 
-**4.** Without prejudice to any other written law, the Certain provisions of following Articles of the Headquarters Agreement shall have the Headquarters Agreement force of law in Trinidad and Tobago:
+*Certain provisions of Headquarters Agreement given force of law in Trinidad and Tobago.*
 
-given force of law in Trinidad
+**4.** Without prejudice to any other written law, the following Articles of the Headquarters Agreement shall have the force of law in Trinidad and Tobago:
 
-(a) Article 3; and Tobago.
+(a) Article 3;
 
 (b) in Article 5, paragraphs 1 and 2;
 
@@ -125,11 +125,13 @@ given force of law in Trinidad
 
 (m) in Article 38, paragraph 1.
 
-**5.** Without prejudice to the requirements of the Entry into, residence in Immigration Act, the Government shall facilitate the entry into, and departure from Trinidad residence in and departure from Trinidad and Tobago of the and Tobago. Ch. 18:01. persons referred to in Article 17 of the Headquarters Agreement.
+*Entry into, residence in and departure from Trinidad and Tobago. Ch. 18:01.*
 
-*of*
+**5.** Without prejudice to the requirements of the Immigration Act, the Government shall facilitate the entry into, residence in and departure from Trinidad and Tobago of the persons referred to in Article 17 of the Headquarters Agreement.
 
-**6.** The Minister may, from time to time, by Order, amend Amendment Schedule. the Schedule for the purpose of bringing the Headquarters Agreement into accord with any amendments made to the Headquarters Agreement under Article 44 thereof.
+*Amendment of Schedule.*
+
+**6.** The Minister may, from time to time, by Order, amend the Schedule for the purpose of bringing the Headquarters Agreement into accord with any amendments made to the Headquarters Agreement under Article 44 thereof.
 
 *(Sections 2 and 6).*
 
@@ -158,6 +160,10 @@ For the purpose of this Agreement:
 (a) “Convention” means the Convention establishing the Association of Caribbean States signed at Cartagena de Indias, Republic of Colombia on July 24, 1994;
 
 (b) “Association” means the Association of Caribbean States as defined by article II of the Convention;
+
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
 
 (c) “Member States” has the same meaning as defined in article IV(1) of the Convention;
 
@@ -480,6 +486,12 @@ functions and during their journey to and from the place of meeting, enjoy the f
 (b) Immunity from personal arrest or detention in relation to acts performed by them in their official capacity;
 
 (c) Immunity from inspection and seizure of personal and official baggage, except in case of flagrante delicto. In such cases the competent authorities shall immediately inform the Secretary-General. Inspections shall in the case of personal
+
+*MINISTRY OF THE Chap.*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
+
+81:09
 
 baggage be conducted only in the presence of the official concerned or his authorized representative, and in the case of official baggage, in the presence of the Secretary-General;
 

@@ -50,6 +50,10 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 **6.** Penalties.
 
+*MINISTRY OF*
+
+### THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### BOY SCOUTS ASSOCIATION ACT
 
 *1950 Ed. Ch. 41 No. 1. 22 of 1920. Commencement.*
@@ -80,6 +84,10 @@ An Act relating to the Boy Scouts Association.
 
 (2) No Boy Scout shall seek or attempt, by virtue of his wearing any uniform, badge, token or emblem of the Association, or uniform, badge, token or emblem purporting or appearing to be such, to enforce or exercise authority otherwise than in accordance with and as authorised by the bye-laws or rules of the Association.
 
-**5.** It shall not be lawful for any person to form, organise or No person falsely to claim work in connection with, or be concerned in forming, organising, connection with or in work in connection with, any corps or body which, without Boy Scouts Association. due authority granted under the said Royal Charter of the Association, claims or purports to be Boy Scouts or otherwise to be connected with the Association, or which hold themselves out as, or pass themselves off as, Boy Scouts or as otherwise connected with the Association.
+*No person falsely to claim connection with Boy Scouts Association.*
 
-**6.** Any person who contravenes this Act is liable on summary Penalties. conviction to a fine of four hundred dollars and to imprisonment for one month.
+**5.** It shall not be lawful for any person to form, organise or work in connection with, or be concerned in forming, organising, or in work in connection with, any corps or body which, without due authority granted under the said Royal Charter of the Association, claims or purports to be Boy Scouts or otherwise to be connected with the Association, or which hold themselves out as, or pass themselves off as, Boy Scouts or as otherwise connected with the Association.
+
+*Penalties.*
+
+**6.** Any person who contravenes this Act is liable on summary conviction to a fine of four hundred dollars and to imprisonment for one month.

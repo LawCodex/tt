@@ -98,11 +98,9 @@ An Act relating to Auctioneers.
 
 *Licence necessary.*
 
-**3.** No person shall, except as provided below, carry on the business of an auctioneer unless he has obtained from the Board
-
 *First Schedule.*
 
-of Inland Revenue a licence in the form in the First Schedule.
+**3.** No person shall, except as provided below, carry on the business of an auctioneer unless he has obtained from the Board of Inland Revenue a licence in the form in the First Schedule.
 
 *Duration and conditions of licence.*
 
@@ -110,27 +108,39 @@ of Inland Revenue a licence in the form in the First Schedule.
 
 *Licence duty. [51/1980 6 of 1993].*
 
-**5.** (1) The amount payable to the Board of Inland Revenue for every such licence shall be five hundred dollars except that in the case of a person who at the commencement of this Act held a
-
 *Ch. 27. No. 16. 1950 Ed.*
 
-general certificate as a bailiff under the Landlord and Tenant Ordinance, and the Rules made or in force thereunder, the annual amount payable by him for an auctioneer’s licence shall, so long as he holds such a certificate continuously, be twenty dollars.
+**5.** (1) The amount payable to the Board of Inland Revenue for every such licence shall be five hundred dollars except that in the case of a person who at the commencement of this Act held a general certificate as a bailiff under the Landlord and Tenant Ordinance, and the Rules made or in force thereunder, the annual amount payable by him for an auctioneer’s licence shall, so long as he holds such a certificate continuously, be twenty dollars.
 
 (2) All such amounts shall form part of the Consolidated Fund.
 
-**6.** (1) The Board of Inland Revenue may refuse to grant Board of Inland Revenue may any such licence, and may, in its discretion, attach such conditions refuse to issue thereto as it may think expedient, and may cancel the licence in licence, and may attach the event of the breach of any such condition being proved to its conditions and may cancel satisfaction. licence.
+*Board of Inland Revenue may refuse to issue licence, and may attach conditions and may cancel licence.*
 
-(2) The Board of Inland Revenue shall not grant a licence to a pawnbroker as defined by the Pawnbrokers Act, or to any Ch. 84:05. servant, apprentice or agent of a pawnbroker.
+**6.** (1) The Board of Inland Revenue may refuse to grant any such licence, and may, in its discretion, attach such conditions thereto as it may think expedient, and may cancel the licence in the event of the breach of any such condition being proved to its satisfaction.
 
-**7.** The Board of Inland Revenue shall, at the beginning of List of licensed auctioneers to every month, cause to be published in the Gazette and in one or be published. more of the local newspapers a list of the persons to whom licences have been granted by it during the preceding month; and if at any time the Board cancels any such licence it shall publish in like manner as mentioned above the name of the person whose licence has been so cancelled.
+*Ch. 84:05.*
 
-**8.** Any person who carries on the business of an Penalty for acting without auctioneer without being duly licensed is liable to a fine of licence. two thousand dollars.
+(2) The Board of Inland Revenue shall not grant a licence to a pawnbroker as defined by the Pawnbrokers Act, or to any servant, apprentice or agent of a pawnbroker.
 
-**9.** (1) Before beginning any auction, every auctioneer shall Board or ticket containing name affix or suspend, and shall keep the same so affixed or suspended and place of during the whole time the auction is being held, a board or ticket business of auctioneer. containing his true and full given name and surname and place of business, painted or written in large letters publicly visible and legible, in some conspicuous part of the room where the auction is held, so that all persons may easily read the same.
+*List of licensed auctioneers to be published.*
+
+**7.** The Board of Inland Revenue shall, at the beginning of every month, cause to be published in the Gazette and in one or more of the local newspapers a list of the persons to whom licences have been granted by it during the preceding month; and if at any time the Board cancels any such licence it shall publish in like manner as mentioned above the name of the person whose licence has been so cancelled.
+
+*Penalty for acting without licence.*
+
+**8.** Any person who carries on the business of an auctioneer without being duly licensed is liable to a fine of two thousand dollars.
+
+*Board or ticket containing name and place of business of auctioneer.*
+
+**9.** (1) Before beginning any auction, every auctioneer shall affix or suspend, and shall keep the same so affixed or suspended during the whole time the auction is being held, a board or ticket containing his true and full given name and surname and place of business, painted or written in large letters publicly visible and legible, in some conspicuous part of the room where the auction is held, so that all persons may easily read the same.
 
 (2) Any auctioneer acting in contravention of this section is liable to a fine of one thousand dollars.
 
-**10.** (1) Every auctioneer shall keep a regular and correct Keeping of accounts by account of all property sold by him at auction, the account to be auctioneer. written in a book to be kept for that purpose in the form contained in the Second Schedule, and every such account shall be opened Second Schedule. to the inspection of every person interested, except that it shall be
+*Keeping of accounts by auctioneer.*
+
+*Second Schedule.*
+
+**10.** (1) Every auctioneer shall keep a regular and correct account of all property sold by him at auction, the account to be written in a book to be kept for that purpose in the form contained in the Second Schedule, and every such account shall be opened to the inspection of every person interested, except that it shall be
 
 a sufficient compliance with this subsection if an entry is made in the book of the name of the person to whom the property sold belongs, together with a reference to some other book where is kept an account containing the particulars mentioned in the form mentioned above.
 
@@ -144,29 +154,35 @@ a sufficient compliance with this subsection if an entry is made in the book of 
 
 (b) goods, wares and merchandise imported into Trinidad and Tobago or brought from Trinidad to Tobago or from Tobago to Trinidad and in each case damaged on the voyage and ordered, after survey in the customary manner, to be sold for the benefit of those whom it may concern; or
 
-(c) pledges sold at auction under the provisions of
-
 *Ch. 84:05.*
 
-the Pawnbrokers Act,
+(c) pledges sold at auction under the provisions of the Pawnbrokers Act,
 
 an auctioneer shall not sell by auction any property unless such auctioneer has inserted and published for eight days prior to the date of any such sale an advertisement in one or more of the local newspapers, disclosing the name of the person or persons by whose order the sale by public auction is to take place and the name of the owner of such property, and containing a full and accurate description of the property to be sold as mentioned above except that the period of eight days may be reduced to a period of not less than four days on the direction in writing under his hand given by the owner to the auctioneer.
 
 (2) Any person acting in contravention of this section is liable to a fine of one thousand dollars.
 
-**12.** (1) On a sale or attempted sale at auction of the properties Remuneration payable to referred to in the Third Schedule an auctioneer is entitled, in respect auctioneers. Third Schedule. of the sale or attempted sale, to demand and to receive the relevant commission or fee in the Schedule specified.
+*Remuneration payable to auctioneers. Third Schedule.*
+
+**12.** (1) On a sale or attempted sale at auction of the properties referred to in the Third Schedule an auctioneer is entitled, in respect of the sale or attempted sale, to demand and to receive the relevant commission or fee in the Schedule specified.
 
 (2) Any auctioneer who demands, receives or retains any commission or fee in excess of the commission or fee hereby chargeable is liable to a fine of four hundred dollars.
 
-(3) Where a person is convicted of an offence under this section the Magistrate shall, in addition to any penalty he may impose thereunder, order the person so convicted to pay to the person entitled thereto, any sum of money received or retained in contravention of this section, and the sum so ordered to be paid shall be deemed a sum adjudged to be paid within the meaning of section 67 of the Summary Courts Act. Ch. 4:20.
+*Ch. 4:20.*
 
-**13.** (1) Notwithstanding anything contained in this Act, Permission to head of the Minister may grant permission to the head of any department to department in the public service to sell at auction, by himself sell at auction. or by any of his officers or clerks authorised by him in writing, any property on account of the department or branch of the service to which he belongs.
+(3) Where a person is convicted of an offence under this section the Magistrate shall, in addition to any penalty he may impose thereunder, order the person so convicted to pay to the person entitled thereto, any sum of money received or retained in contravention of this section, and the sum so ordered to be paid shall be deemed a sum adjudged to be paid within the meaning of section 67 of the Summary Courts Act.
+
+*Permission to head of department to sell at auction.*
+
+**13.** (1) Notwithstanding anything contained in this Act, the Minister may grant permission to the head of any department in the public service to sell at auction, by himself or by any of his officers or clerks authorised by him in writing, any property on account of the department or branch of the service to which he belongs.
 
 (2) The permission may be either general or for a special occasion. If it is general, it shall subsist until it is revoked by the Minister.
 
 (3) In this section “Minister” means the Minister responsible for Finance.
 
-**14.** (1) Nothing contained in this Act shall apply to sales Exception. [51/1980]. at auction—
+*Exception. [51/1980].*
+
+**14.** (1) Nothing contained in this Act shall apply to sales at auction—
 
 (a) under any judgment, order, or decree, or under any process of any Court in Trinidad and Tobago;
 

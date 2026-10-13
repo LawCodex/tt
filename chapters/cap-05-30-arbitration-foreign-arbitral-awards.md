@@ -78,11 +78,9 @@ An Act to give effect in Trinidad and Tobago to the New York Convention on the r
 
 “convention award” means an award made pursuant to an arbitration agreement in a State other than Trinidad and Tobago that is a party to the New York Convention;
 
-“New York Convention” means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted by the United Nations Conference on International Commercial
-
 *Schedule.*
 
-Arbitration on 10th June, 1958 and set out in the Schedule;
+“New York Convention” means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted by the United Nations Conference on International Commercial Arbitration on 10th June, 1958 and set out in the Schedule;
 
 “State that is a party to the New York Convention”, in the case of a federal State whose constituent political subdivisions have legislative jurisdiction with respect to commercial arbitrations, includes a constituent political subdivision thereof that has given effect to the Convention by legislative or other action.
 
@@ -94,21 +92,19 @@ Arbitration on 10th June, 1958 and set out in the Schedule;
 
 to the effect that a State specified in the certificate is or was at a time specified a party to the New York Convention is conclusive proof in any proceedings that the State is, or was at a time specified, a party to the convention.
 
-*awards.*
-
-**4.** (1) Subject to this Act, a convention award is enforceable Effect of in Trinidad and Tobago either by action or in the same manner as the award of an arbitrator is enforceable by section 20 of the
+*Effect of awards.*
 
 *Ch. 5:01.*
 
-Arbitration Act.
+**4.** (1) Subject to this Act, a convention award is enforceable in Trinidad and Tobago either by action or in the same manner as the award of an arbitrator is enforceable by section 20 of the Arbitration Act.
 
 (2) A convention award that would be enforceable under this Act is binding for all purposes on the persons between whom it was made and it may be relied upon by any of those persons by way of defence, set-off or otherwise in any legal proceedings in Trinidad and Tobago.
 
 (3) A reference in this Act to enforcing a convention award shall be construed as including references to relying on that award.
 
-*enforce award.*
+*Evidence to enforce award.*
 
-**5.** The party seeking to enforce a convention award shall Evidence to produce to the Court—
+**5.** The party seeking to enforce a convention award shall produce to the Court—
 
 (a) the duly authenticated original award or a duly certified copy of it;
 
@@ -116,9 +112,9 @@ Arbitration Act.
 
 (c) a translation of the award or agreement certified by an official or sworn translator or by a diplomatic or consular agent, if the award or agreement is in a language other than English.
 
-*enforce.*
+*Refusal to enforce.*
 
-**6.** (1) Enforcement of a convention award may not be Refusal to refused except in the circumstances set out in this section.
+**6.** (1) Enforcement of a convention award may not be refused except in the circumstances set out in this section.
 
 (2) Enforcement of a convention award may be refused if the person against whom it is invoked proves—
 
@@ -134,23 +130,33 @@ Arbitration Act.
 
 (f) that the award has not yet become binding on the parties, or has been set aside or suspended by a competent authority in the State in which, or under the law of which, the award was made.
 
-(3) Enforcement of a convention award may also be refused if—
+(3) Enforcement of a convention award may also be
+
+*refused if—*
 
 (a) the award is in respect of a matter that is not capable of settlement by arbitration; or
 
 (b) it would be contrary to public policy to enforce the award.
 
-(4) A convention award that contains decisions on matters not submitted to arbitration may be enforced to the extent that it contains decisions on matters submitted to arbitration that can be separated from those on matters not so submitted.
+*not contains separated*
 
-*Power to adjourn proceedings.*
+(4) A convention award that contains decisions on matters submitted to arbitration may be enforced to the extent that it decisions on matters submitted to arbitration that can be from those on matters not so submitted.
 
-**7.** (1) When an application for the setting aside or suspension of a convention award has been made to a competent authority of
+*\7. (1) Power to*
+
+*adjourn*
+
+*of a proceedings.*
+
+When an application for the setting aside or suspension convention award has been made to a competent authority of
 
 the State in which, or under the law of which, the award was made, the Court before which enforcement of the award is sought may, if it thinks fit, adjourn the proceedings.
 
 (2) The Court hearing an application described in subsection (1) may, on the application of the party seeking to enforce the award, order the other party to give security.
 
-**8.** Nothing in this Act affects the right of a person to the Saving. enforcement of an award otherwise than under this Act.
+*Saving.*
+
+**8.** Nothing in this Act affects the right of a person to the enforcement of an award otherwise than under this Act.
 
 ## SCHEDULE
 

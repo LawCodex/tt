@@ -124,19 +124,15 @@ An Act respecting the registration of Architects and otherwise regulating the pr
 
 “Disciplinary Committee” means the Committee established under section 14;
 
-“Institute of Architects” means the body incorporated by the
-
 *25 of 1988.*
 
-Trinidad and Tobago Institute of Architects Act;
+“Institute of Architects” means the body incorporated by the Trinidad and Tobago Institute of Architects Act;
 
 “Minister” means the member of Cabinet to whom responsibility for public works is assigned;
 
-“misconduct” means any act constituting an infringement of the
-
 *Schedule.*
 
-Code of Ethics set out in the Schedule;
+“misconduct” means any act constituting an infringement of the Code of Ethics set out in the Schedule;
 
 “registered architect” means an architect registered under this Act.
 
@@ -144,7 +140,9 @@ Code of Ethics set out in the Schedule;
 
 **3.** (1) There is established a Board of Architecture that is a body corporate.
 
-(2) The Board shall be appointed by the Minister and shall consist of—
+*shall*
+
+(2) The Board shall be appointed by the Minister and consist of—
 
 (a) four registered architects nominated by and holding membership in the Institute of Architects of Trinidad and Tobago;
 
@@ -154,25 +152,47 @@ Code of Ethics set out in the Schedule;
 
 (3) A Chairman shall be appointed by the Board from among its members.
 
-(4) A person appointed to the Board shall be a citizen of, or ordinarily resident in Trinidad and Tobago.
+*or*
+
+(4) A person appointed to the Board shall be a citizen of, ordinarily resident in Trinidad and Tobago.
 
 (5) A person appointed to the Board under paragraph (a) or (b) of subsection (1) shall have been engaged in the practice of architecture for at least eight years.
 
-**4.** A person appointed to the Board holds office for a term of Term of office of Board three years but is eligible for reappointment for a maximum of members. two further consecutive terms.
+*Term of office of Board members.*
 
-**5.** (1) The Board shall hold meetings at such times as may Meetings and quorums. be necessary or expedient for the purpose of fulfilling its functions and such meetings shall take place not less than twice in each calendar year.
+*two*
+
+**4.** A person appointed to the Board holds office for a term of three years but is eligible for reappointment for a maximum of further consecutive terms.
+
+*Meetings and quorums.*
+
+*be and*
+
+**5.** (1) The Board shall hold meetings at such times as may necessary or expedient for the purpose of fulfilling its functions such meetings shall take place not less than twice in each calendar year.
 
 (2) Ten days notice in writing of every meeting of the Board shall be given to each member of the Board.
 
-(3) A quorum of any meeting of the Board shall be four members but in other respects the Board may regulate its own procedure.
+*four own*
 
-**6.** (1) A member of the Board other than the Chairman may Resignation. at any time resign his office by instrument in writing addressed to the Minister and transmitted through the Chairman.
+(3) A quorum of any meeting of the Board shall be members but in other respects the Board may regulate its procedure.
+
+*Resignation.*
+
+*the*
+
+**6.** (1) A member of the Board other than the Chairman may at any time resign his office by instrument in writing addressed to Minister and transmitted through the Chairman.
 
 (2) The Chairman may at any time resign his office by instrument in writing addressed to the Minister.
 
-*Vacancies.*
+*MINISTRY OF THE*
 
-**7.** Where a vacancy occurs in the membership of the Board such vacancy may be filled by the Minister on the same basis on which the appointment becoming vacant was made, and the new member shall hold office for the remainder of the period for which his predecessor was appointed.
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
+
+*Vacancies. such*
+
+*member his*
+
+**7.** Where a vacancy occurs in the membership of the Board vacancy may be filled by the Minister on the same basis on which the appointment becoming vacant was made, and the new shall hold office for the remainder of the period for which predecessor was appointed.
 
 *Functions of the Board.*
 
@@ -216,13 +236,15 @@ Code of Ethics set out in the Schedule;
 
 (3) A copy of the Gazette listing the information required to be published under subsection (2)(d) is admissible in any proceedings as evidence that a person is or is not registered as a registered architect or has had his Certificate of Registration suspended or cancelled.
 
-**11.** (1) The Board may establish committees to assist in the Committees. exercise of its functions and shall establish an Accreditation Committee and an Assessment Committee.
+*Committees.*
+
+**11.** (1) The Board may establish committees to assist in the exercise of its functions and shall establish an Accreditation Committee and an Assessment Committee.
 
 (2) A member of a Committee established under subsection (1) need not be a member of the Board.
 
-*Committee.*
+*Accreditation Committee.*
 
-**12.** (1) The functions of the Accreditation Committee are to Accreditation assess and keep under review the academic qualifications for registration as a registered architect and to scrutinise, examine and investigate the academic qualifications of individual applicants for registration as registered architects.
+**12.** (1) The functions of the Accreditation Committee are to assess and keep under review the academic qualifications for registration as a registered architect and to scrutinise, examine and investigate the academic qualifications of individual applicants for registration as registered architects.
 
 (2) The Accreditation Committee shall assist the Board—
 
@@ -230,9 +252,9 @@ Code of Ethics set out in the Schedule;
 
 (b) in the preparation of the list of qualifications required by section 8 to be published for public scrutiny.
 
-*Committee.*
+*Assessment Committee.*
 
-**13.** The functions of the Assessment Committee are to Assessment review the architectural work done by applicants seeking to qualify for registration and to make recommendations in this regard to the Board.
+**13.** The functions of the Assessment Committee are to review the architectural work done by applicants seeking to qualify for registration and to make recommendations in this regard to the Board.
 
 *Disciplinary Committee.*
 
@@ -290,11 +312,9 @@ such membership is entitled as of right to be registered as a registered archite
 
 (c) such other information as the Board requires in respect of the matters referred to in subsection (3) or under subsection (1) of section 18, as the case may be.
 
-*persons who*
+*Registration of persons who lack qualification.*
 
-**18.** (1) Notwithstanding section 17, any person who does Registration of not possess the qualification specified in that section but who, lack
-
-*qualification.*
+**18.** (1) Notwithstanding section 17, any person who does not possess the qualification specified in that section but who,
 
 on application made to the Board within one year of the commencement of this Act, satisfied the Board that—
 
@@ -330,7 +350,9 @@ is entitled to be registered as a registered architect.
 
 (3) The Minister may, by Order, amend the Schedule on the advice of the Board.
 
-**22.** (1) In any disciplinary proceedings held by the Board, Disciplinary proceedings. the Board shall in addition to any other requirement imposed by any regulations under this Act—
+*Disciplinary proceedings.*
+
+**22.** (1) In any disciplinary proceedings held by the Board, the Board shall in addition to any other requirement imposed by any regulations under this Act—
 
 (a) furnish adequate notice to the registered architect against whom the misconduct is alleged stating the nature and details of the alleged misconduct;
 
@@ -340,11 +362,17 @@ is entitled to be registered as a registered architect.
 
 (3) In exercise of its disciplinary powers the Board may, where it is satisfied that an allegation of misconduct is proved, censure the registered architect or suspend or cancel his Certificate of Registration.
 
-**23.** An applicant for registration as a registered architect shall Application fees. pay such fees as may be prescribed.
+*Application fees.*
 
-**24.** A registered architect shall pay to the Board such annual Annual fees. practice fee as may be prescribed.
+**23.** An applicant for registration as a registered architect shall pay such fees as may be prescribed.
 
-**25.** A registered architect shall, on payment to the Board of Other fees. the prescribed fees, have endorsed on the Register and on his Certificate of Registration any further qualifications acquired subsequent to registration.
+*Annual fees.*
+
+**24.** A registered architect shall pay to the Board such annual practice fee as may be prescribed.
+
+*Other fees.*
+
+**25.** A registered architect shall, on payment to the Board of the prescribed fees, have endorsed on the Register and on his Certificate of Registration any further qualifications acquired subsequent to registration.
 
 *Offences and penalties.*
 

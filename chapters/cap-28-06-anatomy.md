@@ -104,23 +104,33 @@ An Act to provide for the establishment and control of schools of anatomy, the g
 
 “teacher of medicine” means and includes any person who is employed or engaged as a professor or teacher of anatomy, pathology, medicine, surgery or obstetrics in any school of anatomy established under this Act.
 
-**3.** The Minister may from time to time authorise the Establishment of schools of establishment of schools of anatomy where the study and practice anatomy. of anatomy may be carried out.
+*Establishment of schools of anatomy.*
 
-**4.** (1) The Minister may, subject to such conditions as Licence to practise he thinks fit, grant a licence to practise anatomy to any person anatomy. who is appointed to a school of anatomy established under this Act as a teacher of medicine in such school, or to any student attending any such school, on application from any such person.
+**3.** The Minister may from time to time authorise the establishment of schools of anatomy where the study and practice of anatomy may be carried out.
+
+*Licence to practise anatomy.*
+
+**4.** (1) The Minister may, subject to such conditions as he thinks fit, grant a licence to practise anatomy to any person who is appointed to a school of anatomy established under this Act as a teacher of medicine in such school, or to any student attending any such school, on application from any such person.
 
 (2) No person shall receive or have in his possession for anatomical examination, or for examination anatomically, any body, unless he is the holder of a licence under subsection (1).
 
 (3) Every such licence shall state the school at which it shall be lawful for the licensee to practise anatomy.
 
-**5.** (1) The Minister may from time to time appoint one or Appointment of Inspector of more Inspectors for every school, and direct in what manner any school of anatomy. such Inspector shall transact the duties of his office.
+*Appointment of Inspector of school of anatomy.*
+
+**5.** (1) The Minister may from time to time appoint one or more Inspectors for every school, and direct in what manner any such Inspector shall transact the duties of his office.
 
 (2) Every Inspector shall continue in office for one year or until some other person is appointed in his place.
 
 (3) Where an Inspector dies or is removed from office, or neglects or refuses or becomes unable to act, the Minister may appoint another person in his place.
 
-**6.** Every Inspector of a school of anatomy shall make a Inspector to make returns. quarterly return to the Minister of every body which during the preceding quarter has been removed for anatomical examination to such school, or which may have been removed to any other place under the provisions of section 11, distinguishing the sex, name and age of the person whose body was so removed.
+*Inspector to make returns.*
 
-**7.** The Inspector may visit and inspect at any time the school Inspector to inspect schools. of anatomy for which he is appointed Inspector.
+**6.** Every Inspector of a school of anatomy shall make a quarterly return to the Minister of every body which during the preceding quarter has been removed for anatomical examination to such school, or which may have been removed to any other place under the provisions of section 11, distinguishing the sex, name and age of the person whose body was so removed.
+
+*Inspector to inspect schools.*
+
+**7.** The Inspector may visit and inspect at any time the school of anatomy for which he is appointed Inspector.
 
 *Person having lawful custody of body may permit anatomical examination.*
 
@@ -144,13 +154,9 @@ then the person in lawful custody of the body shall allow such examination to be
 
 (2) No anatomical examination under subsection (1) shall be conducted where the nearest relative of the deceased requires the body to be interred or cremated without such examination.
 
-*body for*
+*Removal of body for anatomical examination, and provision for burial.*
 
-**10.** (1) Every body which is to be examined anatomically shall Removal of be embalmed and thereafter shall be transported to the place of anatomical
-
-*examination, and provision for burial.*
-
-examination in a coffin or shell.
+**10.** (1) Every body which is to be examined anatomically shall be embalmed and thereafter shall be transported to the place of examination in a coffin or shell.
 
 (2) No body shall be examined anatomically until after one week from the time of death, nor until after twenty-four hours’ written notice has been given to an Inspector of the intention so to examine the body.
 
@@ -160,13 +166,11 @@ examination in a coffin or shell.
 
 (5) Every school shall send to the Inspector, every year in the month of November, a return specifying therein the particulars referred to in subsection (4).
 
-*Anatomical examination to*
+*Anatomical examination to be conducted only at authorised places.*
 
 **11.** (1) No person shall—
 
-*only at authorised places.*
-
-(a) teach anatomy by means of the dissection of be conducted any body;
+(a) teach anatomy by means of the dissection of any body;
 
 (b) receive or possess any body for anatomical examination, or
 
@@ -206,10 +210,16 @@ at any place except a school of anatomy established under section 3.
 
 (6) In the case of a body lying in a hospital, nursing home or other institution, any authority under this section for a post-mortem examination may be given on behalf of the person having the control and management thereof by any officer or person designated for that purpose by such hospital, nursing home or other institution.
 
-**15.** (1) Every person who contravenes this Act is guilty of an Offences. offence and on summary conviction liable to a fine of ten thousand dollars and to imprisonment for six months.
+*Offences.*
+
+**15.** (1) Every person who contravenes this Act is guilty of an offence and on summary conviction liable to a fine of ten thousand dollars and to imprisonment for six months.
 
 (2) It shall be lawful for the Minister, in addition to the penalties provided in subsection (1) to revoke the licence of any person who contravenes this Act.
 
-**16.** The Minister may make Regulations generally for giving Regulations. effect to the provisions of the Act.
+*Regulations.*
 
-**17.** The governing authorities of a school of anatomy may Rules. from time to time, with the approval of the Minister, make Rules enabling the study and practice of anatomy to be properly carried out, and may impose a fine not exceeding five hundred dollars for the breach thereof.
+**16.** The Minister may make Regulations generally for giving effect to the provisions of the Act.
+
+*Rules.*
+
+**17.** The governing authorities of a school of anatomy may from time to time, with the approval of the Minister, make Rules enabling the study and practice of anatomy to be properly carried out, and may impose a fine not exceeding five hundred dollars for the breach thereof.

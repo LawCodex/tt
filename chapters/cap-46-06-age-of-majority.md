@@ -100,7 +100,9 @@ An Act to amend the law relating to the age of majority, to persons who have not
 
 \* An Order (GN 26/1975) has been made under this subsection. The original Act contained a Schedule of enactments in which the substitution provided for in this subsection was made. The enactments concerned have been accordingly amended and the Schedule omitted.
 
-**3.** (1) An order under section 4(4), 9(2) or 12 of the Infants Maintenance for Act for the payment of sums towards the maintenance or education children under Infants Act to of a minor may require such sums to continue to be paid in respect continue to age twenty-one. of any period after the date on which he ceases to be a minor but [17 of 1981]. not extending beyond the date on which he attains the age of twenty- Ch. 46:02. one; and any order which is made as mentioned above may provide that any sum which is payable thereunder for the benefit of a person who has ceased to be a minor shall be paid to that person himself.
+*Maintenance for children under Infants Act to continue to age twenty-one. [17 of 1981]. Ch. 46:02.*
+
+**3.** (1) An order under section 4(4), 9(2) or 12 of the Infants Act for the payment of sums towards the maintenance or education of a minor may require such sums to continue to be paid in respect of any period after the date on which he ceases to be a minor but not extending beyond the date on which he attains the age of twenty-one; and any order which is made as mentioned above may provide that any sum which is payable thereunder for the benefit of a person who has ceased to be a minor shall be paid to that person himself.
 
 (2) Subject to subsection (3), where a person who has ceased to be a minor but has not attained the age of twenty-one has, while a minor, been the subject of an order under any of the provisions of the Infants Act, the Court may, on the application of either parent of that person or of that person himself, make an order requiring either parent to pay to the other parent, to anyone else for the benefit of that person or to that person himself, in respect of any period not extending beyond the date when he attains the said age, such weekly or other periodical sums towards his maintenance or education as the Court thinks reasonable having regard to the means of the person on whom the requirement is imposed.
 
@@ -108,15 +110,19 @@ An Act to amend the law relating to the age of majority, to persons who have not
 
 (4) (Deleted by Act No. 17 of 1981).
 
-(5) Subsection (2) shall be construed as one with the Infants Act. Ch. 46:02.
+*Ch. 46:02.*
 
-**4.** For the purposes of Part III of the Wills and Probate Act, Construction for
+(5) Subsection (2) shall be construed as one with the Infants Act.
 
-Part III of Wills the dependants of a deceased person shall continue to include any and Probate Act. son who has not attained the age of twenty-one. Ch. 9:03.
+*Construction for Part III of Wills and Probate Act. Ch. 9:03.*
 
-\*5. (1) In this section “the Court” means the High Court of Justice. Maintenance for wards of Court.
+**4.** For the purposes of Part III of the Wills and Probate Act, the dependants of a deceased person shall continue to include any son who has not attained the age of twenty-one.
 
-(2) Subject to the provisions of this section, the Court [17 of 1981 66 of 2000]. may make an Order—
+*Maintenance for wards of Court. [17 of 1981 66 of 2000].*
+
+\*5. (1) In this section “the Court” means the High Court of Justice.
+
+(2) Subject to the provisions of this section, the Court may make an Order—
 
 (a) requiring either parent of a ward of Court to pay to the other parent; or
 
@@ -142,21 +148,23 @@ such weekly or other periodical sums towards the maintenance and education of th
 
 (2) This section applies only where the relevant anniversary falls on a date after that on which this Act comes into operation and, in relation to any written law, deed, will or other instrument, has effect subject to any provision therein.
 
-*under*
+*Persons under full age may be described as minors instead of infants.*
 
-**7.** A person who is not of full age may be described as a Persons full age may be minor instead of as an infant, and accordingly in this Act “minor” described as minors instead means such a person as aforesaid.
+**7.** A person who is not of full age may be described as a minor instead of as an infant, and accordingly in this Act “minor” means such a person as aforesaid.
 
-of infants.
+*Funds in Court.*
 
-**8.** Any order or directions in force immediately before this Funds in Court. Act comes into operation by virtue of any Rules of Court or other written law relating to the control of money recovered by or otherwise payable to an infant in any proceedings, shall have effect as if any reference therein to the infant’s attaining the age of twenty-
+**8.** Any order or directions in force immediately before this Act comes into operation by virtue of any Rules of Court or other written law relating to the control of money recovered by or otherwise payable to an infant in any proceedings, shall have effect as if any reference therein to the infant’s attaining the age of twenty-one were a reference to his attaining the age of eighteen or, in relation to a person who by virtue of this Act attains full age on the date this Act comes into operation to that date.
 
-one were a reference to his attaining the age of eighteen or, in relation to a person who by virtue of this Act attains full age on the date this Act comes into operation to that date.
+*Wardship and custody orders.*
 
-**9.** (1) Any order in force immediately before this Act comes Wardship and custody orders. into operation—
+**9.** (1) Any order in force immediately before this Act comes into operation—
 
 (a) making a person a ward of Court; or
 
-(b) under the Infants Act or under the Supreme Court Ch. 46:02. of Judicature Act, for the custody of, access to, Ch. 4:01. any person, which is expressed to continue in force until the person who is the subject of the order attains the age of twenty-one, or any age between eighteen and twenty-one, shall have effect as if the reference to his attaining that age were a reference to his attaining the age of eighteen or, in relation to a person who by virtue of this Act attains full age on the date this Act comes into operation.
+*Ch. 46:02. Ch. 4:01.*
+
+(b) under the Infants Act or under the Supreme Court of Judicature Act, for the custody of, access to, any person, which is expressed to continue in force until the person who is the subject of the order attains the age of twenty-one, or any age between eighteen and twenty-one, shall have effect as if the reference to his attaining that age were a reference to his attaining the age of eighteen or, in relation to a person who by virtue of this Act attains full age on the date this Act comes into operation.
 
 (2) This section is without prejudice to so much of any order as makes provision for the maintenance or education of a person after he has attained the age of eighteen.
 
@@ -170,11 +178,9 @@ one were a reference to his attaining the age of eighteen or, in relation to a p
 
 (a) in its application to any interest under an instrument made before this Act comes into operation;
 
-(b) in its application, by virtue of any rules of law, to the estate of an intestate (within the meaning of
-
 *Ch. 8 No. 1 (1950 Ed.).*
 
-the Administration of Estates Ordinance) dying before that date.
+(b) in its application, by virtue of any rules of law, to the estate of an intestate (within the meaning of the Administration of Estates Ordinance) dying before that date.
 
 (2) In any case in which (whether by virtue of this section or section 15) trustees have power under section 32(1)(a) of the Trustee Ordinance to pay income to the parent or guardian of any person who has attained the age of eighteen or to apply it for or towards the maintenance, education or benefit of any such person, they shall also have power to pay it to that person himself.
 
@@ -194,6 +200,10 @@ at any time before the beneficiary attains the age of twenty-one.
 
 shall not invalidate any direction for accumulation in a settlement or other disposition made by a deed, will or other instrument which was made before this Act comes into operation.
 
-**14.** The change, by virtue of this Act, in the construction of Limitation of actions. section 10 of the Limitation of Personal Actions Ordinance Ch. 5 No. 6 (1950 Ed.). (limitation in case of person under disability) shall not affect the time for bringing proceedings in respect of a cause of action which arose before this Act comes into operation.
+*Limitation of actions. Ch. 5 No. 6 (1950 Ed.).*
 
-**15.** This Act shall not affect the construction of any statutory Statutory provisions provision where it is incorporated in and has effect as part of any incorporated in deed, will or other instrument the construction of which is not deeds, wills, etc. affected thereby.
+**14.** The change, by virtue of this Act, in the construction of section 10 of the Limitation of Personal Actions Ordinance (limitation in case of person under disability) shall not affect the time for bringing proceedings in respect of a cause of action which arose before this Act comes into operation.
+
+*Statutory provisions incorporated in deeds, wills, etc.*
+
+**15.** This Act shall not affect the construction of any statutory provision where it is incorporated in and has effect as part of any deed, will or other instrument the construction of which is not affected thereby.

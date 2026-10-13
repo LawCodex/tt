@@ -104,19 +104,25 @@ An Act to control the erection and use of hoardings and the exhibition of advert
 
 (2) Nothing in this section shall be deemed to derogate from or affect any of the powers conferred on the Port-of-Spain City Council by the former Ordinance.
 
-(3) In subsection (2) “former Ordinance” means the Port-of-Spain Corporation Ordinance repealed by the Municipal Ch. 39. No. 1. 1950 Ed. Corporations Act 1990.
+*Ch. 39. No. 1. 1950 Ed. 21 of 1990.*
 
-21 of 1990.
+(3) In subsection (2) “former Ordinance” means the Port-of-Spain Corporation Ordinance repealed by the Municipal Corporations Act 1990.
 
-**6.** For a City or Borough, the City or Borough Council may Bye-laws and Regulations. make Bye-laws, and for other parts of Trinidad and Tobago, the [39 of 1952]. Minister may, subject to affirmative resolution of Parliament, make Regulations—
+*Bye-laws and Regulations. [39 of 1952].*
+
+**6.** For a City or Borough, the City or Borough Council may make Bye-laws, and for other parts of Trinidad and Tobago, the Minister may, subject to affirmative resolution of Parliament, make Regulations—
 
 (a) for regulating, restricting or prohibiting the erection or hoardings and the exhibition of advertisements (other than advertisements exhibited in accordance with section 5) in such places and in such manner, or by such means, as to affect injuriously the amenities of a public park or pleasure promenade, or any place frequented by the public solely or chiefly on account of its beauty, or to disfigure the view of rural scenery from a highway or railway, or from any public place or water;
 
 (b) for levying a charge upon the exhibition of advertisements on hoardings erected by such City or Borough Council or by a County Council, as the case may be, in accordance with section 4.
 
-**7.** If any person is aggrieved by the refusal of a County Appeal from decision of Council to authorise the erection of any hoarding or the use of any County Council. hoarding or advertisement as provided in section 4, such person [39 of 1952]. may appeal to the Minister, and if it appears to the Minister that the erection of such hoarding or the use of any hoarding or advertisement should be authorised under this Act, the Minister may give directions to the County Council to that effect.
+*Appeal from decision of County Council. [39 of 1952].*
 
-**8.** (1) Unless authorised under section 4 or exempted under Removal of unauthorised section 5, any hoarding erected and any advertisement exhibited hoardings and at the date of the coming into force of Regulations or Bye-laws, as advertisements. 39 of 1952. the case may be, made under this Act, shall be removed by the person responsible therefore within six months from such date,
+**7.** If any person is aggrieved by the refusal of a County Council to authorise the erection of any hoarding or the use of any hoarding or advertisement as provided in section 4, such person may appeal to the Minister, and if it appears to the Minister that the erection of such hoarding or the use of any hoarding or advertisement should be authorised under this Act, the Minister may give directions to the County Council to that effect.
+
+*Removal of unauthorised hoardings and advertisements. 39 of 1952.*
+
+**8.** (1) Unless authorised under section 4 or exempted under section 5, any hoarding erected and any advertisement exhibited at the date of the coming into force of Regulations or Bye-laws, as the case may be, made under this Act, shall be removed by the person responsible therefore within six months from such date,
 
 and if not so removed such person shall be served with a notice in writing by the City or Borough Council or the County Council concerned to remove the hoarding or advertisement within one month, and on failure to comply with the notice, such person shall be deemed to have committed a contravention of this Act and is liable to the penalties hereinafter prescribed.
 
@@ -206,23 +212,29 @@ made under section 6
 
 *Permit.*
 
-**3.** No person shall erect a hoarding without a permit in writing first obtained from the County Council. Such permit shall be in
-
 *First Schedule.*
 
-the form set out in the First Schedule and shall be in counterfoil form. If required by the County Council the applicant shall submit complete plans and sections of such hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent highway and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
+**3.** No person shall erect a hoarding without a permit in writing first obtained from the County Council. Such permit shall be in the form set out in the First Schedule and shall be in counterfoil form. If required by the County Council the applicant shall submit complete plans and sections of such hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent highway and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
 
-**4.** No person shall erect a hoarding so that any portion of it is Maximum height of at less distance from a highway than 1 1 / 2 times the maximum height hoarding. of the hoarding from the ground.
+*Maximum height of hoarding.*
 
-*of*
+**4.** No person shall erect a hoarding so that any portion of it is at less distance from a highway than 1 1 / 2 times the maximum height of the hoarding from the ground.
 
-**5.** The owner of, and, in his default, any person in receipt of Maintenance hoarding. any rents or profits from the use of any hoarding shall maintain such hoarding in a proper state of repair and security to the satisfaction of the County Council, failing which the County Council may remove such hoarding at the expense of the owner, and in his default, of any person in receipt of any rents or profits from the use of such hoarding. The removal by the County Council of such hoarding shall not relieve the owner from any of the penalties provided for under the Act.
+*Maintenance of hoarding.*
 
-**6.** The owner of every hoarding shall exhibit and keep Name and address of exhibited his name and address in a conspicuous position on the owner to be exhibited. front thereof and in such character as to be clearly legible. Written notice of any change of such ownership shall be given to the County Council by the new owner within thirty days.
+**5.** The owner of, and, in his default, any person in receipt of any rents or profits from the use of any hoarding shall maintain such hoarding in a proper state of repair and security to the satisfaction of the County Council, failing which the County Council may remove such hoarding at the expense of the owner, and in his default, of any person in receipt of any rents or profits from the use of such hoarding. The removal by the County Council of such hoarding shall not relieve the owner from any of the penalties provided for under the Act.
 
-**7.** No person shall exhibit or cause to be exhibited on any Advertisements to be secure, etc. hoarding or on any wall, fence, gate or other place any advertisement that is not placed on or upon or affixed to such hoarding, wall, fence, gate or other place in a secure, neat, and orderly manner.
+*Name and address of owner to be exhibited.*
 
-**8.** Where any advertisement exhibited on any hoarding, or Removal of advertisements. on any wall, fence, gate or other place is defaced or is in an unsightly or torn or detached condition, the owner of such hoarding, wall, fence, gate or place, and, in his default, the person on whose behalf such advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of such hoarding, wall, fence, gate or place, shall, on receiving notice in writing to that effect from the County Council remove such advertisement within such time as may be specified in such notice.
+**6.** The owner of every hoarding shall exhibit and keep exhibited his name and address in a conspicuous position on the front thereof and in such character as to be clearly legible. Written notice of any change of such ownership shall be given to the County Council by the new owner within thirty days.
+
+*Advertisements to be secure, etc.*
+
+**7.** No person shall exhibit or cause to be exhibited on any hoarding or on any wall, fence, gate or other place any advertisement that is not placed on or upon or affixed to such hoarding, wall, fence, gate or other place in a secure, neat, and orderly manner.
+
+*Removal of advertisements.*
+
+**8.** Where any advertisement exhibited on any hoarding, or on any wall, fence, gate or other place is defaced or is in an unsightly or torn or detached condition, the owner of such hoarding, wall, fence, gate or place, and, in his default, the person on whose behalf such advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of such hoarding, wall, fence, gate or place, shall, on receiving notice in writing to that effect from the County Council remove such advertisement within such time as may be specified in such notice.
 
 *Owner to furnish name, etc., of advertiser.*
 
@@ -254,17 +266,17 @@ Such permit shall be in the form set out in the First Schedule and shall be in c
 
 *Application for permit.*
 
-**15.** Applications to the County Councils for the permits referred to in regulations 3 and 14 shall be in the forms set out in
-
 *First Schedule.*
 
-the First Schedule. Copies of these forms may be obtained at the offices of the County Council.
+**15.** Applications to the County Councils for the permits referred to in regulations 3 and 14 shall be in the forms set out in the First Schedule. Copies of these forms may be obtained at the offices of the County Council.
 
-*Regulations.*
+*Application of Regulations.*
 
-**16.** These Regulations shall not apply to any advertisement Application of on any cart, carriage or other vehicle, or to any advertisement on any board, support or framework carried by any person.
+**16.** These Regulations shall not apply to any advertisement on any cart, carriage or other vehicle, or to any advertisement on any board, support or framework carried by any person.
 
-**17.** These Regulations shall not apply to the City of Port-of- Exemptions. Spain, the City of San Fernando or to the Borough of Arima.
+*Exemptions.*
+
+**17.** These Regulations shall not apply to the City of Port-of-Spain, the City of San Fernando or to the Borough of Arima.
 
 ## FIRST SCHEDULE
 
@@ -284,9 +296,7 @@ Date ..............................................
 
 FORM OF PERMIT TO USE A WALL, FENCE, GATE OR OTHER PLACE FOR THE EXHIBITION OF ADVERTISEMENTS
 
-Name of owner of wall, fence, gate or other place ...................................................... Description ..................................................................................................................
-
-Situation ....................................................................................................................... Period ...........................................................................................................................
+Name of owner of wall, fence, gate or other place ...................................................... Description .................................................................................................................. Situation ....................................................................................................................... Period ...........................................................................................................................
 
 ....................................................................... Signature of Chief Executive Officer
 
@@ -504,11 +514,9 @@ made under section 6
 
 *Permit.*
 
-**3.** No person shall erect a hoarding without a permit in writing first obtained from the Council. The permit may be in the form set
-
 *First Schedule.*
 
-out in the First Schedule and shall be in counterfoil form. If required by the Council the applicant shall submit complete plans and sections of the hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent street and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
+**3.** No person shall erect a hoarding without a permit in writing first obtained from the Council. The permit may be in the form set out in the First Schedule and shall be in counterfoil form. If required by the Council the applicant shall submit complete plans and sections of the hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent street and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
 
 *Distance.*
 
@@ -518,19 +526,27 @@ out in the First Schedule and shall be in counterfoil form. If required by the C
 
 **5.** The owner of, and, in his default, any person in receipt of any rents or profits from the use of any hoarding shall maintain the hoarding in a proper state of repair and security to the satisfaction of the Council, failing which the Council may remove
 
-the hoarding at the expense of the owner, and in his default, of any person in receipt of any rents or profits from the use of the hoarding.
+the hoarding at the expense of the owner, and in his default, of any person in receipt of any rents or profits from the use of the hoarding. The removal by the Council of the hoarding shall not relieve the owner from any of the penalties provided for under the Act.
 
-The removal by the Council of the hoarding shall not relieve the owner from any of the penalties provided for under the Act.
+*Name and address of owner to be exhibited.*
 
-**6.** The owner of every hoarding shall exhibit and keep Name and address of exhibited his name and address in a conspicuous position on the owner to be front thereof and in such character as to be clearly legible. Written exhibited. notice of any change of the ownership shall be given to the Council by the new owner within thirty days.
+**6.** The owner of every hoarding shall exhibit and keep exhibited his name and address in a conspicuous position on the front thereof and in such character as to be clearly legible. Written notice of any change of the ownership shall be given to the Council by the new owner within thirty days.
 
-**7.** No person shall exhibit or cause to be exhibited on any Advertisement to be secure etc. hoarding, or on any wall, fence, gate or other place any advertisement that is not placed on or upon or affixed to the hoarding, wall, fence, gate or other place in a secure, neat, and orderly manner.
+*Advertisement to be secure etc.*
 
-**8.** Where any advertisement exhibited on any hoarding, or Removal of advertisement. on any wall, fence, gate or other place is defaced or is in an unsightly or torn or detached condition, the owner of the hoarding, wall, fence, gate or place, and, in his default, the person on whose behalf the advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of the hoarding, wall, fence, gate or place, shall, on receiving notice in writing to that effect from the Council remove the advertisement within such time as may be specified in the notice.
+**7.** No person shall exhibit or cause to be exhibited on any hoarding, or on any wall, fence, gate or other place any advertisement that is not placed on or upon or affixed to the hoarding, wall, fence, gate or other place in a secure, neat, and orderly manner.
 
-**9.** The owner of, and in his default, any person in receipt of Furnishing name and address. any rents or profits from the use of any hoarding shall, when required by the Council, furnish the name and address of any person on whose behalf any advertisement on the hoarding is exhibited.
+*Removal of advertisement.*
 
-**10.** No person shall exhibit except with the sanction of the Places mentioned in Council any advertisement within forty yards from any of the places Second mentioned in the Second Schedule, so that the advertisement or Schedule. any hoarding on which the advertisement is exhibited may be seen by any person in or on such places.
+**8.** Where any advertisement exhibited on any hoarding, or on any wall, fence, gate or other place is defaced or is in an unsightly or torn or detached condition, the owner of the hoarding, wall, fence, gate or place, and, in his default, the person on whose behalf the advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of the hoarding, wall, fence, gate or place, shall, on receiving notice in writing to that effect from the Council remove the advertisement within such time as may be specified in the notice.
+
+*Furnishing name and address.*
+
+**9.** The owner of, and in his default, any person in receipt of any rents or profits from the use of any hoarding shall, when required by the Council, furnish the name and address of any person on whose behalf any advertisement on the hoarding is exhibited.
+
+*Places mentioned in Second Schedule.*
+
+**10.** No person shall exhibit except with the sanction of the Council any advertisement within forty yards from any of the places mentioned in the Second Schedule, so that the advertisement or any hoarding on which the advertisement is exhibited may be seen by any person in or on such places.
 
 *Obstructing view of traffic.*
 
@@ -560,11 +576,9 @@ Such permit may be in the form set out in the First Schedule and shall be in cou
 
 **16.** These Bye-laws shall apply to the City of Port-of-Spain as defined by the Municipal Corporations Act.
 
-## FIRST SCHEDULE
-
 *Bye-law 3.*
 
-FORM OF PERMIT TO ERECT A HOARDING Name of Applicant ....................................................................................................... Address of Applicant ................................................................................................... Locality ........................................................................................................................ Name of owner of land on which Hoarding is intended to be erected ......................... Description of Hoarding .............................................................................................. Duration of Permit ....................................................................................................... Amount paid in fees (if any) ........................................................................................ Date ................................................
+FIRST SCHEDULE FORM OF PERMIT TO ERECT A HOARDING Name of Applicant ....................................................................................................... Address of Applicant ................................................................................................... Locality ........................................................................................................................ Name of owner of land on which Hoarding is intended to be erected ......................... Description of Hoarding .............................................................................................. Duration of Permit ....................................................................................................... Amount paid in fees (if any) ........................................................................................ Date ................................................
 
 ....................................................................... Signature of City Engineer
 
@@ -662,11 +676,9 @@ made under section 6
 
 *Permit.*
 
-**3.** No person shall erect a hoarding without a permit in writing first obtained from the Council. The permit may be in the form set
-
 *First Schedule.*
 
-out in the First Schedule and shall be in counterfoil form. If required by the Council the applicant shall submit complete plans and sections of the hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent street and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
+**3.** No person shall erect a hoarding without a permit in writing first obtained from the Council. The permit may be in the form set out in the First Schedule and shall be in counterfoil form. If required by the Council the applicant shall submit complete plans and sections of the hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent street and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
 
 *Distance.*
 
@@ -676,17 +688,29 @@ out in the First Schedule and shall be in counterfoil form. If required by the C
 
 **5.** The owner of, and, in his default, any person in receipt of any rents or profits from the use of any hoarding shall maintain such hoarding in a proper state of repair and security to the satisfaction of the Council, failing which the Council may remove the hoarding at the expense of the owner, and in his default, of any person in receipt of any rents or profits from the use of the hoarding. The removal by the Council of the hoarding shall not relieve the owner from any of the penalties provided for under the Act.
 
-**6.** The owner of every hoarding shall exhibit and keep Name and address of exhibited his name and address in a conspicuous position on the owner to be front thereof and in such character as to be clearly legible. Written exhibited. notice of any change of such ownership shall be given to the Council by the new owner within thirty days.
+*Name and address of owner to be exhibited.*
 
-**7.** No person shall exhibit or cause to be exhibited on any Advertisement to be secure, etc. hoarding, or on any wall, fence, gate or other place any advertisement that is not placed on or upon or affixed to such hoarding, wall, fence, gate or other place in a secure, neat and orderly manner.
+**6.** The owner of every hoarding shall exhibit and keep exhibited his name and address in a conspicuous position on the front thereof and in such character as to be clearly legible. Written notice of any change of such ownership shall be given to the Council by the new owner within thirty days.
 
-**8.** Where any advertisement exhibited on any hoarding, or Removal of advertisement. on any wall, fence, gate or other place is defaced or is in an unsightly or torn or detached condition, the owner of the hoarding, wall, fence, gate or place, and, in his default, the person on whose behalf the advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of the hoarding, wall, fence, gate or place, shall on receiving notice in writing to that effect from the Council, remove the advertisement within such time as may be specified in the notice.
+*Advertisement to be secure, etc.*
 
-**9.** The owner of, and in his default, any person in receipt of Furnishing name and address. any rents or profits from the use of any hoarding shall, when required by the Council, furnish the name and address of any person on whose behalf any advertisement on the hoarding is exhibited.
+**7.** No person shall exhibit or cause to be exhibited on any hoarding, or on any wall, fence, gate or other place any advertisement that is not placed on or upon or affixed to such hoarding, wall, fence, gate or other place in a secure, neat and orderly manner.
 
-**10.** No person shall exhibit except with the sanction of the Places mentioned in Council any advertisement within forty yards from any of the places Second mentioned in the Second Schedule so that the advertisement or Schedule. any hoarding on which the advertisement is exhibited may be seen by any person in or on such places.
+*Removal of advertisement.*
 
-**11.** No person shall erect any hoarding or exhibit or cause to Obstructing view of traffic. be exhibited any advertisement at any street junction or curve in such manner or place as to obstruct the clear view of traffic.
+**8.** Where any advertisement exhibited on any hoarding, or on any wall, fence, gate or other place is defaced or is in an unsightly or torn or detached condition, the owner of the hoarding, wall, fence, gate or place, and, in his default, the person on whose behalf the advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of the hoarding, wall, fence, gate or place, shall on receiving notice in writing to that effect from the Council, remove the advertisement within such time as may be specified in the notice.
+
+*Furnishing name and address.*
+
+**9.** The owner of, and in his default, any person in receipt of any rents or profits from the use of any hoarding shall, when required by the Council, furnish the name and address of any person on whose behalf any advertisement on the hoarding is exhibited.
+
+*Places mentioned in Second Schedule.*
+
+**10.** No person shall exhibit except with the sanction of the Council any advertisement within forty yards from any of the places mentioned in the Second Schedule so that the advertisement or any hoarding on which the advertisement is exhibited may be seen by any person in or on such places.
+
+*Obstructing view of traffic.*
+
+**11.** No person shall erect any hoarding or exhibit or cause to be exhibited any advertisement at any street junction or curve in such manner or place as to obstruct the clear view of traffic.
 
 *Advertisement not to be visible from street.*
 
@@ -712,11 +736,9 @@ Such permit may be in the form set out in the First Schedule and shall be in cou
 
 **16.** These Bye-laws shall apply, to the Borough of Arima as defined in the Municipal Corporations Act.
 
-## FIRST SCHEDULE
-
 *Bye-law 3.*
 
-FORM OF PERMIT TO ERECT A HOARDING Name of Applicant ........................................................................................... Address of Applicant ....................................................................................... Locality ............................................................................................................ Name of owner of land on which Hoarding is intended to be erected ............. Description of Hoarding .................................................................................. Duration of Permit ........................................................................................... Amount paid in fees (if any) ............................................................................ Date ........................................
+FIRST SCHEDULE FORM OF PERMIT TO ERECT A HOARDING Name of Applicant ........................................................................................... Address of Applicant ....................................................................................... Locality ............................................................................................................ Name of owner of land on which Hoarding is intended to be erected ............. Description of Hoarding .................................................................................. Duration of Permit ........................................................................................... Amount paid in fees (if any) ............................................................................ Date ........................................
 
 ....................................................................... Signature of Town Clerk
 
@@ -806,11 +828,9 @@ made under section 6
 
 *Permit.*
 
-**3.** No person shall erect a hoarding without a permit in writing first obtained from the Council. Such permit may be in the form
-
 *First Schedule.*
 
-set out in the First Schedule and shall be in counterfoil form. If required by the Council the applicant shall submit complete plans and sections of the hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent street and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
+**3.** No person shall erect a hoarding without a permit in writing first obtained from the Council. Such permit may be in the form set out in the First Schedule and shall be in counterfoil form. If required by the Council the applicant shall submit complete plans and sections of the hoarding. Such plans and sections shall be sufficient to show the construction and location of the hoarding with regard to the adjacent street and houses, if any, and be accompanied by a statement of the height of the hoarding and of the materials of which it is to be constructed.
 
 *Distance.*
 
@@ -822,15 +842,25 @@ set out in the First Schedule and shall be in counterfoil form. If required by t
 
 of any rents or profits from the use of the hoarding. The removal by the Council of the hoarding shall not relieve the owner from any of the penalties provided for under the Act.
 
-**6.** The owner of every hoarding shall exhibit and keep Name and address of exhibited his name and address in a conspicuous position on the owner to be exhibited. front thereof and in such character as to be clearly legible. Written notice of any change of such ownership shall be given to the Council by the new owner within thirty days.
+*Name and address of owner to be exhibited.*
 
-**7.** No person shall exhibit or cause to be exhibited on any Advertisement to be secure, etc. hoarding, or on any wall, fence, gate or other place any advertisement that is not placed on or upon or, affixed to the hoarding, wall, fence, gate or other place in a secure, neat, and orderly manner.
+**6.** The owner of every hoarding shall exhibit and keep exhibited his name and address in a conspicuous position on the front thereof and in such character as to be clearly legible. Written notice of any change of such ownership shall be given to the Council by the new owner within thirty days.
 
-**8.** Where any advertisement exhibited on any hoarding, or Removal of advertisement. on any wall, fence, gate, or other place is defaced or is in an unsightly or torn or detached condition, the owner of the hoarding, wall, fence, gate, or place, and, in his default, the person on whose behalf the advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of the hoarding, wall, fence gate, or place, shall, on receiving notice in writing to that effect from the Council remove the advertisement within such time as may be specified in the notice.
+*Advertisement to be secure, etc.*
 
-**9.** The owner of, and in his default, any person in receipt of Furnishing name and address. any rents or profits from the use of any hoarding shall, when required by the Council, furnish the name and address of any person on whose behalf any advertisement on the hoarding is exhibited.
+**7.** No person shall exhibit or cause to be exhibited on any hoarding, or on any wall, fence, gate or other place any advertisement that is not placed on or upon or, affixed to the hoarding, wall, fence, gate or other place in a secure, neat, and orderly manner.
 
-**10.** No person shall exhibit except with the sanction of the Places mentioned in Council any advertisement within forty yards from any of the places Second Schedule. mentioned in the Second Schedule, so that the advertisement or any hoarding on which the advertisement is exhibited may be seen by any person in or on such places.
+*Removal of advertisement.*
+
+**8.** Where any advertisement exhibited on any hoarding, or on any wall, fence, gate, or other place is defaced or is in an unsightly or torn or detached condition, the owner of the hoarding, wall, fence, gate, or place, and, in his default, the person on whose behalf the advertisement is exhibited, and, in his default, any person in receipt of any rents or profits from the use of the hoarding, wall, fence gate, or place, shall, on receiving notice in writing to that effect from the Council remove the advertisement within such time as may be specified in the notice.
+
+*Furnishing name and address.*
+
+**9.** The owner of, and in his default, any person in receipt of any rents or profits from the use of any hoarding shall, when required by the Council, furnish the name and address of any person on whose behalf any advertisement on the hoarding is exhibited.
+
+*Places mentioned in Second Schedule.*
+
+**10.** No person shall exhibit except with the sanction of the Council any advertisement within forty yards from any of the places mentioned in the Second Schedule, so that the advertisement or any hoarding on which the advertisement is exhibited may be seen by any person in or on such places.
 
 *Obstructing view of traffic.*
 

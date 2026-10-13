@@ -124,15 +124,15 @@ Note on Subsidiary Legislation This Chapter contains no Subsidiary Legislation.
 
 **38.** Regulations.
 
-### CHAPTER 40:56
+*10 of 2013.*
 
-ANTI-DOPING IN SPORT ACT An Act to provide for the implementation of the UNESCO 10 of 2013. International Convention against Doping in Sport, the establishment of the Trinidad and Tobago Anti-Doping Organisation, the Trinidad and Tobago Anti-Doping Disciplinary Panel and the Trinidad and Tobago Anti-Doping Appeal Panel, the promotion of an anti-doping environment which encourages positive behaviour among participants in sport and dissuades them from using prohibited substances and prohibited methods and for other related matters.
+CHAPTER 40:56 ANTI-DOPING IN SPORT ACT An Act to provide for the implementation of the UNESCO International Convention against Doping in Sport, the establishment of the Trinidad and Tobago Anti-Doping Organisation, the Trinidad and Tobago Anti-Doping Disciplinary Panel and the Trinidad and Tobago Anti-Doping Appeal Panel, the promotion of an anti-doping environment which encourages positive behaviour among participants in sport and dissuades them from using prohibited substances and prohibited methods and for other related matters.
 
-\*[A SSENTED TO 10 TH J ULY 2013] W HEREAS a Convention entitled “the International Convention Preamble. against Doping in Sport” (“the UNESCO International Convention”) was adopted by the UNESCO General Conference in Paris, France on 19th October 2005;
+*Preamble.*
 
-And whereas the World Anti-Doping Agency adopted “the World Anti-Doping Code” in Copenhagen, Denmark on 5th March 2003 and approved and adopted a revision thereof on 17th November 2007, with effect from 1st January 2009;
+\*[A SSENTED TO 10 TH J ULY 2013] W HEREAS a Convention entitled “the International Convention against Doping in Sport” (“the UNESCO International Convention”) was adopted by the UNESCO General Conference in Paris, France on 19th October 2005;
 
-And whereas the UNESCO International Convention was ratified by Trinidad and Tobago on 9th March 2007;
+And whereas the World Anti-Doping Agency adopted “the World Anti-Doping Code” in Copenhagen, Denmark on 5th March 2003 and approved and adopted a revision thereof on 17th November 2007, with effect from 1st January 2009; And whereas the UNESCO International Convention was ratified by Trinidad and Tobago on 9th March 2007;
 
 And whereas it is necessary and expedient to give effect to the UNESCO International Convention;
 
@@ -144,11 +144,9 @@ applies is one the Bill for which has been passed by both Houses of Parliament a
 
 And whereas it is necessary and expedient that the provisions of this Act shall have effect even though inconsistent with sections 4 and 5 of the Constitution:
 
-## PART I
-
 *Short title. Commencement. 106/2015. Act inconsistent with Constitution. Interpretation.*
 
-### PRELIMINARY
+## PART I PRELIMINARY
 
 **1.** This Act may be cited as the Anti-Doping in Sport Act.
 
@@ -232,9 +230,11 @@ And whereas it is necessary and expedient that the provisions of this Act shall 
 
 “International Standard” means the standard adopted by WADA in support of the Code and shall include any Technical Document issued pursuant to the International Standard;
 
+*Ch. 29:50.*
+
 “medical practitioner” means a person registered under the Medical Board Act;
 
-“Minister” means the Minister to whom the responsibility for Ch. 29:50. sport is assigned;
+“Minister” means the Minister to whom the responsibility for sport is assigned;
 
 “National Anti-Doping Organisation” means an entity designated by a country as possessing the primary authority and responsibility to—
 
@@ -242,9 +242,7 @@ And whereas it is necessary and expedient that the provisions of this Act shall 
 
 (b) direct the collection of samples; and
 
-(c) manage test results,
-
-or where such designation has not been made, the National Olympic Committee of that country or an entity designated by that Committee;
+(c) manage test results, or where such designation has not been made, the National Olympic Committee of that country or an entity designated by that Committee;
 
 “national event” means a sporting event involving international-level or national-level athletes that is not an international event;
 
@@ -288,11 +286,9 @@ or where such designation has not been made, the National Olympic Committee of t
 
 (a) Trinidad and Tobago if he is a person referred to in section 5(1) of the Immigration Act;
 
-(b) a country, other than Trinidad and Tobago, if he is recognised as the holder of resident status by
-
 *Application.*
 
-that country.
+(b) a country, other than Trinidad and Tobago, if he is recognised as the holder of resident status by that country.
 
 **5.** This Act applies to—
 
@@ -312,25 +308,19 @@ that country.
 
 (e) national governing bodies and their affiliate members, clubs, teams, associations or leagues; and
 
-(f) sporting organisations not affiliated with a
-
 *Act binds the State.*
 
-national governing body.
+(f) sporting organisations not affiliated with a national governing body.
 
 **6.** This Act binds the State.
 
-## PART II THE TRINIDAD AND TOBAGO ANTI-DOPING
+*THE 7. (1)*
 
-*Establishment and functions of TTADO.*
+## PART II
 
-### ORGANISATION
+*Establishment as “the and functions of TTADO. “TTADO”.*
 
-**7.** (1) There is established a body corporate to be known as “the Trinidad and Tobago Anti-Doping Organisation” or
-
-“TTADO”.
-
-(2) TTADO shall perform the following functions:
+TRINIDAD AND TOBAGO ANTI-DOPING ORGANISATION There is established a body corporate to be known Trinidad and Tobago Anti-Doping Organisation” or (2) TTADO shall perform the following functions:
 
 (a) planning, implementing and directing a National Anti-Doping Programme aimed at informing or educating athletes, athlete support personnel, parents, the media and the general public in Trinidad and Tobago about anti-doping matters, including—
 
@@ -376,13 +366,15 @@ national governing body.
 
 (ii) take into account any disabilities or other special needs or concerns of athletes;
 
+*\8. (1) referred to*
+
 (c) may impose fees or charges for the provision of information, advice or other services requested of TTADO, other than information relating to an athlete and requested by that athlete.
 
-*Board of TTADO.*
+*Board of TTADO. Chairman members, advice of*
 
-**8.** (1) TTADO shall be managed by a Board (hereinafter referred to as “the Board”).
+TTADO shall be managed by a Board (hereinafter as “the Board”).
 
-(2) The Board shall comprise a Chairman, a Vice-Chairman and not less than five nor more than eleven other members, all of whom shall be appointed by the President on the advice of the Minister, in consultation with the relevant professional bodies, from among the following persons:
+(2) The Board shall comprise a Chairman, a Vice-and not less than five nor more than eleven other all of whom shall be appointed by the President on the the Minister, in consultation with the relevant professional bodies, from among the following persons:
 
 (a) a person who has qualifications or experience in sports medicine or pharmacology;
 
@@ -454,27 +446,25 @@ meetings of the Board or, without leave of absence from the Board, fails to atte
 
 (e) undertaking anything incidental or conducive to the performance of any of the foregoing functions.
 
-*Board.*
+*Meetings of the Board.*
 
-**11.** (1) The Board shall meet as often as necessary for the Meetings of the performance of its functions and in any event not less than once every month.
+**11.** (1) The Board shall meet as often as necessary for the performance of its functions and in any event not less than once every month.
 
 (2) The quorum for meetings of the Board shall be no less than a majority of all the members of the Board.
 
 (3) Where the Chairman is absent at any meeting, the Vice-Chairman shall preside.
 
+*Staff of TTADO.*
+
 (4) Where both the Chairman and the Vice-Chairman are absent from any meeting, the members present shall appoint a member from amongst themselves to preside at that meeting.
 
-*TTADO.*
-
-**12.** (1) The Board shall employ such members of staff as Staff of are required for the performance of the functions of TTADO on such terms and conditions as are agreed upon between the employee and the Board.
+**12.** (1) The Board shall employ such members of staff as are required for the performance of the functions of TTADO on such terms and conditions as are agreed upon between the employee and the Board.
 
 (2) The Board may, on such terms and conditions as it thinks fit, engage on contract any suitably qualified person to provide TTADO with such services as the Board considers necessary for the due performance of its functions.
 
-(3) For the purpose of employing or engaging doping control officers and chaperones, TTADO shall comply with the selection criteria for those offices specified in the
-
 *Funds.*
 
-WADA Models of Best Practice and Guidelines.
+(3) For the purpose of employing or engaging doping control officers and chaperones, TTADO shall comply with the selection criteria for those offices specified in the WADA Models of Best Practice and Guidelines.
 
 **13.** (1) The funds of TTADO shall include—
 
@@ -484,41 +474,35 @@ WADA Models of Best Practice and Guidelines.
 
 (c) revenue from fees charged in the provision of its services; and
 
-(d) such sums as TTADO may, with the approval of the Minister with responsibility for finance, in accordance with the Exchequer and Audit Act, Ch. 69:01. borrow for the purpose of meeting its obligations or discharging its functions.
+*Ch. 69:01.*
 
-(2) The Minister with responsibility for finance may guarantee, in such manner and on such conditions as he thinks fit, the payment of the principal and interest in respect of any
+(d) such sums as TTADO may, with the approval of the Minister with responsibility for finance, in accordance with the Exchequer and Audit Act, borrow for the purpose of meeting its obligations or discharging its functions.
 
 *Accounts and audit.*
 
-borrowing of TTADO under subsection (1)(d).
+(2) The Minister with responsibility for finance may guarantee, in such manner and on such conditions as he thinks fit, the payment of the principal and interest in respect of any borrowing of TTADO under subsection (1)(d).
 
 **14.** (1) TTADO shall keep proper accounts of its receipts, payments, credits, liabilities and all other records in relation to its business.
 
-(2) The accounts of TTADO shall be public accounts
-
 *Annual reports and estimates.*
 
-for the purposes of section 116 of the Constitution.
+(2) The accounts of TTADO shall be public accounts for the purposes of section 116 of the Constitution.
 
 **15.** (1) TTADO shall submit to the Minister within three months from the end of each financial year, a report of its operations for that year.
 
 (2) A copy of the report referred to in subsection (1) shall be laid in Parliament within three months from the date of its receipt by the Minister.
 
-(3) TTADO shall submit its estimates of revenue and
-
 *Registered Testing Pool.*
 
-expenditure in respect of each financial year to the Minister.
+(3) TTADO shall submit its estimates of revenue and expenditure in respect of each financial year to the Minister.
 
 **16.** (1) TTADO shall establish a Registered Testing Pool.
 
 (2) TTADO shall, in accordance with the Anti-Doping Rules, publish the criteria for the inclusion of the name of an athlete in its Registered Testing Pool.
 
-(3) TTADO shall notify an athlete, in writing, of the
-
 *Therapeutic Use Exemption Committee.*
 
-inclusion of his name in its Registered Testing Pool.
+(3) TTADO shall notify an athlete, in writing, of the inclusion of his name in its Registered Testing Pool.
 
 **17.** (1) TTADO shall establish a Therapeutic Use Exemption Committee (hereinafter referred to as “TUEC”) comprising at least three, but not more than five, medical practitioners with at least five years experience, one of whom shall have qualifications in pharmacology.
 
@@ -538,11 +522,11 @@ inclusion of his name in its Registered Testing Pool.
 
 (c) act independently of TTADO and shall not have any other official responsibility within TTADO.
 
+*Appeals from decisions of TUEC.*
+
 (4) TUEC shall immediately notify TTADO of its decision to grant or deny a Therapeutic Use Exemption and TTADO shall, upon receipt of such notification, notify WADA and the athlete of the grant or denial.
 
-*decisions of*
-
-**18.** (1) WADA may, at the request of an athlete or on its Appeals from own initiative, review the grant or denial of a Therapeutic Use TUEC. Exemption and where WADA determines that the granting or denial of such Therapeutic Use Exemption did not comply with the International Standard for Therapeutic Use Exemptions, WADA may reverse the decision to grant or deny the Therapeutic Use Exemption.
+**18.** (1) WADA may, at the request of an athlete or on its own initiative, review the grant or denial of a Therapeutic Use Exemption and where WADA determines that the granting or denial of such Therapeutic Use Exemption did not comply with the International Standard for Therapeutic Use Exemptions, WADA may reverse the decision to grant or deny the Therapeutic Use Exemption.
 
 (2) Any decision by WADA reversing the grant or denial of a Therapeutic Use Exemption may be appealed directly by the athlete or TTADO to the Court of Arbitration for Sport.
 
@@ -550,11 +534,9 @@ inclusion of his name in its Registered Testing Pool.
 
 (4) Where TUEC has denied the grant of a Therapeutic Use Exemption to a national-level athlete, the athlete may appeal to the Appeal Panel under section 33.
 
-(5) Where the Appeal Panel reverses the decision of TUEC to grant a Therapeutic Use Exemption, WADA may
-
 *Results Management Committee.*
 
-appeal to the Court of Arbitration for Sport.
+(5) Where the Appeal Panel reverses the decision of TUEC to grant a Therapeutic Use Exemption, WADA may appeal to the Court of Arbitration for Sport.
 
 **19.** (1) TTADO shall establish a Results Management Committee comprising at least three, but no more than five persons among whom shall be two medical practitioners and one Attorney-at-law, preferably with experience in anti-doping matters.
 
@@ -568,11 +550,9 @@ appeal to the Court of Arbitration for Sport.
 
 (c) maintain a database on doping control procedures and identify any situations that may be suspicious.
 
-## PART III
-
 *Application for Therapeutic Use Exemption.*
 
-### ANTI-DOPING
+## PART III ANTI-DOPING
 
 **20.** (1) An athlete, other than an international-level athlete, with a medical condition requiring the use of a prohibited substance or prohibited method, may, in accordance with the provisions of this Act and the Anti-Doping Rules, apply to TUEC for an exemption.
 
@@ -580,19 +560,27 @@ appeal to the Court of Arbitration for Sport.
 
 (a) thirty days before his participation in an international event; or
 
+*to the provide be made—*
+
 (b) such other period as may be provided for in the anti-doping rules of the relevant International Federation,
 
-to the relevant International Federation for an exemption and provide TUEC with a copy of the application prior to the international event.
+relevant International Federation for an exemption and TUEC with a copy of the application prior to the international event.
 
-(3) An application under subsection (1) or (2) shall be made—
+(3) An application under subsection (1) or (2) shall
 
 (a) immediately after the athlete becomes aware that the use of a prohibited substance or prohibited method is required; and
 
-(b) subject to any circumstance of emergency, no later than thirty days prior to the participation of the athlete in any competition or event.
+*\21. (1)*
+
+*Responsibility*
+
+*to use a*
 
 *of athletes.*
 
-**21.** (1) It shall be an anti-doping rule violation for an athlete Responsibility to use a prohibited substance or prohibited method unless he has obtained a Therapeutic Use Exemption in respect of that substance or method.
+*obtained a substance*
+
+(b) subject to any circumstance of emergency, no later than thirty days prior to the participation of the athlete in any competition or event. It shall be an anti-doping rule violation for an athlete prohibited substance or prohibited method unless he has Therapeutic Use Exemption in respect of that or method.
 
 (2) An athlete shall—
 
@@ -604,23 +592,19 @@ to the relevant International Federation for an exemption and provide TUEC with 
 
 (d) be available for, and submit to, in-competition and out-of-competition testing at any time and place, with or without advance notice; and
 
-(e) be responsible for any prohibited substance or its metabolites or markers found to be present in
+*Responsibility of athlete support personnel.*
 
-*Responsibility of athlete personnel.*
-
-his bodily specimen.
+(e) be responsible for any prohibited substance or its metabolites or markers found to be present in his bodily specimen.
 
 **22.** Athlete support personnel shall—
 
-(a) be knowledgeable of, and comply with, the support Anti-Doping Rules;
+(a) be knowledgeable of, and comply with, the Anti-Doping Rules;
 
 (b) co-operate with the Athlete Testing Programme; and
 
-(c) use their influence to foster anti-doping
-
 *Whereabouts requirements.*
 
-attitudes among athletes.
+(c) use their influence to foster anti-doping attitudes among athletes.
 
 **23.** (1) A national-level athlete and an international-level athlete in the Registered Testing Pool of TTADO shall, before the beginning of each quarter, submit to TTADO on such form as TTADO may approve, a quarterly whereabouts filing that provides accurate and complete information about the whereabouts of the athlete during that quarter, including information specifying—
 
@@ -640,7 +624,9 @@ attitudes among athletes.
 
 (c) such other sanctions as may be provided for in the Anti-Doping Rules.
 
-**24.** (1) A sample taken from an athlete shall be analysed at Analysis of a laboratory accredited by WADA to detect prohibited samples. substances and prohibited methods.
+*Analysis of samples.*
+
+**24.** (1) A sample taken from an athlete shall be analysed at a laboratory accredited by WADA to detect prohibited substances and prohibited methods.
 
 (2) A sample may, with the written consent of the athlete, also be used to assist TTADO or national governing bodies in profiling relevant parameters in blood, urine or other matrix for anti-doping purposes.
 
@@ -650,15 +636,13 @@ attitudes among athletes.
 
 (b) any means of identification are removed to ensure that the sample cannot be traced back to the athlete.
 
-(4) The results of in-competition testing or out-of-
+*Recognition of results of other anti-doping organisations. Anti-Doping Rules.*
 
-competition testing shall be forwarded to the Results Management Committee.
+(4) The results of in-competition testing or out-of-competition testing shall be forwarded to the Results Management Committee.
 
-**25.** TTADO shall recognise the results of laboratory analysis Recognition of by other anti-doping organisations, if the analysis was conducted anti-doping results of other in accordance with the International Standard for Laboratories organisations. and in accordance with the Code.
+**25.** TTADO shall recognise the results of laboratory analysis by other anti-doping organisations, if the analysis was conducted in accordance with the International Standard for Laboratories and in accordance with the Code.
 
-**26.** (1) TTADO may make Rules for the prevention of Anti-Doping doping in sport.
-
-Rules.
+**26.** (1) TTADO may make Rules for the prevention of doping in sport.
 
 (2) Without prejudice to the generality of subsection (1), Rules made under subsection (1) may prohibit—
 
@@ -680,9 +664,11 @@ collection after notification as authorised in applicable anti-doping rules, or 
 
 (h) the administration or attempted administration to any athlete in-competition of any prohibited method or prohibited substance, or administration or attempted administration to any athlete out-of-competition of any prohibited method or any prohibited substance that is prohibited out-of-competition; and
 
+*any person subject to*
+
 (i) the assisting, encouraging, aiding, abetting, covering up or any other type of complicity involving an anti-doping rule violation or any attempted anti-doping rule violation.
 
-(3) Rules made under subsection (1) may provide that any person who commits an anti-doping rule violation may be subject to one or more of the following sanctions:
+(3) Rules made under subsection (1) may provide that who commits an anti-doping rule violation may be one or more of the following sanctions:
 
 (a) disqualification from a particular competition or event;
 
@@ -696,21 +682,17 @@ collection after notification as authorised in applicable anti-doping rules, or 
 
 (5) Rules made under subsection (1) shall be published in such form as TTADO may determine.
 
-## PART IV — THE TRINIDAD AND TOBAGO ANTI-DOPING
+*Establishment of the Disciplinary Panel. Composition and appointment of the Disciplinary Panel.*
 
-*of the Disciplinary Panel. and the Disciplinary Panel.*
+## PART IV THE TRINIDAD AND TOBAGO ANTI-DOPING DISCIPLINARY PANEL
 
-### DISCIPLINARY PANEL
-
-**27.** There is established a Disciplinary Panel to be known as Establishment
+**27.** There is established a Disciplinary Panel to be known as
 
 “the Trinidad and Tobago Anti-Doping Disciplinary Panel”.
 
-**28.** (1) The Disciplinary Panel shall comprise nine Composition members appointed by the President on the advice of the appointment of Minister as follows:
+**28.** (1) The Disciplinary Panel shall comprise nine members appointed by the President on the advice of the Minister as follows:
 
-(a) a Chairman, a First Vice-Chairman and a Second Vice-Chairman who shall be Attorneys-
-
-at-law of not less than seven years standing;
+(a) a Chairman, a First Vice-Chairman and a Second Vice-Chairman who shall be Attorneys-at-law of not less than seven years standing;
 
 (b) three medical practitioners of not less than five years standing; and
 
@@ -742,11 +724,9 @@ at-law of not less than seven years standing;
 
 (d) becomes bankrupt or compounds with his creditors.
 
-(9) Where a vacancy in the Disciplinary Panel arises, the President may, on the advice of the Minister, appoint a person
-
 *Functions of the Disciplinary Panel.*
 
-to fill the vacancy.
+(9) Where a vacancy in the Disciplinary Panel arises, the President may, on the advice of the Minister, appoint a person to fill the vacancy.
 
 **29.** (1) The Disciplinary Panel shall—
 
@@ -760,29 +740,41 @@ to fill the vacancy.
 
 (e) impose sanctions for anti-doping rule violations; and
 
+*Results anti-doping*
+
 (f) perform such other functions that may be conferred on it by this Act.
 
-(2) Upon the receipt of a written reference from the Results Management Committee asserting the occurrence of an anti-doping rule violation, the Disciplinary Panel shall—
+(2) Upon the receipt of a written reference from the Management Committee asserting the occurrence of an rule violation, the Disciplinary Panel shall—
 
 (a) conduct a hearing within ten days of the notification date;
 
 (b) issue a written decision within twenty-four days of the notification; and
 
+*referred to is notified shall be*
+
 (c) issue written reasons for any decision within thirty-one days of the notification.
 
-(3) For the avoidance of doubt, the notification date referred to in subsection (2) shall be the date on which the athlete is notified of his commission of an anti-doping rule violation.
-
-(4) A matter that is referred to the Disciplinary Panel shall be heard and determined by three members as follows:
+(3) For the avoidance of doubt, the notification date in subsection (2) shall be the date on which the athlete of his commission of an anti-doping rule violation. (4) A matter that is referred to the Disciplinary Panel heard and determined by three members as follows:
 
 (a) the Chairman, or one Vice-Chairman designated by the Chairman, who shall preside at the hearing;
 
 (b) one member appointed under section 28(1)(b) and designated by the Chairman; and
 
+*\30. (1)*
+
+*Appeal from*
+
 (c) one member appointed under section 28(1)(c) and designated by the Chairman.
 
-*decision of the Panel.*
+*decision of*
 
-**30.** (1) Subject to subsection (2), an appeal from a Appeal from decision of the Disciplinary Panel shall lie to the Appeal Panel, Disciplinary with a further appeal to the Court of Arbitration for Sport.
+*decision of the Disciplinary*
+
+*with a*
+
+*Panel.*
+
+Subject to subsection (2), an appeal from a the Disciplinary Panel shall lie to the Appeal Panel, further appeal to the Court of Arbitration for Sport.
 
 (2) An appeal from a decision of the Disciplinary Panel in respect of an international event, or a case involving an international-level athlete, shall lie to the Court of Arbitration for Sport.
 
@@ -806,11 +798,9 @@ within twenty-one days after receipt of the written reasons of the Disciplinary 
 
 (4) The decision of the Disciplinary Panel shall remain in effect until the determination of the appeal.
 
-## PART V THE TRINIDAD AND TOBAGO
-
 *Establishment of the Appeal Panel. Composition and appointment of the Appeal Panel.*
 
-### ANTI-DOPING APPEAL PANEL
+## PART V THE TRINIDAD AND TOBAGO ANTI-DOPING APPEAL PANEL
 
 **31.** There is established an Appeal Panel to be known as
 
@@ -850,15 +840,17 @@ two Vice-Chairmen, both of whom shall be Attorneys-at-law of not less than ten y
 
 otherwise unable or unfit to perform his duties; or
 
+*President fill the Appeal 33. (1) Functions of the Appeal*
+
 (d) becomes bankrupt or compounds with his creditors.
 
-(9) Where a vacancy in the Appeal Panel arises, the President may, on the advice of the Minister, appoint a person to fill the vacancy.
+(9) Where a vacancy in the Appeal Panel arises, the may, on the advice of the Minister, appoint a person to vacancy.
 
-(10) Three members shall form a quorum for the Appeal Panel.
+(10) Three members shall form a quorum for the Panel.
 
-*Functions of the Appeal Panel.*
+*Panel.*
 
-**33.** (1) The Appeal Panel shall hear and determine—
+The Appeal Panel shall hear and determine—
 
 (a) appeals from a decision of the Disciplinary Panel—
 
@@ -890,11 +882,17 @@ anti-doping rule violation or a possible anti-doping rule violation, as the case
 
 (b) issue a written decision within seven days after the conclusion of the hearing; and
 
+*\34. On*
+
+*Powers of the*
+
+*Panel may—*
+
 (c) issue written reasons for any decision within fourteen days after the written decision has been issued.
 
 *Appeal Panel.*
 
-**34.** On the hearing of an appeal from a decision, the Appeal Powers of the Panel may—
+the hearing of an appeal from a decision, the Appeal
 
 (a) confirm, vary, amend or set aside the decision;
 
@@ -906,19 +904,23 @@ anti-doping rule violation or a possible anti-doping rule violation, as the case
 
 ## PART VI
 
+*\35. (1)*
+
+*Conflict of*
+
+*make or*
+
 *interest.*
 
-### MISCELLANEOUS
+*exercising*
 
-**35.** (1) In any matter in relation to which he is required to Conflict of make or participate in the making of a decision, a person exercising a function under this Act shall declare any direct or
+MISCELLANEOUS In any matter in relation to which he is required to participate in the making of a decision, a person a function under this Act shall declare any direct or
 
 indirect interest that he has, or ought to reasonably know that he has, and shall cease to participate in the decision-making process.
 
-(2) A person who fails to make a declaration in accordance with subsection (1) commits an offence and is liable,
-
 *Confidentiality.*
 
-on summary conviction, to a fine of twenty-five thousand dollars.
+(2) A person who fails to make a declaration in accordance with subsection (1) commits an offence and is liable, on summary conviction, to a fine of twenty-five thousand dollars.
 
 **36.** (1) Every—
 
@@ -934,11 +936,9 @@ on summary conviction, to a fine of twenty-five thousand dollars.
 
 (2) Every member, officer or employee of the Disciplinary Panel or the Appeal Panel shall keep secret and confidential all information coming to his knowledge in the course of the administration of this Act, except in so far as the disclosure of such information is required for the exercise of his functions or is authorised by an order of Court or any written law.
 
-(3) A person who contravenes this section commits an offence and is liable on summary conviction to a fine of twenty-
-
 *Sanctions against national governing bodies. Regulations.*
 
-five thousand dollars.
+(3) A person who contravenes this section commits an offence and is liable on summary conviction to a fine of twenty-five thousand dollars.
 
 **37.** Where a national governing body does not comply with the provisions of this Act, TTADO may make recommendations to the Minister to withhold, in whole or in part, financial or nonfinancial support from the national governing body.
 

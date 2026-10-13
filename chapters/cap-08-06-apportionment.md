@@ -49,6 +49,8 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 **8.** Application of Act.
 
+### MINISTRY OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### APPORTIONMENT ACT
 
 *1950 Ed. Ch. 6 No. 5. 8 of 1917.*
@@ -77,21 +79,19 @@ An Act relating to the Apportionment of certain periodical payments and taxes.
 
 **3.** All interest on money due, rents, annuities, dividends, and other periodical payments in the nature of income (whether reserved or made payable under an instrument in writing or otherwise) and all periodical outgoings and charges shall be considered as accruing from day to day, and shall be apportionable in respect of time accordingly.
 
-*payable when next portion due.*
+*Apportioned part payable when next entire portion due.*
 
-**4.** The apportioned part of any such interest, rent, annuity, Apportioned dividend or other payment shall be payable or recoverable, in the part case of a continuing rent, annuity or other such payment, when the entire entire portion of which the apportioned part forms part becomes due and payable, and not before, and in the case of a rent, annuity, or other such payment determined by re-entry, death, or otherwise, when the next entire portion of the same would have been payable if the same had not so determined, and not before.
+**4.** The apportioned part of any such interest, rent, annuity, dividend or other payment shall be payable or recoverable, in the case of a continuing rent, annuity or other such payment, when the entire portion of which the apportioned part forms part becomes due and payable, and not before, and in the case of a rent, annuity, or other such payment determined by re-entry, death, or otherwise, when the next entire portion of the same would have been payable if the same had not so determined, and not before.
 
-**5.** All persons and their respective executors, administrators Recovery of
+*Recovery of apportioned parts.*
 
-*parts.*
+**5.** All persons and their respective executors, administrators and assigns, and also the executors, administrators and assigns respectively of persons whose interests determine with their own deaths, shall have such or the same remedies at law and in equity for recovering the apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering such entire portions as aforesaid if entitled thereto respectively except that persons liable to pay rents reserved out of or charged on lands or other hereditaments of any tenure shall not nor shall the same lands or other hereditaments be resorted to for any such apportioned part forming part of an entire or continuing rent as aforesaid specifically, but the entire or continuing rent, including such apportioned part, shall be recovered and received by the person who, if the rent had not been apportionable under the Act, or otherwise, would have been entitled to such entire or continuing rent; and such apportioned part shall be recoverable from such person by the parties entitled under this Act to the same by action.
 
-and assigns, and also the executors, administrators and assigns apportioned respectively of persons whose interests determine with their own deaths, shall have such or the same remedies at law and in equity for recovering the apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering such entire portions as aforesaid if entitled thereto respectively except that persons liable to pay rents reserved out of or charged on lands or other hereditaments of any tenure shall not nor shall the same lands or other hereditaments be resorted to for any such apportioned part forming part of an entire or continuing rent as aforesaid specifically, but the entire or continuing rent, including such apportioned part, shall be recovered and received by the person who, if the rent had not been apportionable under the Act, or otherwise, would have been entitled to such entire or continuing rent; and such apportioned part shall be recoverable from such person by the parties entitled under this Act to the same by action.
-
-**6.** When any lands not theretofore subject to land charges or State grants. land taxes have been granted by the State to any person, such person shall be deemed liable to pay, in respect of his ownership, during the remainder of the current period (commencing with the first day of the month next after the date of any such grant) in respect of which such land taxes or land charges are leviable, an apportioned part of all land taxes and charges or other charges or annual payments collectible in respect of the land, which shall become due and payable when the annual land tax or charge for the year following that in which the grant is issued shall be payable, and shall be recoverable therewith in the same manner as a land
+*State grants.*
 
 *Ch. 76:04.*
 
-tax or land charge under the Lands and Buildings Taxes Act.
+**6.** When any lands not theretofore subject to land charges or land taxes have been granted by the State to any person, such person shall be deemed liable to pay, in respect of his ownership, during the remainder of the current period (commencing with the first day of the month next after the date of any such grant) in respect of which such land taxes or land charges are leviable, an apportioned part of all land taxes and charges or other charges or annual payments collectible in respect of the land, which shall become due and payable when the annual land tax or charge for the year following that in which the grant is issued shall be payable, and shall be recoverable therewith in the same manner as a land tax or land charge under the Lands and Buildings Taxes Act.
 
 *Moneys payable under policies of assurance.*
 

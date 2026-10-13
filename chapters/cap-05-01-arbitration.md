@@ -127,19 +127,21 @@ Habeas Corpus.
 
 ### ARBITRATION ACT
 
+*1950 Ed. Ch.7. No. 1. 5 of 1939.*
+
 An Act relating to Arbitrations.
 
-1950 Ed. Ch.7. No. 1. 5 of 1939.
+*Commencement.*
 
 ### [4 TH M AY 1939]
 
-Commencement.
+*Short title.*
 
-**1.** This Act may be cited as the Arbitration Act. Short title.
+**1.** This Act may be cited as the Arbitration Act.
+
+*Interpretation.*
 
 **2.** In this Act—
-
-Interpretation.
 
 “arbitration agreement” means a written agreement to submit present or future differences to arbitration, whether an arbitrator is named therein or not;
 
@@ -147,17 +149,23 @@ Interpretation.
 
 “reference” means a reference under an order made by the Court;
 
-“Rules of Court” means rules of the Supreme Court made under the Supreme Court of Judicature Act.
+*Ch. 4:01.*
 
-Ch. 4:01.
+“Rules of Court” means rules of the Supreme Court made under the Supreme Court of Judicature Act.
 
 ### REFERENCES BY CONSENT OUT OF COURT
 
-**3.** An arbitration agreement, unless a contrary intention is Arbitration agreement expressed therein, shall be irrevocable except by leave of the Court irrevocable and shall have the same effect in all respects as if it had been made having effect as order of Court. an order of Court.
+*Arbitration agreement irrevocable having effect as order of Court.*
 
-**4.** An arbitration agreement, unless a contrary intention is Provisions implied in expressed therein, shall be deemed to include the provisions set arbitration out in the First Schedule, so far as they are applicable to the agreements. First Schedule. reference under the arbitration agreement.
+**3.** An arbitration agreement, unless a contrary intention is expressed therein, shall be irrevocable except by leave of the Court and shall have the same effect in all respects as if it had been made an order of Court.
 
-**5.** (1) An arbitration agreement shall not be discharged Arbitration agreement not by the death of any party to such an agreement, either as to be discharged respects the deceased or any other party, but shall in such an by death of party thereto. event be enforceable by or against the personal representative of the deceased.
+*Provisions implied in arbitration agreements. First Schedule.*
+
+**4.** An arbitration agreement, unless a contrary intention is expressed therein, shall be deemed to include the provisions set out in the First Schedule, so far as they are applicable to the reference under the arbitration agreement.
+
+*Arbitration agreement not to be discharged by death of party thereto.*
+
+**5.** (1) An arbitration agreement shall not be discharged by the death of any party to such an agreement, either as respects the deceased or any other party, but shall in such an event be enforceable by or against the personal representative of the deceased.
 
 (2) The authority of an arbitrator shall not be revoked by the death of any party by whom he was appointed.
 
@@ -173,9 +181,11 @@ Ch. 4:01.
 
 **7.** If any party to an arbitration agreement, or any person claiming through or under him, commences any legal proceedings in the Court against any other party to the arbitration agreement, or any person claiming through or under him, in respect of any matter agreed to be referred, any party to such legal proceedings may, at any time after appearance and before delivering any pleadings or taking any other steps in the proceedings, apply to the Court to stay the proceedings, and the Court, if satisfied that there is no sufficient reason why the matter should not be referred in accordance with the arbitration agreement, and that the applicant was, at the time when the proceedings were commenced, and still remains, ready and willing to do all things necessary to the proper conduct of the arbitration, may make an order staying the proceedings.
 
-**8.** (1) In any of the following cases: Power of Court in certain cases
+*Power of Court in certain cases to appoint an arbitrator, umpire or third arbitrator.*
 
-(a) where an arbitration agreement provides that the to appoint an arbitrator, reference shall be to a single arbitrator, and all umpire or third the parties do not after differences have arisen arbitrator. concur in the appointment of an arbitrator; or
+**8.** (1) In any of the following cases:
+
+(a) where an arbitration agreement provides that the reference shall be to a single arbitrator, and all the parties do not after differences have arisen concur in the appointment of an arbitrator; or
 
 (b) if an appointed arbitrator refuses to act, or is incapable of acting or dies, or is absent from Trinidad and Tobago, and the arbitration agreement does not show that it was intended that the vacancy should not be supplied, and the parties do not supply the vacancy; or
 
@@ -187,9 +197,9 @@ any party may serve the other parties or the arbitrators, as the case may be, wi
 
 (2) If the appointment is not made within seven clear days after the service of the notice, the Court may, on application by the party who gave the notice, appoint an arbitrator, umpire or third arbitrator, who shall have the like powers to act in the reference and make an award as if he had been appointed by consent of all parties.
 
-*on*
+*Provisions on the appointment of two arbitrators.*
 
-**9.** Where an arbitration agreement provides that a reference Provisions the shall be to two arbitrators, one to be appointed by each party, then, appointment of unless the arbitration agreement expresses a contrary intention — two arbitrators.
+**9.** Where an arbitration agreement provides that a reference shall be to two arbitrators, one to be appointed by each party, then, unless the arbitration agreement expresses a contrary intention —
 
 (a) if either of the appointed arbitrators refuses to act, or is incapable of acting or dies, or is absent from
 
@@ -215,25 +225,17 @@ The Court may, however, set aside any appointment made in pursuance of this sect
 
 (4) For the purposes of this section, “proceeding with a reference” includes, in a case where two arbitrators are unable to agree, giving notice of that fact to the parties and to the umpire.
 
-**12.** (1) Where an agreement between any parties provides that Power of Court to give relief disputes which may arise in the future between them shall be where
+*Power of Court to give relief where arbitrator is not impartial or dispute referred involves question of fraud.*
 
-*is not*
-
-referred to an arbitrator named or designated in the agreement and arbitrator impartial or
-
-*referred*
-
-after a dispute has arisen any party applies, on the ground that the dispute involves arbitrator so named or designated is not or may not be impartial, question of fraud. for leave to revoke the arbitration agreement or for an injunction to restrain any other party or the arbitrator from proceeding with the arbitration, it shall not be a ground for refusing the application that the said party at the time when he made the agreement knew, or ought to have known, that the arbitrator by reason of his relation towards any other party to the agreement or of his connection with the subject referred might not be capable of impartiality.
+**12.** (1) Where an agreement between any parties provides that disputes which may arise in the future between them shall be referred to an arbitrator named or designated in the agreement and after a dispute has arisen any party applies, on the ground that the arbitrator so named or designated is not or may not be impartial, for leave to revoke the arbitration agreement or for an injunction to restrain any other party or the arbitrator from proceeding with the arbitration, it shall not be a ground for refusing the application that the said party at the time when he made the agreement knew, or ought to have known, that the arbitrator by reason of his relation towards any other party to the agreement or of his connection with the subject referred might not be capable of impartiality.
 
 (2) Where an agreement between any parties provides that disputes which may arise in the future between them shall be referred as provided in subsection (1) and a dispute which so arises involves the question whether any such party has been guilty of fraud, the Court shall, so far as may be necessary to enable that question to be determined by the Court, have power to order that the agreement shall cease to have effect and power to give leave to revoke any arbitration agreement made thereunder.
 
 (3) In any case where by virtue of this section the Court has power to order that an arbitration agreement shall cease to have effect or to give leave to revoke any arbitration agreement, the Court may refuse to stay any action brought in breach of the agreement.
 
-**13.** (1) Where an arbitrator (not being a sole arbitrator), or Where arbitrator is two or more arbitrators (not being all the arbitrators) or an umpire removed or
+*Where arbitrator is removed or appointment of arbitrator is revoked.*
 
-*of*
-
-who has not entered on the reference is or are removed by the appointment arbitrator is Court, the Court may, on the application of any party to the revoked. arbitration agreement, appoint a person or persons to act as arbitrator or arbitrators or umpire in place of the person or persons so removed.
+**13.** (1) Where an arbitrator (not being a sole arbitrator), or two or more arbitrators (not being all the arbitrators) or an umpire who has not entered on the reference is or are removed by the Court, the Court may, on the application of any party to the arbitration agreement, appoint a person or persons to act as arbitrator or arbitrators or umpire in place of the person or persons so removed.
 
 (2) Where the appointment of an arbitrator or arbitrators or umpire is revoked by leave of the Court, or a sole arbitrator or all the arbitrators or an umpire who having entered on the reference is or are removed by the Court, the Court may, on the application of any party to the arbitration agreement, either —
 
@@ -257,23 +259,37 @@ who has not entered on the reference is or are removed by the appointment arbitr
 
 (b) to correct in an award any clerical mistake or error arising from any accidental slip or omission.
 
-**16.** Any party to an arbitration agreement may sue out a writ Witnesses may be summoned of subpoena ad testificandum or of subpoena duces tecum, but by subpoena. no person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
+*Witnesses may be summoned by subpoena.*
 
-**17.** The time for making an award may from time to time be Enlargement of enlarged by order of the Court whether the time for making the time for making award. award has expired or not.
+**16.** Any party to an arbitration agreement may sue out a writ of subpoena ad testificandum or of subpoena duces tecum, but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
 
-**18.** (1) In all cases of reference to arbitration the Court may Power to remit from time to time remit the matters referred, or any of them, to the award for reconsideration. reconsideration of the arbitrators or umpire.
+*Enlargement of time for making award.*
+
+**17.** The time for making an award may from time to time be enlarged by order of the Court whether the time for making the award has expired or not.
+
+*Power to remit award for reconsideration.*
+
+**18.** (1) In all cases of reference to arbitration the Court may from time to time remit the matters referred, or any of them, to the reconsideration of the arbitrators or umpire.
 
 (2) Where an award is remitted, the arbitrators or umpire shall, unless the order otherwise directs, make their award within three months after the date of the order.
 
-**19.** (1) Where an arbitrator or umpire has misconducted Power to set himself or the proceedings, the Court may remove him, but aside award. before making any such order the arbitrator or umpire may, if the Court so directs, be given an opportunity of showing cause against such order.
+*Power to set aside award.*
+
+**19.** (1) Where an arbitrator or umpire has misconducted himself or the proceedings, the Court may remove him, but before making any such order the arbitrator or umpire may, if the Court so directs, be given an opportunity of showing cause against such order.
 
 (2) Where an arbitrator or umpire has misconducted himself or the proceedings, or an arbitration or award has been improperly procured, the Court may set the award aside.
 
-**20.** An award or an arbitration agreement may, by leave of Enforcing the Court, be enforced in the same manner as a judgment or order award. of the Court to the same effect and in such case judgment may be entered in terms of the award.
+*Enforcing award.*
 
-**21.** A sum directed to be paid by an award shall, unless the Interest on awards. award otherwise directs, carry interest as from the date of the award and at the same rate as a judgment debt.
+**20.** An award or an arbitration agreement may, by leave of the Court, be enforced in the same manner as a judgment or order of the Court to the same effect and in such case judgment may be entered in terms of the award.
 
-**22.** (1) Any provision in an arbitration agreement to the Provision as to costs. effect that the parties or any party to the agreement shall in any event pay their or his own costs of the reference or award or any
+*Interest on awards.*
+
+**21.** A sum directed to be paid by an award shall, unless the award otherwise directs, carry interest as from the date of the award and at the same rate as a judgment debt.
+
+*Provision as to costs.*
+
+**22.** (1) Any provision in an arbitration agreement to the effect that the parties or any party to the agreement shall in any event pay their or his own costs of the reference or award or any
 
 part thereof shall be void and this Act shall in the case of an arbitration agreement containing any such provision have effect as if that provision were not contained therein, but nothing herein shall invalidate such a provision when it is part of an agreement to submit to arbitration a dispute which has arisen before the making of such agreement.
 
@@ -291,13 +307,15 @@ part thereof shall be void and this Act shall in the case of an arbitration agre
 
 ### REFERENCES UNDER ORDER OF COURT
 
-**25.** (1) Subject to Rules of Court, and to any right to have Reference for enquiry and particular cases tried with a jury, the Court may refer to an official report. or special referee for enquiry or report any question arising in any cause or matter, other than a criminal proceeding by the State.
+*Reference for enquiry and report.*
+
+**25.** (1) Subject to Rules of Court, and to any right to have particular cases tried with a jury, the Court may refer to an official or special referee for enquiry or report any question arising in any cause or matter, other than a criminal proceeding by the State.
 
 (2) The report of an official or special referee may be adopted wholly or partially by the Court, and if so adopted may be enforced as a judgment or order to the same effect.
 
-*for*
+*Reference for trial.*
 
-**26.** In any cause or matter (other than a criminal proceeding Reference trial. by the State)—
+**26.** In any cause or matter (other than a criminal proceeding by the State)—
 
 (a) if all the parties interested who are not under disability consent; or
 
@@ -307,7 +325,9 @@ part thereof shall be void and this Act shall in the case of an arbitration agre
 
 the Court may at any time order the whole cause or matter, or any question or issue of fact arising therein, to be tried before a special referee or arbitrator agreed on by the parties, or in default of agreement, before an official referee or officer of the Court.
 
-**27.** (1) In all cases of reference to an official or special referee Powers and remuneration of or arbitrator, the official or special referee or arbitrator shall be referees and deemed to be an officer of the Court, and subject to Rules of Court arbitrators. shall have such authority and conduct the reference in such manner as the Court may direct.
+*Powers and remuneration of referees and arbitrators.*
+
+**27.** (1) In all cases of reference to an official or special referee or arbitrator, the official or special referee or arbitrator shall be deemed to be an officer of the Court, and subject to Rules of Court shall have such authority and conduct the reference in such manner as the Court may direct.
 
 (2) The report or award of any official or special referee or arbitrator, on any such reference shall, unless set aside by the Court, be equivalent to the verdict of a jury.
 
@@ -333,19 +353,17 @@ the Court may at any time order the whole cause or matter, or any question or is
 
 *Additional powers of Court.*
 
-**31.** (1) The Court shall have, for the purpose of and in relation to a reference, the same power of making orders in respect of any
-
 *Second Schedule.*
 
-of the matters set out in the Second Schedule as it has for the purpose of and in relation to an action or matter in the Court; but this shall not be taken to prejudice any power which may be vested in an arbitrator or umpire of making orders with respect to any of the matters aforesaid.
+**31.** (1) The Court shall have, for the purpose of and in relation to a reference, the same power of making orders in respect of any of the matters set out in the Second Schedule as it has for the purpose of and in relation to an action or matter in the Court; but this shall not be taken to prejudice any power which may be vested in an arbitrator or umpire of making orders with respect to any of the matters aforesaid.
 
 (2) Where relief by way of interpleader is granted and it appears to the Court that the claims in question are matters to which an arbitration agreement to which the claimants are parties applies, the Court may direct the issue between the claimants to be determined in accordance with the agreement.
 
 (3) Where an application is made to set aside an award the Court may order that any money made payable by the award shall be brought into Court or otherwise secured pending the determination of the application.
 
-**32.** (1) An arbitrator or umpire may, and shall if so directed Statement of case by by the Court, state—
+*Statement of case by arbitrator or umpire.*
 
-arbitrator or umpire.
+**32.** (1) An arbitrator or umpire may, and shall if so directed by the Court, state—
 
 (a) any question of law arising in the course of the reference, or
 
@@ -357,11 +375,13 @@ in the form of a special case for the decision of the Court.
 
 (3) An appeal shall lie to the Court of Appeal from any decision of the Court under this section, but no appeal shall lie on any case stated under subsection (1)(a) without leave of the Court or of the Court of Appeal.
 
-**33.** Any order made under this Act may be made on such Costs. terms as to costs, or otherwise, as the authority making the order thinks just.
+*Costs.*
 
-*of*
+**33.** Any order made under this Act may be made on such terms as to costs, or otherwise, as the authority making the order thinks just.
 
-**34.** (1) If in any case an arbitrator or umpire refuses to Taxation arbitrator’s or deliver his award except on payment of the fees demanded by umpire’s fees. him, the Court may, on an application for the purpose, order that the arbitrator or umpire shall deliver the award to the applicant on payment into Court by the applicant of the fees demanded, and further that the fees demanded shall be taxed by the Registrar of the Supreme Court and that out of the money paid into Court there shall be paid out to the arbitrator or umpire by way of fees such sum as may be found reasonable on taxation and that the balance of the money (if any) shall be paid out to the applicant.
+*Taxation of arbitrator’s or umpire’s fees.*
+
+**34.** (1) If in any case an arbitrator or umpire refuses to deliver his award except on payment of the fees demanded by him, the Court may, on an application for the purpose, order that the arbitrator or umpire shall deliver the award to the applicant on payment into Court by the applicant of the fees demanded, and further that the fees demanded shall be taxed by the Registrar of the Supreme Court and that out of the money paid into Court there shall be paid out to the arbitrator or umpire by way of fees such sum as may be found reasonable on taxation and that the balance of the money (if any) shall be paid out to the applicant.
 
 (2) An application for the purposes of this section may be made by any party to the reference unless the fees demanded have been fixed by a written agreement between him and the arbitrator or umpire.
 

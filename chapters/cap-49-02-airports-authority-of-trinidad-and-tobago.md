@@ -174,9 +174,9 @@ The former title of this Act (i.e., the Airports Authority) was changed to its p
 
 ### AIRPORTS AUTHORITY OF TRINIDAD AND TOBAGO ACT
 
-*49 of 1979.*
+*An 49 of 1979.*
 
-An Act to provide for the establishment, incorporation and management of an Airports Authority of Trinidad and Tobago, so as to ensure the provision of efficient, secure and safe aviation services.
+Act to provide for the establishment, incorporation and management of an Airports Authority of Trinidad and Tobago, so as to ensure the provision of efficient, secure and safe aviation services.
 
 *Commencement. 13/1980.*
 
@@ -192,23 +192,31 @@ An Act to provide for the establishment, incorporation and management of an Airp
 
 **2.** (1) In this Act—
 
-“aircraft operating in Trinidad and Tobago” means any aircraft which is for the time being allocated for use on flights that (otherwise than in exceptional circumstances) include take off from or landing at an airport in Trinidad and Tobago;
+*“air*
 
-“air navigation installation” means any building, facility, works, apparatus or equipment or place used wholly or mainly for the purpose of assisting air traffic control or as an aid to air navigation together with land contiguous or adjacent to such building, facility, works, apparatus or equipment and used wholly or mainly for purposes connected therewith;
+“aircraft operating in Trinidad and Tobago” means any aircraft which is for the time being allocated for use on flights that (otherwise than in exceptional circumstances) include take off from or landing at an airport in Trinidad and Tobago; navigation installation” means any building, facility, works, apparatus or equipment or place used wholly or mainly for the purpose of assisting air traffic control or as an aid to air navigation together with land contiguous or adjacent to such building, facility, works, apparatus or equipment and used wholly or mainly for purposes connected therewith;
 
 “airport” means any defined area of land or water intended or designated to be used either wholly or partly for purposes of the landing, departure, movement and servicing of aircraft; and includes any buildings, installations and equipment on or adjacent to such area and used for such or related purposes;
 
 “Authority” means the Airports Authority of Trinidad and Tobago established under section 3;
 
-“ammunition” has the meaning assigned to it by section 2 of the Firearms Act, and includes anything declared by Order of Ch. 16:01. the Minister to be ammunition;
+*Ch. 16:01.*
 
-“Defence Force” means the Trinidad and Tobago Defence Force established by section 5 of the Defence Act; Ch. 14:01.
+“ammunition” has the meaning assigned to it by section 2 of the Firearms Act, and includes anything declared by Order of the Minister to be ammunition;
 
-“explosive” has the meaning assigned to it by section 2 of the Explosives Act and includes anything declared by Order of Ch. 16:02. the Minister to be an explosive;
+*Ch. 14:01.*
+
+“Defence Force” means the Trinidad and Tobago Defence Force established by section 5 of the Defence Act;
+
+*Ch. 16:02.*
+
+“explosive” has the meaning assigned to it by section 2 of the Explosives Act and includes anything declared by Order of the Minister to be an explosive;
 
 “firearm” has the meaning assigned to it by section 2 of the Firearms Act, and includes anything declared by Order of the Minister to be a firearm;
 
-“former Authority” means the Airports Authority of Trinidad and Tobago established under section 22 of the Aviation Security 4 of 1978. and Airports Management Act 1978 (repealed by this Act);
+*4 of 1978.*
+
+“former Authority” means the Airports Authority of Trinidad and Tobago established under section 22 of the Aviation Security and Airports Management Act 1978 (repealed by this Act);
 
 “military service” includes a naval or airforce service;
 
@@ -218,11 +226,17 @@ An Act to provide for the establishment, incorporation and management of an Airp
 
 “person” includes an individual, an incorporated and unincorporated body;
 
-“police officer” has the meaning assigned to it by section 3(2) of the Police Service Act and includes— Ch. 15:01.
+*Ch. 15:01.*
 
-(a) a member of the Special Reserve Police established by the Special Reserve Police Act; and Ch. 15:03.
+“police officer” has the meaning assigned to it by section 3(2) of the Police Service Act and includes—
 
-(b) any person to whom a precept has been issued under the Supplemental Police Act; Ch. 15:02.
+*Ch. 15:03.*
+
+(a) a member of the Special Reserve Police established by the Special Reserve Police Act; and
+
+*Ch. 15:02.*
+
+(b) any person to whom a precept has been issued under the Supplemental Police Act;
 
 “property” includes land, building installations or works, any aircraft or vehicle and any baggage, cargo or other article of any description;
 
@@ -242,21 +256,29 @@ An Act to provide for the establishment, incorporation and management of an Airp
 
 (ii) the period during which the aircraft is in flight,
 
-and anything done on board an aircraft while in flight over any part of Trinidad and Tobago shall be treated as having been done in Trinidad and Tobago.
+*and part of in Trinidad*
 
-(3) For the purposes of this Act the territorial sea adjacent to any part of Trinidad and Tobago is to be treated as included in that part of Trinidad and Tobago.
+anything done on board an aircraft while in flight over any Trinidad and Tobago shall be treated as having been done and Tobago.
+
+*adjacent to included in*
+
+(3) For the purposes of this Act the territorial sea any part of Trinidad and Tobago is to be treated as that part of Trinidad and Tobago.
 
 *Ch. 3:01.*
 
-(4) Subject to section 62 of the Interpretation Act, sections 24 to 26 inclusive of this Act are not to be construed as—
+*sections 24*
+
+(4) Subject to section 62 of the Interpretation Act, to 26 inclusive of this Act are not to be construed as—
 
 (a) conferring a right of action in any civil proceedings in respect of any contravention of this Act; or
 
 (b) derogating from any right of action whether civil or criminal or other remedy arising out of proceedings instituted otherwise than under this Act.
 
-## PART II — ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AIRPORTS AUTHORITY OF TRINIDAD AND TOBAGO
+## PART II ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AIRPORTS AUTHORITY OF TRINIDAD AND TOBAGO
 
-**3.** (1) There is hereby established a body corporate to be Establishment, incorporation, known as the Airports Authority of Trinidad and Tobago, and constitution hereinafter called “the Authority”, the Board of which shall of Authority. [4 of 2007]. consist of not more than ten and no fewer than six members.
+*Establishment, incorporation, and constitution of Authority. [4 of 2007].*
+
+**3.** (1) There is hereby established a body corporate to be known as the Airports Authority of Trinidad and Tobago, hereinafter called “the Authority”, the Board of which shall consist of not more than ten and no fewer than six members.
 
 (1A) The members of the Board shall be appointed by the Minister from among persons who are suitably qualified in the following disciplines:
 
@@ -284,11 +306,11 @@ and anything done on board an aircraft while in flight over any part of Trinidad
 
 (6) (Deleted by Act No. 4 of 2007).
 
-**4.** There is hereby established a Security Committee which Establishment and constitution shall consist of the following members:
+*Establishment and constitution of Security Committee.*
 
-of Security
+**4.** There is hereby established a Security Committee which shall consist of the following members:
 
-(a) a Chairman to be appointed by the Chairman of Committee. the National Security Council;
+(a) a Chairman to be appointed by the Chairman of the National Security Council;
 
 (b) the Chairman of the Authority;
 
@@ -332,21 +354,17 @@ of Security
 
 (6) Subject to this section, the Authority may by Standing Orders regulate its own proceedings.
 
-*appoint and*
+*Power to appoint and train. [28 of 1993].*
 
-**8.** (1) The Authority may appoint, at such remuneration Power to and on such terms and conditions as it thinks fit, a General train.
-
-*[28 of 1993].*
-
-Manager, a Secretary and such other officers and employees as it considers necessary or appropriate for the efficient performance of its functions.
+**8.** (1) The Authority may appoint, at such remuneration and on such terms and conditions as it thinks fit, a General Manager, a Secretary and such other officers and employees as it considers necessary or appropriate for the efficient performance of its functions.
 
 (2) An annual salary in a sum equal to or in excess of one hundred and thirty thousand dollars, shall not be assigned to any post in the Authority without the approval of the Minister.
 
 (3) The Authority may provide out of its funds and make such arrangements for the training of any of its officers or employees as it may consider expedient for the efficient conduct of its business.
 
-*secondment of*
+*Transfer and secondment of officers.*
 
-**9.** (1) An officer in the public service may, with the Transfer and approval of the Minister, be transferred to the service of the officers. Authority, and upon such transfer shall become a member of the Pension Scheme referred to in section 10, and, where such officer’s transfer becomes effective before the establishment of such Scheme, he shall become a member of the Scheme within one year of its establishment; and an officer in the service of the Authority may be transferred to the public service.
+**9.** (1) An officer in the public service may, with the approval of the Minister, be transferred to the service of the Authority, and upon such transfer shall become a member of the Pension Scheme referred to in section 10, and, where such officer’s transfer becomes effective before the establishment of such Scheme, he shall become a member of the Scheme within one year of its establishment; and an officer in the service of the Authority may be transferred to the public service.
 
 (2) A transfer described in subsection (1) shall be on such terms as may be acceptable to the President, the Authority and the officer concerned and the pension or superannuation rights accruing to the officer at the time of his transfer shall be preserved.
 
@@ -364,13 +382,13 @@ Manager, a Secretary and such other officers and employees as it considers neces
 
 (4) Where the service of an officer or employee with the Authority cannot be treated as continuous for the purpose of subsection (3), the net benefits due and owing to the officer or employee at the time of deployment shall be paid to him by the Authority.
 
-**10.** The Authority shall, within a period of three years of the Establishment of Pension commencement of this Act, with the approval of the Minister, Scheme. provide for and establish a Pension Scheme for the benefit of its officers and employees.
+*Establishment of Pension Scheme.*
 
-*of the*
+**10.** The Authority shall, within a period of three years of the commencement of this Act, with the approval of the Minister, provide for and establish a Pension Scheme for the benefit of its officers and employees.
 
-**11.** Without prejudice to the generality of section 10, the Content Pension Pension Scheme may enable the Authority to—
+*Content of the Pension Scheme.*
 
-Scheme.
+**11.** Without prejudice to the generality of section 10, the Pension Scheme may enable the Authority to—
 
 (a) grant gratuities, pensions or superannuation allowances to, or to the widows, families or dependants of, its officers and employees;
 
@@ -380,7 +398,9 @@ Scheme.
 
 (d) give donations or subscriptions to charitable institutions, sick funds, benevolent funds and other objects calculated to benefit its officers and employees.
 
-**12.** (1) The main function of the Authority is to develop and Functions of the Authority. manage the business of the airports, including the development, [28 of 1993]. maintenance or improvement of their facilities in a cost effective manner, so as to ensure the availability of efficient, secure and safe aviation services to the public at all times as well as to ensure commercial viability.
+*Functions of the Authority. [28 of 1993].*
+
+**12.** (1) The main function of the Authority is to develop and manage the business of the airports, including the development, maintenance or improvement of their facilities in a cost effective manner, so as to ensure the availability of efficient, secure and safe aviation services to the public at all times as well as to ensure commercial viability.
 
 (2) Notwithstanding section 13, the Authority may with the approval of the Minister, and for the purpose of facilitating the proper discharge of its functions, enter into contract with any person, hold shares in any company or form a joint venture company, save however, that with respect to—
 
@@ -406,29 +426,35 @@ and may also—
 
 (4) Where in pursuance of this section, the Authority is required to appoint directors in a company in which it holds shares, the directors shall be appointed by the Authority with the approval of the Minister.
 
-**12A.** (1) For the purpose of performing its functions under Powers of the Authority. this Act, the Authority—
+*Powers of the Authority. [28 of 1993 4 of 2007].*
 
-[28 of 1993 4 of 2007].
+**12A.** (1) For the purpose of performing its functions under this Act, the Authority—
 
 (a) may impose as it thinks fit, dues, charges and fees for the use of airport facilities; and
 
-(b) shall, notwithstanding section 108 of the Motor Ch. 48:50. Vehicles and Road Traffic Act, be responsible for the control of traffic on all roads within any area defined as an airport under this Act.
+*Ch. 48:50.*
+
+(b) shall, notwithstanding section 108 of the Motor Vehicles and Road Traffic Act, be responsible for the control of traffic on all roads within any area defined as an airport under this Act.
 
 (2) In the performance of its functions and in the exercise of its powers, the Authority shall act in accordance with any specific or general written directions given by the Minister.
 
-**13.** (1) The Authority may delegate to any of its members Power to delegate. or employees the power and authority to carry out on its behalf such functions and to exercise such powers as the Authority may determine.
+*Power to delegate.*
+
+**13.** (1) The Authority may delegate to any of its members or employees the power and authority to carry out on its behalf such functions and to exercise such powers as the Authority may determine.
 
 (2) A delegation under this section shall be revocable at will and shall not preclude the Authority from carrying out the functions and exercising the powers so delegated.
 
 ## PART III — FINANCIAL PROVISIONS
 
-**14.** The financial year of the Authority is from the 1st day of Financial year. January to the 31st day of December.
+*Financial year.*
+
+**14.** The financial year of the Authority is from the 1st day of January to the 31st day of December.
+
+*Funds and resources of the Authority. [11 of 1990 30 of 2007].*
 
 **15.** The funds and resources of the Authority are—
 
-Funds and resources of the
-
-(a) such sums of money as may from time to time Authority. [11 of 1990 be appropriated by Parliament for the use of 30 of 2007]. the Authority;
+(a) such sums of money as may from time to time be appropriated by Parliament for the use of the Authority;
 
 (b) sums from time to time received by or falling due to the Authority in respect of repayment of any loan made by the Authority;
 
@@ -460,13 +486,15 @@ Funds and resources of the
 
 **18.** (Repealed by Act No. 28 of 1993).
 
-**19.** (1) The Authority shall cause to be kept proper accounts Accounts and records of the and records of its transactions and affairs and shall ensure that all Authority. payments out of its funds are properly authorised and correctly made and that adequate control is maintained over the incurring of expenditure.
+*Accounts and records of the Authority.*
+
+**19.** (1) The Authority shall cause to be kept proper accounts and records of its transactions and affairs and shall ensure that all payments out of its funds are properly authorised and correctly made and that adequate control is maintained over the incurring of expenditure.
 
 (2) Accounts of the Authority shall be kept in accordance with accounting standards established by the Institute of Chartered Accountants of Trinidad and Tobago.
 
-**20.** (1) The accounts of the Authority shall be audited Examination and audit by annually by the Auditor General, or by a qualified auditor, Auditor General. appointed by the Auditor General.
+*Examination and audit by Auditor General. [28 of 1993].*
 
-[28 of 1993].
+**20.** (1) The accounts of the Authority shall be audited annually by the Auditor General, or by a qualified auditor, appointed by the Auditor General.
 
 (2) In addition to the annual audit, the Auditor General may at any time audit the accounts and examine the records of financial transactions of the Authority and shall forthwith draw to the attention of the Minister any irregularity disclosed by such audit and examination, which, in the opinion of the Auditor General, is of sufficient importance to be reported to the Minister.
 
@@ -474,7 +502,9 @@ Funds and resources of the
 
 (4) The Auditor General or such other qualified auditor may make copies of or take extracts from accounts, books or other financial records of the Authority.
 
-**21.** (1) The Authority shall, not later than the 30th day of Annual report. June in each year submit to the Minister a report of its operations during the previous financial year, together with financial statements in respect of that year and the Auditor General’s report on those statements.
+*Annual report.*
+
+**21.** (1) The Authority shall, not later than the 30th day of June in each year submit to the Minister a report of its operations during the previous financial year, together with financial statements in respect of that year and the Auditor General’s report on those statements.
 
 (2) The report shall give particulars of any directions of the Minister given to the Board with respect to the exercise of its functions.
 
@@ -526,11 +556,9 @@ Funds and resources of the
 
 (a) an act done in Trinidad and Tobago that constitutes the offence of murder, manslaughter,
 
-culpable homicide or assault or an offence under section 12, 14, 15, 16, 17, 18, 22, or 23 of the
-
 *Ch. 11:08.*
 
-Offences Against the Person Act;
+culpable homicide or assault or an offence under section 12, 14, 15, 16, 17, 18, 22, or 23 of the Offences Against the Person Act;
 
 (b) an act done outside Trinidad and Tobago which, if done in Trinidad and Tobago, would constitute one of the offences referred to in paragraph (a).
 
@@ -560,21 +588,21 @@ Offences Against the Person Act;
 
 (7) In this section “civil aircraft” means any aircraft other than aircraft used in military, Customs or police service.
 
-*or*
+*Inducing or assisting commission of offences under sections 24 and 25.*
 
-**26.** (1) It is an offence for any person in Trinidad and Inducing assisting Tobago to induce, or assist in the commission outside Trinidad commission of offences under and Tobago of any act which would—
+**26.** (1) It is an offence for any person in Trinidad and Tobago to induce, or assist in the commission outside Trinidad and Tobago of any act which would—
 
-sections 24
-
-(a) but for section 24(4), be an offence under that and 25. section; or
+(a) but for section 24(4), be an offence under that section; or
 
 (b) but for section 25(5) or (6), be an offence under that section.
 
-(2) Subsection (1) has effect without prejudice to the provisions of section 2 of the Accessories and Abettors Act in Ch. 10:02. relation to any offence under section 24 or 25.
+*Ch. 10:02.*
 
-*and*
+(2) Subsection (1) has effect without prejudice to the provisions of section 2 of the Accessories and Abettors Act in relation to any offence under section 24 or 25.
 
-**27.** (1) A person who commits an offence under this Part is Penalties proceedings. liable on conviction on indictment to imprisonment for life.
+*Penalties and proceedings.*
+
+**27.** (1) A person who commits an offence under this Part is liable on conviction on indictment to imprisonment for life.
 
 (2) Proceedings for an offence under this Part shall not be instituted except by or with the consent of the Director of Public Prosecutions; but nothing in this section shall prevent the arrest,
 
@@ -582,11 +610,9 @@ or the issue of a warrant for the arrest, of a person in respect of an offence, 
 
 *Extradition. [36 of 1985].*
 
-**28.** (1) There shall be deemed to be included in the list of extraditable offences contained in the First Schedule to the
-
 *Ch. 12:04.*
 
-Extradition (Commonwealth and Foreign Territories) Act all offences under this Part.
+**28.** (1) There shall be deemed to be included in the list of extraditable offences contained in the First Schedule to the Extradition (Commonwealth and Foreign Territories) Act all offences under this Part.
 
 (2) Where no such treaty as is mentioned in section 4 of the said Extradition (Commonwealth and Foreign Territories) Act has been made with a State which is a party to the Convention, such treaty shall be deemed to exist with that State; but where that Act is so applied it shall have effect as if the only extraditable offences within the meaning of that Act were offences under this Part.
 
@@ -608,29 +634,29 @@ shall be deemed to be an offence committed within the jurisdiction of that State
 
 dangers arising from the commission of such offences, is the responsibility of the Police Service.
 
-**30.** (1) Subject to subsection (2), a police officer on duty Right of access of police officer. may at any time, by force if necessary, enter an airport or air navigation installation, or an aircraft, vehicle, building or place in an airport or air navigation installation, for the purpose of performing his functions under this Act or any other written law.
+*Right of access of police officer.*
+
+**30.** (1) Subject to subsection (2), a police officer on duty may at any time, by force if necessary, enter an airport or air navigation installation, or an aircraft, vehicle, building or place in an airport or air navigation installation, for the purpose of performing his functions under this Act or any other written law.
 
 (2) Subsection (1) does not apply to an aircraft or vehicle not being used for commercial purposes unless the police officer believes on reasonable grounds that there is in that vehicle or aircraft a person or thing likely to endanger the airport or air navigation installation or another person.
 
-**31.** The Minister responsible for National Security may for Declaration of restricted area. the purpose of ensuring security at any airport declare by Order— [28 of 1993].
+*Declaration of restricted area. [28 of 1993].*
+
+**31.** The Minister responsible for National Security may for the purpose of ensuring security at any airport declare by Order—
 
 (a) on the advice of the Security Committee, any part of an airport or air navigation installation to be a restricted area; or
 
 (b) an airport to be a restricted area.
 
-**32.** (1) No person other than a police officer on duty Provisions
+*Provisions relating to restricted areas.*
 
-*to*
-
-may enter or remain in a restricted area unless authorised by relating restricted areas. the Authority.
+**32.** (1) No person other than a police officer on duty may enter or remain in a restricted area unless authorised by the Authority.
 
 (2) Every person in a restricted area shall, on the request of a police officer on duty, state his name and address, and produce satisfactory evidence of its correctness, and of the purpose of his presence in such area and his authority to enter it.
 
 (3) A person who fails or refuses to give satisfactory evidence of his name and address when requested to do so in accordance with subsection (2) may be ordered to leave the restricted area by a police officer.
 
-(4) A person who contravenes subsection (2) or (3)
-
-commits an offence against this section.
+(4) A person who contravenes subsection (2) or (3) commits an offence against this section.
 
 (5) A person who fails to comply with an order to leave a restricted area may be removed from that area with such force as
 
@@ -668,19 +694,17 @@ is liable on conviction on indictment to imprisonment for five years.
 
 (3) An employee or agent of the carrier authorised by the carrier for the purpose, or a police officer, may in the presence of a passenger examine his baggage before it is loaded onto an aircraft for the purpose of being transported by air.
 
-*of persons*
+*Search of persons declining to allow search.*
 
-**35.** (1) Where under section 34(1) a person has refused Search consent to the search of himself or his baggage and a police declining to
-
-*allow search.*
-
-officer has reasonable grounds to suspect that an offence—
+**35.** (1) Where under section 34(1) a person has refused consent to the search of himself or his baggage and a police officer has reasonable grounds to suspect that an offence—
 
 *Ch. 11:22.*
 
 (a) under the Hijacking Act;
 
-(b) under the Civil Aviation (Tokyo Convention) Ch. 11:21. Act; or
+*Ch. 11:21.*
+
+(b) under the Civil Aviation (Tokyo Convention) Act; or
 
 (c) under this Act,
 
@@ -690,9 +714,9 @@ in relation to an aircraft on which that person was to be carried has been, is b
 
 (3) A police officer in the exercise of the power of search conferred by subsection (1) shall identify himself to the person to be searched, and shall also inform him that the search is being made under this section, and if the police officer is not in uniform he shall also produce evidence that he is a police officer.
 
-*offences.*
+*Evidence of offences.*
 
-**36.** Nothing found in the course of a search or examination Evidence of made under section 34 or 35 is admissible as evidence in criminal
+**36.** Nothing found in the course of a search or examination made under section 34 or 35 is admissible as evidence in criminal
 
 proceedings against the person who, or whose baggage, has been searched, or, as the case may be, the consignor of cargo that has been examined, other than proceedings in respect of—
 
@@ -750,11 +774,11 @@ proceedings against the person who, or whose baggage, has been searched, or, as 
 
 (4) A person who obstructs or attempts to obstruct an authorised person in the exercise of his powers and functions under this section is liable on summary conviction to a fine of two thousand dollars and to imprisonment for twelve months.
 
-*Additional powers of police*
+*Additional powers of police in cargo area.*
 
 **39.** (1) A police officer may—
 
-(a) stop any person who is leaving a cargo area and in cargo area. inspect goods carried by that person;
+(a) stop any person who is leaving a cargo area and inspect goods carried by that person;
 
 (b) stop and search any vehicle or aircraft which is leaving such cargo area and inspect the vehicle and the goods carried on or in it; and
 
@@ -794,11 +818,9 @@ proceedings against the person who, or whose baggage, has been searched, or, as 
 
 (b) if done in Trinidad and Tobago would constitute,
 
-the offence of murder, manslaughter, culpable homicide or assault, or an offence under section 12, 14, 15, 16, 17, 18, 22 or
-
 *Ch. 11:08.*
 
-23 of the Offences Against the Person Act.
+the offence of murder, manslaughter, culpable homicide or assault, or an offence under section 12, 14, 15, 16, 17, 18, 22 or 23 of the Offences Against the Person Act.
 
 ## PART VI — GENERAL
 
@@ -834,7 +856,9 @@ connection with air traffic or air navigation, and for prohibiting or regulating
 
 (m) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the administration thereof.
 
-(2) Regulations under this section may provide for the imposition of penalties not exceeding a fine of two thousand dollars and imprisonment for twelve months.
+*imposition dollars and*
+
+(2) Regulations under this section may provide for the of penalties not exceeding a fine of two thousand imprisonment for twelve months.
 
 (3) Regulations under this section may confer on any person power to issue, in such manner as may be prescribed, instructions or orders for the purpose of ensuring the safety of aircraft.
 
@@ -842,17 +866,23 @@ connection with air traffic or air navigation, and for prohibiting or regulating
 
 ### SUBSIDIARY LEGISLATION
 
-DESIGNATION OF AIRPORTS NOTIFICATION 69/1978.
+*69/1978.*
+
+### DESIGNATION OF AIRPORTS NOTIFICATION
 
 \*deemed to be made under section 2
 
-**1.** This Notification may be cited as the Designation of Citation. Airports Notification.
+*Citation.*
 
-**2.** In this Notification “the Authority” means the Airports Interpretation. Authority of Trinidad and Tobago established under section 3 of the Act.
+**1.** This Notification may be cited as the Designation of Airports Notification.
 
-*of*
+*Interpretation.*
 
-**3.** The Piarco International Airport as described in the First Designation Piarco Schedule and the Crown Point Airport as described in the Second International and Crown Schedule are hereby designated as airports under the Point Airports. management and control of the Authority.
+**2.** In this Notification “the Authority” means the Airports Authority of Trinidad and Tobago established under section 3 of the Act.
+
+*Designation of Piarco International and Crown Point Airports.*
+
+**3.** The Piarco International Airport as described in the First Schedule and the Crown Point Airport as described in the Second Schedule are hereby designated as airports under the management and control of the Authority.
 
 ## FIRST SCHEDULE PIARCO INTERNATIONAL AIRPORT—BOUNDARIES
 
@@ -886,11 +916,9 @@ lands thence in a more or less southerly direction along the western boundary of
 
 **2.** In this Order—
 
-“Crown Point Airport” means the Crown Point Airport as
-
 *Sub. Leg. Ch. 49:02.*
 
-described in the Designation of Airports Notification;
+“Crown Point Airport” means the Crown Point Airport as described in the Designation of Airports Notification;
 
 “Piarco International Airport” means the Piarco International Airport as described in the Designation of Airports Notification.
 
@@ -898,11 +926,9 @@ described in the Designation of Airports Notification;
 
 **3.** (1) All those parts of the Piarco International Airport specified in the First Schedule are hereby declared to be restricted areas for the purposes of the Act.
 
-(2) All those parts of the Crown Point Airport specified
-
 *Second Schedule.*
 
-in the Second Schedule are hereby declared to be restricted areas for the purposes of the Act.
+(2) All those parts of the Crown Point Airport specified in the Second Schedule are hereby declared to be restricted areas for the purposes of the Act.
 
 *Third Schedule.*
 
@@ -1076,11 +1102,9 @@ made under section 43
 
 “Commissioner” means the Commissioner of Police;
 
-“Crown Point Airport” means the Crown Point Airport described
-
 *69/1978. (Sub. Leg— Ch. 49:02). Ch. 78:01.*
 
-in the Designation of Airports Notification;
+“Crown Point Airport” means the Crown Point Airport described in the Designation of Airports Notification;
 
 “Customs Area” has the meaning assigned to that expression in the Customs Act;
 
@@ -1094,25 +1118,35 @@ in the Designation of Airports Notification;
 
 “offensive weapon” means any article made or adapted for use for causing injury to or incapacitating a person or intended by the person having it with him for such use;
 
-“Piarco International Airport” means the Piarco International 69/1978. (Sub. Leg.— Airport described in the Designation of Airports Notification; Ch. 49:02).
+*69/1978. (Sub. Leg.— Ch. 49:02).*
 
-“police officer” has the meaning assigned to that expression by section 2 of the Police Service Act and includes— Ch. 15:01.
+“Piarco International Airport” means the Piarco International Airport described in the Designation of Airports Notification;
 
-(a) a member of the Special Reserve Police established by the Special Reserve Police Act; Ch. 15:03.
+*Ch. 15:01.*
 
-(b) a person to whom a precept has been issued Ch. 15:02. under the Supplemental Police Act;
+“police officer” has the meaning assigned to that expression by section 2 of the Police Service Act and includes—
+
+*Ch. 15:03.*
+
+(a) a member of the Special Reserve Police established by the Special Reserve Police Act;
+
+*Ch. 15:02.*
+
+(b) a person to whom a precept has been issued under the Supplemental Police Act;
 
 “restricted area” means an area declared by the Minister, by Order, under section 31 of the Act to be a restricted area.
 
 ### GENERAL RULES AND REGULATIONS
 
-**3.** (1) All persons who are at any time on any part of an Application. airport to which these Regulations apply shall be governed by these Regulations and by any general or particular orders or directions of the Authority.
+*Application.*
+
+**3.** (1) All persons who are at any time on any part of an airport to which these Regulations apply shall be governed by these Regulations and by any general or particular orders or directions of the Authority.
 
 (2) These Regulations apply to the Piarco International Airport and the Crown Point Airport.
 
-*on*
+*Carrying on trade or business.*
 
-**4.** (1) No person shall carry on any trade or business at an Carrying trade or airport except with the approval of the Authority and under such business. terms and conditions as the Authority may determine.
+**4.** (1) No person shall carry on any trade or business at an airport except with the approval of the Authority and under such terms and conditions as the Authority may determine.
 
 (2) Nothing in this regulation shall require the discharge of a contract existing at the date of the coming into operation of these Regulations.
 
@@ -1164,9 +1198,9 @@ shall operate a radio or radio equipment or wireless transmitting or receiving a
 
 (2) The entitlement of each person referred to in subregulation (1) to operate equipment or apparatus at an airport is contingent upon his being on duty at the time of his operating the equipment or apparatus.
 
-*in aircraft.*
+*Radio operation in aircraft.*
 
-**10.** No person shall operate any radio equipment in an Radio operation aircraft while the aircraft is in a hangar nor contrary to any telecommunication orders or any other enactment in force without the approval of the Director of Civil Aviation.
+**10.** No person shall operate any radio equipment in an aircraft while the aircraft is in a hangar nor contrary to any telecommunication orders or any other enactment in force without the approval of the Director of Civil Aviation.
 
 *Use of roads.*
 
@@ -1216,37 +1250,47 @@ shall operate a radio or radio equipment or wireless transmitting or receiving a
 
 (6) No person shall park, load or unload any goods vehicle at an airport other than at such place as may be designated for such purpose by the Authority.
 
-**16.** No person other than a person assigned to duty for the Operation of purpose shall operate any motorised equipment on the taxi tracks, motorised equipment. aprons or aircraft landing areas at an airport except—
+*Operation of motorised equipment.*
+
+**16.** No person other than a person assigned to duty for the purpose shall operate any motorised equipment on the taxi tracks, aprons or aircraft landing areas at an airport except—
 
 (a) with the approval of the Authority; and
 
 (b) with the approval of and on the directions of the Air Traffic Controller on duty at the Control Tower.
 
-**17.** No person shall, while under the influence of any Operation of vehicle under intoxicating or narcotic drug or liquor, operate or be in control of influence of a motor vehicle, motorised equipment or aircraft of any kind at alcohol, etc., prohibited. an airport.
+*Operation of vehicle under influence of alcohol, etc., prohibited.*
 
-**18.** (1) Every person involved in any accident on the landside Accident reporting. of an airport and every witness thereto shall report the occurrence without delay to a police officer on duty at the airport and that police officer shall immediately inform the Authority thereof.
+**17.** No person shall, while under the influence of any intoxicating or narcotic drug or liquor, operate or be in control of a motor vehicle, motorised equipment or aircraft of any kind at an airport.
+
+*Accident reporting.*
+
+**18.** (1) Every person involved in any accident on the landside of an airport and every witness thereto shall report the occurrence without delay to a police officer on duty at the airport and that police officer shall immediately inform the Authority thereof.
 
 (2) Every person involved in any accident on the airside of an airport and every witness thereto shall report the occurrence without delay to the Air Traffic Controller on duty at the Control Tower and to the Authority.
 
 ### GENERAL RULES OF CONDUCT
 
-**19.** (1) No person shall be at an airport while he is under the Disorderly conduct and influence of any intoxicating or narcotic drug or liquor.
+*Disorderly conduct and narcotic drugs.*
 
-narcotic drugs.
+**19.** (1) No person shall be at an airport while he is under the influence of any intoxicating or narcotic drug or liquor.
 
 (2) No person shall commit any disorderly, obscene or indecent act or cause any nuisance or disturbance at an airport.
 
 (3) No person shall, without reasonable excuse, have a narcotic drug in his possession at an airport.
 
-**20.** (1) No person shall engage in any form of gambling at Gambling. an airport.
+*Gambling.*
 
-(2) No person shall at any place at an airport operate or cause to be operated any gambling or gaming device.
+**20.** (1) No person shall engage in any form of gambling at an airport.
 
-(3) No person shall, at any place at an airport, be in any way involved in the operation of any gambling or gaming device.
+*cause to be*
 
-*Sanitation.*
+(2) No person shall at any place at an airport operate or operated any gambling or gaming device.
 
-**21.** No person shall—
+*way 21. No Sanitation.*
+
+(3) No person shall, at any place at an airport, be in any involved in the operation of any gambling or gaming device.
+
+person shall—
 
 (a) deposit or dispose of any litter, garbage, papers, refuse or other material at an airport except in the receptacles provided for that purpose;
 
@@ -1254,23 +1298,29 @@ narcotic drugs.
 
 (c) deposit or dispose of cigarette butts, cigarettes, cigars, cigar butts, waste matches or any smoking material other than in the receptacles specifically provided for that purpose.
 
+*\22. (1)*
+
 *Preservation of property.*
 
-**22.** (1) No person shall wilfully destroy, damage, injure or deface any building, sign, marker or other structure at an airport.
+*deface any*
 
-(2) No person may without the permission of the Authority—
+No person shall wilfully destroy, damage, injure or building, sign, marker or other structure at an airport.
+
+(2) No person may without the permission of the
+
+*Authority—*
 
 (a) remove or disturb in any way whatever any building, sign, fence, pipe, hose, coupling, post, gate, equipment, marker or other structure, or attempt to procure any other person to erect, alter, remove, paint, distemper or replace any building at the airport;
 
 (b) lay any wire, cable, fence, pipe, line, net or any other material, or dig, excavate or bore or lay any road, track or path at an airport.
 
-*Tampering with airport and equipment.*
+*\23. No Tampering with*
 
-**23.** No person shall interfere or tamper with, or damage any part of an airport or any equipment, machinery, motor vehicle or appliance at an airport.
+*airport and part of an equipment. appliance at 24. (1) Tampering with aircraft, cargo, Authority— baggage, etc.*
 
-*Tampering with aircraft, cargo, baggage, etc.*
+person shall interfere or tamper with, or damage any airport or any equipment, machinery, motor vehicle or an airport.
 
-**24.** (1) No person shall, except with the permission of the Authority—
+No person shall, except with the permission of the
 
 (a) place anything in or take anything out of an aircraft ; or
 
@@ -1278,9 +1328,9 @@ narcotic drugs.
 
 (2) Subregulation (1) does not apply to a person assigned to duty at an airport and acting in the execution of his duty.
 
-*ammunition and*
+*Firearms, ammunition and inflammable materials.*
 
-**25.** (1) Subject to subregulation (2), no person, other than Firearms, a police officer or a member of the Defence Force on duty at an inflammable airport, shall carry or have in his possession or in his baggage materials. any side arms, firearms, ammunition, explosives or inflammable material at an airport without the written permission of the Authority.
+**25.** (1) Subject to subregulation (2), no person, other than a police officer or a member of the Defence Force on duty at an airport, shall carry or have in his possession or in his baggage any side arms, firearms, ammunition, explosives or inflammable material at an airport without the written permission of the Authority.
 
 (2) Where police officers or members of the Defence Force who have obtained the necessary permission under this regulation, desire to carry explosives or inflammable materials to an airport, they shall first inform the Authority who shall make such arrangements for the carriage of the explosives or inflammable material as they may consider proper.
 
@@ -1326,23 +1376,29 @@ contrary to subregulation (1) is guilty of an offence and in addition to any pen
 
 ### AIRCRAFT
 
-*of lost*
+*Disposal of lost or mislaid article.*
 
-**29.** (1) A person who finds a lost or misplaced article or an Disposal or mislaid article which is not the property of the finder shall forthwith article. deliver up such article to a police officer on duty at the airport, who shall take the name and address of the finder.
+**29.** (1) A person who finds a lost or misplaced article or an article which is not the property of the finder shall forthwith deliver up such article to a police officer on duty at the airport, who shall take the name and address of the finder.
 
-(2) Where the article was found on the airside, the police officer shall deliver it to a senior Customs officer on duty at the airport for a determination as to whether the article is dutiable and for disposal as provided under the Customs Act. Ch. 78:01.
+*Ch. 78:01.*
+
+(2) Where the article was found on the airside, the police officer shall deliver it to a senior Customs officer on duty at the airport for a determination as to whether the article is dutiable and for disposal as provided under the Customs Act.
 
 (3) Where the article was found on the landside, the police officer shall deliver it to the nearest Police Station to be dealt with according to law.
 
-**30.** (1) No person shall park an aircraft in any area at an Parking and removal of airport other than that determined by and with the consent of the aircraft. Airport Manager or his duly authorised representative and the Air Traffic Controller on duty at the Control Tower.
+*Parking and removal of aircraft.*
+
+**30.** (1) No person shall park an aircraft in any area at an airport other than that determined by and with the consent of the Airport Manager or his duly authorised representative and the Air Traffic Controller on duty at the Control Tower.
 
 (2) No person shall remove an aircraft from its parked position on an airport other than with the consent of the Airport Manager or his authorised representative and the Air Traffic Controller on duty at the Control Tower.
 
-*of*
+*Running of engines.*
 
-**31.** No person shall start or run an engine in an aircraft unless Running engines. a competent person duly authorised by the owner of such aircraft or his authorised representative is in the aircraft attending the controls. Before starting the engine or engines in an aircraft, the wheels shall be adequately chocked.
+**31.** No person shall start or run an engine in an aircraft unless a competent person duly authorised by the owner of such aircraft or his authorised representative is in the aircraft attending the controls. Before starting the engine or engines in an aircraft, the wheels shall be adequately chocked.
 
-**32.** (1) No aircraft, aircraft engine, propeller, or other Repair and testing. equipment or appliance thereof, shall be repaired in any part of an
+*Repair and testing.*
+
+**32.** (1) No aircraft, aircraft engine, propeller, or other equipment or appliance thereof, shall be repaired in any part of an
 
 airport other than that specifically designated by the Airport Manager or his duly authorised representative and the Air Traffic Controller on duty at the Control Tower.
 
@@ -1376,6 +1432,8 @@ airport other than that specifically designated by the Airport Manager or his du
 
 (3) No tenant, lessee of any hangar, or lessee of any facility on an airport shall store or stock material or equipment in such manner as to constitute a hazard to personnel or property.
 
-**36.** (1) A person who contravenes these Regulations or any Penalties. order or instruction issued by the Authority may be removed or ejected from the airport by a police officer on the instructions of the Authority and may be deprived of the further use of the airport and its facilities for such time as may be necessary to ensure the safety of the airport and the public.
+*Penalties.*
+
+**36.** (1) A person who contravenes these Regulations or any order or instruction issued by the Authority may be removed or ejected from the airport by a police officer on the instructions of the Authority and may be deprived of the further use of the airport and its facilities for such time as may be necessary to ensure the safety of the airport and the public.
 
 (2) Any person who contravenes or fails to comply with any of these Regulations is liable on summary conviction to a fine of two thousand dollars or to imprisonment for a term of twelve months.

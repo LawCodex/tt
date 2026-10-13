@@ -159,25 +159,21 @@ Appropriation.
 
 ### ADMINISTRATION OF ESTATES ACT
 
-*\8. No. 1—*
+*Ordinances Ch. 8. No. 1—*
 
-An Act relating to the powers and duties of the Administrator Ordinances General and to the devolution and distribution of property Ch.
-
-1940.
+An Act relating to the powers and duties of the Administrator General and to the devolution and distribution of property
 
 *No. 32—1947.*
 
-on the death of the owner thereof.
+**1940.** on the death of the owner thereof.
 
 *Commencement.*
 
 ### [1 ST F EBRUARY 1914]
 
-**1.** This Act may be cited as the Administration of Estates Short title.
+*Short title. Ch. 9:03.*
 
-*Ch. 9:03.*
-
-Act, and shall be read as one with the Wills and Probate Act.
+**1.** This Act may be cited as the Administration of Estates Act, and shall be read as one with the Wills and Probate Act.
 
 *Interpretation. [28 of 2000].*
 
@@ -223,11 +219,9 @@ Act, and shall be read as one with the Wills and Probate Act.
 
 (6) Where the Administrator General is the Head of a Department in the public service, his powers shall be deemed to extend to the clerks and officers in his Department without any special appointment of such clerks or officers to assist him in the discharge of his duties and powers under this Act.
 
-(7) The person who immediately before the
-
 *Ch. 6:01.*
 
-commencement of the Judicial and Legal Service Act is performing the functions of the office of Administrator General shall be deemed to have been lawfully appointed to and shall continue to hold or act in, that office as if he had been appointed under the section.
+(7) The person who immediately before the commencement of the Judicial and Legal Service Act is performing the functions of the office of Administrator General shall be deemed to have been lawfully appointed to and shall continue to hold or act in, that office as if he had been appointed under the section.
 
 *No security to be given.*
 
@@ -239,15 +233,21 @@ commencement of the Judicial and Legal Service Act is performing the functions o
 
 possession and protection of the estates of such deceased persons as shall be directed by the Administrator General or required by such Regulations, and shall for such purpose be deemed to have been appointed to assist the Administrator General.
 
-**7.** There shall be retained by the Administrator General out of Remuneration. all sums received by him in respect of any estate coming into his hands such commission at a rate not exceeding five per centum as may be directed by the Court or Judge on his appointment, and in default of any direction at the rate of five per centum. And in respect of any lands or other property not converted into money which may be taken possession of by the Administrator General, his remuneration shall be such as the Court on originating summons or otherwise may direct. Such commission or remuneration shall in every case be a charge on such moneys and estates in priority to all other charges, and may be raised by sale or mortgage of such estate or any part thereof or otherwise in such manner as the Court or a Judge in the course of any action or on originating summons may direct.
+*Remuneration.*
 
-**8.** (1) All commissions or remunerations authorised to be Commissions. paid to or retained by the Administrator General shall in like manner be retained or paid out of all property devolving on the Administrator General as representing Trinidad and Tobago.
+**7.** There shall be retained by the Administrator General out of all sums received by him in respect of any estate coming into his hands such commission at a rate not exceeding five per centum as may be directed by the Court or Judge on his appointment, and in default of any direction at the rate of five per centum. And in respect of any lands or other property not converted into money which may be taken possession of by the Administrator General, his remuneration shall be such as the Court on originating summons or otherwise may direct. Such commission or remuneration shall in every case be a charge on such moneys and estates in priority to all other charges, and may be raised by sale or mortgage of such estate or any part thereof or otherwise in such manner as the Court or a Judge in the course of any action or on originating summons may direct.
 
-(2) All sums received by the Administrator General under Appropriation. this and the preceding section, whether by way of remuneration or commission, shall be paid by him into the Treasury for the use of Trinidad and Tobago.
+*Commissions.*
 
-*claims and*
+**8.** (1) All commissions or remunerations authorised to be paid to or retained by the Administrator General shall in like manner be retained or paid out of all property devolving on the Administrator General as representing Trinidad and Tobago.
 
-**9.** It shall be the duty of the Administrator General, as to all Conflicting estates of which he has taken or claims possession on behalf of Trinidad interests. and Tobago and as to which it is doubtful what property real or personal was in the possession of the deceased intestate, or what are the boundaries or other description of so much of such property as consists of land, or whether the intestate died without next of kin, or whether any person is entitled as against Trinidad and Tobago to any legal right in or equitable claim upon the same, or whether any person is entitled as a creditor of the deceased or otherwise to any payment out of or charge upon such property, by originating summons to be served in the prescribed manner upon any person having or claiming any adverse right or interest, or in whom such adverse right is alleged to
+*Appropriation.*
+
+(2) All sums received by the Administrator General under this and the preceding section, whether by way of remuneration or commission, shall be paid by him into the Treasury for the use of Trinidad and Tobago.
+
+*Conflicting claims and interests.*
+
+**9.** It shall be the duty of the Administrator General, as to all estates of which he has taken or claims possession on behalf of Trinidad and Tobago and as to which it is doubtful what property real or personal was in the possession of the deceased intestate, or what are the boundaries or other description of so much of such property as consists of land, or whether the intestate died without next of kin, or whether any person is entitled as against Trinidad and Tobago to any legal right in or equitable claim upon the same, or whether any person is entitled as a creditor of the deceased or otherwise to any payment out of or charge upon such property, by originating summons to be served in the prescribed manner upon any person having or claiming any adverse right or interest, or in whom such adverse right is alleged to
 
 exist, to obtain the directions of a Judge in Chambers as to such estate in respect of any of the matters aforesaid as such Judge shall deem proper matters to be so determined; and such Judge may, by consent of the parties claiming to be entitled, determine such matters himself summarily without appeal, or may, at the request of the Administrator General or of any person appearing to such summons and claiming to be entitled, direct any such matter to be tried in the same manner as any question or issue arising in the course of interpleader proceedings: Provided that on the trial of any such question it shall be lawful at any time for any party interested therein to apply to the Judge for such judgment or order as he may be entitled to in consequence of the finding on such trial.
 
@@ -265,15 +265,25 @@ exist, to obtain the directions of a Judge in Chambers as to such estate in resp
 
 (4) On the death of any person all his estate real and personal whatever within Trinidad and Tobago shall vest in law in the Administrator General until the same is divested by the grant
 
-of Probate or Letters of Administration to some other person or persons: Provided that the Administrator General shall not, pending the grant of such Probate or Letters of Administration, take possession of or interfere in the administration of any estate save as in this Act and in the Wills and Probate Act provided. Ch. 9:03.
+*Ch. 9:03.*
 
-(5) The provisions of the last preceding subsection shall be deemed to have applied to the real estate within Trinidad and Tobago of all persons who died prior to the 1st of January, 1903, which was, at the time of such death, liable to be escheated, in all respects as if such persons had died subsequent to that date: Provided always, that nothing herein contained shall affect the operation of the State Suits Limitation Ordinance, or any right conferred thereby. Cap. 5/2.
+of Probate or Letters of Administration to some other person or persons: Provided that the Administrator General shall not, pending the grant of such Probate or Letters of Administration, take possession of or interfere in the administration of any estate save as in this Act and in the Wills and Probate Act provided.
 
-**10A.** (1) If while a decree of judicial separation is in force and Judicially separated the separation is continuing either of the parties whose marriage is spouses not the subject of the decree dies after the commencement of the entitled to claims in Matrimonial Proceedings and Property Act, intestate as respects intestacy of all or any of his or her real or personal property, the property of each other. [2 of 1972]. that party as respects which he or she died intestate shall devolve Ch. 45:51. as if the other party to the marriage had then been dead.
+*Cap. 5/2.*
 
-(2) Notwithstanding anything in section 4(1)(a) of the Separation and Maintenance Act, [repealed by the Family Law Ch. 45:52. (Guardianship of Minors, Domicile and Maintenance) Act] a Ch. 46:08. provision in force in an Order made, or having effect as if made, under that section that a party to a marriage be no longer bound to cohabit with the other party to the marriage shall not have effect as a decree of judicial separation for the purposes of this section.
+(5) The provisions of the last preceding subsection shall be deemed to have applied to the real estate within Trinidad and Tobago of all persons who died prior to the 1st of January, 1903, which was, at the time of such death, liable to be escheated, in all respects as if such persons had died subsequent to that date: Provided always, that nothing herein contained shall affect the operation of the State Suits Limitation Ordinance, or any right conferred thereby.
 
-**11.** (1) Subject to the powers, rights, duties, and liabilities Rights of hereinafter mentioned, the representative of a deceased person shall persons beneficially hold the real estate as a trustee for the persons by law beneficially entitled. entitled thereto, and those persons shall have the same power of requiring a conveyance of real estate under section 12 as persons beneficially entitled to personal estate have hitherto had of requiring a transfer or delivery of such personal estate.
+*Judicially separated spouses not entitled to claims in intestacy of each other. [2 of 1972]. Ch. 45:51.*
+
+**10A.** (1) If while a decree of judicial separation is in force and the separation is continuing either of the parties whose marriage is the subject of the decree dies after the commencement of the Matrimonial Proceedings and Property Act, intestate as respects all or any of his or her real or personal property, the property of that party as respects which he or she died intestate shall devolve as if the other party to the marriage had then been dead.
+
+*Ch. 45:52. Ch. 46:08.*
+
+(2) Notwithstanding anything in section 4(1)(a) of the Separation and Maintenance Act, [repealed by the Family Law (Guardianship of Minors, Domicile and Maintenance) Act] a provision in force in an Order made, or having effect as if made, under that section that a party to a marriage be no longer bound to cohabit with the other party to the marriage shall not have effect as a decree of judicial separation for the purposes of this section.
+
+*Rights of persons beneficially entitled.*
+
+**11.** (1) Subject to the powers, rights, duties, and liabilities hereinafter mentioned, the representative of a deceased person shall hold the real estate as a trustee for the persons by law beneficially entitled thereto, and those persons shall have the same power of requiring a conveyance of real estate under section 12 as persons beneficially entitled to personal estate have hitherto had of requiring a transfer or delivery of such personal estate.
 
 (2) All enactments and rules of law relating to the effect of Probate or Letters of Administration on chattels real, and as respects the payment of costs of administration and other matters
 
@@ -291,17 +301,23 @@ Provided also, that the proviso lastly hereinbefore set forth shall apply to Pro
 
 (2) At any time after the expiration of one year from the death of the owner of any land, if his representative has failed on the request of the person entitled to the land to assent, or to convey
 
-or transfer the land to that person, the Court may, if it thinks fit, on the application of that person, and after notice to the representative, order that the assent, conveyance, or transfer be made, or, in the case of land under the Real Property Act, that the person so entitled Ch. 56:02. be registered as a proprietor of the land, either solely or jointly with the representative.
+*Ch. 56:02.*
+
+or transfer the land to that person, the Court may, if it thinks fit, on the application of that person, and after notice to the representative, order that the assent, conveyance, or transfer be made, or, in the case of land under the Real Property Act, that the person so entitled be registered as a proprietor of the land, either solely or jointly with the representative.
 
 (3) The production of an assent or transfer by the representative of a deceased proprietor of land under the Real Property Act shall, subject to the provisions of such Act, authorise the Registrar General to make the prescribed entry in the Real Property Register of the title of the person named in the assent or transfer as proprietor of the land, and such instrument shall not be deemed to affect the title to such land until such entry has been made.
 
-**13.** A Deed or instrument under the last preceding section shall Deed of assent to be registered. have validity only when duly registered. No registration fee beyond [6 of 1993]. the sum of twenty-five dollars and no stamp duty shall be chargeable in respect of any such deed or instrument.
+*Deed of assent to be registered. [6 of 1993].*
 
-*of*
+**13.** A Deed or instrument under the last preceding section shall have validity only when duly registered. No registration fee beyond the sum of twenty-five dollars and no stamp duty shall be chargeable in respect of any such deed or instrument.
 
-**14.** (1) The representative of a deceased person may, in the Appropriation estate in absence of any express provision to the contrary contained in the satisfaction of Will of such deceased person, with the consent of the person entitled legacy or share. to any legacy or interest given by the deceased person or to a share in his residuary estate, or, if the person entitled is a person of unsound mind or an infant, with the consent of his committee, trustee, or guardian, appropriate any party of the residuary estate of the deceased in or towards satisfaction of that legacy or share, and may for that purpose value in the prescribed manner the whole or any part of the property of the deceased person in such manner as they think fit: Provided that before any such appropriation is effectual, notice of such intended appropriation shall be given to all persons interested in the residuary estate, any of whom may thereupon, within the prescribed time, apply to the Court, and such valuation and appropriation shall be conclusive save as otherwise directed by the Court.
+*Appropriation of estate in satisfaction of legacy or share.*
 
-(2) In the case of land under the Real Property Act, the Ch. 56:02. production of sufficient evidence of an appropriation under this section shall, subject to the provisions of the Real Property Act, authorise the Registrar General to register the person to whom the
+**14.** (1) The representative of a deceased person may, in the absence of any express provision to the contrary contained in the Will of such deceased person, with the consent of the person entitled to any legacy or interest given by the deceased person or to a share in his residuary estate, or, if the person entitled is a person of unsound mind or an infant, with the consent of his committee, trustee, or guardian, appropriate any party of the residuary estate of the deceased in or towards satisfaction of that legacy or share, and may for that purpose value in the prescribed manner the whole or any part of the property of the deceased person in such manner as they think fit: Provided that before any such appropriation is effectual, notice of such intended appropriation shall be given to all persons interested in the residuary estate, any of whom may thereupon, within the prescribed time, apply to the Court, and such valuation and appropriation shall be conclusive save as otherwise directed by the Court.
+
+*Ch. 56:02.*
+
+(2) In the case of land under the Real Property Act, the production of sufficient evidence of an appropriation under this section shall, subject to the provisions of the Real Property Act, authorise the Registrar General to register the person to whom the
 
 property is appropriated as proprietor of the land, and the sufficiency of such evidence shall be determined by the Registrar General, subject to any directions which may be given by a Judge as in such Act provided.
 
@@ -323,15 +339,21 @@ property is appropriated as proprietor of the land, and the sufficiency of such 
 
 such Will shall renounce and disclaim the execution of such Will, or being duly cited shall refuse or neglect to prove such Will, and in case of the death of any representative of any such person deceased, for administration or administration with Will annexed of the estate unadministered.
 
-**18.** The Administrator General shall, as such, have power if Small estates there is no executor appointed by Will or if there is no person who under $960, in absence of has obtained Letters of Administration to the estate of any deceased executor or person and in any case that appears to him to require him so to do, administrator. pending the grant of Probate of any Will or of Letters of Administration to such estate, to take possession of, seize, reduce into possession, sell, realise, and get in the estate, real and personal, or any person dying in Trinidad and Tobago or possessed of property in Trinidad and Tobago, whenever such estate and effects are shown not to amount in gross value to the sum of nine hundred and sixty dollars, without applying for probate of any Will or grant of Letters of Administration:
+*Small estates under $960, in absence of executor or administrator.*
 
-Provided that nothing herein contained shall be construed to limit the power to issue administration conferred by rule 5 in the First Schedule to the Wills and Probate Act. And administration Ch. 9:03. under the said rule shall, if granted in respect of any estate so taken possession of as hereinbefore mentioned, be deemed equivalent to a grant of administration of the state unadministered by the Administrator General:
+**18.** The Administrator General shall, as such, have power if there is no executor appointed by Will or if there is no person who has obtained Letters of Administration to the estate of any deceased person and in any case that appears to him to require him so to do, pending the grant of Probate of any Will or of Letters of Administration to such estate, to take possession of, seize, reduce into possession, sell, realise, and get in the estate, real and personal, or any person dying in Trinidad and Tobago or possessed of property in Trinidad and Tobago, whenever such estate and effects are shown not to amount in gross value to the sum of nine hundred and sixty dollars, without applying for probate of any Will or grant of Letters of Administration:
+
+*Ch. 9:03.*
+
+Provided that nothing herein contained shall be construed to limit the power to issue administration conferred by rule 5 in the First Schedule to the Wills and Probate Act. And administration under the said rule shall, if granted in respect of any estate so taken possession of as hereinbefore mentioned, be deemed equivalent to a grant of administration of the state unadministered by the Administrator General:
 
 Provided also, that in the event of its being made to appear at any time after the Administrator General has proceeded to take possession of any estate under the provisions of this section, that such estate equals or exceeds in gross value the sum of nine hundred and sixty dollars, then such possession and the acts done to obtain the same and any sale or realisation of such estate and effects or of any part thereof shall not be in any way invalidated, but the Administrator General may forthwith proceed to apply for Probate or Letters of Administration to be granted to him or to any person or persons entitled.
 
-*under*
+*Intestates’ estates under $960.*
 
-**19.** In any case in which it appears that the property, real and Intestates’ personal, of or to which a deceased intestate has died possessed or estates $960. entitled does not exceed in value the sum of nine hundred and sixty dollars, and no application has been made by any person entitled under rule 5 in the First Schedule to the Wills and Probate Ch. 9:03. Act, it shall be lawful for the Administrator General to make application as in such rule provided for the benefit of any person
+*Ch. 9:03.*
+
+**19.** In any case in which it appears that the property, real and personal, of or to which a deceased intestate has died possessed or entitled does not exceed in value the sum of nine hundred and sixty dollars, and no application has been made by any person entitled under rule 5 in the First Schedule to the Wills and Probate Act, it shall be lawful for the Administrator General to make application as in such rule provided for the benefit of any person
 
 who may appear to him to have established a legal, equitable or moral claim, and in default of any such person, for the use of Trinidad and Tobago; and in such first-mentioned case to pay or divide or grant the estate of the deceased, when administration shall have been granted, among the persons who shall have established a legal claim, and, in default of any such persons, with the assent of the President, among persons who shall establish an equitable or moral claim, in such proportions and subject to such conditions and the payment of such costs as the President may approve.
 
@@ -351,9 +373,13 @@ and testamentary expenses and debts of the testator or intestate and of his esta
 
 ### DISTRIBUTION OF ESTATES
 
-**23.** An estate or interest to which a deceased person was Distribution on intestacy. entitled on his death in respect of which he dies intestate shall, [28 of 2000]. after all payment of debts, duties, and expenses be distributed or held on trust amongst the same persons being kin or next of kin in accordance with sections 24, 25, 26 and 26A.
+*Distribution on intestacy. [28 of 2000].*
 
-**24.** (1) Where an intestate dies leaving a surviving spouse Shares of spouse and issue. but no issue, his estate shall be distributed to or held on trust for [28 of 2000]. the surviving spouse absolutely.
+**23.** An estate or interest to which a deceased person was entitled on his death in respect of which he dies intestate shall, after all payment of debts, duties, and expenses be distributed or held on trust amongst the same persons being kin or next of kin in accordance with sections 24, 25, 26 and 26A.
+
+*Shares of spouse and issue. [28 of 2000].*
+
+**24.** (1) Where an intestate dies leaving a surviving spouse but no issue, his estate shall be distributed to or held on trust for the surviving spouse absolutely.
 
 (2) Where an intestate dies leaving issue, but no spouse, his estate shall be distributed per stirpes among the issue.
 
@@ -361,7 +387,9 @@ and testamentary expenses and debts of the testator or intestate and of his esta
 
 (4) Where the intestate dies leaving a spouse and more than one child, the surviving spouse shall take one-half the estate absolutely and the remaining one-half shall be distributed to or held on trust for the children.
 
-**25.** (1) Notwithstanding section 24, where an intestate dies Rights of cohabitants. leaving no surviving spouse, but dies leaving a surviving cohabitant, [28 of 2000]. the cohabitant shall be treated for the purposes of this Act as if he or she were a surviving spouse of the intestate.
+*Rights of cohabitants. [28 of 2000].*
+
+**25.** (1) Notwithstanding section 24, where an intestate dies leaving no surviving spouse, but dies leaving a surviving cohabitant, the cohabitant shall be treated for the purposes of this Act as if he or she were a surviving spouse of the intestate.
 
 (2) Notwithstanding section 24, where an intestate dies leaving a spouse and a cohabitant and the intestate and his spouse were at the time of his death living separate and apart from one
 
@@ -391,25 +419,31 @@ another, only such part of the estate as was acquired during the period of cohab
 
 (f) where there is no issue of the brothers and sisters of the half blood to the uncles and aunts of the intestate, being brothers and sisters of the whole blood and then of the half blood of a parent of the intestate.
 
-**26B.** Descendants and relatives of the intestate, conceived before Posthumous births. his death but born afterwards, inherit as if they had been born in [28 of 2000]. his lifetime and had survived him.
+*Posthumous births. [28 of 2000].*
 
-**26C.** In default of any person taking an absolute interest under No successors. the foregoing provisions, the estate of the intestate belongs to the [28 of 2000]. State as bona vacantia.
+**26B.** Descendants and relatives of the intestate, conceived before his death but born afterwards, inherit as if they had been born in his lifetime and had survived him.
+
+*No successors. [28 of 2000].*
+
+**26C.** In default of any person taking an absolute interest under the foregoing provisions, the estate of the intestate belongs to the State as bona vacantia.
 
 ### WAIVER OF RIGHTS OF STATE
 
-**27.** Whenever the Administrator General on behalf of Trinidad Grant of State and Tobago has obtained administration to the estate of a deceased rights after administration. person intestate, and no person appears to be legally entitled to the [28 of 2000]. Ord. 32—1947. beneficial interest in the residue of such estate under the provisions of sections 24 to 26A, it shall be lawful for the President or any person duly authorised by him, by warrant, to order the payment or transfer of the whole or any part of such residuary estate if got in and converted into money, or the transfer, delivery, or grant of any part thereof unconverted, whether consisting of real or personal estate, to any person who shall have established to the satisfaction of the President or any person duly authorised by him a legal, equitable, or moral claim thereto. And in the case of any part of such residuary estate consisting of land, then the Administrator General shall, by virtue of such warrant, execute and deliver to such person a Deed of transfer under the provisions of section 12, vesting such land in such person in accordance with the terms of such warrant. And in the case of such residue consisting of money which has been paid to the Comptroller of Accounts on behalf of Trinidad and Tobago, then the Comptroller of Accounts shall, on such warrant, pay the amount therein specified to the person in such warrant mentioned, and any such warrant as aforesaid may be granted on such terms and conditions as to the costs and fees attendant on transfer and as to the payment of such duties and otherwise, as to the President or any person duly authorised by him may seem fit.
+*Grant of State rights after administration. [28 of 2000]. Ord. 32—1947.*
 
-**28.** Where a person has died intestate, and the value of the Grant of State rights without estate, real and personal, of such person does not exceed nine administration. hundred and sixty dollars, and such estate of such person shall [28 of 2000]. Ord. 32—1947. have vested in the Administrator General under the provisions of subsection (4) of section 10, and no administration to the estate of such person has been granted, it shall be lawful for the President or any person duly authorised by him, at any time after the
+**27.** Whenever the Administrator General on behalf of Trinidad and Tobago has obtained administration to the estate of a deceased person intestate, and no person appears to be legally entitled to the beneficial interest in the residue of such estate under the provisions of sections 24 to 26A, it shall be lawful for the President or any person duly authorised by him, by warrant, to order the payment or transfer of the whole or any part of such residuary estate if got in and converted into money, or the transfer, delivery, or grant of any part thereof unconverted, whether consisting of real or personal estate, to any person who shall have established to the satisfaction of the President or any person duly authorised by him a legal, equitable, or moral claim thereto. And in the case of any part of such residuary estate consisting of land, then the Administrator General shall, by virtue of such warrant, execute and deliver to such person a Deed of transfer under the provisions of section 12, vesting such land in such person in accordance with the terms of such warrant. And in the case of such residue consisting of money which has been paid to the Comptroller of Accounts on behalf of Trinidad and Tobago, then the Comptroller of Accounts shall, on such warrant, pay the amount therein specified to the person in such warrant mentioned, and any such warrant as aforesaid may be granted on such terms and conditions as to the costs and fees attendant on transfer and as to the payment of such duties and otherwise, as to the President or any person duly authorised by him may seem fit.
+
+*Grant of State rights without administration. [28 of 2000]. Ord. 32—1947.*
+
+**28.** Where a person has died intestate, and the value of the estate, real and personal, of such person does not exceed nine hundred and sixty dollars, and such estate of such person shall have vested in the Administrator General under the provisions of subsection (4) of section 10, and no administration to the estate of such person has been granted, it shall be lawful for the President or any person duly authorised by him, at any time after the
 
 expiration of six months from such death, on its being made to appear by affidavit, that the deceased person has died intestate, and that there is no evidence that there is any person in Trinidad and Tobago entitled to his estate under the provisions of sections 24 to 26A, to transfer to any person who shall have established a legal, equitable, or moral claim thereto within the meaning of the last preceding section, such part of the residuary estate of the intestate; consisting of land, as shall then be so vested in the Administrator General, to such persons and for such estates as shall in such warrant be directed. Such warrant may be granted subject to such terms and conditions as in the last preceding section specified.
 
 *Registration of warrant.*
 
-**29.** A transfer of land under either of the two last preceding sections shall be entered, in the case of land subject to the provisions
-
 *Ch. 56:02.*
 
-of the Real Property Act, on the Real Property Register, and in the case of land not so subject, in the Protocol of Deeds, on the delivery thereof to the Registrar General within twelve days from the same being signed, and at the expiration of one year from such registration shall be deemed to have passed the legal estate in such land according to the terms of such transfer; and administration obtained to the estate of such intestate after the expiration of such year shall not be deemed to vest in the real representative to whom such administration shall have been granted or in the next of kin the legal or beneficial estate respectively in such land:
+**29.** A transfer of land under either of the two last preceding sections shall be entered, in the case of land subject to the provisions of the Real Property Act, on the Real Property Register, and in the case of land not so subject, in the Protocol of Deeds, on the delivery thereof to the Registrar General within twelve days from the same being signed, and at the expiration of one year from such registration shall be deemed to have passed the legal estate in such land according to the terms of such transfer; and administration obtained to the estate of such intestate after the expiration of such year shall not be deemed to vest in the real representative to whom such administration shall have been granted or in the next of kin the legal or beneficial estate respectively in such land:
 
 Provided that in the case of land subject to the provisions of the Real Property Act, on the entry of any such transfer the Registrar General shall enter a caveat on behalf of the Administrator General and all persons entitled to take out Letters of Administration, and shall remove the same at the expiration of one year from such registration.
 
@@ -417,29 +451,33 @@ Provided that in the case of land subject to the provisions of the Real Property
 
 **30.** The registration in the Protocol of Deeds of transfers or warrants under sections 10 and 11 of the Distributions Ordinance, No. 102, granting land not subject to the provisions of the Real Property Act shall, as regards transfers or warrants which at the time of the commencement of this Act have been entered in such protocol for a period of two years and upwards, or if not so entered for the full period of two years on the 7th of March, 1912, then upon the completion thereof, be deemed to be in all respects valid and effectual for the purposes set forth in the last preceding section.
 
-**31.** A transfer under section 27 shall, as to any land therein Effect of transfer comprised, be deemed in like manner to take effect by way of under section 27. entitling the person therein named to possession, and shall bind the legal and beneficial estate in such land according to the tenor thereof after the expiration of one year from its registration, unless in the meantime application has been made on behalf of persons claiming to be entitled as against the State to set aside the administration granted to the Administrator General, or thereafter in the event of all such applications being unsuccessful.
+*Effect of transfer under section 27.*
+
+**31.** A transfer under section 27 shall, as to any land therein comprised, be deemed in like manner to take effect by way of entitling the person therein named to possession, and shall bind the legal and beneficial estate in such land according to the tenor thereof after the expiration of one year from its registration, unless in the meantime application has been made on behalf of persons claiming to be entitled as against the State to set aside the administration granted to the Administrator General, or thereafter in the event of all such applications being unsuccessful.
 
 ## PART IV — ESTATES OF PERSONS OF UNSOUND MIND
 
-**32.** The Administrator General may be constituted the Administrator committee or a joint committee of the estate and effects of any General may be constituted
+*Administrator General may be constituted committee of insane person.*
 
-*of*
+**32.** The Administrator General may be constituted the committee or a joint committee of the estate and effects of any person of unsound mind in the same manner as any other person capable of being so constituted and appointed, at the discretion of the Court having jursidiction in that behalf.
 
-person of unsound mind in the same manner as any other person committee insane person. capable of being so constituted and appointed, at the discretion of the Court having jursidiction in that behalf.
+*Insane persons’ estates.*
 
-**33.** The Administrator General shall possess himself of the Insane persons’ estates. estate, real and personal, of any person of unsound mind resident in Trinidad and Tobago where such estate does not exceed in value the sum of four hundred and eighty dollars, without any inquisition found, and may administer such estate for the benefit of such person, and may take possession of, sell, and realise the estate, real and personal, of such person and make such payments out of such estate for the maintenance of such person, including any payment to or on account of the Director of Medical Services for the maintenance of such person in the mental hospital, as he may think fit, and generally may exercise all the powers which could be exercised by the legal personal representative of such person if he were dead, without any proceedings being instituted for the purpose.
+**33.** The Administrator General shall possess himself of the estate, real and personal, of any person of unsound mind resident in Trinidad and Tobago where such estate does not exceed in value the sum of four hundred and eighty dollars, without any inquisition found, and may administer such estate for the benefit of such person, and may take possession of, sell, and realise the estate, real and personal, of such person and make such payments out of such estate for the maintenance of such person, including any payment to or on account of the Director of Medical Services for the maintenance of such person in the mental hospital, as he may think fit, and generally may exercise all the powers which could be exercised by the legal personal representative of such person if he were dead, without any proceedings being instituted for the purpose.
 
 ## PART V — GENERAL
 
-**34.** Nothing in this Act contained shall be deemed in any way Savings Bank deposits. to affect the powers of the President and the Postmaster General under the Post Office Savings Bank Act to pay, apply, and distribute Ch. 47:01. moneys standing to the credit of a depositor in the Savings Bank to the several classes of persons in such Act specified.
+*Savings Bank deposits.*
+
+*Ch. 47:01.*
+
+**34.** Nothing in this Act contained shall be deemed in any way to affect the powers of the President and the Postmaster General under the Post Office Savings Bank Act to pay, apply, and distribute moneys standing to the credit of a depositor in the Savings Bank to the several classes of persons in such Act specified.
 
 *Rules as to procedure.*
 
-**35.** In respect of all applications to be made to or entertained by the Court under the provisions of this Act, and of the Court fees, charges, and costs of parties and Attorneys-at-law payable in respect of the same, and of the forms to be used in respect of the same, and generally for carrying the provisions of this Act into effect, it shall be lawful for the Chief Justice, with the concurrence of a Puisne Judge, to make such rules and orders as may be deemed necessary for regulating and providing for the same; and such rules and orders when made shall be laid before Parliament for confirmation and have validity in the same manner and subject to the same conditions in all respects as Rules made under the
-
 *Ch. 4:01.*
 
-provisions of the Supreme Court of Judicature Act.
+**35.** In respect of all applications to be made to or entertained by the Court under the provisions of this Act, and of the Court fees, charges, and costs of parties and Attorneys-at-law payable in respect of the same, and of the forms to be used in respect of the same, and generally for carrying the provisions of this Act into effect, it shall be lawful for the Chief Justice, with the concurrence of a Puisne Judge, to make such rules and orders as may be deemed necessary for regulating and providing for the same; and such rules and orders when made shall be laid before Parliament for confirmation and have validity in the same manner and subject to the same conditions in all respects as Rules made under the provisions of the Supreme Court of Judicature Act.
 
 *Regulations for conduct of office of Administrator General.*
 
@@ -467,6 +505,10 @@ provisions of the Supreme Court of Judicature Act.
 
 **7.** Estate duties payable in accordance with the Administration of Estates Act.
 
+*MINISTRY OF THE*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 *[Subsidiary]*
 
 *RG 25.11.37.*
@@ -481,21 +523,21 @@ made under section 35
 
 *Commission to be paid to the Administrator General.*
 
-**2.** Under section 7 of the Act a commission of 5 per cent, is, unless otherwise directed by the Court, payable on all sums received by the Administrator General in respect of any estate coming into his hands.
+*by his*
 
-*Commission to be paid where waiver is granted.*
+**2.** Under section 7 of the Act a commission of 5 per cent, is, unless otherwise directed by the Court, payable on all sums received the Administrator General in respect of any estate coming into hands.
 
-**3.** A commission of 3 per cent is payable on all sums of money in respect of which a waiver is granted.
+*Commission to be paid where in waiver is granted.*
+
+**3.** A commission of 3 per cent is payable on all sums of money respect of which a waiver is granted.
 
 *Commission payable under sections 27 and 28.*
 
 **4.** On a transfer of real and personal estate (other than money) under sections 27 and 28 of the Act—
 
-Where the net value of the estate (after making allowances for deductions as authorised by the
-
 *Ch. 76:02.*
 
-Estate and Succession Duties Act for arriving at the net value of an estate), does not exceed $480, 7 1 / 2 per cent commission is payable.
+Where the net value of the estate (after making allowances for deductions as authorised by the Estate and Succession Duties Act for arriving at the net value of an estate), does not exceed $480, 7 1 / 2 per cent commission is payable.
 
 Where it exceeds $480, 10 per cent commission is payable:
 
@@ -503,14 +545,20 @@ Provided that where the estate is insolvent, a fee of $5.00 on every $480 (or pa
 
 Administrator General’s Fees and Charges Order [Subsidiary]
 
-**5.** On all conveyances and transfers to perfect or rectify titles, Commission payable on value a commission of 5 per cent is payable on the value of the property. of property.
+*a*
 
-**6.** In respect of transfers of land under sections 27 and 28 Fees payable under sections of the Act, a fee of 24 cents is payable for resignation.
+**5.** On all conveyances and transfers to perfect or rectify titles, Commission payable on value commission of 5 per cent is payable on the value of the property. of property.
+
+*of*
+
+**6.** In respect of transfers of land under sections 27 and 28 Fees payable under sections the Act, a fee of 24 cents is payable for resignation.
 
 27 and 28 for resignation. No stamp duty is payable.
 
 No fee for preparation of the Deed is payable.
 
-**7.** Estate duty shall be paid on all estates subject to duty Estate duties payable in in accordance with provisions of the Estate and Succession accordance with the Adminis-Duties Act.
+*in*
+
+**7.** Estate duty shall be paid on all estates subject to duty Estate duties payable in accordance with provisions of the Estate and Succession accordance with the Adminis-Duties Act.
 
 tration of Estates Act. Ch. 76:02.

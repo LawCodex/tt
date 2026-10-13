@@ -35,7 +35,9 @@ Index of Subsidiary Legislation Page Bruce Stephens Provident Fund Rules (GN 234
 
 ### BRUCE STEPHENS TRUST ACT
 
-## ARRANGEMENT OF SECTIONS SECTION
+## ARRANGEMENT OF SECTIONS
+
+*SECTION*
 
 **1.** Short title.
 
@@ -103,9 +105,9 @@ Pension and gratuity payable under this Ordinance to be in lieu of pension or gr
 
 ### BRUCE STEPHENS TRUST ACT
 
-*\13. No. 3. 6 of 1933.*
+*1950 Ed. Ch. 13. No. 3. 6 of 1933.*
 
-An Act to create a Trust Fund to be known as the Bruce 1950 Ed. Stephens Trust and to provide for the appointment of Ch. Trustees of such Fund and the management thereof.
+An Act to create a Trust Fund to be known as the Bruce Stephens Trust and to provide for the appointment of Trustees of such Fund and the management thereof.
 
 *Commencement.*
 
@@ -117,7 +119,9 @@ And whereas a considerable portion of such property as aforesaid consists of sha
 
 And whereas it is also desirable that such trust should be created by Act and that the terms of the Trust as approved by the said John Walker Stephens should be included in such Act:
 
-**1.** This Ordinance may be cited as the Bruce Stephens Short title. Trust Act.
+*Short title.*
+
+**1.** This Ordinance may be cited as the Bruce Stephens Trust Act.
 
 *Interpretation.*
 
@@ -137,11 +141,9 @@ And whereas it is also desirable that such trust should be created by Act and th
 
 *Vesting of property of the Company in Trinidad and Tobago in the Trustees.*
 
-(2) Upon the transfer of such shares as aforesaid and from the date of registration thereof all real and personal property of whatsoever description in Trinidad and Tobago then held by and vested in the Company shall notwithstanding any provisions of
-
 *Ch. 56:02.*
 
-the Real Property Act or any other written law be held by and vested in the Trustees for the same estates and interests as and to the extent to which the same were respectively previously held by or vested in the Company, subject to any encumbrances, estates, interests, rights or easements (if any) then affecting the same.
+(2) Upon the transfer of such shares as aforesaid and from the date of registration thereof all real and personal property of whatsoever description in Trinidad and Tobago then held by and vested in the Company shall notwithstanding any provisions of the Real Property Act or any other written law be held by and vested in the Trustees for the same estates and interests as and to the extent to which the same were respectively previously held by or vested in the Company, subject to any encumbrances, estates, interests, rights or easements (if any) then affecting the same.
 
 The Registrar General shall endorse a memorial of such vesting on the certificate of title of every parcel of land held by the Company under the provisions of the Real Property Act.
 
@@ -161,11 +163,17 @@ of such period the Trustees shall out of moneys accruing to the Trust settle and
 
 (2) Upon application in writing by the Trustees the Registrar General shall upon production of such evidence as he may require that all claims and liabilities of the Company have been settled and discharged strike the name of the Company off the register and thereupon the Company shall be deemed to be dissolved.
 
-**6.** After the dissolution of the Company, no action, suit, Indemnity to Trustees and prosecution or other legal proceeding shall lie or be instituted officers of the against any Trustee or director or officer of the Company in respect Company. of any claim against the Company or against any director or officer of the Company as such for anything in good faith done, intended to be done or omitted to be done prior to the date of dissolution.
+*Indemnity to Trustees and officers of the Company.*
 
-**7.** Any other real or personal property of whatsoever Any future property given description and wheresoever situate that may from time to time by the Donor to the Trustees to hereafter be granted, conveyed, transferred or assigned by the form part of the Donor to the Trustees shall, subject to any encumbrances, estates, Trust. interests, rights or easements (if any) then affecting the same, be held by the Trustees as part of the Trust and be subject in all respects to the provisions of this Act.
+**6.** After the dissolution of the Company, no action, suit, prosecution or other legal proceeding shall lie or be instituted against any Trustee or director or officer of the Company in respect of any claim against the Company or against any director or officer of the Company as such for anything in good faith done, intended to be done or omitted to be done prior to the date of dissolution.
 
-**8.** (1) The Trustees shall consist of not more than six persons Trustees— Appointment nor less than three persons to be appointed by the President by and resignation. instrument under his hand.
+*Any future property given by the Donor to the Trustees to form part of the Trust.*
+
+**7.** Any other real or personal property of whatsoever description and wheresoever situate that may from time to time hereafter be granted, conveyed, transferred or assigned by the Donor to the Trustees shall, subject to any encumbrances, estates, interests, rights or easements (if any) then affecting the same, be held by the Trustees as part of the Trust and be subject in all respects to the provisions of this Act.
+
+*Trustees— Appointment and resignation.*
+
+**8.** (1) The Trustees shall consist of not more than six persons nor less than three persons to be appointed by the President by instrument under his hand.
 
 (2) The Trustees shall hold office for a period of three years from the date of their respective appointments but may be reappointed by the President.
 
@@ -197,19 +205,25 @@ secondly, with the consent of the majority of the Trustees, in providing moneys 
 
 (3) All moneys accruing to the Reserve Fund and not for the time being required by the Trustees for the purposes specified in subsection (2) may from time to time be invested by the Trustees in accordance with the provisions of section 10, and the interest accruing from any such investments shall be credited to the Trust.
 
-**13.** The financial year of the Trust shall be the calendar year Financial year. ending on 30th June in each year.
+*Financial year.*
 
-**14.** (1) The Chairman of the Trustees shall be such one of Chairman of Trustees and the Trustees as may from time to time be nominated by the quorum. President, and such Chairman shall have a casting as well as a deliberative vote.
+**13.** The financial year of the Trust shall be the calendar year ending on 30th June in each year.
+
+*Chairman of Trustees and quorum.*
+
+**14.** (1) The Chairman of the Trustees shall be such one of the Trustees as may from time to time be nominated by the President, and such Chairman shall have a casting as well as a deliberative vote.
 
 (2) Three Trustees shall constitute the quorum necessary to constitute a meeting of the Trustees.
 
 (3) In the absence of the Chairman the Trustees shall appoint one of their number to act as Chairman of any meeting.
 
-**15.** The Trustees shall keep or cause to be kept minutes of the Minutes of meetings of proceedings of all meetings of the Trustees.
+*Minutes of meetings of Trustees.*
 
-Trustees.
+**15.** The Trustees shall keep or cause to be kept minutes of the proceedings of all meetings of the Trustees.
 
-**16.** (1) Subject to the provisions of subsection (2) the Trustees Secretary to the Trust. may appoint a Secretary or an Assistant Secretary to the Trust who shall receive such remuneration as the Trustees think fit, but no Trustee appointed or acting as Secretary or Assistant Secretary shall receive any remuneration for his services.
+*Secretary to the Trust.*
+
+**16.** (1) Subject to the provisions of subsection (2) the Trustees may appoint a Secretary or an Assistant Secretary to the Trust who shall receive such remuneration as the Trustees think fit, but no Trustee appointed or acting as Secretary or Assistant Secretary shall receive any remuneration for his services.
 
 (2) Miss Olive Kelshall of Port of Spain shall be the Secretary to the Trust and shall, subject as hereinafter provided, continue to be such Secretary during her lifetime and shall be paid by the Trustees a salary at the rate of not less than seven hundred and twenty dollars a year during such time as she shall be Secretary to the Trust, provided that she may at any time resign
 
@@ -223,43 +237,45 @@ the office of Secretary to the Trust; and if at any time in the opinion of the P
 
 *Certain employees of Trust ineligible for Provident Fund benefits but entitled to pension. First Schedule.*
 
-(2) Notwithstanding anything contained in the rules for the governance of any Provident Fund established and maintained by the Trustees for the benefit of the staff of the Trust, the persons named in the First Schedule being on 19th November 1949, members of the staff of the Trust holding the offices indicated in the said Schedule shall not be eligible to be contributors to such Provident Fund but shall, on their retirement from the service of the Trust, be paid from the funds of the Trust such pensions as they would have been respectively entitled to if they had been
-
 *Ch. 23:52.*
 
-public officers within the meaning of the Pensions Act.
+(2) Notwithstanding anything contained in the rules for the governance of any Provident Fund established and maintained by the Trustees for the benefit of the staff of the Trust, the persons named in the First Schedule being on 19th November 1949, members of the staff of the Trust holding the offices indicated in the said Schedule shall not be eligible to be contributors to such Provident Fund but shall, on their retirement from the service of the Trust, be paid from the funds of the Trust such pensions as they would have been respectively entitled to if they had been public officers within the meaning of the Pensions Act.
 
 *Pension and Gratuity payable to Alphonse Perrin.*
 
 (3) Notwithstanding the provisions of subsection (2), there may be paid from the funds of the Trust to Alphonse Perrin, Manager, Les Lilas Estates, on his retirement from the service of the Trust, a pension at the rate of one thousand three hundred and fifty dollars a year and a gratuity of four thousand five hundred dollars.
 
-(4) The pension and gratuity payable under and by virtue Pension and of subsection (3) shall be in lieu of any other pension or any other gratuity payable under this
+*Pension and gratuity payable under this Ordinance to be in lieu of pension or gratuity payable under Principal Ordinance.*
 
-*to be*
+(4) The pension and gratuity payable under and by virtue of subsection (3) shall be in lieu of any other pension or any other pension and gratuity which, but for the provisions of that subsection might have been payable to the said Alphonse Perrin under and by virtue of the provisions of the Act.
 
-pension and gratuity which, but for the provisions of that subsection Ordinance in lieu of might have been payable to the said Alphonse Perrin under and by pension or gratuity payable virtue of the provisions of the Act.
+*Objects of the Trust.*
 
-under Principal Ordinance.
+*Second Schedule.*
 
-**18.** (1) Subject to the provisions of sections 16 and 17 the Objects of the Trustees shall apply the income arising from the Trust in carrying Trust. out the objects specified in the Second Schedule.
-
-Second Schedule.
+**18.** (1) Subject to the provisions of sections 16 and 17 the Trustees shall apply the income arising from the Trust in carrying out the objects specified in the Second Schedule.
 
 (2) The Trustees or any relative of any Trustee within the first or second degree of consanguinity and any person not domiciled or resident in the former British West Indies or in former British Guiana shall be excluded from receiving any benefit under the Trust.
 
-**19.** The President may at the request of the Trustees by Order Variation of publish in the Gazette, add to, vary or limit the objects of the Trust objects of Trust. Second as set out in the Second Schedule. Schedule.
+*Variation of objects of Trust. Second Schedule.*
 
-**20.** The Trustee shall furnish to the President as soon as Report and possible after the expiration of each financial year a report upon audited accounts to be furnished the administration of the Trust together with a balance sheet and annually. statement of the revenue and expenditure of the Trust duly audited by the Auditor General.
+**19.** The President may at the request of the Trustees by Order publish in the Gazette, add to, vary or limit the objects of the Trust as set out in the Second Schedule.
 
-**21.** No Trustee shall incur any personal liability for any loss Indemnity to Trustees. or damage occasioned by any act in the administration of the Trust unless such loss or damage is occasioned by an intentionally wrongful act on his part.
+*Report and audited accounts to be furnished annually.*
 
-**22.** Notwithstanding anything contained in the Stamp Duty Exemption in Act or the Registrar General Act any instruments necessary for respect of stamp duties and
+**20.** The Trustee shall furnish to the President as soon as possible after the expiration of each financial year a report upon the administration of the Trust together with a balance sheet and statement of the revenue and expenditure of the Trust duly audited by the Auditor General.
 
-*fees.*
+*Indemnity to Trustees.*
 
-transferring to or vesting any property in the Trustees upon which registration Ch. 76:01. or in respect of which stamp duties or registration fees are payable Ch. 19:03. to the Government shall be exempt from the payment of such stamp duties or registration fees.
+**21.** No Trustee shall incur any personal liability for any loss or damage occasioned by any act in the administration of the Trust unless such loss or damage is occasioned by an intentionally wrongful act on his part.
 
-**23.** Notwithstanding anything contained in the Income Tax Exemption in respect of Act the income of the Trust shall be wholly exempt from income tax. payment of any income tax.
+*Exemption in respect of stamp duties and registration fees. Ch. 76:01. Ch. 19:03.*
+
+**22.** Notwithstanding anything contained in the Stamp Duty Act or the Registrar General Act any instruments necessary for transferring to or vesting any property in the Trustees upon which or in respect of which stamp duties or registration fees are payable to the Government shall be exempt from the payment of such stamp duties or registration fees.
+
+*Exemption in respect of income tax.*
+
+**23.** Notwithstanding anything contained in the Income Tax Act the income of the Trust shall be wholly exempt from payment of any income tax.
 
 *Rules. [45 of 1979].*
 
@@ -357,7 +373,9 @@ XII. ADMINISTRATION To provide buildings, staff, equipment, and other facilities
 
 BRUCE STEPHENS PROVIDENT FUND RULES deemed to be made under section 24
 
-**1.** These Rules may be cited as The Bruce Stephens Provident Citation. Fund Rules.
+*Citation.*
+
+**1.** These Rules may be cited as The Bruce Stephens Provident Fund Rules.
 
 *Interpretation.*
 
@@ -379,9 +397,9 @@ BRUCE STEPHENS PROVIDENT FUND RULES deemed to be made under section 24
 
 “Trust” means the Bruce Stephens Trust as defined in the Act.
 
-*the Fund.*
+*Establishment of the Fund.*
 
-**3.** The Trustees shall, subject to the provisions hereof, Establishment of establish, maintain and administer a fund to be known as “The Bruce Stephens Provident Fund” for the purpose of providing for employees of the Trust the benefits hereinafter specified.
+**3.** The Trustees shall, subject to the provisions hereof, establish, maintain and administer a fund to be known as “The Bruce Stephens Provident Fund” for the purpose of providing for employees of the Trust the benefits hereinafter specified.
 
 *Source of Fund.*
 
@@ -419,7 +437,9 @@ BRUCE STEPHENS PROVIDENT FUND RULES deemed to be made under section 24
 
 **10.** The moneys of the Fund or any part thereof may at the discretion of the Trustees be invested by the Trustees in such security or securities as the Trustees shall under the Act be entitled to invest moneys.
 
-**11.** (1) The Trustees shall cause to be kept proper accounts Accounts. and books in relation to the Fund.
+*Accounts.*
+
+**11.** (1) The Trustees shall cause to be kept proper accounts and books in relation to the Fund.
 
 (2) A separate account for each contributor shall be kept in the books of the Fund in which shall be entered separately all contributions, bonuses and interest.
 
@@ -427,15 +447,19 @@ BRUCE STEPHENS PROVIDENT FUND RULES deemed to be made under section 24
 
 (4) On the death of a contributor or on the termination of the contributor’s service with the Trust the account of such contributor shall be closed.
 
-**12.** (1) Subject to subrule (2), a contributor shall have no claim Refund of contributions. whatever to a refund or to payment of any part of the amount [68/1970]. standing to the credit of his account so long as he is in the service of the Trust.
+*Refund of contributions. [68/1970].*
+
+**12.** (1) Subject to subrule (2), a contributor shall have no claim whatever to a refund or to payment of any part of the amount standing to the credit of his account so long as he is in the service of the Trust.
 
 (2) A member of the staff of the Trust, who ceases to be a contributor by reason of provision being made for him to be paid a pension from the funds of the Trust, shall have his contributions refunded to him, though he remains in the service of the Trust.
 
-**13.** Contributors to the Fund shall retire from the service of Age of retirement. the Trust at the age of fifty-five years unless the Trustees desire to retain the service of such contributor for a longer period. Each contributor shall upon becoming a contributor forward to the Trustees his birth certificate and such further evidence concerning his age as the Trustees may reasonably require.
+*Age of retirement.*
 
-*of*
+**13.** Contributors to the Fund shall retire from the service of the Trust at the age of fifty-five years unless the Trustees desire to retain the service of such contributor for a longer period. Each contributor shall upon becoming a contributor forward to the Trustees his birth certificate and such further evidence concerning his age as the Trustees may reasonably require.
 
-**14.** The records of the Trust and the decision of the Decision Trustees to be Trustees concerning the age and length of service and amount binding. of earnings of any contributor shall be conclusive and binding on every contributor.
+*Decision of Trustees to be binding.*
+
+**14.** The records of the Trust and the decision of the Trustees concerning the age and length of service and amount of earnings of any contributor shall be conclusive and binding on every contributor.
 
 *Loss or debt due to the Trust.*
 
@@ -455,8 +479,14 @@ BRUCE STEPHENS PROVIDENT FUND RULES deemed to be made under section 24
 
 the purpose of effecting economy) or is dismissed from the service of the Trust for any reason whatsoever he shall upon the termination of his service subject to rule 15 be entitled to and be paid a sum equal to the amount of his contribution and interest thereon only to the date of retirement or dismissal.
 
-**17.** The Trustees may from time to time with the sanction of Amendment of Rules. the President alter and amend these rules and with the like sanction may substitute other rules for the management and working of the Fund, but should such alteration curtail the rights or increase the obligations of contributors, any contributor shall be entitled by notice in writing given within 30 days of any such alteration to retain his rights, privileges and benefits under these Rules.
+*Amendment of Rules.*
 
-**18.** The Trustees may at any time, if they think necessary, Suspension of grants and suspend contributions and bonuses for any period of time, and contributions. may at any time, notwithstanding anything to the contrary herein, close the Fund to new contributors, and may at any time discontinue or wind up the Fund; except that if the Fund is discontinued or wound up all moneys standing to the credit of the accounts of contributors shall forthwith be paid to the contributors.
+**17.** The Trustees may from time to time with the sanction of the President alter and amend these rules and with the like sanction may substitute other rules for the management and working of the Fund, but should such alteration curtail the rights or increase the obligations of contributors, any contributor shall be entitled by notice in writing given within 30 days of any such alteration to retain his rights, privileges and benefits under these Rules.
 
-**19.** In all matters the decision of the Trustees shall be final Decision of Trustees. and all contributors shall be taken to have accepted this and all the foregoing Rules as a condition of their becoming contributors.
+*Suspension of grants and contributions.*
+
+**18.** The Trustees may at any time, if they think necessary, suspend contributions and bonuses for any period of time, and may at any time, notwithstanding anything to the contrary herein, close the Fund to new contributors, and may at any time discontinue or wind up the Fund; except that if the Fund is discontinued or wound up all moneys standing to the credit of the accounts of contributors shall forthwith be paid to the contributors.
+
+*Decision of Trustees.*
+
+**19.** In all matters the decision of the Trustees shall be final and all contributors shall be taken to have accepted this and all the foregoing Rules as a condition of their becoming contributors.

@@ -118,13 +118,17 @@ Index of Subsidiary Legislation Page Archipelagic Baselines of Trinidad and Toba
 
 ### ARCHIPELAGIC WATERS AND EXCLUSIVE ECONOMIC ZONE ACT
 
-An Act to declare the Republic of Trinidad and Tobago an 24 of 1986. archipelagic State, and to define the new areas of marine space appertaining to Trinidad and Tobago in the exclusive economic zone, and in the archipelagic waters, and the nature and extent of the jurisdiction to be exercised by it in each of these areas and to make provision for matters connected therewith in accordance with the United Nations Convention on the Law of the Sea, done in Montego Bay, Jamaica on 10th December 1982.
+*24 of 1986.*
+
+An Act to declare the Republic of Trinidad and Tobago an archipelagic State, and to define the new areas of marine space appertaining to Trinidad and Tobago in the exclusive economic zone, and in the archipelagic waters, and the nature and extent of the jurisdiction to be exercised by it in each of these areas and to make provision for matters connected therewith in accordance with the United Nations Convention on the Law of the Sea, done in Montego Bay, Jamaica on 10th December 1982.
 
 *Commencement.*
 
 ### [11 TH N OVEMBER 1986]
 
-**1.** This Act may be cited as the Archipelagic Waters and Short title. Exclusive Economic Zone Act.
+*Short title.*
+
+**1.** This Act may be cited as the Archipelagic Waters and Exclusive Economic Zone Act.
 
 ## PART I — PRELIMINARY
 
@@ -152,11 +156,9 @@ An Act to declare the Republic of Trinidad and Tobago an 24 of 1986. archipelagi
 
 “contiguous zone” means that area contiguous to the territorial sea which does not extend beyond twenty-four nautical miles from the archipelagic baselines from which the breadth of the territorial sea is measured;
 
-“continental shelf” shall have the meaning assigned to it in the
-
 *Ch. 1:52.*
 
-Continental Shelf Act;
+“continental shelf” shall have the meaning assigned to it in the Continental Shelf Act;
 
 “Convention” means the United Nations Convention on the Law of the Sea done in Montego Bay, Jamaica on 10th December 1982;
 
@@ -178,21 +180,21 @@ being used for fishing and is operated for financial reward or other material ga
 
 “nautical mile” means 1852 metres;
 
-“territorial sea” shall have the meaning assigned to it in the Territorial Sea Act. Ch. 1:51.
+*Ch. 1:51.*
+
+“territorial sea” shall have the meaning assigned to it in the Territorial Sea Act.
 
 ## PART II — ARCHIPELAGIC STATE
 
-*of*
+*Declaration of Trinidad and Tobago as an archipelagic State. Archipelagic waters.*
 
-**3.** The Republic of Trinidad and Tobago is declared an Declaration Trinidad and archipelagic State.
+**3.** The Republic of Trinidad and Tobago is declared an archipelagic State.
 
-Tobago as an archipelagic State.
+**4.** The archipelagic waters of Trinidad and Tobago shall include any areas of the sea that are enclosed by the archipelagic baselines drawn in accordance with section 6.
 
-**4.** The archipelagic waters of Trinidad and Tobago shall Archipelagic waters. include any areas of the sea that are enclosed by the archipelagic baselines drawn in accordance with section 6.
+*Legal status of archipelagic waters, airspace, bed and subsoil.*
 
-**5.** The sovereignty of Trinidad and Tobago as an archipelagic Legal status of archipelagic State extends to—
-
-waters, airspace, bed and subsoil.
+**5.** The sovereignty of Trinidad and Tobago as an archipelagic State extends to—
 
 (a) the archipelagic waters regardless of their depth or distance from the coast; and
 
@@ -212,11 +214,9 @@ waters, airspace, bed and subsoil.
 
 *Internal waters.*
 
-**8.** Trinidad and Tobago may draw closing lines within its archipelagic waters for the delimitation of the internal waters as
-
 *Ch. 1:51.*
 
-defined in the Territorial Sea Act.
+**8.** Trinidad and Tobago may draw closing lines within its archipelagic waters for the delimitation of the internal waters as defined in the Territorial Sea Act.
 
 *Existing agreements.*
 
@@ -228,7 +228,9 @@ defined in the Territorial Sea Act.
 
 **10.** Trinidad and Tobago shall respect existing submarine cables laid by other States and passing through its waters, without entering upon its territory and shall permit the maintenance and replacement of such cables upon receiving due notice of their location and the intention to repair or replace them.
 
-**11.** (1) Without prejudice to section 8 ships of all States Right of innocent enjoy the right of innocent passage in the archipelagic waters of passage. Trinidad and Tobago.
+*Right of innocent passage.*
+
+**11.** (1) Without prejudice to section 8 ships of all States enjoy the right of innocent passage in the archipelagic waters of Trinidad and Tobago.
 
 (2) For the purpose of this section passage means navigation through the archipelagic waters of Trinidad and Tobago for the purpose of—
 
@@ -238,7 +240,9 @@ defined in the Territorial Sea Act.
 
 (3) Such passage shall be continuous and expeditious and includes stopping and anchoring but only in so far as they are incidental to ordinary navigation or are rendered necessary by force majeure or distress or for the purpose of rendering assistance to persons, ships or aircrafts in danger or distress.
 
-**12.** (1) Passage is innocent so long as it is not prejudicial to Meaning of innocent the peace, good order or security of Trinidad and Tobago and is passage. in conformity with the provisions of the Convention and such other relevant rules of international law.
+*Meaning of innocent passage.*
+
+**12.** (1) Passage is innocent so long as it is not prejudicial to the peace, good order or security of Trinidad and Tobago and is in conformity with the provisions of the Convention and such other relevant rules of international law.
 
 (2) The passage of a foreign ship shall be considered prejudicial to the peace, good order or security of Trinidad and Tobago where it engages in the archipelagic waters, in the following activities:
 
@@ -266,29 +270,49 @@ defined in the Territorial Sea Act.
 
 (l) any other activity not having a direct bearing on passage.
 
-*Suspension of innocent passage.*
+*\13. (1) Suspension of*
 
-**13.** (1) The President may by Proclamation suspend, temporarily, in specified areas of the archipelagic waters, the innocent passage of foreign ships, where such suspension is essential for the protection of its security.
+*innocent*
 
-(2) Such suspension shall take effect only after due publication.
+*temporarily,*
 
-(3) Failure to comply with a Proclamation made under this section is an offence.
+*passage.*
+
+*innocent essential for*
+
+The President may by Proclamation suspend, in specified areas of the archipelagic waters, the passage of foreign ships, where such suspension is the protection of its security.
+
+(2) Such suspension shall take effect only after due
+
+*publication.*
+
+*this section*
+
+(3) Failure to comply with a Proclamation made under is an offence.
 
 ## PART III — EXCLUSIVE ECONOMIC ZONE
 
-*Establishment of exclusive economic zone.*
+*\14. The Establishment of*
 
-**14.** The exclusive economic zone of Trinidad and Tobago (hereinafter referred to as “the exclusive economic zone”) comprises all areas of sea, having as their innermost limits the
+*exclusive (hereinafter economic zone. comprises*
+
+exclusive economic zone of Trinidad and Tobago referred to as “the exclusive economic zone”) all areas of sea, having as their innermost limits the
 
 outermost limits of the territorial sea, and as their outermost limits a line drawn seaward from the baseline from which the territorial sea is measured every point of which is at a distance of two hundred nautical miles from the nearest point of the baselines from which the breadth of the territorial sea is measured.
 
-**15.** Where the distance between Trinidad and Tobago and Delimitation of exclusive opposite or adjacent States is less than four hundred nautical miles, economic zone the boundary of the exclusive economic zone shall be determined between States with opposite or by agreement between Trinidad and Tobago and the States adjacent coasts. concerned on the basis of international law in order to achieve an equitable solution.
+*Delimitation of exclusive economic zone between States with opposite or adjacent coasts.*
 
-**16.** The Minister may by Order, and for the purpose of Minister may reduce outer implementing an international agreement or the award of an limits of international body declare that the outer limits of the exclusive exclusive economic zone. economic zone extend to such line, any point of which may be at a distance of less than two hundred nautical miles from the nearest point of the archipelagic baseline, as specified in such Order.
+**15.** Where the distance between Trinidad and Tobago and opposite or adjacent States is less than four hundred nautical miles, the boundary of the exclusive economic zone shall be determined by agreement between Trinidad and Tobago and the States concerned on the basis of international law in order to achieve an equitable solution.
 
-**17.** The Minister— Outer limits of exclusive
+*Minister may reduce outer limits of exclusive economic zone.*
 
-(a) shall cause the outer limits of the exclusive economic zone to be shown on economic zone and any lines of delimitation charts. drawn to be shown on charts of a scale or scales adequate for determining them; or
+**16.** The Minister may by Order, and for the purpose of implementing an international agreement or the award of an international body declare that the outer limits of the exclusive economic zone extend to such line, any point of which may be at a distance of less than two hundred nautical miles from the nearest point of the archipelagic baseline, as specified in such Order.
+
+*Outer limits of exclusive economic zone to be shown on charts.*
+
+**17.** The Minister—
+
+(a) shall cause the outer limits of the exclusive economic zone and any lines of delimitation drawn to be shown on charts of a scale or scales adequate for determining them; or
 
 (b) may substitute therefor lists of geographical co-ordinates of points specifying the geodetic datum;
 
@@ -296,9 +320,9 @@ outermost limits of the territorial sea, and as their outermost limits a line dr
 
 (d) shall cause a copy of each such chart or lists of geographical co-ordinates to be deposited with the Secretary General of the United Nations.
 
-**18.** The establishment of the exclusive economic zone shall Vested rights of not affect the vested rights of Trinidad and Tobago over the Trinidad and Tobago over seabed and submarine areas of the territorial sea and continental seabed and submarine areas shelf as set out in the Territorial Sea Act and the Continental continued. Ch. 1:51. Shelf Act.
+*Vested rights of Trinidad and Tobago over seabed and submarine areas continued. Ch. 1:51. Ch. 1:52.*
 
-Ch. 1:52.
+**18.** The establishment of the exclusive economic zone shall not affect the vested rights of Trinidad and Tobago over the seabed and submarine areas of the territorial sea and continental shelf as set out in the Territorial Sea Act and the Continental Shelf Act.
 
 *Sovereign rights and jurisdiction of Trinidad and Tobago in exclusive economic zone.*
 
@@ -338,7 +362,9 @@ Ch. 1:52.
 
 (c) prescribe on the basis of agreements or other arrangements for the remaining proportion of the allowable catch which other States or the nationals of such States are permitted to harvest in the exclusive economic zone.
 
-**22.** No State, international organisation, nor person, shall Certain activities of a without the consent in writing of the President signified by State, etc., Notice engage within the exclusive economic zone in any of the prohibited without consent. following activities:
+*Certain activities of a State, etc., prohibited without consent.*
+
+**22.** No State, international organisation, nor person, shall without the consent in writing of the President signified by Notice engage within the exclusive economic zone in any of the following activities:
 
 (a) the exploration and exploitation, conservation and management of living and non-living natural resources;
 
@@ -352,9 +378,13 @@ Ch. 1:52.
 
 (f) any other such activity.
 
-**23.** The provisions of section 22 in relation to the activity of Right of citizen or body fishing, shall not apply to the right of a citizen of Trinidad and corporate to fish Tobago or a body incorporated in Trinidad and Tobago in which at in exclusive economic zone. least fifty-one per cent of the shares are owned by citizens of Trinidad and Tobago.
+*Right of citizen or body corporate to fish in exclusive economic zone.*
 
-**24.** The President may withhold his consent to the conduct President may withhold of a marine scientific research project of another State or consent to international organisation in the exclusive economic zone where marine scientific research project the project proposal— of a State.
+**23.** The provisions of section 22 in relation to the activity of fishing, shall not apply to the right of a citizen of Trinidad and Tobago or a body incorporated in Trinidad and Tobago in which at least fifty-one per cent of the shares are owned by citizens of Trinidad and Tobago.
+
+*President may withhold consent to marine scientific research project of a State.*
+
+**24.** The President may withhold his consent to the conduct of a marine scientific research project of another State or international organisation in the exclusive economic zone where the project proposal—
 
 (a) is of direct significance for the exploration and exploitation of living and non-living natural resources;
 
@@ -396,27 +426,27 @@ Ch. 1:52.
 
 (e) experience in fishing activities.
 
-**27.** The Minister to whom responsibility for fisheries is Foreign fishing craft not to assigned shall ensure that—
+*Foreign fishing craft not to exceed prescribed allowable catch.*
 
-exceed prescribed
+**27.** The Minister to whom responsibility for fisheries is assigned shall ensure that—
 
-(a) the total catch of all foreign fishing craft does not allowable catch. exceed the total allowable catch prescribed for all such craft; and
+(a) the total catch of all foreign fishing craft does not exceed the total allowable catch prescribed for all such craft; and
 
 (b) the total catch by all foreign fishing craft of any one State does not exceed the apportionment prescribed for that State.
 
-**28.** (1) The persons referred to in subsection (2) are Surveillance in the exclusive empowered in the exercise of their official functions to—
+*Surveillance in the exclusive economic zone, the territorial sea and the archipelagic waters.*
 
-economic zone, the territorial
+**28.** (1) The persons referred to in subsection (2) are empowered in the exercise of their official functions to—
 
-(a) stop and board, inspect, seize and detain a foreign sea and the archipelagic fishing craft,
-
-waters.
+(a) stop and board, inspect, seize and detain a foreign fishing craft,
 
 (b) seize any fish and equipment found on board the foreign fishing craft, and
 
 (c) arrest the master and crew of any foreign fishing craft,
 
-in the exclusive economic zone, the territorial sea and the archipelagic waters, and may also institute such criminal proceedings against them, as may be necessary to ensure compliance with the Act and the Regulations.
+*in the*
+
+exclusive economic zone, the territorial sea and the archipelagic waters, and may also institute such criminal proceedings against them, as may be necessary to ensure compliance with the Act and the Regulations.
 
 (2) The persons to whom subsection (1) applies are—
 
@@ -462,9 +492,13 @@ Tobago contrary to section 11 or 13 is guilty of an offence and is liable on sum
 
 (3) Any offence, under the provisions of this Act or Regulations which is committed within the exclusive economic zone shall be deemed to have been committed in Trinidad and Tobago.
 
-**31.** A foreign fishing craft which is seized and detained and Release of arrested crafts the master and crew of which are arrested under section 28 shall and their crews. be promptly released upon the posting of the prescribed bond in the sum of one hundred thousand dollars or other surety.
+*Release of arrested crafts and their crews.*
 
-**32.** The President may make Regulations for implementing Regulations. the provisions of this Act for anything that is required or authorised to be prescribed by or under this Act and in particular for the—
+**31.** A foreign fishing craft which is seized and detained and the master and crew of which are arrested under section 28 shall be promptly released upon the posting of the prescribed bond in the sum of one hundred thousand dollars or other surety.
+
+*Regulations.*
+
+**32.** The President may make Regulations for implementing the provisions of this Act for anything that is required or authorised to be prescribed by or under this Act and in particular for the—
 
 (a) protection and preservation of the marine environment, and the prevention, reduction and control of pollution of that environment arising from—
 
@@ -534,11 +568,9 @@ made under section 6(3)
 
 *Co-ordinates.*
 
-**2.** The geographical co-ordinates of the points used in determining the straight archipelagic baselines of Trinidad and Tobago indicating the outermost limits of the archipelagic waters and the innermost limits of the territorial sea, are contained in the
-
 *First Schedule.*
 
-First Schedule.
+**2.** The geographical co-ordinates of the points used in determining the straight archipelagic baselines of Trinidad and Tobago indicating the outermost limits of the archipelagic waters and the innermost limits of the territorial sea, are contained in the First Schedule.
 
 *Baselines. Second Schedule.*
 

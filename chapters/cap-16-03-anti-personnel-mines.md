@@ -90,13 +90,17 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 ### ANTI-PERSONNEL MINES ACT
 
-An Act to give effect to the Convention on the Prohibition 48 of 2000. of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction in Trinidad and Tobago.
+*48 of 2000.*
+
+An Act to give effect to the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction in Trinidad and Tobago.
 
 *Commencement. 26/2000.*
 
 ### [6 TH N OVEMBER 2000]
 
-**1.** This Act may be cited as the Anti-Personnel Short title. Mines Act.
+*Short title.*
+
+**1.** This Act may be cited as the Anti-Personnel Mines Act.
 
 ## PART I — PRELIMINARY
 
@@ -164,13 +168,17 @@ An Act to give effect to the Convention on the Prohibition 48 of 2000. of the Us
 
 (b) to have such an object in his possession for the purpose only (with or without such a transfer) of securing its destruction.
 
-(4) It is not a contravention of section 4 for a person to have a prohibited object in his possession if—
+*have a*
+
+(4) It is not a contravention of section 4 for a person to prohibited object in his possession if—
 
 (a) he has it in his possession with the intention that it will be used only for purposes permitted by subsection (7); and
 
 (b) it is an object which the Permanent Secretary has authorised him for the purposes of this subsection to have in his possession.
 
-(5) It is not a contravention of section 4 for a person to participate in the acquisition of a prohibited object if—
+*participate*
+
+(5) It is not a contravention of section 4 for a person to in the acquisition of a prohibited object if—
 
 (a) the acquisition that has been made, agreed or arranged is an acquisition by means of a transfer which is permitted by virtue of subsection (2) or (3); and
 
@@ -180,7 +188,9 @@ An Act to give effect to the Convention on the Prohibition 48 of 2000. of the Us
 
 (ii) for the purpose (with or without a further transfer) of enabling the object to be destroyed.
 
-(6) It is not a contravention of section 4 for a person at any time to assist, encourage or induce any conduct if, at that time, he has reasonable cause to believe—
+*any time to he has*
+
+(6) It is not a contravention of section 4 for a person at assist, encourage or induce any conduct if, at that time, reasonable cause to believe—
 
 (a) that the conduct in question is conduct which is or will be prevented by the provisions of this section from being a contravention of section 4; or
 
@@ -206,9 +216,9 @@ An Act to give effect to the Convention on the Prohibition 48 of 2000. of the Us
 
 (4) A person who contravenes the provisions of subsection (1) commits an offence and on summary conviction shall be liable to a fine of fifty thousand dollars and to imprisonment for seven years.
 
-*destruction of*
+*Search and destruction of prohibited objects.*
 
-**8.** (1) If the Permanent Secretary has grounds to suspect that Search and an object is a prohibited object, and it does not appear to him that prohibited the only persons in possession of that object are persons whose objects. possession of the object is prevented from being a contravention of section 4 by the provisions of section 6, the Permanent Secretary may serve a notice—
+**8.** (1) If the Permanent Secretary has grounds to suspect that an object is a prohibited object, and it does not appear to him that the only persons in possession of that object are persons whose possession of the object is prevented from being a contravention of section 4 by the provisions of section 6, the Permanent Secretary may serve a notice—
 
 (a) to any person who appears to the Permanent Secretary to have the object; and
 
@@ -294,29 +304,37 @@ or a person acting on behalf of the occupier of any such premises, shall be enti
 
 (b) that request is one made for the purpose of facilitating the carrying out by that mission of its functions under the Ottawa Convention.
 
-(2) A person is guilty of an offence if he wilfully obstructs any member of an authorised fact-finding mission in the carrying out of the mission’s functions under the Ottawa Convention.
+*any out of the*
 
-(3) A person guilty of an offence under this section is liable—
+(2) A person is guilty of an offence if he wilfully obstructs member of an authorised fact-finding mission in the carrying mission’s functions under the Ottawa Convention.
+
+(3) A person guilty of an offence under this section
+
+*is liable—*
 
 (a) on summary conviction, to a fine of ten thousand dollars; and
 
 (b) on conviction on indictment, to a fine of fifty thousand dollars.
 
-(4) In this section “authorised fact-finding mission” means a fact-finding mission in respect of which an authorisation has been issued under section 9.
+*a been issued*
 
-*Privileges and immunities for*
+(4) In this section “authorised fact-finding mission” means fact-finding mission in respect of which an authorisation has under section 9.
 
-**12.** (1) Members of a fact-finding mission shall enjoy—
+*\12. (1)*
 
-*missions.*
+*Privileges and immunities for fact-finding missions.*
 
-(a) immunity from suit and legal process in respect fact-finding of things done or omitted to be done by them in the carrying out of their functions under the Ottawa Convention;
+Members of a fact-finding mission shall enjoy—
+
+(a) immunity from suit and legal process in respect of things done or omitted to be done by them in the carrying out of their functions under the Ottawa Convention;
 
 (b) the like immunity from personal arrest or detention and the like inviolability for all papers and documents as, in accordance with the 1961 Articles, are accorded to a diplomatic agent; and
 
 (c) the like exemptions and privileges in respect of their personal baggage as, in accordance with Article 36 of the 1961 Articles, are accorded to a diplomatic agent.
 
-(2) The immunities, privileges and exemptions accorded to members of fact-finding missions by virtue of subsection (1)(b) and (c) shall be enjoyed by them at any time when they are in Trinidad and Tobago—
+*to members and (c) Trinidad*
+
+(2) The immunities, privileges and exemptions accorded of fact-finding missions by virtue of subsection (1)(b) shall be enjoyed by them at any time when they are in and Tobago—
 
 (a) for the purpose of carrying out in Trinidad and Tobago any of the functions of the mission; or
 
@@ -326,11 +344,9 @@ or a person acting on behalf of the occupier of any such premises, shall be enti
 
 (4) If in any proceedings a question arises whether a person is or is not entitled to any immunity, privilege or exemption by virtue of this section, a certificate issued by or under the authority of the Permanent Secretary stating any fact relating to that question shall be conclusive evidence of that fact.
 
-(5) In this section “the 1961 Articles” means the Articles
-
 *Ch. 17:01.*
 
-which are set out in the First Schedule to the Privileges and Immunities Diplomatic, Consular and International Organisations Act. (Articles of Vienna Convention on Diplomatic Relations of 1961 having the force of law in Trinidad and Tobago).
+(5) In this section “the 1961 Articles” means the Articles which are set out in the First Schedule to the Privileges and Immunities Diplomatic, Consular and International Organisations Act. (Articles of Vienna Convention on Diplomatic Relations of 1961 having the force of law in Trinidad and Tobago).
 
 *Reimbursement of expenditure.*
 
@@ -362,7 +378,9 @@ which are set out in the First Schedule to the Privileges and Immunities Diploma
 
 (5) All information required to be furnished to the Secretary-General of the United Nations under the Ottawa Convention shall be furnished by the Minister.
 
-**15.** (1) Any person who contravenes the provisions of this Offences. Act or who assists, encourages or induces, in any way, any other person to engage in any activity prohibited under section 4 commits an offence and on conviction on indictment is liable to a fine of fifty thousand dollars and to imprisonment for seven years.
+*Offences.*
+
+**15.** (1) Any person who contravenes the provisions of this Act or who assists, encourages or induces, in any way, any other person to engage in any activity prohibited under section 4 commits an offence and on conviction on indictment is liable to a fine of fifty thousand dollars and to imprisonment for seven years.
 
 (2) Proceedings for an offence under this Act shall not be instituted except by or with the consent of the Director of Public Prosecutions.
 
@@ -544,6 +562,10 @@ Transparency Measures
 
 (c) to the extent possible, the location of all mined areas that contain, or are suspected to contain, anti-personnel mines under its jurisdiction or control, to include as much detail as possible
 
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 regarding the type and quantity of each type of anti-personnel mine in each mined area and when they were emplaced;
 
 (d) the types, quantities and, if possible, lot numbers of all antipersonnel mines retained or transferred for the development of and training in mine detection, mine clearance or mine destruction techniques, or transferred for the purpose of destruction, as well as the institutions authorised by a State Party to retain or transfer anti-personnel mines, in accordance with Article 3;
@@ -558,11 +580,13 @@ regarding the type and quantity of each type of anti-personnel mine in each mine
 
 (i) the measures taken to provide an immediate and effective warning to the population in relation to all areas identified under paragraph 2 of Article 5.
 
-**2.** The information provided in accordance with this Article shall be updated by the States Parties annually, covering the last calendar year, and reported to the Secretary-General of the United Nations not later than 30th April
+*updated by reported to of each year.*
 
-*of each year.*
+**2.** The information provided in accordance with this Article shall be the States Parties annually, covering the last calendar year, and the Secretary-General of the United Nations not later than 30th April
 
-**3.** The Secretary-General of the United Nations shall transmit all such reports received to the States Parties.
+*reports*
+
+**3.** The Secretary-General of the United Nations shall transmit all such received to the States Parties.
 
 ### ARTICLE 8
 

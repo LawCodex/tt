@@ -126,11 +126,9 @@ PreliminAry
 
 **2.** In this Act—
 
-“Agreement” means the Framework Agreement between the Secretariat of the Basel Convention on the Control of Transboundary Movements of hazardous Wastes and their Disposal and the Government of the Republic of Trinidad and Tobago on the Establishment of a Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean Region signed at Geneva on 29th October
-
 *First Schedule.*
 
-2004 and contained in the First Schedule;
+“Agreement” means the Framework Agreement between the Secretariat of the Basel Convention on the Control of Transboundary Movements of hazardous Wastes and their Disposal and the Government of the Republic of Trinidad and Tobago on the Establishment of a Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean Region signed at Geneva on 29th October 2004 and contained in the First Schedule;
 
 “Basel Convention” means the Basel Convention on the Control of Transboundary Movements of hazardous Wastes and their Disposal, adopted on 22nd March 1989;
 
@@ -148,11 +146,9 @@ PreliminAry
 
 “Minister” means the Minister with responsibility for the environment and the word Ministry shall be construed accordingly;
 
-“Parties of the Region” means the countries listed in the
-
 *Second Schedule.*
 
-Second Schedule;
+“Parties of the Region” means the countries listed in the Second Schedule;
 
 “Project Document” means a formal document covering a project, as defined below, which sets out, inter alia, the need, results, outputs, activities, workplan, budget, pertinent background, supporting data and any special arrangements applicable to the execution of the project in question signed by UNEP or the Secretariat and the Basel Convention Regional Centre;
 
@@ -190,7 +186,9 @@ estAblishment of the Centre
 
 (e) awareness raising.
 
-(3) The core functions of the Centre include but are not limited to the following activities:
+*limited to*
+
+(3) The core functions of the Centre include but are not the following activities:
 
 (a) developing and conducting training programmes, workshops, seminars and associated projects in the field of the environmentally sound management of hazardous wastes, transfer of environmentally sound technology and minimisation of the generation of hazardous wastes with specific emphasis on training the trainers and the promotion of ratification and implementation of the Basel Convention and its instruments;
 
@@ -218,9 +216,9 @@ estAblishment of the Centre
 
 (m) performing any other functions assigned to it by relevant decisions of the Conference of the Parties of the Basel Convention or by Parties of the Region, consistent with such decisions.
 
-*Director.*
+*Appointment of Director.*
 
-**5.** (1) The Centre shall be managed by a full-time Director Appointment of and such other staff as the Centre may require for the effective and efficient carrying out of its regional role.
+**5.** (1) The Centre shall be managed by a full-time Director and such other staff as the Centre may require for the effective and efficient carrying out of its regional role.
 
 (2) The Minister, in consultation with the Secretariat, shall appoint a Director for such period and on such terms as agreed between the Parties.
 
@@ -228,13 +226,17 @@ estAblishment of the Centre
 
 (4) Where approved by the Contracting Parties to the Basel Convention, contributions towards the salary of the Director may be made by interested Contracting Parties to the Basel Convention.
 
-**6.** (1) The Director shall be the chief administrative officer Responsibilities of the Centre and, subject to the provisions of the Agreement, of Director. shall have overall responsibility for the activities and administration of the Centre.
+*Responsibilities of Director.*
+
+**6.** (1) The Director shall be the chief administrative officer of the Centre and, subject to the provisions of the Agreement, shall have overall responsibility for the activities and administration of the Centre.
 
 (2) An individual shall be disqualified from being appointed to or from continuing in the post of the Director where he is—
 
 (a) under eighteen years of age;
 
-(b) mentally ill, within the meaning of the Mental Ch. 28:02. health Act;
+*Ch. 28:02.*
+
+(b) mentally ill, within the meaning of the Mental health Act;
 
 (c) a declared bankrupt;
 
@@ -248,7 +250,9 @@ estAblishment of the Centre
 
 (b) the Secretariat, shall appoint the international staff, consultants and experts of the Centre.
 
-(4) The Director, in promoting the regional role of the Centre, shall—
+*Centre,*
+
+(4) The Director, in promoting the regional role of the shall—
 
 (a) administer the Centre and its programmes with a view to ensuring that the Centre performs its regional role in accordance with relevant provisions of the Basel Convention and related decisions of the Conference of the Parties;
 
@@ -268,13 +272,17 @@ PArt iii
 
 steering Committee
 
-**7.** There is established a Steering Committee to advise Establishment of Steering the Centre on the development and implementation of the Committee. activities relevant to its regional role and to enhance national support of its activities from Parties of the Region.
+*Establishment of Steering Committee.*
 
-**8.** The Steering Committee shall develop and endorse the Role of Steering Business Plan for the Centre and oversee its implementation.
+**7.** There is established a Steering Committee to advise the Centre on the development and implementation of the activities relevant to its regional role and to enhance national support of its activities from Parties of the Region.
 
-Committee.
+*Role of Steering Committee.*
 
-**9.** (1) The Steering Committee shall consist of not less Composition of Steering than eight members and shall include a representative from the— Committee.
+**8.** The Steering Committee shall develop and endorse the Business Plan for the Centre and oversee its implementation.
+
+*Composition of Steering Committee.*
+
+**9.** (1) The Steering Committee shall consist of not less than eight members and shall include a representative from the—
 
 (a) Republic of Trinidad and Tobago;
 
@@ -344,15 +352,23 @@ misCellAneous
 
 (2) The Centre may also receive contributions of a non-financial nature.
 
-(3) The acceptance by the Centre of any voluntary contribution or donation shall in every case be subject to the express written agreement of the Secretariat, upon the recommendation of the Director, in order to avoid conflict of interest between the goals and objectives of the Basel Convention and the donors.
+*express*
 
-(4) The Centre shall keep a separate account for each of the following:
+*interest*
+
+(3) The acceptance by the Centre of any voluntary contribution or donation shall in every case be subject to the written agreement of the Secretariat, upon the recommendation of the Director, in order to avoid conflict of between the goals and objectives of the Basel Convention and the donors.
+
+*of the*
+
+(4) The Centre shall keep a separate account for each following:
 
 (a) funds and resources received from the Trust Fund and other external sources; and
 
 (b) funds and resources received through appropriations by the Government,
 
-in the currency in which they are to be remitted.
+*in the*
+
+currency in which they are to be remitted.
 
 (5) The financial resources shall be available to the Centre for the implementation of its programme of work in conformity with the Project Document signed for that purpose by the Centre and the UNEP or the Secretariat.
 
@@ -388,9 +404,9 @@ in the currency in which they are to be remitted.
 
 (2) The Government shall indemnify the United Nations, UNEP, the Conference of the Parties to the Basel Convention, the Secretariat and their officials in respect of any such legal action, claim or other demand except when such injury or damage was caused by gross negligence or wilful misconduct of those officials.
 
-*Schedules.*
+*Amendment of Schedules.*
 
-**17.** The Minister may, by Order, amend the Schedules for Amendment of the purposes of bringing the Agreement into accord with any amendments made under Article XIX.
+**17.** The Minister may, by Order, amend the Schedules for the purposes of bringing the Agreement into accord with any amendments made under Article XIX.
 
 first sChedule
 
@@ -447,6 +463,10 @@ For the purpose of this Agreement, the following definitions shall apply unless 
 (e) “Competent authorities” means national, provincial, municipal and other competent authorities that are so designated under the laws of the Republic of Trinidad and Tobago;
 
 (f) “Consultants and experts of the Centre” means consultants and experts, whose posts are financed from the
+
+*Chap.*
+
+35:49
 
 Trust Funds of the Basel Convention, and who are selected and appointed by the Director of the Centre in consultation with the Secretariat;
 
@@ -800,13 +820,23 @@ Signed: Sachiko Kuwabara-Yamamoto Signed: h. E. Mr. Bernard Anthony Weston Execu
 
 Date: Date:
 
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 AnneX i
 
 Core funCtions of the bAsel Convention regionAl Centres
 
-The role of the Centres is to assist developing countries and countries with economies in transition, within their own region, through capacity building for the environmentally sound management to achieve the fulfilment of the objectives of the Convention.
+*The with*
 
-The description of the core functions of the Centres are as follows:
+*of the*
+
+role of the Centres is to assist developing countries and countries economies in transition, within their own region, through capacity building for the environmentally sound management to achieve the fulfilment objectives of the Convention.
+
+*The*
+
+description of the core functions of the Centres are as follows:
 
 **1.** Training
 
@@ -818,7 +848,9 @@ The description of the core functions of the Centres are as follows:
 
 **5.** Awareness raising
 
-The explanations of the core functions of the Centres are as follows:
+*The*
+
+explanations of the core functions of the Centres are as follows:
 
 (a) Developing and conducting training programmes, workshops, seminars and associated projects in the field of the environmentally sound management of hazardous wastes, transfer of environmentally sound technology and minimisation of the generation of hazardous wastes with specific emphasis on training the trainers and the promotion of ratification and implementation of the Basel Convention and its instruments;
 
@@ -831,6 +863,10 @@ The explanations of the core functions of the Centres are as follows:
 (e) Establishing and maintaining regular exchange of information relevant to the provisions of the Basel Convention, and networking at the national and regional levels;
 
 (f) Organising meetings, symposiums and missions in the field, useful for carrying out these objectives in the region;
+
+*Chap.*
+
+35:49
 
 (g) Providing assistance and advice to the Parties and non-Parties of the region at their request, on matters relevant to the environmentally sound management or minimisation of hazardous wastes, the implementation of the provisions of the Basel Convention and other related matters;
 
@@ -850,17 +886,19 @@ AnneX ii
 
 Contributions of the government of the rePubliC of trinidAd And tobAgo
 
-The following shall be the contributions of the Government of the Republic of Trinidad and Tobago towards the operation of the Centre:
+*The Republic of*
 
-*A.*
+following shall be the contributions of the Government of the Trinidad and Tobago towards the operation of the Centre:
+
+*A. Director Secretary Research*
 
 Personnel
 
-Director of the Centre — full time
+of the Centre — full time
 
-Secretary of the Director — full time
+of the Director — full time
 
-Research Assistant —full time
+Assistant —full time
 
 Driver/handy Man
 

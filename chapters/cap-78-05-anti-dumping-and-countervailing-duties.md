@@ -154,21 +154,15 @@ These Subsidiary Legislation are in a state of flux and are of a temporary natur
 
 **34.** Regulations.
 
-### CHAPTER 78:05
+*11 of 1992.*
 
-### ANTI-DUMPING AND COUNTERVAILING DUTIES ACT
+CHAPTER 78:05 ANTI-DUMPING AND COUNTERVAILING DUTIES ACT An Act to authorise the imposition of anti-dumping duties and countervailing duties where goods have been dumped or subsidised; to provide for an Anti-Dumping Authority to investigate dumping or subsidising of goods; to repeal the Customs Duties (Dumping and Subsidies) Act, Ch. 78:04; and for related purposes. *[A SSENTED TO 19 TH A UGUST 1992]
 
-An Act to authorise the imposition of anti-dumping duties 11 of 1992. and countervailing duties where goods have been dumped or subsidised; to provide for an Anti-Dumping Authority to investigate dumping or subsidising of goods; to repeal the Customs Duties (Dumping and Subsidies) Act, Ch. 78:04; and for related purposes.
+*Short title. Commencement. [197/1995]. Interpretation. [23 of 1995].*
 
-### *[A SSENTED TO 19 TH A UGUST 1992]
+## PART I PRELIMINARY
 
-## PART I — PRELIMINARY
-
-**1.** This Act may be cited as the Anti-Dumping and Short title.
-
-*Commencement. [197/1995]. Interpretation. [23 of 1995].*
-
-Countervailing Duties Act.
+**1.** This Act may be cited as the Anti-Dumping and Countervailing Duties Act.
 
 **2.** This Act came into operation on 1st January 1996.
 
@@ -288,43 +282,39 @@ condition in which they were imported or otherwise) at a loss, the Minister may 
 
 (2) Subject to section 3, for the purposes of collecting and enforcing the payment of duties imposed by this Act the Customs Act and any other written law relating to the importation of goods shall apply, but to the extent that it is inconsistent with any other written law, this Act prevails.
 
-## PART II
-
 *Anti-dumping duty. [23 of 1995].*
 
-### IMPOSITION OF DUTIES
+## PART II IMPOSITION OF DUTIES
 
 **5.** (1) Where the Minister, having made a determination under Part V, is satisfied that goods of any description are being or have been imported into Trinidad and Tobago in circumstances in which they are under the provisions of this Act to be regarded as having been dumped, and where such dumped imports cause actionable injury, the Minister may, by Order, impose a duty to be known as anti-dumping duty, unless he considers that it would not be in the public interest to do so.
 
 (2) The anti-dumping duty in respect of goods shall be at a rate determined by the Minister after having regard to the desirability of ensuring that the amount of duty in respect of those goods is not greater than is necessary to prevent dumping but shall not exceed the margin of dumping.
 
-(3) Subject to section 10, anti-dumping duties shall be
-
 *Countervailing duty. [23 of 1995].*
 
-imposed with prospective effect.
+(3) Subject to section 10, anti-dumping duties shall be imposed with prospective effect.
 
 **6.** (1) Where the Minister, having made a determination under Part V, is satisfied that some Government or other authority outside Trinidad and Tobago has been giving a subsidy affecting goods of any description which are being or have been imported into Trinidad and Tobago, and by reason thereof actionable injury is being caused, he may, by Order, impose a duty to be known as countervailing duty.
 
 (2) The countervailing duty in respect of goods shall be at a rate determined by the Minister after having regard to the
 
+*Third country anti-dumping and countervailing duties. [23 of 1995].*
+
 desirability of ensuring that the amount of duty in respect of those goods is not greater than is necessary to prevent actionable injury being caused, but shall not exceed the amount of the subsidy given on the goods.
 
-**7.** (1) Where the Minister is satisfied, having made a Third country determination under Part V, that, in relation to the importation and anti-dumping into Trinidad and Tobago of goods produced or manufactured in countervailing another country— duties. [23 of 1995].
+**7.** (1) Where the Minister is satisfied, having made a determination under Part V, that, in relation to the importation into Trinidad and Tobago of goods produced or manufactured in another country—
 
 (a) the goods are or have been dumped or subsidised; and
 
-(b) as a result material injury to a domestic industry of a third country has been or is being caused or threatened or the establishment of a domestic industry of a third country has been or is being materially retarded,
-
-the Minister may, if requested by the Government of the third country to do so, by Order, impose an anti-dumping duty or countervailing duty, as the case may be.
+(b) as a result material injury to a domestic industry of a third country has been or is being caused or threatened or the establishment of a domestic industry of a third country has been or is being materially retarded, the Minister may, if requested by the Government of the third country to do so, by Order, impose an anti-dumping duty or countervailing duty, as the case may be.
 
 (2) In subsection (1) “material injury” means material injury to the production in the third country of like goods and includes, in respect only of the subsidising of an agricultural product, an increase in the financial burden on that country’s government.
 
+*Individual dumping margins. [23 of 1995].*
+
 (3) For the purposes of making the determination under subsection (1), this Act shall apply as though the third country were an industry making a complaint pursuant to section 18.
 
-**7A.** (1) Where practicable the Authority shall determine Individual individual dumping margins for each known exporter or margins. dumping producer concerned.
-
-[23 of 1995].
+**7A.** (1) Where practicable the Authority shall determine individual dumping margins for each known exporter or producer concerned.
 
 (2) Where it is not practicable to determine individual dumping margins for each known exporter or producer concerned, the Authority shall select a representative sample of exporters, producers or products, determine individual dumping margins in respect of the exporters, producers or products comprised in the sample and then determine the dumping margin of all the exporters,
 
@@ -336,11 +326,9 @@ producers and products not included in the sample on the basis that the normal v
 
 (5) In deciding whether it is practicable to determine individual dumping margins for each known exporter or producer concerned and in determining which is the largest percentage of the volume of exports which can reasonably be investigated, the Authority shall take into consideration the number of exporters, producers and products involved, the time limits imposed by this Act or any Regulations made under this Act, the logistics of visiting the premises of all the exporters and producers concerned and any other relevant matter.
 
-(6) This section shall not prevent the Authority from determining an individual dumping margin for any exporter or producer or product not included in the sample but in respect of which a questionnaire is duly completed and returned within the
-
 *Nondiscriminatory imposition of duty. [23 of 1995]. Orders imposing duties.*
 
-prescribed deadline.
+(6) This section shall not prevent the Authority from determining an individual dumping margin for any exporter or producer or product not included in the sample but in respect of which a questionnaire is duly completed and returned within the prescribed deadline.
 
 **8.** Any duty or provisional duty shall be non-discriminatory and payable on all imports of goods found to be dumped, or subsidised, and causing actionable injury, except that duties shall not be imposed on imports from sources in respect of which undertakings have been accepted.
 
@@ -358,11 +346,11 @@ organisations by whom the goods were produced or who were concerned with the pro
 
 (e) in connection with the commencement, variation or termination of a duty, provisions authorising repayments in respect of duty where it is shown that the prescribed conditions are fulfilled.
 
+*Relief in respect of duties. [23 of 1995].*
+
 (2) The description of goods in an Order shall include a reference to the country in which the goods originated and where the country from which the goods were exported to Trinidad and Tobago is not the country of origin, to the country from which the goods were so exported.
 
-*of duties.*
-
-**10.** (1) Where it appears to the Minister that relief under this Relief in respect section should be available in respect of a duty imposed by an [23 of 1995]. Order (being an Order made to afford protection against dumping) he may, if he thinks fit, in that or a subsequent Order under this Act apply this section in relation to the duty.
+**10.** (1) Where it appears to the Minister that relief under this section should be available in respect of a duty imposed by an Order (being an Order made to afford protection against dumping) he may, if he thinks fit, in that or a subsequent Order under this Act apply this section in relation to the duty.
 
 (2) Where this section applies in relation to any duty, the importer of any goods chargeable with the duty as being goods originating in or, as the case may be, exported from a specified country may apply to the Minister for relief from the duty on those goods.
 
@@ -382,17 +370,17 @@ normal value of the goods in that country, he shall notify the Comptroller of th
 
 (b) produces any account, estimate, return or other document which is false in a material particular, the amount of any duty remitted or repaid under this section on the application shall be recoverable as a debt due to the State and if the statement was made or the document was produced knowingly or recklessly that person commits an offence and is liable on summary conviction to a fine of fifteen thousand dollars and imprisonment for one year.
 
-*of duties.*
+*Drawback of duties.*
 
-**11.** (1) The Minister may by Order provide for the Drawback allowance of drawback in respect of all or any duties under this Act, on the export of goods in such circumstances and subject to such conditions as he may specify.
+**11.** (1) The Minister may by Order provide for the allowance of drawback in respect of all or any duties under this Act, on the export of goods in such circumstances and subject to such conditions as he may specify.
 
 (2) The drawback may be in respect of duty paid on the goods or in respect of duty paid on materials used in the manufacture of goods and the rate of the drawback may be determined in such manner by reference to such matters as the Minister may specify.
 
+*Ascertainment of normal value. [23 of 1995].*
+
 (3) The Comptroller shall be responsible for the payment of drawback under this section.
 
-*of normal value.*
-
-**12.** (1) Subject to this section, for the purposes of this Act, Ascertainment the normal value of any goods exported or intended to be [23 of 1995]. exported to Trinidad and Tobago shall be the price paid for like goods sold in the ordinary course of trade for home consumption in the country of export in sales that are arm’s length transactions by the exporter or, if like goods are not so sold by the exporter, by other sellers of like goods.
+**12.** (1) Subject to this section, for the purposes of this Act, the normal value of any goods exported or intended to be exported to Trinidad and Tobago shall be the price paid for like goods sold in the ordinary course of trade for home consumption in the country of export in sales that are arm’s length transactions by the exporter or, if like goods are not so sold by the exporter, by other sellers of like goods.
 
 (2) Subject to subsection (4), where the Minister is satisfied that—
 
@@ -492,11 +480,11 @@ to in subparagraphs (A) and (B) of paragraph (a) within a reasonable period of t
 
 (10A) For the purposes of paragraph (b) of subsection (10), the seller of like goods shall be deemed to be able to fully recover the amounts referred to in subparagraphs (A) and (B) of paragraph (a) of that subsection if prices are above the weighted average of such amounts on a per unit basis calculated over the investigation period.
 
+*Export price. [23 of 1995].*
+
 (11) (Repealed by Act No. 23 of 1995).
 
-*[23 of 1995].*
-
-**13.** (1) Subject to this section, for the purposes of this Act, Export price. the export price of any goods exported or intended to be exported to Trinidad and Tobago which have been purchased by the importer from the exporter shall be determined in accordance with the following:
+**13.** (1) Subject to this section, for the purposes of this Act, the export price of any goods exported or intended to be exported to Trinidad and Tobago which have been purchased by the importer from the exporter shall be determined in accordance with the following:
 
 (a) where the purchase of the goods by the importer was an arm’s length transaction, the export price shall be the price paid or payable for the goods by the importer other than any part of that price that represents—
 
@@ -504,35 +492,41 @@ to in subparagraphs (A) and (B) of paragraph (a) within a reasonable period of t
 
 (ii) any other costs, charges, and expenses resulting from the exportation of the goods, or arising after their shipment from the country of export; or
 
+*Chap. 78:05*
+
+Anti-Dumping and Countervailing Duties
+
 (b) where the purchase of the goods by the importer was not an arm’s length transaction, and the goods are subsequently sold by the importer in the condition in which they were imported to a person who is not an associate of the importer, the export price may, notwithstanding paragraph (a), be determined as the price at which the goods were sold by the importer to that person less the sum of the following amounts:
 
 (i) the amount of any duties and taxes imposed under this Act or any other Act;
 
 (ii) the amount of any costs, charges, or expenses arising in relation to the goods after exportation;
 
-(iii) the amount of the profit, if any, on the sale by the importer or, where the Minister so directs, an amount calculated in accordance with such rate as the Minister specifies as the rate of profit on the sale by the importer having regard to the rate of profit that would normally be realised on sales of goods of the same general category by the importer where such sales exist.
-
-(2) Where —
+(iii) the amount of the profit, if any, on the sale by the importer or, where the Minister so directs, an amount calculated in accordance with such rate as the Minister specifies as the rate of profit on the sale by the importer having regard to the rate of profit that would normally be realised on sales of goods of the same general category by the importer where such sales exist. (2) Where —
 
 (a) goods are or are to be shipped to Trinidad and Tobago on a consignment basis and there is no known purchaser in Trinidad and Tobago for the goods; or
 
 (b) there is no exporter’s sale price or no price at which the importer or a person not associated with the importer, has purchased or agreed to purchase the goods; or
 
+*the export in such regard to all*
+
 (c) the goods are not resold in the condition as imported,
 
-the export price, for the purposes of this Act, shall be determined in such manner as the Minister considers appropriate having regard to all the circumstances of the exportation.
+price, for the purposes of this Act, shall be determined manner as the Minister considers appropriate having the circumstances of the exportation.
 
-**13A.** (1) The dumping margin of an exporter shall be Determination determined by taking the weighted average of all prices of of margin of exports to Trinidad and Tobago made in the investigation period [23 of 1995]. dumping. and comparing this amount with the weighted average of the normal value for the same period.
+*Determination of margin of dumping. [23 of 1995].*
+
+**13A.** (1) The dumping margin of an exporter shall be determined by taking the weighted average of all prices of exports to Trinidad and Tobago made in the investigation period and comparing this amount with the weighted average of the normal value for the same period.
 
 (2) Notwithstanding subsection (1), the Authority may determine the dumping margin as the weighted average of the individual dumping margins determined by comparing export prices transaction by transaction with normal values established transaction by transaction where normal values are subject to significant variations during the investigation period.
 
+*Power of Minister to make determinations on available facts. [23 of 1995]. Calculation of costs. [23 of 1995].*
+
 (3) Notwithstanding subsections (1) and (2), the Authority may determine the dumping margin as the weighted average of the individual dumping margins determined by comparing export prices transaction by transaction with the weighted average normal value for the investigation period where it finds a pattern of export prices which differ significantly among different purchasers, regions or periods and such differences cannot be taken into account appropriately by the application of subsection (1) or subsection (2) and the reasons for that determination shall be stated in any Order imposing anti-dumping duty.
 
-**14.** Where any interested person refuses access to, or Power of otherwise does not provide, necessary information within a make Minister to reasonable period, or significantly impedes the investigation, the determinations Minister may make determinations pursuant to section 24 or facts. on available section 26 of this Act on the basis of facts available.
+**14.** Where any interested person refuses access to, or otherwise does not provide, necessary information within a reasonable period, or significantly impedes the investigation, the Minister may make determinations pursuant to section 24 or section 26 of this Act on the basis of facts available.
 
-[23 of 1995].
-
-**14A.** (1) All cost calculations shall be based on available Calculation of accounting data, normally allocated, where necessary, in proportion [23 of 1995]. costs. to the turnover for each product and market under consideration.
+**14A.** (1) All cost calculations shall be based on available accounting data, normally allocated, where necessary, in proportion to the turnover for each product and market under consideration.
 
 (2) Notwithstanding subsection (1), where an exporter is able to prove that—
 
@@ -542,11 +536,9 @@ the export price, for the purposes of this Act, shall be determined in such mann
 
 (c) such records reasonably reflect the costs associated with the production and sale of the product under consideration, the Authority may accept such cost allocations in lieu of an allocation determined in accordance with subsection (1).
 
-(3) Unless already reflected in the cost allocations made in accordance with the previous subsections, costs shall be adjusted appropriately for those non-recurring items of costs which benefit future or current production, or for circumstances in which costs
-
 *Construction of references to country of origin.*
 
-during the investigation period are affected by start-up operations.
+(3) Unless already reflected in the cost allocations made in accordance with the previous subsections, costs shall be adjusted appropriately for those non-recurring items of costs which benefit future or current production, or for circumstances in which costs during the investigation period are affected by start-up operations.
 
 **15.** (1) Goods shall be regarded for the purposes of this Act as having originated in a country—
 
@@ -558,15 +550,17 @@ during the investigation period are affected by start-up operations.
 
 (2) Any reference in this Act to the country in which goods originated is a reference, in a case where there are two or more countries which answer to that description, to any of those countries.
 
-## PART III — ANTI-DUMPING AUTHORITY
+*Anti-Dumping Authority.*
 
-**16.** (1) The Minister may designate the Permanent Secretary Anti-Dumping in his Ministry or such other person as he thinks fit, to be the Authority. Anti-Dumping Authority for the purposes of this Act.
+## PART III ANTI-DUMPING AUTHORITY
+
+**16.** (1) The Minister may designate the Permanent Secretary in his Ministry or such other person as he thinks fit, to be the Anti-Dumping Authority for the purposes of this Act.
+
+*Duties of Authority.*
 
 (2) The Minister may provide to the Authority the services of such other persons and such other facilities as he thinks fit.
 
-**17.** (1) It shall be the duty of the Authority in accordance Duties of with Regulations made under section 34—
-
-Authority.
+**17.** (1) It shall be the duty of the Authority in accordance with Regulations made under section 34—
 
 (a) to investigate into the existence, degree and effect of the alleged dumping, or grant of subsidy of any goods;
 
@@ -580,9 +574,11 @@ Authority.
 
 (2) The Authority shall conform, in the performance of his duties and exercise of his powers, with any general or special directions given to him by the Minister.
 
-## PART IV — INVESTIGATIONS
+*Initiation of investigation. [23 of 1995].*
 
-**18.** (1) The Authority may initiate an investigation to Initiation of determine the existence and effect of any alleged dumping or [23 of 1995]. investigation. subsidising of any goods at the direction of the Minister, on his own initiative or on receipt of a complaint in writing by or on
+## PART IV INVESTIGATIONS
+
+**18.** (1) The Authority may initiate an investigation to determine the existence and effect of any alleged dumping or subsidising of any goods at the direction of the Minister, on his own initiative or on receipt of a complaint in writing by or on
 
 behalf of an industry producing like goods, provided that the Authority shall not initiate an investigation where the members of such industry who support the complaint do not account for more production of the like goods in Trinidad and Tobago than do the members of any of such industry who signify to the Authority in writing their opposition to the complaint and for the purposes of this subsection any producers excluded from the definition of
 
@@ -612,35 +608,35 @@ behalf of an industry producing like goods, provided that the Authority shall no
 
 (c) a causal link between such imports and the alleged actionable injury.
 
+*Regional cases. [23 of 1995].*
+
 (6) The procedures of Customs clearance of goods shall not be affected or hindered by reason only of the opening of an investigation pursuant to this Act.
 
-**18A.** (1) Where injury has been determined by reference to a Regional cases. competitive market within Trinidad and Tobago in accordance [23 of 1995]. with paragraph (b), of the definition of “industry” in section 3(1), the exporters shall be given an opportunity to cease exporting at dumped prices to the area concerned or to give undertakings in accordance with section 18.
+**18A.** (1) Where injury has been determined by reference to a competitive market within Trinidad and Tobago in accordance with paragraph (b), of the definition of “industry” in section 3(1), the exporters shall be given an opportunity to cease exporting at dumped prices to the area concerned or to give undertakings in accordance with section 18.
 
 (2) Where exporters have been given the opportunity referred to in subsection (1) and they have not within thirty days ceased exporting to the area concerned or given undertakings in accordance with section 18, anti-dumping duties shall be levied on all imports from the country in question of the like goods into any part of Trinidad and Tobago, except as provided by subsection (3).
 
+*Rights of interested parties. [23 of 1995].*
+
 (3) Where the imports of goods to the area concerned of Trinidad and Tobago are exported by suppliers who do not supply such goods to the rest of Trinidad and Tobago, anti-dumping duty levied pursuant to subsection (2) of this section shall be levied only on those suppliers.
 
-**19.** (1) The Authority shall ensure that all interested persons Rights of are given reasonable opportunity throughout the investigation— interested
+**19.** (1) The Authority shall ensure that all interested persons are given reasonable opportunity throughout the investigation—
 
-(a) to present in writing all evidence relevant to the [23 of 1995]. parties. investigation;
+(a) to present in writing all evidence relevant to the investigation;
 
 (b) to have access to all non-confidential information relevant to the presentation of their case and used by the Authority in the investigation;
 
 (c) to present opposing views and offer rebuttal arguments.
 
-(2) Information provided pursuant to subsection (1)(a)
-
-shall not be taken into account unless it is reproduced in writing in non-confidential form and made available to other interested persons.
+(2) Information provided pursuant to subsection (1)(a) shall not be taken into account unless it is reproduced in writing in non-confidential form and made available to other interested persons.
 
 (3) For the purposes of subsection (1)(a), the Authority shall on request give interested persons an opportunity to meet and in so doing the Authority shall take account of the convenience of those persons and the need to preserve confidentiality, but no interested person shall be obliged to attend any such meeting and failure of any such person to attend shall not be prejudicial to that person’s case.
 
 (4) Industrial users of the product under investigation, and where the product is commonly sold at the retail level, representative organisations shall not be interested persons but shall be entitled to submit to the Authority information which is relevant to the investigation of dumping, subsidisation, injury and the causal link between injury and dumping or subsidisation.
 
-(5) The procedures set out in this Act shall not prevent the Authority from proceeding expeditiously with regard to initiating an investigation, reaching preliminary or final determinations, whether affirmative or negative, or from recommending the imposition of duties under this Act and within
-
 *Requests as to essential facts. [23 of 1995].*
 
-the deadlines prescribed by or under this Act.
+(5) The procedures set out in this Act shall not prevent the Authority from proceeding expeditiously with regard to initiating an investigation, reaching preliminary or final determinations, whether affirmative or negative, or from recommending the imposition of duties under this Act and within the deadlines prescribed by or under this Act.
 
 **19A.** (1) Exporters, foreign producers and importers of the product subject to investigation, and in the case of subsidisation, the representatives of the country of origin, may request to be informed by the Authority of the essential facts and considerations on the basis of which it is intended to recommend to the Minister the imposition of anti-dumping duty or countervailing duty or the definitive collection of amounts secured by way of provisional duty.
 
@@ -648,35 +644,33 @@ the deadlines prescribed by or under this Act.
 
 (3) The information provided in response to a request shall be given by the Authority in writing without prejudice to any subsequent decision which may be taken by the Minister and the information shall be given no later than fifteen days prior to submission to the Minister of the proposed final determination pursuant to section 26.
 
-*of*
+*Treatment of confidential information.*
 
-**20.** (1) Any information provided to the Authority on a Treatment confidential basis by any person in the course of an investigation information. confidential shall, upon the Authority being satisfied as to its confidentiality, be treated as such by it and no such information shall be disclosed by the Authority to any other person without the specific authorisation of the person providing such information.
+**20.** (1) Any information provided to the Authority on a confidential basis by any person in the course of an investigation shall, upon the Authority being satisfied as to its confidentiality, be treated as such by it and no such information shall be disclosed by the Authority to any other person without the specific authorisation of the person providing such information.
 
 (2) The Authority may request persons who have provided confidential information to furnish—
 
 (a) a non-confidential summary of the information; or
 
-(b) if it is claimed that the information is not susceptible of such summary, a statement of the reasons why such summary is not possible, and he may disregard any information for which the person submitting it fails to provide either a satisfactory summary or
+*General conduct of investigation.*
 
-*conduct*
+(b) if it is claimed that the information is not susceptible of such summary, a statement of the reasons why such summary is not possible, and he may disregard any information for which the person submitting it fails to provide either a satisfactory summary or satisfactory reason why such summary cannot be provided.
 
-satisfactory reason why such summary cannot be provided.
+**21.** (1) An investigation shall be carried out in the prescribed manner.
 
-**21.** (1) An investigation shall be carried out in the General prescribed manner.
-
-of investigation.
+*False or misleading evidence or information.*
 
 (2) Interested parties to an investigation may be represented by an attorney-at-law or by an agent.
 
 **22.** A person who—
 
-False or
+(a) gives to the Authority information, whether orally or in writing, or documents, which he knows, or has reason to believe to be false or misleading in a material particular; or
 
-(a) gives to the Authority information, whether evidence or misleading orally or in writing, or documents, which he information. knows, or has reason to believe to be false or misleading in a material particular; or
+*Termination of investigations. [23 of 1995].*
 
 (b) at an investigation, gives evidence, or produces a document which he knows, or has reason to believe to be false or misleading in a material particular, commits an offence and is liable on summary conviction to a fine of fifteen thousand dollars and imprisonment for one year.
 
-**23.** (1) An investigation shall be terminated pursuant to this Termination of section, section 26 or section 28. investigations. [23 of 1995].
+**23.** (1) An investigation shall be terminated pursuant to this section, section 26 or section 28.
 
 (2) Where, upon the recommendation of the Authority, the Minister, at any time before making a final determination of
 
@@ -710,21 +704,19 @@ the margin of dumping for that exporter or producer is less than two per cent of
 
 (8) For the purposes of subsection (7), the volume of dumped imports from a particular country shall be regarded as negligible if it is found to account for less than three per cent of all imports into Trinidad and Tobago of the like product, but this subsection shall not apply where two or more countries which individually account for less than three per cent of all imports into Trinidad and Tobago of the like product collectively account for more than seven per cent of such imports.
 
-## PART V
+*Preliminary determination.*
 
-*determination.*
+## PART V DETERMINATIONS
 
-### DETERMINATIONS
-
-**24.** (1) Within three months after an investigation has been Preliminary initiated pursuant to section 18, the Minister shall make a preliminary determination, on the basis of the information made available during the investigation, if he has reasonable cause to believe, that the goods which were the subject of the investigation are goods in respect of which he may make an Order imposing duty.
+**24.** (1) Within three months after an investigation has been initiated pursuant to section 18, the Minister shall make a preliminary determination, on the basis of the information made available during the investigation, if he has reasonable cause to believe, that the goods which were the subject of the investigation are goods in respect of which he may make an Order imposing duty.
 
 (2) The Minister’s preliminary determination shall be given by notice.
 
+*Direction. [23 of 1995].*
+
 (3) This section and section 26 shall not apply to an investigation terminated under section 23.
 
-*[23 of 1995].*
-
-**25.** (1) Where the Minister has made a preliminary Direction. determination under section 24, he may, if he is satisfied that such action is necessary to prevent material injury being caused during the period of investigation, by notice give a direction to the Comptroller that payment of provisional duty in respect of those
+**25.** (1) Where the Minister has made a preliminary determination under section 24, he may, if he is satisfied that such action is necessary to prevent material injury being caused during the period of investigation, by notice give a direction to the Comptroller that payment of provisional duty in respect of those
 
 goods shall be made or payment shall be secured in accordance with section 31, provided that no such direction shall take effect less than sixty days after the date of initiation.
 
@@ -738,11 +730,9 @@ goods shall be made or payment shall be secured in accordance with section 31, p
 
 (4) A direction shall cease to have effect following the final determination made by the Minister under section 26.
 
-(5) When any direction ceases to have effect any security given pursuant to the direction shall be released, except to the
-
 *Final determination. [23 of 1995].*
 
-extent that duty is payable pursuant to an Order under this Act.
+(5) When any direction ceases to have effect any security given pursuant to the direction shall be released, except to the extent that duty is payable pursuant to an Order under this Act.
 
 **26.** (1) The Minister shall make a final determination as to whether or not the goods which were the subject of the investigation are goods in respect of which he may make an Order imposing duty.
 
@@ -752,17 +742,17 @@ extent that duty is payable pursuant to an Order under this Act.
 
 (3) Notwithstanding any other provision of this Act, the final determination shall be made no more than eighteen months after the date of initiation of the investigation.
 
-## PART VI
+*Appeal to Tax Appeal Board. Ch. 4:50.*
 
-*Board. Ch. 4:50.*
+## PART VI APPEALS
 
-### APPEALS
+**27.** A person aggrieved by an Order imposing duty may apppeal to the Tax Appeal Board in accordance with the Tax Appeal Board Act.
 
-**27.** A person aggrieved by an Order imposing duty may Appeal to Tax apppeal to the Tax Appeal Board in accordance with the Tax Appeal Appeal Board Act.
+*Undertakings. [23 of 1995].*
 
-## PART VII — MISCELLANEOUS
+## PART VII MISCELLANEOUS
 
-**28.** (1) Where, in relation to the exportation of any Undertakings. consignment of goods to Trinidad and Tobago, an investigation is [23 of 1995]. initiated pursuant to section 18, the Minister may cause the investigation to be suspended or terminated if he is given and accepts an undertaking by the Government of the country of export or by the exporter of the goods that the Government or the exporter, as the case may be, will so conduct future export trade to Trinidad and Tobago of like goods to the goods in the consignment as to avoid causing actionable injury.
+**28.** (1) Where, in relation to the exportation of any consignment of goods to Trinidad and Tobago, an investigation is initiated pursuant to section 18, the Minister may cause the investigation to be suspended or terminated if he is given and accepts an undertaking by the Government of the country of export or by the exporter of the goods that the Government or the exporter, as the case may be, will so conduct future export trade to Trinidad and Tobago of like goods to the goods in the consignment as to avoid causing actionable injury.
 
 (1A) No undertaking shall be accepted pursuant to this section unless a preliminary determination has been made pursuant to section 24, nor shall an undertaking be accepted if it is offered later than fifteen days prior to the submission by the Authority to the Minister of proposals for definitive action.
 
@@ -790,11 +780,9 @@ extent that duty is payable pursuant to an Order under this Act.
 
 (8)
 
-(9) If an investigation is terminated in accordance with
-
 *Review of imposition of duties. [23 of 1995].*
 
-subsection (1), notice of the termination shall be given.
+(9) If an investigation is terminated in accordance with subsection (1), notice of the termination shall be given.
 
 **29.** (1) The Minister shall review the imposition of a duty where warranted on his own initiative, or on a recommendation of the Authority.
 
@@ -804,13 +792,11 @@ subsection (1), notice of the termination shall be given.
 
 (4) Where warranted by the review, the Minister may amend or revoke the Order imposing the duty, except that the duty shall be maintained or confirmed to the extent necessary to counteract the injurious effects of dumping or subsidisation.
 
-(5) Subsections (1) to (4) shall apply to price undertakings as though references to duties included references
+*Duration of duties. [23 of 1995].*
 
-*of duties.*
+(5) Subsections (1) to (4) shall apply to price undertakings as though references to duties included references to price undertakings.
 
-to price undertakings.
-
-**29A.** (1) Subject to this section, duties shall expire on the fifth Duration anniversary of their entry into force or, as the case may be, their [23 of 1995]. last review.
+**29A.** (1) Subject to this section, duties shall expire on the fifth anniversary of their entry into force or, as the case may be, their last review.
 
 (2) Duties shall not expire on the fifth anniversary referred to in subsection (1) if on that date an investigation is in progress pursuant to section 29 or this section.
 
@@ -822,11 +808,11 @@ to price undertakings.
 
 (6) Notice shall be given of the termination or expiry of a duty for any reason whatsoever.
 
+*Newcomer review. [23 of 1995].*
+
 (7) Subsections (1) to (6) shall apply to price undertakings as though reference to duties included references to price undertakings.
 
-*review. [23 of 1995].*
-
-**29B.** (1) Where a person satisfies the Authority that, in relation Newcomer to a product which is subject to an Order under section 7—
+**29B.** (1) Where a person satisfies the Authority that, in relation to a product which is subject to an Order under section 7—
 
 (a) it did not export the product to Trinidad and Tobago during the investigation period used for the purposes of determining the facts on the basis of which the Order was made;
 
@@ -840,11 +826,9 @@ to price undertakings.
 
 (4) During the investigation referred to in subsection (1), the goods exported by the person in question shall be exempt from anti-dumping duty, and any Order which the Minister makes imposing anti-dumping duty on such goods shall have retrospective effect to the date of the initiation of the investigation.
 
-(5) The Comptroller shall require and take adequate securities for payment of duty becoming due retrospectively in
-
 *Retrospective duty. [23 of 1995].*
 
-accordance with subsection (4).
+(5) The Comptroller shall require and take adequate securities for payment of duty becoming due retrospectively in accordance with subsection (4).
 
 **30.** (1) Duty and provisional duty shall only be applied to goods which are entered for home consumption after the date of an Order imposing duty or, where section 25 applies, after the date of the provisional direction, except as provided by this section.
 
@@ -864,11 +848,9 @@ under section 31 have led to a finding of material injury, duty may be imposed r
 
 (4) Where an undertaking is violated by the undertaker and the Minister imposes provisional duties, duty may be
 
-imposed on goods entered for home consumption not more than ninety days before the date of the provisional direction, except that such retrospective duty shall not apply to goods that have been entered for home consumption before the date of the
-
 *Securities for payment of duty.*
 
-violation of the undertaking.
+imposed on goods entered for home consumption not more than ninety days before the date of the provisional direction, except that such retrospective duty shall not apply to goods that have been entered for home consumption before the date of the violation of the undertaking.
 
 **31.** (1) The Comptroller may require and take securities for payment of duty payable under this Act and pending the giving of the required security he may refuse to pass any entry or to do any other act in relation to any matter in respect of which the security is required.
 
@@ -878,11 +860,9 @@ violation of the undertaking.
 
 (4) Any bond or other security entered into or given under this Act by a person under the age of 18 years (otherwise than as a surety or guarantor) shall have the same force, effect, and validity as if that person had been of full age.
 
-(5) Security under this section may be either in the prescribed form or to the like effect, or in such other form as the
-
 *Notices.*
 
-Comptroller in any particular case approves.
+(5) Security under this section may be either in the prescribed form or to the like effect, or in such other form as the Comptroller in any particular case approves.
 
 **32.** Notices under this Act shall—
 
@@ -898,21 +878,21 @@ Comptroller in any particular case approves.
 
 (iv) where section 7 applies, the Government of the third country on behalf of whom the Minister is taking action; and
 
+*Additional liability for offence by body corporate.*
+
 (c) be published in the Gazette.
 
-**33.** Where a person by whom an offence against section 10(6) Additional or 22 is committed is a body corporate, every director or other offence by body liability for officer concerned in any capacity in the management of the body corporate. corporate is guilty of the like offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+*Regulations. [23 of 1995].*
 
-**34.** (1) The Minister may make Regulations prescribing for Regulations. the purposes of this Act all matters—
+**33.** Where a person by whom an offence against section 10(6) or 22 is committed is a body corporate, every director or other officer concerned in any capacity in the management of the body corporate is guilty of the like offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
-[23 of 1995].
+**34.** (1) The Minister may make Regulations prescribing for the purposes of this Act all matters—
 
 (a) required or permitted by this Act to be prescribed; or
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2) Without prejudice to the generality of subsection (1)
-
-Regulations under this section may provide for—
+(2) Without prejudice to the generality of subsection (1) Regulations under this section may provide for—
 
 (a) the manner in which complaints of dumping or subsidisation will be received;
 
@@ -966,15 +946,15 @@ Regulations under this section may provide for—
 
 *25/1996.*
 
-### ANTI-DUMPING AND COUNTERVAILING DUTIES REGULATIONS
+*Citation.*
 
-*Citation. Complaints.*
+*and Complaints. contain the*
 
-made under section 34
+ANTI-DUMPING AND COUNTERVAILING DUTIES REGULATIONS made under section 34
 
-**1.** These Regulations may be cited as the Anti-Dumping and Countervailing Duties Regulations.
+**1.** These Regulations may be cited as the Anti-Dumping Countervailing Duties Regulations.
 
-**2.** (1) A complaint under section 18 of the Act shall contain the following information:
+**2.** (1) A complaint under section 18 of the Act shall following information:
 
 (a) the name and address of the complainant;
 
@@ -1006,11 +986,11 @@ made under section 34
 
 (b) where the complaint does not comply with section 18(2) of the Act, cause the complainant to be informed that the complaint was received and that additional information or material is needed in order for the complaint to so comply, and may set any time limit within which such additional information shall be submitted.
 
+*Preliminary hearing.*
+
 (4) For the purposes of subregulation (1), where the Authority receives from a complainant additional written information or material, the complaint is deemed to have been received on the day that the Authority received the additional written information or material.
 
-*hearing.*
-
-**3.** For the purposes of section 18(5) of the Act, before Preliminary initiating an investigation, whether on its own initiative or as a result of a complaint, the Authority shall hold a preliminary hearing of all interested persons and such experts and other witnesses as it thinks fit and—
+**3.** For the purposes of section 18(5) of the Act, before initiating an investigation, whether on its own initiative or as a result of a complaint, the Authority shall hold a preliminary hearing of all interested persons and such experts and other witnesses as it thinks fit and—
 
 (a) shall cause notice of the preliminary hearing to be given;
 
@@ -1034,39 +1014,35 @@ made under section 34
 
 (3) The Authority shall provide a copy of the complaint with every copy of the notice provided pursuant to subregulation (1).
 
-(4) Where the Authority decides not to initiate an investigation, it shall send a written notice of that decision to the
-
 *Questionnaires.*
 
-complainant setting out therein the reasons therefor.
+(4) Where the Authority decides not to initiate an investigation, it shall send a written notice of that decision to the complainant setting out therein the reasons therefor.
 
 **5.** (1) Where the Authority requests the completion of a questionnaire under regulation 3 or 4, it shall allow thirty days or such longer period as it thinks fit in which to provide the information requested.
 
-(2) The Authority shall verify all information provided
-
 *Investigation in the territory of other countries.*
 
-to it by means of a questionnaire.
+(2) The Authority shall verify all information provided to it by means of a questionnaire.
 
 **6.** (1) The Authority may carry out an investigation in the territories of another country, if the circumstances warrant, provided the Authority notifies such country in advance and such country does not object to the investigation.
 
+*Joining investigations.*
+
 (2) The Authority may carry out an investigation at the premises of a commercial organisation situate in the territory of another country or may examine its records if such organisation agrees, and if the country, in whose territory the commercial organisation is situated, is notified and raises no objection to the conduct of such investigation or examination of records.
 
-*investigations.*
-
-**7.** (1) Two or more investigations may be joined and Joining carried on as one investigation where the investigations deal with the same or like goods.
+**7.** (1) Two or more investigations may be joined and carried on as one investigation where the investigations deal with the same or like goods.
 
 (2) An investigation may not be joined pursuant to subregulation (1) if a preliminary determination under section 24 of the Act has been made in respect of it.
 
+*Expert evidence. Provision of evidence to Authority.*
+
 (3) Where investigations are joined pursuant to subregulation (1) the Authority shall cause a notice of the joining to be given in writing to the importers, exporters, governments of the countries of export and complainants, if any, involved in the investigations.
 
-*evidence. Provision of evidence to*
-
-**8.** The Authority may require such experts and other Expert persons as it thinks fit to tender any evidence relevant to the investigations being carried out.
+**8.** The Authority may require such experts and other persons as it thinks fit to tender any evidence relevant to the investigations being carried out.
 
 **9.** (1) Where—
 
-(a) in an investigation respecting the dumping or Authority. subsidising of goods; or
+(a) in an investigation respecting the dumping or subsidising of goods; or
 
 (b) in relation to the sale of—
 
@@ -1074,15 +1050,19 @@ to it by means of a questionnaire.
 
 (ii) goods released ninety days prior to the initiation of an investigation, the Authority believes on reasonable grounds that any person in Trinidad and Tobago is able to provide evidence relevant to the investigation or to the making, for the purpose of facilitating the administration or enforcement of the Act, of an estimate of the duty that may be payable on the goods when imported into
 
-Trinidad and Tobago, the Authority may, by notice in writing, require the person to provide the Authority, with the evidence referred to in the notice.
+*Trinidad referred to the*
 
-(2) Where, by notice given pursuant to subregulation (1) the Authority requires any person to provide evidence, it shall—
+and Tobago, the Authority may, by notice in writing, require the person to provide the Authority, with the evidence in the notice.
+
+(2) Where, by notice given pursuant to subregulation (1) Authority requires any person to provide evidence, it shall—
 
 (a) include in the notice sufficient information for the person to identify the evidence;
 
+*to person*
+
 (b) specify in the notice the time within which and the manner and form in which the evidence is to be provided.
 
-(3) Where a person is required by notice given pursuant to subregulation (1) to provide the Authority with evidence, the person shall—
+(3) Where a person is required by notice given pursuant subregulation (1) to provide the Authority with evidence, the shall—
 
 (a) if it is reasonably practicable for the person to do so, provide the evidence in accordance with the notice;
 
@@ -1092,13 +1072,13 @@ Trinidad and Tobago, the Authority may, by notice in writing, require the person
 
 (ii) provide the Authority with a written statement identifying the remainder of the evidence and specifying the reason why it is not reasonably practicable for the person to provide the remainder of the evidence in accordance with the notice; and
 
-(c) if it is not reasonably practicable for the person to provide the evidence in accordance with the notice, provide the Authority with a statement so stating and specifying the reason why it is not reasonably practicable to so provide the evidence.
+*specifies Authority extend the*
 
-(4) Where, pursuant to subregulation (2)(b), the Authority specifies the time within which evidence is to be provided, the Authority may, either before or after the expiration of that time, extend the time within which the evidence is to be provided.
+(c) if it is not reasonably practicable for the person to provide the evidence in accordance with the notice, provide the Authority with a statement so stating and specifying the reason why it is not reasonably practicable to so provide the evidence. (4) Where, pursuant to subregulation (2)(b), the Authority the time within which evidence is to be provided, the may, either before or after the expiration of that time, time within which the evidence is to be provided.
 
-*of actionable*
+*Finding of actionable injury.*
 
-**10.** (1) Where a complaint of actionable injury is made, the Finding Authority shall examine such facts as the Authority considers injury. relevant under the circumstances, and shall give due consideration to the following factors:
+**10.** (1) Where a complaint of actionable injury is made, the Authority shall examine such facts as the Authority considers relevant under the circumstances, and shall give due consideration to the following factors:
 
 (a) the volume of dumped or subsidised imports as assessed in absolute terms or relative to production or consumption in Trinidad and Tobago;
 
@@ -1140,17 +1120,19 @@ may be deemed to be an effect of imports from each of the countries subject to i
 
 (a) there is a concentration of the dumped or subsidised imports into an isolated market; and
 
+*Findings to be given on evidence available.*
+
 (b) the dumped or subsidised imports are causing actionable injury to the producers of all of the production within such market.
 
-*given on available.*
+*Preliminary findings.*
 
-**11.** Where an interested party or country refuses access to, or Findings to be otherwise does not provide necessary information to the Authority evidence within the time limit fixed by the Authority or within a reasonable period if no time limit is fixed by the Authority, or impedes its investigations, the Authority may record its findings on the basis of the information available to it and put up such recommendations to the Minister as it thinks fit under the circumstances.
+**11.** Where an interested party or country refuses access to, or otherwise does not provide necessary information to the Authority within the time limit fixed by the Authority or within a reasonable period if no time limit is fixed by the Authority, or impedes its investigations, the Authority may record its findings on the basis of the information available to it and put up such recommendations to the Minister as it thinks fit under the circumstances.
 
-*findings.*
+**12.** (1) The Authority shall within seventy-five days of the receipt of the complaint, or such extended time as the Minister may, subject to section 24(1) of the Act, in any case allow, submit preliminary findings to the Minister to enable him to make a preliminary determination under section 24 of the Act and take any provisional measures under section 25 of the Act.
 
-**12.** (1) The Authority shall within seventy-five days of the Preliminary receipt of the complaint, or such extended time as the Minister may, subject to section 24(1) of the Act, in any case allow, submit preliminary findings to the Minister to enable him to make a preliminary determination under section 24 of the Act and take any provisional measures under section 25 of the Act.
+*referred to following*
 
-(2) Without prejudice to section 32 of the Act, the notice referred to in section 24(2) of the Act shall contain the following information:
+(2) Without prejudice to section 32 of the Act, the notice in section 24(2) of the Act shall contain the information:
 
 (a) the name of the suppliers, or where this is impracticable, the name of the supplying country concerned;
 
@@ -1160,11 +1142,11 @@ may be deemed to be an effect of imports from each of the countries subject to i
 
 (d) considerations relevant to the injury determination; and
 
-*Final finding.*
+*\13. The*
 
-(e) the main reasons leading to the determination.
+*Final finding. report*
 
-**13.** The Authority shall submit to the Minister a detailed report containing—
+(e) the main reasons leading to the determination. Authority shall submit to the Minister a detailed containing—
 
 (a) its final finding as to—
 
@@ -1174,9 +1156,11 @@ may be deemed to be an effect of imports from each of the countries subject to i
 
 (iii) whether import of such articles into Trinidad and Tobago causes or threatens to cause material injury to any industry established in Trinidad and Tobago or materially retards the establishment of any industry in Trinidad and Tobago;
 
+*within one subject to*
+
 (b) the basis of its findings; and
 
-(c) its recommendations for the action to be taken, within one hundred and twenty days from the date of preliminary determination or within such extended time as the Minister may, subject to section 26(1) of the Act, grant in exceptional cases.
+(c) its recommendations for the action to be taken, hundred and twenty days from the date of preliminary determination or within such extended time as the Minister may, section 26(1) of the Act, grant in exceptional cases.
 
 ### ANTI-DUMPING AND COUNTERVAILING DUTIES (SUBSIDIES) REGULATIONS
 
@@ -1210,11 +1194,9 @@ may be deemed to be an effect of imports from each of the countries subject to i
 
 *26/1996.*
 
-### ANTI-DUMPING AND COUNTERVAILING DUTIES (SUBSIDIES) REGULATIONS
-
 *Citation. Interpretation.*
 
-made under section 34
+ANTI-DUMPING AND COUNTERVAILING DUTIES (SUBSIDIES) REGULATIONS made under section 34
 
 **1.** These Regulations may be cited as the Anti-Dumping and Countervailing Duties (Subsidies) Regulations.
 
@@ -1240,13 +1222,13 @@ made under section 34
 
 (b) pilot projects or projects involving the conceptual formulation and design, or initial demonstration, of alternative products, processes or services, provided that the project cannot be converted or used for industrial application or commercial exploitation, but does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services and other on-going operations, whether those alterations are by way of improvement or not;
 
+*Subsidy to be specific. Specificity.*
+
 “region” means a region within the territory of the country of origin or the country of export.
 
-*be specific.*
+**3.** A subsidy shall be subject to countervailing measures only if it is specific to an enterprise.
 
-**3.** A subsidy shall be subject to countervailing measures Subsidy to only if it is specific to an enterprise.
-
-**4.** (1) Subject to subregulation (2), for the purposes of Specificity. determining whether a subsidy is specific to an enterprise, the following principles shall apply:
+**4.** (1) Subject to subregulation (2), for the purposes of determining whether a subsidy is specific to an enterprise, the following principles shall apply:
 
 (a) where the granting authority, or the legislation pursuant to which the granting authority operates, explicitly limits access to a subsidy to an enterprise, such subsidy shall be specific; and
 
@@ -1266,11 +1248,9 @@ made under section 34
 
 (f) the length of time during which the subsidy programme has been in operation.
 
-(3) A subsidy which is limited to an enterprise located within a designated geographical region within the jurisdiction of the granting authority shall be specific, but for the purposes of this subregulation, “subsidy” does not include the setting or change of
-
 *Deemed specificity.*
 
-generally applicable tax rates by any authority entitled to do so.
+(3) A subsidy which is limited to an enterprise located within a designated geographical region within the jurisdiction of the granting authority shall be specific, but for the purposes of this subregulation, “subsidy” does not include the setting or change of generally applicable tax rates by any authority entitled to do so.
 
 **5.** (1) Notwithstanding regulation 4, the following subsidies are deemed to be specific:
 
@@ -1282,25 +1262,31 @@ generally applicable tax rates by any authority entitled to do so.
 
 (a) the mere fact that a subsidy is accorded to enterprises which export shall not, for that reason alone, make the subsidy one that is contingent upon export performance; and
 
-(b) subsidies shall be considered to be contingent in fact upon export performance when the facts demonstrate that the granting of a subsidy, without having been made legally contingent upon export performance, is in fact tied to actual or anticipated exportation or export earnings.
+*\6. A*
 
-*specificity. countervailable subsidies.*
+*Evidence of specificity. Non-countervailable subsidies.*
 
-**6.** A determination of specificity shall be clearly Evidence of substantiated on the basis of positive evidence.
+(b) subsidies shall be considered to be contingent in fact upon export performance when the facts demonstrate that the granting of a subsidy, without having been made legally contingent upon export performance, is in fact tied to actual or anticipated exportation or export earnings. determination of specificity shall be clearly substantiated on the basis of positive evidence.
 
-**7.** The following subsidies shall not be subjected to Non-countervailing measures:
+**7.** The following subsidies shall not be subjected to countervailing measures:
 
 (a) subsidies which are not specific within the meaning of regulations 4 and 5;
 
-(b) subsidies which are specific, within the meaning of regulations 4 and 5, but which meet the
-
 *Schedule.*
 
-conditions provided for in regulation 8, 9 or 10;
+(b) subsidies which are specific, within the meaning of regulations 4 and 5, but which meet the conditions provided for in regulation 8, 9 or 10;
 
-(c) the element of subsidy which may exist in any of the measures listed in the Schedule.
+*\8. (1)*
 
-**8.** (1) Subsidies for research activities conducted by firms Research or by higher education or research establishments on a contract subsidies. basis with firms shall not be subject to countervailing measures, if the subsidies cover not more than seventy-five per cent of the costs of industrial research or fifty per cent of the costs of pre-competitive development activity, and provided that such subsidies are limited exclusively to—
+*Research*
+
+*or by*
+
+*subsidies.*
+
+*basis with if the costs of subsidies*
+
+(c) the element of subsidy which may exist in any of the measures listed in the Schedule. Subsidies for research activities conducted by firms higher education or research establishments on a contract firms shall not be subject to countervailing measures, subsidies cover not more than seventy-five per cent of the industrial research or fifty per cent of the costs of pre-competitive development activity, and provided that such are limited exclusively to—
 
 (a) personnel costs in relation to researchers, technicians and other supporting staff employed exclusively in the research activity;
 
@@ -1316,11 +1302,9 @@ conditions provided for in regulation 8, 9 or 10;
 
 (3) Where the research activity consists of industrial research and pre-competitive development activity, the allowable level of non-countervailable subsidy shall not exceed the simple average of the allowable levels of non-countervailable subsidy applicable to both categories, calculated on the basis of all eligible costs as set forth in subregulation (1)(a) to (e).
 
-(4) This regulation does not apply to industrial activity or pre-competitive development activity carried on in relation to civil aircraft as defined in the 1979 Agreement on Trade in Civil Aircraft, as amended, or in any later agreement amending or
-
 *Subsidies to disadvantaged regions.*
 
-replacing that Agreement.
+(4) This regulation does not apply to industrial activity or pre-competitive development activity carried on in relation to civil aircraft as defined in the 1979 Agreement on Trade in Civil Aircraft, as amended, or in any later agreement amending or replacing that Agreement.
 
 **9.** (1) Subsidies to disadvantaged regions within the territory of the country of origin or the country of export, given pursuant to a general framework of regional development, and which would be non-specific if the criteria laid down in regulation 4 were applied to eligible region concerned shall not be subject to countervailing measures provided that—
 
@@ -1338,9 +1322,11 @@ on a combination, or at least one, of the following factors:
 
 (d) the requirements of regulation 10 in relation to the regional subsidy programme concerned are satisfied.
 
+*Regional subsidy programmes.*
+
 (2) A measurement of economic development under subregulation (1)(c) may include such other factors as the Authority thinks fit.
 
-**10.** In order for a subsidy to qualify for an exemption under Regional regulation 9, the regional subsidy programme under which the subsidy subsidy is granted shall provide for the following: programmes.
+**10.** In order for a subsidy to qualify for an exemption under regulation 9, the regional subsidy programme under which the subsidy is granted shall provide for the following:
 
 (a) ceilings on the amount of subsidy which can be granted to each subsidised project, such ceilings being—
 
@@ -1348,11 +1334,11 @@ on a combination, or at least one, of the following factors:
 
 (ii) expressed in terms of investment costs or the cost of job creation;
 
+*Subsidies for adaptation of existing facilities.*
+
 (b) the broad and even distribution of subsidies so as to avoid the predominant use of subsidies by, or the granting of disproportionately large amounts of a subsidy to, any enterprise.
 
-*of*
-
-**11.** (1) Subsidies to promote the adaptation of existing Subsidies for facilities to new environmental requirements imposed by law adaptation resulting in greater constraints and financial burden on firms or facilities. existing
+**11.** (1) Subsidies to promote the adaptation of existing facilities to new environmental requirements imposed by law resulting in greater constraints and financial burden on firms or
 
 enterprises, shall not be subject to countervailing measures, provided that the subsidy—
 
@@ -1364,11 +1350,9 @@ enterprises, shall not be subject to countervailing measures, provided that the 
 
 (d) is directly linked to and proportionate to a firm’s planned reduction of nuisances and pollution, and does not cover any manufacturing cost savings which may be achieved; and
 
-(e) is available to all firms and enterprises which can
-
 *Calculation of amount of countervailable subsidy.*
 
-adopt the new equipment or production processes.
+(e) is available to all firms and enterprises which can adopt the new equipment or production processes.
 
 **12.** (1) The amount of countervailable subsidies shall be calculated in terms of the benefit conferred to the recipient and which is found to exist during the investigation period for subsidisation.
 
@@ -1384,9 +1368,11 @@ pay for a comparable commercial loan which the firm or enterprise could actually
 
 (c) a loan guarantee by a government shall not be considered as conferring a benefit, unless there is a difference between the amount that the firm receiving the guarantee pays on a loan guaranteed by the government and the amount that the firm would pay for a comparable commercial loan in the absence of the government guarantee, in which case the benefit shall be the difference between the two amounts adjusted for any differences in fees;
 
+*calculation*
+
 (d) the provision of goods or services or purchases of goods by a government shall not be considered as conferring a benefit unless the provision is made for less than adequate remuneration, or the purchase is made for more than adequate remuneration and the adequacy of remuneration shall be determined in relation to prevailing market conditions for the product or service in question in the country of provision or purchase (including price, quality, availability, marketability, transportation and other conditions of purchase or sale).
 
-(4) The following principles shall apply to the calculation of the amount of countervailable subsidies:
+(4) The following principles shall apply to the of the amount of countervailable subsidies:
 
 (a) the amount of the countervailable subsidies shall be determined per unit of the subsidised product exported to Trinidad and Tobago;
 
@@ -1404,21 +1390,31 @@ but the Authority shall not make any deduction under this paragraph, unless the 
 
 (e) where a subsidy cannot be linked to the acquisition of fixed assets, the amount of the benefit received during the investigation period shall in principle be attributed to this period, and allocated as described in paragraph (c), unless special circumstances arise justifying attribution over a different period.
 
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 *Regulation 7(c).*
+
+*claimed minimal,*
 
 ## SCHEDULE DOMESTIC SUPPORT MEASURES
 
-**1.** Domestic support measures for which exemption from countervailing duty is claimed shall meet the fundamental requirement that they have no, or at most minimal, trade-distorting effects on production. Accordingly, all measures for which exemption is claimed shall conform to the following basic criteria:
+**1.** Domestic support measures for which exemption from countervailing duty is shall meet the fundamental requirement that they have no, or at most trade-distorting effects on production. Accordingly, all measures for which exemption is claimed shall conform to the following basic criteria:
 
 (a) the support in question shall be provided through a publicly-funded government programme (including government revenue foregone) not involving transfers from consumers; and
 
-(b) the support in question shall not have the effect of providing price support to producers, plus policy-specific criteria and conditions as set out below.
+*plus*
+
+(b) the support in question shall not have the effect of providing price support to producers, policy-specific criteria and conditions as set out below.
 
 ### GOVERNMENT SERVICE PROGRAMMES
 
 **2.** General Services
 
-Policies in this category involve expenditures (or revenue foregone) in relation to programmes which provide services to agriculture or a rural community. These programmes shall not involve direct payments to producers or processors. These programmes include but are not restricted to the following:
+*or*
+
+Policies in this category involve expenditures (or revenue foregone) in relation to programmes which provide services to agriculture or a rural community. These programmes shall not involve direct payments to producers processors. These programmes include but are not restricted to the following:
 
 (a) research, including general research, research in connection with environmental programmes, and research programmes relating to particular products;
 
@@ -1448,7 +1444,9 @@ Eligibility to receive the food aid shall be subject to clearly-defined criteria
 
 Support provided through direct payments (or revenue foregone, including payments in kind) to producers for which exemption from reduction commitments is claimed shall meet the basic criteria set out in paragraph 1, plus specific criteria applying to individual types of direct payment as set out in paragraphs 6 through 13. Where exemption from reduction is claimed for
 
-any existing or new type of direct payment other than those specified in paragraphs 6 through 13, it shall conform to the criteria (b) through (e) in paragraph 6, in addition to the general criteria set out in paragraph 1.
+*MINISTRY any paragraphs paragraph*
+
+OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS existing or new type of direct payment other than those specified in 6 through 13, it shall conform to the criteria (b) through (e) in 6, in addition to the general criteria set out in paragraph 1.
 
 **6.** Decoupled income support
 
@@ -1462,7 +1460,9 @@ any existing or new type of direct payment other than those specified in paragra
 
 (e) No production shall be required in order to receive such payments.
 
-**7.** Government financial participation in income insurance and income safety-net programmes
+*safety-net*
+
+**7.** Government financial participation in income insurance and income programmes
 
 (a) Eligibility for such payments shall be determined by an income loss, taking into account only income derived from agriculture, which exceeds 30% of average gross income or the equivalent in net income terms (excluding any payments from the same or similar schemes) in the preceding three-year period or a three-year average based on the preceding five-year period, excluding the highest and the lowest entry. Any producer meeting this condition shall be eligible to receive the payments.
 
@@ -1484,7 +1484,9 @@ any existing or new type of direct payment other than those specified in paragra
 
 (e) Where a producer receives in the same year payments pursuant to this paragraph and pursuant to paragraph 7 (income insurance and income safety-net programmes), the total of such payments shall be less than 100% of the producer’s total loss.
 
-**9.** Structural adjustment assistance provided through producer retirement programmes
+*retirement*
+
+**9.** Structural adjustment assistance provided through producer programmes
 
 (a) Eligibility for such payments shall be determined by reference to clearly-defined criteria in programmes designed to facilitate the retirement of persons engaged in marketable agricultural production, or their movement to non-agricultural activities.
 
@@ -1495,6 +1497,10 @@ any existing or new type of direct payment other than those specified in paragra
 **10.** Structural adjustment assistance provided through resource retirement
 
 (a) Eligibility for such payments shall be determined by reference to clearly-defined criteria in programmes designed to remove land or other resources, including livestock, from marketable agricultural production.
+
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
 
 (b) Payments shall be conditional upon the retirement of land from marketable agricultural production for a minimum of three years, and in the case of livestock on its slaughter or definitive permanent disposal.
 

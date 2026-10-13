@@ -96,11 +96,13 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 ## SCHEDULE 5.
 
-### CHAPTER 45:52 ATTACHMENT OF EARNINGS
+*MINISTRY OF THE*
 
-*14 of 1988. Commencement. 169/1991. Short title. Interpretation.*
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
 
-(MAINTENANCE) ACT An Act relating to the attachment of earnings as a means of enforcing the discharge of maintenance obligations.
+*An 14 of 1988. Commencement. 169/1991. Short title. Interpretation. “the “the*
+
+CHAPTER 45:52 ATTACHMENT OF EARNINGS (MAINTENANCE) ACT Act relating to the attachment of earnings as a means of enforcing the discharge of maintenance obligations.
 
 ### [1 ST D ECEMBER 1991]
 
@@ -108,9 +110,9 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 **2.** In this Act—
 
-“the Court”, in relation to an attachment of earnings order, means the Magistrate’s Court or the High Court;
+Court”, in relation to an attachment of earnings order, means the Magistrate’s Court or the High Court;
 
-“the debtor”, in relation to an attachment of earnings order or to proceedings in which a Court has power to make an attachment of earnings order, or to proceedings arising out of such an order, means the person by whom payment is required by the maintenance order to be made;
+debtor”, in relation to an attachment of earnings order or to proceedings in which a Court has power to make an attachment of earnings order, or to proceedings arising out of such an order, means the person by whom payment is required by the maintenance order to be made;
 
 “earnings”, in relation to a debtor, means any sums payable to him—
 
@@ -122,27 +124,31 @@ Note on Subsidiary Legislation This Chapter contains no subsidiary legislation.
 
 “High Court maintenance order” and “Magistrate’s Court maintenance order” mean respectively a maintenance order made by a High Court or a Magistrate’s Court;
 
+*Ch. 4:20. Schedule 1.*
+
 “Magistrate’s Court” means a “Court” or “Summary Court” or “Court of summary jurisdiction” within the meaning of section 2 of the Summary Courts Act;
 
-Ch. 4:20.
+“maintenance order” means any order specified in Schedule 1 and includes such an order which has been discharged if any arrears are recoverable thereunder; and
 
-“maintenance order” means any order specified in Schedule 1 Schedule 1. and includes such an order which has been discharged if any arrears are recoverable thereunder; and
+*References to debtor’s needs. Power of Courts to attach earnings. [28 of 1995].*
 
 “maintenance payments” means payments required to be made under a maintenance order.
 
-**3.** References in relation to sections 6(5)(b) and 13(1)(a)(ii) References to to the debtor’s needs include references to the needs of any debtor’s needs. person for whom the debtor must, or reasonably may, provide.
+**3.** References in relation to sections 6(5)(b) and 13(1)(a)(ii) to the debtor’s needs include references to the needs of any person for whom the debtor must, or reasonably may, provide.
 
-**4.** Where a maintenance order has been made, whether Power of Courts before or after the commencement of this Act, the Court earnings. to attach making the maintenance order may upon an application made [28 of 1995]. under this Act, at the same time, or at any subsequent time as the case may be, make an attachment of earnings order to secure maintenance payments.
+*Application for attachment of earnings order. [28 of 1995].*
 
-**5.** (1) The following persons may apply for an attachment Application for of earnings order:
+**4.** Where a maintenance order has been made, whether before or after the commencement of this Act, the Court making the maintenance order may upon an application made under this Act, at the same time, or at any subsequent time as the case may be, make an attachment of earnings order to secure maintenance payments.
 
-attachment of earnings order.
+**5.** (1) The following persons may apply for an attachment of earnings order:
 
-(a) any person making an application for a [28 of 1995]. maintenance order;
+(a) any person making an application for a maintenance order;
 
 (b) any person who is entitled to receive payment under a maintenance order whether directly or into a specified bank account or to the Collecting Officer;
 
-(c) without prejudice to paragraph (b), where the application is to the Magistrate’s Court for an attachment of earnings order and there is in force an order under section 26(6) of the Family Ch. 46:08. Law (Guardianship of Minors, Domicile and
+*Ch. 46:08.*
+
+(c) without prejudice to paragraph (b), where the application is to the Magistrate’s Court for an attachment of earnings order and there is in force an order under section 26(6) of the Family Law (Guardianship of Minors, Domicile and
 
 Maintenance) Act, that those payments be made to the Collecting Officer;
 
@@ -162,11 +168,9 @@ Maintenance) Act, that those payments be made to the Collecting Officer;
 
 (6) Where proceedings are brought—
 
-(a) in the High Court for the enforcement of a
-
 *Ch. 8:07. Ch. 45:51 Sub. Leg.*
 
-maintenance order by committal under—
+(a) in the High Court for the enforcement of a maintenance order by committal under—
 
 (i) section 5 of the Debtors Act; or
 
@@ -176,9 +180,9 @@ maintenance order by committal under—
 
 (b) in Magistrate’s Court for the enforcement of a maintenance order under section 82 of the Summary Courts Act, the Court may make an attachment of earnings order to secure payments under the maintenance order.
 
-*effect of earnings order. [28 of 1995].*
+*Contents and effect of attachment of earnings order. [28 of 1995].*
 
-**6.** (1) An attachment of earnings order shall state the following Contents and particulars relating to the debtor as are known to the applicant thereby attachment of enabling the debtor to be identified by the employer:
+**6.** (1) An attachment of earnings order shall state the following particulars relating to the debtor as are known to the applicant thereby enabling the debtor to be identified by the employer:
 
 (a) his full name and address;
 
@@ -188,11 +192,11 @@ maintenance order by committal under—
 
 (d) his national insurance number, if any.
 
+*Schedule 2. Part I.*
+
 (2) An attachment of earnings order shall be an order directed to the employer and shall operate as an instruction to that person—
 
-*Part I.*
-
-(a) to make periodical deductions from the debtor’s earnings in accordance with Part I of Schedule 2. Schedule 2; and
+(a) to make periodical deductions from the debtor’s earnings in accordance with Part I of Schedule 2; and
 
 (b) at such times as the order may require, or as the Court may allow, to pay the amounts deducted directly to the person to whom payment under the maintenance order is required to be made or to the Collecting Officer or as otherwise specified in the order.
 
@@ -210,11 +214,9 @@ reasonable that the earnings actually paid to him should not be reduced.
 
 (6) In the case of an order made to secure payments under a maintenance order, not being an order for the payment of a lump sum, the normal deduction rate—
 
-(a) shall be determined after taking into account
-
 *Schedule 3.*
 
-any right or liability of the debtor to deduct income tax and other compulsory social security contributions in accordance with Schedule 3 when making the payments; and
+(a) shall be determined after taking into account any right or liability of the debtor to deduct income tax and other compulsory social security contributions in accordance with Schedule 3 when making the payments; and
 
 (b) shall not exceed the rate which appears to the Court necessary for the purpose of—
 
@@ -226,49 +228,43 @@ any right or liability of the debtor to deduct income tax and other compulsory s
 
 (a) in the case of an order made by the High Court, the Registrar of the Supreme Court, or Sub-Registry or such other officer as may be designated;
 
-(b) in the case of a Magistrate’s Court, the Clerk or
-
 *Ch. 46:08.*
-
-an Assistant Clerk of the Peace designated by the Chief Magistrate under the provisions of section 26(3) or (4) of the Family Law (Guardianship of Minors, Domicile and
 
 *Compliance with order by employer.*
 
-Maintenance) Act.
+(b) in the case of a Magistrate’s Court, the Clerk or an Assistant Clerk of the Peace designated by the Chief Magistrate under the provisions of section 26(3) or (4) of the Family Law (Guardianship of Minors, Domicile and Maintenance) Act.
 
 **7.** (1) Where an attachment of earnings order has been made, the employer shall, if he has been served with the order, comply with it; but he shall be under no liability for noncompliance before fourteen days have elapsed since the service.
 
+*Schedule 2. Part II.*
+
 (2) Where a person is served with an attachment of earnings order directed to him and he does not have the debtor in his employment, or the debtor subsequently ceases to be in his employment he shall, in either case, within ten days from the date of service or, as the case may be, the cesser, give notice of that fact in writing to the Court.
 
-(3) Part II of Schedule 2 shall have effect with respect to the Schedule 2. priority to be accorded where two or more attachment of earnings Part II. orders have been directed to an employer in respect of the same debtor.
+(3) Part II of Schedule 2 shall have effect with respect to the priority to be accorded where two or more attachment of earnings orders have been directed to an employer in respect of the same debtor.
+
+*Inter-relation with order or issue of warrant of commitment. [28 of 1995].*
 
 (4) On any occasion when the employer makes, in compliance with the order, a deduction from the debtor’s earnings he shall give to the debtor a statement in writing of the total amount of the deduction.
 
-*order or*
-
-**8.** (1) Where an attachment of earnings order has been Inter-relation made to secure maintenance payments, no order or warrant of with commitment shall be issued in consequence of any proceedings of issue of warrant commitment. for the enforcement of the maintenance order begun before the [28 of 1995]. making of the attachment of earnings order.
+**8.** (1) Where an attachment of earnings order has been made to secure maintenance payments, no order or warrant of commitment shall be issued in consequence of any proceedings for the enforcement of the maintenance order begun before the making of the attachment of earnings order.
 
 (2) Notwithstanding subsection (1) where an attachment of earnings order has been made but the attached earnings fail to satisfy the entire maintenance payments the Court may upon satisfactory evidence that the debtor has the means—
 
 (a) issue a warrant of commitment in respect of the non-payment of the sum not secured under the attachment of earnings order; or
 
+*Variation, lapse and discharge of orders. [28 of 1995].*
+
 (b) direct payment by instalment of the said sum.
 
-*discharge of*
+**9.** (1) The High Court or the Magistrate’s Court may make an order varying or discharging an attachment of earnings order.
 
-**9.** (1) The High Court or the Magistrate’s Court may make Variation, lapse an order varying or discharging an attachment of earnings order. and orders.
-
-(2) Where an order is varied, the employer shall, if he [28 of 1995]. has been served with notice of the variation, comply with the order as varied, but he shall be under no liability for non-
-
-compliance before fourteen days have elapsed since the service.
+(2) Where an order is varied, the employer shall, if he has been served with notice of the variation, comply with the order as varied, but he shall be under no liability for noncompliance before fourteen days have elapsed since the service.
 
 (3) Where an attachment of earnings order has been made and the employer ceases to have the debtor in his
 
-employment, the order shall lapse, except as respects deduction from earnings paid after the cesser and payment to the Collecting Officer of amounts deducted at any time and shall be of no effect unless and until the Court again directs it to the employer,
-
 *Normal deduction rate to be reduced in certain cases.*
 
-whether the same as before or another.
+employment, the order shall lapse, except as respects deduction from earnings paid after the cesser and payment to the Collecting Officer of amounts deducted at any time and shall be of no effect unless and until the Court again directs it to the employer, whether the same as before or another.
 
 **10.** (1) The following provisions shall have effect, in the case of an attachment of earnings order made to secure maintenance payments, where it appears to the Collecting Officer that:
 
@@ -288,11 +284,15 @@ the debtor appears at the hearing and he requests the Court to discharge the att
 
 (a) is the same as the rate of payments required by the maintenance order, or
 
+*Termination of employer’s liability. [28 of 1995].*
+
 (b) is such lower rate as the Court thinks fit having regard to the amount of the excess mentioned in subsection (1)(a).
 
-**11.** Where an attachment of earnings order is discharged Termination of under section 9, the person to whom the order has been directed liability. employer’s shall be under no liability in consequence of his treating the order [28 of 1995]. as being still in force at any time before a copy of the discharging order is served on him.
+*Application of sums received by Collecting Officer.*
 
-**12.** (1) The Collecting Officer to whom a person makes Application of payments in compliance with an attachment of earnings order by Collecting sums received shall after deducting such Court fees, if any in respect of Officer. proceedings for or arising out of the order, as are deductible from those payments, pay the remaining sums to the person entitled.
+**11.** Where an attachment of earnings order is discharged under section 9, the person to whom the order has been directed shall be under no liability in consequence of his treating the order as being still in force at any time before a copy of the discharging order is served on him.
+
+**12.** (1) The Collecting Officer to whom a person makes payments in compliance with an attachment of earnings order shall after deducting such Court fees, if any in respect of proceedings for or arising out of the order, as are deductible from those payments, pay the remaining sums to the person entitled.
 
 (2) Any sum paid to the Collecting Officer under an attachment of earnings order made to secure maintenance payments shall, when paid to the person entitled to receive those payments, be deemed to be payments made by the debtor so as to discharge—
 
@@ -320,17 +320,19 @@ the debtor appears at the hearing and he requests the Court to discharge the att
 
 (4) In any proceedings in which a Court has power to make an attachment of earnings order, and in any proceedings for the making, variation or discharge of such an order, a document purporting to be a statement given to the Court in compliance with an order under subsection (1)(a) or (b), or with any such requirement of a summons or notice of application for an attachment of earnings order as is mentioned in subsection (3), shall in the absence of evidence to the contrary, be deemed to be a statement so given and shall be proof of the facts stated therein.
 
-**14.** Where an attachment of earnings order has been made Obligation of and has not been discharged—
+*Obligation of debtor and his employers to notify changes of employment and earnings.*
 
-debtor and his employers to
+**14.** Where an attachment of earnings order has been made and has not been discharged—
 
-(a) the debtor shall notify the Court in writing of of employment notify changes every occasion on which he leaves any and earnings. employment, or becomes employed or re-employed, not later in each case than fourteen days from the date on which he did so;
+(a) the debtor shall notify the Court in writing of every occasion on which he leaves any employment, or becomes employed or re-employed, not later in each case than fourteen days from the date on which he did so;
 
 (b) the debtor shall on any occasion when he becomes employed or re-employed include in his notification under paragraph (a) particulars of his earnings and anticipated earnings from the relevant employment; and
 
+*Power of Court to determine whether particular payments are earnings.*
+
 (c) any person who becomes the debtor’s employer and knows that the order is in force and by what Court it is made shall, within fourteen days of his becoming the debtor’s employer or of acquiring that knowledge whichever is the later notify that Court in writing that he is the debtor’s employer, and include in his notification a statement of the debtor’s earnings and anticipated earnings.
 
-**15.** (1) Where an attachment of earnings order is in force, Power of Court the Court shall, on the application of the person in subsection (2), whether to determine determine whether payments to the debtor of a particular class particular or description specified by the application are earnings for the earnings. payments are purposes of the order; and the employer shall be entitled to give effect to any determination for the time being in force under this section.
+**15.** (1) Where an attachment of earnings order is in force, the Court shall, on the application of the person in subsection (2), determine whether payments to the debtor of a particular class or description specified by the application are earnings for the purposes of the order; and the employer shall be entitled to give effect to any determination for the time being in force under this section.
 
 (2) The persons referred to in subsection (1) are—
 
@@ -340,11 +342,9 @@ debtor and his employers to
 
 (c) the person to whom payment under the maintenance order is required to be made, whether directly, into a specified bank account or through the Collecting Officer of the Court.
 
-(3) Where an application under this section is made by the employer, he shall not incur any liability for non-compliance with the order as respects any payment of the class or description specified by the application which is made by him to the debtor while the application or any appeal in consequence thereof is pending; but this subsection shall not, unless the Court otherwise orders, apply as respects such payments if the employer subsequently withdraws the application or, as the case may be,
-
 *Certain applications to be made by Collecting Officer only on request.*
 
-abandons the appeal.
+(3) Where an application under this section is made by the employer, he shall not incur any liability for non-compliance with the order as respects any payment of the class or description specified by the application which is made by him to the debtor while the application or any appeal in consequence thereof is pending; but this subsection shall not, unless the Court otherwise orders, apply as respects such payments if the employer subsequently withdraws the application or, as the case may be, abandons the appeal.
 
 **16.** (1) The Collecting Officer who is entitled to receive maintenance payments under a maintenance order for transmission to another person shall not—
 
@@ -362,39 +362,35 @@ abandons the appeal.
 
 (3) For the purposes of subsection (2)(b), any application made by the Collecting Officer as required by section 10(3) shall be deemed to be made at the request of the person in whose favour the attachment of earnings order in question was made.
 
+*Ch. 4:20. Costs on application under section 15.*
+
 (4) An application for an attachment of earnings order may be heard notwithstanding that it was not made within the six months allowed by section 33(2) of the Summary Courts Act.
 
-Ch. 4:20.
+**17.** (1) On making a determination under section 15, the Court may in its discretion make such order as it thinks just and reasonable for payment by any of the persons mentioned in subsection (2) of that section of the whole or any part of the costs of the determination but subject to section 16(2)(b).
 
-**17.** (1) On making a determination under section 15, the Costs on Court may in its discretion make such order as it thinks just and under section 15. application reasonable for payment by any of the persons mentioned in subsection (2) of that section of the whole or any part of the costs of the determination but subject to section 16(2)(b).
+*Persons employed by the State. [28 of 1995].*
 
 (2) Costs ordered to be paid under this section shall in the case of costs to be paid by the debtor to the person in whose favour the attachment of earnings order in question was made, be deemed, to be a sum due under the maintenance order.
 
-**18.** (1) Where a debtor is employed by the State and an Persons attachment of earnings order is made in respect of him, then, for State. employed by the the purposes of this Act—
-
-[28 of 1995].
+**18.** (1) Where a debtor is employed by the State and an attachment of earnings order is made in respect of him, then, for the purposes of this Act—
 
 (a) the Chief Accounting Officer of the Department in which the debtor is for the time being employed shall be regarded for the purposes of this Act as the employer and any transfer of the debtor from one department to another shall not be treated as a cessation of employment within the meaning of section 9(3);
 
 (b) any earnings paid by the State shall be treated as paid by the said Chief Accounting Officer of the department in which the debtor is employed.
 
+*Failure of debtor to attend hearing of application. [28 of 1995].*
+
 (2) For the purposes of this section, the expression “the State” includes local and public authorities of all descriptions.
 
-**19.** (1) Where after being served with a summons or a notice Failure of of an application to a High Court or a Magistrate’s Court for an hearing of debtor to attend attachment of earnings order or for the variation of such an order, application. the debtor fails to attend on the day and at the time specified for [28 of 1995]. any hearing of the application, the Court may adjourn the hearing
+**19.** (1) Where after being served with a summons or a notice of an application to a High Court or a Magistrate’s Court for an attachment of earnings order or for the variation of such an order, the debtor fails to attend on the day and at the time specified for any hearing of the application, the Court may adjourn the hearing
 
-*the debtor—*
+*MINISTRY OF THE and order the debtor— the Court his absence offence if—*
 
-and order him to attend at a specified time on another day and if
+ATTORNEY GENERAL AND LEGAL AFFAIRS him to attend at a specified time on another day and if
 
 (a) fails to attend at that time on that day; or
 
-(b) attends, but refuses to be sworn or give evidence, the Court may proceed to hear the application notwithstanding
-
-*offence if—*
-
-his absence or his refusal to be sworn or to give evidence.
-
-(2) Subject to this section, a person commits an
+(b) attends, but refuses to be sworn or give evidence, may proceed to hear the application notwithstanding or his refusal to be sworn or to give evidence. (2) Subject to this section, a person commits an
 
 (a) being required by section 7(1) or 9(2), to comply with an attachment of earnings order, he fails to do so; or
 
@@ -426,11 +422,9 @@ his absence or his refusal to be sworn or to give evidence.
 
 (7) Where under this section a person is ordered by a Judge of the High Court or a Magistrate to be imprisoned, the Judge or the Magistrate, as the case may be, may at any time revoke the order and, if the person is already in custody, order his discharge.
 
-(8) Any fine imposed by a Judge of the High Court under subsection (3) and any sums ordered by the High Court to be paid under subsection (6) shall be recoverable as a civil debt; and any sum ordered by a Magistrate’s Court to be paid under subsection (6) shall be recoverable as a sum adjudged to be paid
-
 *Transitional. Ch. 46:08.*
 
-on a conviction by that Court.
+(8) Any fine imposed by a Judge of the High Court under subsection (3) and any sums ordered by the High Court to be paid under subsection (6) shall be recoverable as a civil debt; and any sum ordered by a Magistrate’s Court to be paid under subsection (6) shall be recoverable as a sum adjudged to be paid on a conviction by that Court.
 
 **20.** (1) This Act shall apply with respect to maintenance orders made under the former Acts as if they were maintenance orders made under the Family Law (Guardianship of Minors, Domicile and Maintenance) Act; and all such orders made under the former Acts may be enforced, varied, discharged or suspended and any arrears due under any such order may be remitted under an attachment of earnings order made under this Act.
 
@@ -468,15 +462,19 @@ on a conviction by that Court.
 
 **10.** A maintenance order within the meaning of the Maintenance Orders (Facilities for Enforcement) Act, 2000 (United Kingdom, and other Commonwealth Maintenance Orders enforceable in Trinidad and Tobago) registered in, or confirmed by, a Court in Trinidad and Tobago under the said Act.
 
-*Sections 6 and 8.*
+*MINISTRY OF THE Sections 6 and 8.*
+
+### ATTORNEY GENERAL AND LEGAL AFFAIRS
 
 ## SCHEDULE 2 DEDUCTIONS BY EMPLOYER UNDER ATTACHMENT OF EARNINGS ORDER
 
 ## PART I — SCHEME OF DEDUCTIONS
 
+*on*
+
 **1.** For the purposes of this Schedule the expressions used therein are defined and explained as appears in the following three paragraphs.
 
-**2.** “Pay-day” in relation to earnings paid to a debtor, means an occasion on which they are paid.
+**2.** “Pay-day” in relation to earnings paid to a debtor, means an occasion which they are paid.
 
 **3.** “Attachable earnings” in relation to a pay-day, are the earnings which remain payable to the debtor on that day after deduction by the employer of—
 
@@ -510,11 +508,9 @@ then, in so far as the excess allows, the employer shall deduct from the attacha
 
 (b) so much of the normal deduction on any previous pay-day as was not deducted on that day and has not been paid by virtue of this subparagraph on any other previous pay-day.
 
-(3) No deduction shall be made on any pay-day when the attachable
-
 *Section 7.*
 
-earnings are equal to, or less than, the protected earnings.
+(3) No deduction shall be made on any pay-day when the attachable earnings are equal to, or less than, the protected earnings.
 
 ## PART II PRIORITY AS BETWEEN ORDERS
 

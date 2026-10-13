@@ -62,6 +62,8 @@ Note on Adaptation Under paragraph 6 of the Second Schedule to the Law Revision 
 
 **10.** General penalty.
 
+### MINISTRY OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
 ### CHAPTER 67:53
 
 ### BEEKEEPING AND BEE PRODUCTS ACT
@@ -100,11 +102,17 @@ An Act to regulate and control beekeeping, the importation or exportation of bee
 
 “pest” includes any bee, moth, ant, bird or other living creature which is or may become injurious to the honey bee and declared by the Minister by Order to be a pest.
 
-**3.** The Minister may by Order include under the description Power to apply Act to other of “disease” for the purposes of this Act any other disease of bees, diseases of and declare what living creatures shall be considered “pests” under bees, and to declare pests. this Act.
+*Power to apply Act to other diseases of bees, and to declare pests.*
 
-**4.** There shall be in the public service an Inspector of Apiaries Appointment of Inspector in Trinidad and Tobago (hereinafter referred to as the Inspector). of Apiaries. Such Inspector shall be under the control of the Chief Technical Officer (Agriculture).
+**3.** The Minister may by Order include under the description of “disease” for the purposes of this Act any other disease of bees, and declare what living creatures shall be considered “pests” under this Act.
 
-**5.** (1) The Inspector, with such assistance as may be Power of entry of Inspector. necessary, may enter from time to time on any land whether open or enclosed, including any plantation, nursery, orchard, garden, pleasure ground, yard, house, building or other place where bees are kept, between the hours of eight o’clock in the morning and six o’clock in the evening of any day for the purpose of inspecting the hives, making enquiries as to disease and discharging such duties as may be imposed upon him by this Act.
+*Appointment of Inspector of Apiaries.*
+
+**4.** There shall be in the public service an Inspector of Apiaries in Trinidad and Tobago (hereinafter referred to as the Inspector). Such Inspector shall be under the control of the Chief Technical Officer (Agriculture).
+
+*Power of entry of Inspector.*
+
+**5.** (1) The Inspector, with such assistance as may be necessary, may enter from time to time on any land whether open or enclosed, including any plantation, nursery, orchard, garden, pleasure ground, yard, house, building or other place where bees are kept, between the hours of eight o’clock in the morning and six o’clock in the evening of any day for the purpose of inspecting the hives, making enquiries as to disease and discharging such duties as may be imposed upon him by this Act.
 
 (2) Any person who—
 
@@ -114,11 +122,13 @@ An Act to regulate and control beekeeping, the importation or exportation of bee
 
 is liable on summary conviction to a fine of one hundred dollars.
 
-**6.** For the purposes of this Act, the decision of the Inspector Decision of Inspector as to as to the presence of any disease shall be final.
+*Decision of Inspector as to disease to be final.*
 
-disease to be final.
+**6.** For the purposes of this Act, the decision of the Inspector as to the presence of any disease shall be final.
 
-**7.** Every owner or person having the charge or management Apiaries to be registered. of an apiary shall cause the apiary to be registered with the Inspector. Any person who makes default in registering the apiary is guilty of an offence against this Act.
+*Apiaries to be registered.*
+
+**7.** Every owner or person having the charge or management of an apiary shall cause the apiary to be registered with the Inspector. Any person who makes default in registering the apiary is guilty of an offence against this Act.
 
 *Notification of disease.*
 
@@ -306,25 +316,41 @@ disease to be final.
 
 **66.** Comb Honey.
 
-BEEKEEPING AND BEE PRODUCTS REGULATIONS 17.12.1936. [22.5.1941. 7.10.1943]. made under section 9
+*17.12.1936. [22.5.1941. 7.10.1943].*
 
-**1.** These Regulations may be cited as the Beekeeping and Citation. Bee Products Regulations.
+### BEEKEEPING AND BEE PRODUCTS REGULATIONS
 
-**2.** In these Regulations “Inspector” means the Inspector of Interpretation. Apiaries appointed under the Act.
+made under section 9
+
+*Citation.*
+
+**1.** These Regulations may be cited as the Beekeeping and Bee Products Regulations.
+
+*Interpretation.*
+
+**2.** In these Regulations “Inspector” means the Inspector of Apiaries appointed under the Act.
 
 ## PART I — REGISTRATION AND CONTROL OF APIARIES
 
-**3.** Before the establishment of an apiary in Trinidad and Establishment of apiary. Tobago the person who decides to start beekeeping shall give notice in writing of his intention to do so to the Inspector, who shall inspect the site or cause same to be inspected, and if satisfied that it is suitable for establishing an apiary, shall issue a certificate to that effect to the applicant.
+*Establishment of apiary.*
 
-**4.** All honeybees in Trinidad and Tobago shall be kept in Movable frame hives. movable frame hives, that is, hives so constructed as to permit the easy removal of the honeycombs and other combs for the purpose of inspection and extraction.
+**3.** Before the establishment of an apiary in Trinidad and Tobago the person who decides to start beekeeping shall give notice in writing of his intention to do so to the Inspector, who shall inspect the site or cause same to be inspected, and if satisfied that it is suitable for establishing an apiary, shall issue a certificate to that effect to the applicant.
 
-**5.** All hives shall be placed on a pedestal or stand or other Placing of hives. support which shall be above the surface of the soil or ground and at a distance of at least six inches from each other.
+*Movable frame hives.*
 
-**6.** Every apiary shall be situated on a well-drained site which Situation and sanitary shall be kept clear of weeds and tall grass and shall be in a sanitary condition of condition, to the satisfaction of the Inspector.
+**4.** All honeybees in Trinidad and Tobago shall be kept in movable frame hives, that is, hives so constructed as to permit the easy removal of the honeycombs and other combs for the purpose of inspection and extraction.
 
-apiary.
+*Placing of hives.*
 
-**7.** Every application for registration of an apiary shall be made Registration of apiary. on a form to be supplied by the Department of Agriculture which shall contain the following particulars:
+**5.** All hives shall be placed on a pedestal or stand or other support which shall be above the surface of the soil or ground and at a distance of at least six inches from each other.
+
+*Situation and sanitary condition of apiary.*
+
+**6.** Every apiary shall be situated on a well-drained site which shall be kept clear of weeds and tall grass and shall be in a sanitary condition, to the satisfaction of the Inspector.
+
+*Registration of apiary.*
+
+**7.** Every application for registration of an apiary shall be made on a form to be supplied by the Department of Agriculture which shall contain the following particulars:
 
 (a) name of applicant and his postal address;
 
@@ -360,19 +386,21 @@ apiary.
 
 **11.** No honey for commercial purposes shall be obtained by squeezing or crushing the honeycombs.
 
-*honey.*
+*Extraction of honey.*
 
-**12.** Only combs with fully filled and sealed cells of honey Extraction of shall be taken from the hive for the purpose of obtaining extracted honey, and the extraction of honey from partially filled and unsealed honey cells is prohibited.
+**12.** Only combs with fully filled and sealed cells of honey shall be taken from the hive for the purpose of obtaining extracted honey, and the extraction of honey from partially filled and unsealed honey cells is prohibited.
 
-*of honey.*
+*Preparation of honey.*
 
-**13.** All honey obtained by extraction in the manner prescribed Preparation herein shall be strained and allowed to subside for a period of forty-eight hours before being placed in approved containers and stored.
+**13.** All honey obtained by extraction in the manner prescribed herein shall be strained and allowed to subside for a period of forty-eight hours before being placed in approved containers and stored.
 
-*honey.*
+*Packing of honey.*
 
-**14.** Every container of extracted honey shall be scrupulously Packing of clean and shall hold a fixed integral quantity of honey, which quantity shall be inscribed or embossed on the outside in a conspicuous manner to the satisfaction of the Inspector.
+**14.** Every container of extracted honey shall be scrupulously clean and shall hold a fixed integral quantity of honey, which quantity shall be inscribed or embossed on the outside in a conspicuous manner to the satisfaction of the Inspector.
 
-**15.** The following sanitary conditions shall be observed and Conditions. maintained to the satisfaction of the Inspector:
+*Conditions.*
+
+**15.** The following sanitary conditions shall be observed and maintained to the satisfaction of the Inspector:
 
 (a) all buildings or rooms in which honey is extracted, packed or stored shall be kept in a clean and sanitary condition;
 
@@ -416,13 +444,15 @@ any person is convicted of an offence against these Regulations in respect of su
 
 ## PART IV — RESTRICTIONS ON THE IMPORTATION OF BEES, BEE SUPPLIES AND BEE PRODUCTS
 
-**21.** (1) The importation of honey and beeswax, other than Prohibition. beeswax included in manufactured articles, is prohibited except as provided in this regulation.
+*Prohibition.*
+
+**21.** (1) The importation of honey and beeswax, other than beeswax included in manufactured articles, is prohibited except as provided in this regulation.
 
 (2) The Inspector may grant a permit authorising the importation of comb foundation and of prepared beeswax to be used solely for medical or dental purposes when such goods are accompanied by a certificate from the manufacturer stating, to the satisfaction of the Inspector, that the goods have been manufactured expressly for comb foundation or for use for medical or dental purposes and have been effectively sterilised.
 
-*of honey.*
+*Transhipment of honey.*
 
-**22.** (1) No honey arriving in Trinidad and Tobago by sea or Transhipment by air shall be transhipped except as provided in this regulation.
+**22.** (1) No honey arriving in Trinidad and Tobago by sea or by air shall be transhipped except as provided in this regulation.
 
 (2) Honey originating elsewhere than in any of the territories in the Windward and Leeward Islands shall not be transhipped in Trinidad and Tobago. Honey originating in any of the above-mentioned territories may be transhipped in the harbour of Port-of-Spain under the authority of a permit issued by the Inspector and subject to the following provisions of this regulation.
 
@@ -442,11 +472,9 @@ such orders as may be reasonable and necessary in order to prevent any bees feed
 
 (9) Whenever an inspecting officer gives any order in exercise of the powers vested in him by subregulation (5) any person in charge of the honey or handling the honey in respect of which the order is given shall immediately comply with it.
 
-(10) For the purposes of this regulation, “inspecting officer” includes the Inspector and any Plant Protection Officer
-
 *Ch. 63:56.*
 
-appointed under the terms of the Plant Protection Act and authorised by the Chief Technical Officer (Agriculture) to act as inspecting officer under the directions of the Inspector.
+(10) For the purposes of this regulation, “inspecting officer” includes the Inspector and any Plant Protection Officer appointed under the terms of the Plant Protection Act and authorised by the Chief Technical Officer (Agriculture) to act as inspecting officer under the directions of the Inspector.
 
 *Importation of Queen Bees and bee supplies.*
 
@@ -456,19 +484,33 @@ appointed under the terms of the Plant Protection Act and authorised by the Chie
 
 **24.** Any person who desires to import bees or bee supplies into Trinidad and Tobago shall make written application to the Chief Technical Officer (Agriculture) for a permit authorising the said importation.
 
-**25.** No application shall be granted for the importation Refusal of application. into Trinidad and Tobago of second hand or previously used bee supplies.
+*Refusal of application.*
 
-**26.** The Chief Technical Officer (Agriculture) may in his Issue of permit. discretion grant or withhold the issue of a permit for which application is made under the provisions of regulation 24.
+**25.** No application shall be granted for the importation into Trinidad and Tobago of second hand or previously used bee supplies.
 
-**27.** The Inspector may grant permission in writing for the Inspection before importation into Trinidad and Tobago of Queen Bees, or bee permission supplies, which have been imported in compliance with these granted. Regulations, after the Inspector shall have satisfied himself by inspection of them in the Customs, that they are the goods mentioned in the original application made by the importer.
+*Issue of permit.*
 
-**28.** The Chief Technical Officer (Agriculture) may limit the Number of Queen Bees. number of Queen Bees to be imported when granting permission for their importation.
+**26.** The Chief Technical Officer (Agriculture) may in his discretion grant or withhold the issue of a permit for which application is made under the provisions of regulation 24.
 
-**29.** The Queen Bees shall be imported in the usual packages Packaging of Queen Bees. addressed to the applicant in the care of the Inspector of Apiaries, Department of Agriculture, Port-of-Spain, Trinidad; and on the arrival of the package in Trinidad and Tobago no person shall remove any Queen Bee from the package or cage in which it has been imported without the written consent of the Inspector to do so.
+*Inspection before permission granted.*
 
-**30.** The Inspector, or the person authorised in writing by him Removal of Queen Bee from to remove any Queen Bee from a package or cage in which the package or cage. same has been imported, shall remove every Queen Bee from the package or cage in which the same has been imported and shall transfer every Queen Bee so removed to a fresh package or cage with a fresh escort and food supply, and he shall immediately burn or cause to be burnt the original package or cage and the original escort and food supply.
+**27.** The Inspector may grant permission in writing for the importation into Trinidad and Tobago of Queen Bees, or bee supplies, which have been imported in compliance with these Regulations, after the Inspector shall have satisfied himself by inspection of them in the Customs, that they are the goods mentioned in the original application made by the importer.
 
-**31.** The Inspector shall exercise due diligence and care so that Due diligence and care. the Queen Bees shall be transferred in the manner described above
+*Number of Queen Bees.*
+
+**28.** The Chief Technical Officer (Agriculture) may limit the number of Queen Bees to be imported when granting permission for their importation.
+
+*Packaging of Queen Bees.*
+
+**29.** The Queen Bees shall be imported in the usual packages addressed to the applicant in the care of the Inspector of Apiaries, Department of Agriculture, Port-of-Spain, Trinidad; and on the arrival of the package in Trinidad and Tobago no person shall remove any Queen Bee from the package or cage in which it has been imported without the written consent of the Inspector to do so.
+
+*Removal of Queen Bee from package or cage.*
+
+**30.** The Inspector, or the person authorised in writing by him to remove any Queen Bee from a package or cage in which the same has been imported, shall remove every Queen Bee from the package or cage in which the same has been imported and shall transfer every Queen Bee so removed to a fresh package or cage with a fresh escort and food supply, and he shall immediately burn or cause to be burnt the original package or cage and the original escort and food supply.
+
+*Due diligence and care.*
+
+**31.** The Inspector shall exercise due diligence and care so that the Queen Bees shall be transferred in the manner described above
 
 and be redirected to the importer to the address furnished in the application with as little delay as possible, but the Inspector shall not be responsible for any delay or for the loss of any Queen Bee or Queen Bees that may occur.
 
@@ -506,9 +548,11 @@ where the application shall be for more than one Queen Bee, the sum of sixty cen
 
 “practically free” means that the honey or its surface is as clean as if strained at a temperature of not more than 130 degrees Fahrenheit through a standard bolting cloth of 86 meshes to the inch.
 
-*honey.*
+*Grading of honey.*
 
-**38.** All honey intended for export shall be graded according Grading of to the following grades:
+*to the*
+
+**38.** All honey intended for export shall be graded according following grades:
 
 “White” includes extracted honey which, when in liquid form, shall be no darker in colour than a reading of 30 mm on the Pfund Honey Grader free from damage and practically free of foreign material, and shall be well ripened, having a moisture content not exceeding 17.2 percent or with a minimum specific gravity reading of 1.4225 at 68 degrees Fahrenheit referred to water at the same temperature.
 
@@ -550,23 +594,37 @@ of 109 mm on the Pfund Honey Grader free from damage and practically free of for
 
 **45.** Upon receipt of application for registration together with the fee of one dollar ($1.00) as mentioned above, the Inspector shall issue a numbered certificate to the applicant.
 
-**46.** All registration certificates issued shall expire on 31st Expiration of certificate. December of the year of issue.
+*Expiration of certificate.*
 
-**47.** All packages intended for export shall be plainly and Packages to be marked. indelibly marked with the following particulars: shipping marks, grade, net weight and Trinidad and Tobago Honey.
+**46.** All registration certificates issued shall expire on 31st December of the year of issue.
 
-**48.** All marks required shall be distinctly legible in block letters Legible marks. of not less than one-half inch in length and, except in the case of barrels and casks, shall be placed on a single side of the package which surface shall bear no additional mark or stamp other than those placed thereon by the Inspector.
+*Packages to be marked.*
 
-**49.** All tin containers of honey shall be packed in clean, well Tin containers. constructed packages in good condition which are not defaced by old markings.
+**47.** All packages intended for export shall be plainly and indelibly marked with the following particulars: shipping marks, grade, net weight and Trinidad and Tobago Honey.
 
-**50.** All honey intended for export shall be packed in new, clean, Packing and storing of honey sound and strongly constructed containers as may be approved by for exporting. the Inspector and shall be securely closed by means of screw caps, friction top lids, bungs or solder. Extracted honey for export shall be stored in hermetically sealed containers.
+*Legible marks.*
 
-**51.** Honey to be shipped out of Trinidad and Tobago shall be Type of containers. placed in new and clean containers similar in shape to those used for kerosene oil, each containing fifty-six pounds of honey, and packed in cases, or in such other containers as shall be approved by the Chief Technical Officer (Agriculture).
+**48.** All marks required shall be distinctly legible in block letters of not less than one-half inch in length and, except in the case of barrels and casks, shall be placed on a single side of the package which surface shall bear no additional mark or stamp other than those placed thereon by the Inspector.
 
-**52.** All honey intended for export shall be submitted for Inspections. inspection at such place as may be approved by the Inspector or at a convenient port of shipment and be made accessible to the Inspector and so placed as to disclose its quality and condition.
+*Tin containers.*
 
-The applicant or person requiring the inspection shall afford the Inspector such assistance as he may require in order to make a satisfactory examination thereof.
+**49.** All tin containers of honey shall be packed in clean, well constructed packages in good condition which are not defaced by old markings.
 
-**53.** When any shipper of honey is submitting honey for Difference in grade or quality. inspection and there is any noticeable difference in the grade or
+*Packing and storing of honey for exporting.*
+
+**50.** All honey intended for export shall be packed in new, clean, sound and strongly constructed containers as may be approved by the Inspector and shall be securely closed by means of screw caps, friction top lids, bungs or solder. Extracted honey for export shall be stored in hermetically sealed containers.
+
+*Type of containers.*
+
+**51.** Honey to be shipped out of Trinidad and Tobago shall be placed in new and clean containers similar in shape to those used for kerosene oil, each containing fifty-six pounds of honey, and packed in cases, or in such other containers as shall be approved by the Chief Technical Officer (Agriculture).
+
+*Inspections.*
+
+**52.** All honey intended for export shall be submitted for inspection at such place as may be approved by the Inspector or at a convenient port of shipment and be made accessible to the Inspector and so placed as to disclose its quality and condition. The applicant or person requiring the inspection shall afford the Inspector such assistance as he may require in order to make a satisfactory examination thereof.
+
+*Difference in grade or quality.*
+
+**53.** When any shipper of honey is submitting honey for inspection and there is any noticeable difference in the grade or
 
 quality of the honey included in the one lot, the person submitting the honey for inspection shall submit each variation or grade in separate lots, each lot bearing a distinguishing mark.
 
@@ -602,19 +660,33 @@ name and address and the word “Honey”; the net weight of the honey contained
 
 registered Number of Apiary (where offered for sale by the Beekeeper or his agent).
 
-**59.** Any person who sells or offers for sale honey other than Registration number of his own production shall use the registration number of the apiary Apiary. to designate the producer. In such cases the name and address of the dealer as well as the registered number of the apiary producing the honey shall be marked on the container.
+*Registration number of Apiary.*
 
-**60.** All honey intended for local sale and consumption shall Condition of containers. be packed in clean, sound and strongly constructed containers in good condition and which are not defaced by old markings.
+**59.** Any person who sells or offers for sale honey other than his own production shall use the registration number of the apiary to designate the producer. In such cases the name and address of the dealer as well as the registered number of the apiary producing the honey shall be marked on the container.
 
-**61.** Containers of extracted honey shall be securely closed by Containers securely closed. means of screw caps, friction top lids, solder, bungs or otherwise as may be approved by the Inspector.
+*Condition of containers.*
 
-**62.** No person or persons shall use for packing honey intended Used container or package. for local sale or consumption any container or package that has been previously used without first completely obliterating all markings or labels when same are inconsistent with the marks required by these Regulations.
+**60.** All honey intended for local sale and consumption shall be packed in clean, sound and strongly constructed containers in good condition and which are not defaced by old markings.
 
-**63.** All marks required shall be plainly and indelibly Plain and indelible mark. marked and, except in the case of casks, shall be placed on a single side of the container or package, which surface shall bear no additional mark or stamp other than those placed thereon by the Inspector.
+*Containers securely closed.*
 
-**64.** Every container of honey offered for sale shall be of Honey offered for sale. attractive appearance and scrupulously clean, and there shall be affixed to or indelibly inscribed on its surface a statement of the nature of its contents and the volume or weight contained therein, also the name and registered number of the owner of the apiary.
+**61.** Containers of extracted honey shall be securely closed by means of screw caps, friction top lids, solder, bungs or otherwise as may be approved by the Inspector.
 
-**65.** Every container of honey shall be covered with a Container to be covered. contrivance which shall keep the honey entirely unexposed to air.
+*Used container or package.*
+
+**62.** No person or persons shall use for packing honey intended for local sale or consumption any container or package that has been previously used without first completely obliterating all markings or labels when same are inconsistent with the marks required by these Regulations.
+
+*Plain and indelible mark.*
+
+**63.** All marks required shall be plainly and indelibly marked and, except in the case of casks, shall be placed on a single side of the container or package, which surface shall bear no additional mark or stamp other than those placed thereon by the Inspector.
+
+*Honey offered for sale.*
+
+**64.** Every container of honey offered for sale shall be of attractive appearance and scrupulously clean, and there shall be affixed to or indelibly inscribed on its surface a statement of the nature of its contents and the volume or weight contained therein, also the name and registered number of the owner of the apiary.
+
+*Container to be covered.*
+
+**65.** Every container of honey shall be covered with a contrivance which shall keep the honey entirely unexposed to air.
 
 *Comb Honey.*
 
