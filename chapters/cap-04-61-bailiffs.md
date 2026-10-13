@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 2001-06-30
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for licensing of Bailiffs and for other related matters."
 classification: "ADMINISTRATION OF JUSTICE"

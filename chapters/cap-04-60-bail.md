@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1994-09-15
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to amend the law relating to release from custody of accused persons in criminal proceedings and to make provision for legal aid for persons kept in custody and for connected purposes."
 classification: "ADMINISTRATION OF JUSTICE"

@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 2000-11-06
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for an application to the High Court of the Supreme Court of Judicature for relief by way of judicial review and for related matters."
 classification: "CIVIL LAW AND PROCEDURE"

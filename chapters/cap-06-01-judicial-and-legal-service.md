@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1977-05-24
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to make provision for the establishment, classification, remuneration and entitlement of officers of a Judicial and Legal Service; and for other matters concerning the relationship between the Government and the Judicial and Legal Service."
 classification: "ADMINISTRATION OF JUSTICE"

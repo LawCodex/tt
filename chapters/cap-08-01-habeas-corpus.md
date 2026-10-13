@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1841-10-18
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act relating to Writs of Habeas Corpus."
 classification: "CIVIL LAW AND PROCEDURE"

@@ -67,13 +67,16 @@ def main():
         rel = ("constitution/" if is_const else "chapters/") + fname
         num = f"Act {m['Act Number']} of {m['Year']}" if m.get("Act Number") and m.get("Year") else None
         p1 = subprocess.run(["pdftotext", "-l", "2", pdf, "-"], capture_output=True, text=True).stdout
-        vlabel = re.search(r"UPDATED TO (\d+)\w* (\w+) (\d{4})", p1, re.I)
         last = None
-        if vlabel:
-            try:
-                last = datetime.datetime.strptime(f"{vlabel.group(1)} {vlabel.group(2).title()} {vlabel.group(3)}", "%d %B %Y").date().isoformat()
-            except Exception:
-                pass
+        for pat, order in ((r"UPDATED TO (\d+)\w* (\w+),? (\d{4})", "dmy"), (r"UPDATED TO (\w+) (\d+)\w*,? (\d{4})", "mdy")):
+            vm = re.search(pat, p1, re.I)
+            if vm:
+                d, mo, y = (vm.group(1), vm.group(2), vm.group(3)) if order == "dmy" else (vm.group(2), vm.group(1), vm.group(3))
+                try:
+                    last = datetime.datetime.strptime(f"{d} {mo.title()} {y}", "%d %B %Y").date().isoformat()
+                    break
+                except ValueError:
+                    pass
         fm = {
             "title": full_title,
             "identifier": f"Chap. {cap}" if cap else None,

@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 2006-02-24
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for the prevention and punishment of genocide, crimes against humanity and war crimes, to give effect to the Rome Statute of the International Criminal Court done at Rome on the Seventeenth Day of July, One Thousand Nine Hundred and Ninety-Eight; and for purposes connected therewith or incidental thereto."
 classification: "ADMINISTRATION OF JUSTICE"

@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1902-02-22
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for the closing of certain accounts in the books of the Registry of the Supreme Court."
 classification: "CIVIL LAW AND PROCEDURE"

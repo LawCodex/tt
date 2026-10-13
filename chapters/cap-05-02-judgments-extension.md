@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1921-04-01
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to make provision for the reciprocal enforcement in Trinidad and Tobago of judgments of Courts of the United Kingdom and other Commonwealth countries."
 classification: "ADMINISTRATION OF JUSTICE"

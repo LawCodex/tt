@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1896-12-09
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for compensation in cases of accidental deaths in general."
 classification: "CIVIL LAW AND PROCEDURE"

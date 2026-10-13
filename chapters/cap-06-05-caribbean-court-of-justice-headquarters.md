@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 2008-05-27
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for the implementation by the Government of the Republic of Trinidad and Tobago of the Agreement Establishing the Seat of the Caribbean Court of Justice and the Offices of the Regional Judicial"
 classification: "ADMINISTRATION OF JUSTICE"

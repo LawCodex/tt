@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1934-01-01
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act relating to Deeds of Arrangement."
 classification: "ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY"

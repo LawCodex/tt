@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1933-04-13
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to create a Trust Fund to be known as the Bruce Stephens Trust and to provide for the appointment of Trustees of such Fund and the management thereof."
 classification: "ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY"

@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1929-04-01
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act relating to Interpreters."
 classification: "ADMINISTRATION OF JUSTICE"

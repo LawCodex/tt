@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1962-07-19
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to make provision with respect to the Operation, Interpretation and Citation of Acts of Parliament and statutory instruments and to make other general provisions in respect thereof."
 classification: "LEGISLATION, INTERPRETATION, REVISION AND REFORM"

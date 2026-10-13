@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1917-05-08
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act relating to the Apportionment of certain periodical payments and taxes."
 classification: "CIVIL LAW AND PROCEDURE"

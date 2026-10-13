@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1962-08-01
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to provide for the salaries, pensions and other conditions of service of Judges of the Supreme Court of Judicature."
 classification: "ADMINISTRATION OF JUSTICE"

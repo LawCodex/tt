@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1976-07-01
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to make legal aid and advice in Trinidad and Tobago readily available for persons of small or moderate means, to enable the cost of legal aid or advice granted to persons to be defrayed wholly or partly out of moneys provided by Parliament, and for purposes connected therewith."
 classification: "CIVIL LAW AND PROCEDURE"

@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1914-02-01
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act relating to the powers and duties of the Administrator General and to the devolution and distribution of property on the death of the owner thereof."
 classification: "ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY"

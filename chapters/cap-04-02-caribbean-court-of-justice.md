@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 2005-12-16
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to implement the Agreement Establishing the Caribbean Court of Justice in its original jurisdiction and for related matters."
 classification: "ADMINISTRATION OF JUSTICE"

@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 2014-05-26
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to revise the law relating to bankruptcy to make provision for corporate and individual insolvency; to provide for the rehabilitation of the insolvent debtor and to create the office of Supervisor of Insolvency."
 classification: "ADMINISTRATION OF ESTATES, TRUSTS AND BANKRUPTCY"

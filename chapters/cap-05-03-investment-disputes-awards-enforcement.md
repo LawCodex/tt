@@ -6,6 +6,7 @@ type: act
 jurisdiction: tt
 language: en
 date: 1968-06-17
+last_amended: 2015-12-31
 status: in_force
 long_title: "An Act to make provisions in relation to the enforcement of awards in certain investment disputes."
 source: "https://laws.gov.tt/ttdll-web/revision/list?offset=0&q=&currentid=422"

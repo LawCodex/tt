@@ -1,0 +1,563 @@
+---
+title: "Moneylenders Act"
+identifier: "Chap. 84:04"
+original_act: "Act 42 of 1932"
+type: act
+jurisdiction: tt
+language: en
+date: 1933-03-01
+last_amended: 2016-12-31
+status: in_force
+long_title: "An Act relating to Moneylending."
+classification: "TRADE AND COMMERCE"
+source: "https://laws.gov.tt/ttdll-web/revision/list?offset=0&q=&currentid=1116"
+source_pdf: "https://laws.gov.tt/ttdll-web/revision/download/106453?type=act"
+pages: 28
+retrieved: 2026-10-13
+---
+
+# Moneylenders Act
+
+### MONEYLENDERS ACT
+
+CHAPTER 84:04 Act 42 of 1932 Amended by 42 of 1942 6 of 1945 172/1961 136/1976 45 of 1979 *12 of 1985 6 of 1993 *18 of 1993 8 of 1996 6 of 2014 *See Note on page 2
+
+Current Authorised Pages Pages Authorised (inclusive) by L.R.O. 1–22 ..
+
+23–28 ..
+
+Index of Subsidiary Legislation Page Moneylenders (Exemption) Order (GN 128/1965) … … … 24 Moneylenders Rules (G. 2.2.1933) … … … … 26 Note on Act No. 12 of 1985 HOME MORTGAGE BANK ACT Section 33(1) of Act 12 of 1985 states as follows:
+
+The Banking Act, the Financial Institutions (Non-Banking) Act and the Moneylenders Act, do not apply to the Bank.
+
+Note on Act No. 18 of 1993 See section 62 (2) of Act No. 18 of 1993.
+
+Note on Adaptation
+
+**1.** Certain fees in this Chapter were increased by the Commission under paragraph 4 of the Second Schedule to the Law Revision Act (Ch. 3:03). Where this occurs, a marginal reference in the form normally indicating an amendment is made to LN 51/1980 (the Legal Notice by which the President’s approval was signified).
+
+**2.** Under paragraph 6 of the Second Schedule to the Law Revision Act (Ch. 3:03) the Commission amended certain references to public officers in this Chapter. The Minister’s approval of the amendments was signified by LN 52/1980, but no marginal reference is made to this Notice where any such amendment is made in the text.
+
+### CHAPTER 84:04 MONEYLENDERS ACT
+
+*SECTION*
+
+## ARRANGEMENT OF SECTIONS
+
+**1.** Short title.
+
+**2.** Interpretation and application.
+
+**3.** Licences to be taken out by moneylenders.
+
+**4.** Penalty for breaches of section 3.
+
+**5.** Certificate required for grant of moneylender’s licence.
+
+**6.** Procedure on application for a certificate.
+
+**6A.** Dispute resolution.
+
+**7.** Refusal to grant a certificate.
+
+**8.** Transfer of business to other premises.
+
+**9.** Suspension and forfeiture of moneylenders’ certificates.
+
+**10.** Forgery of certificate.
+
+**11.** Form of moneylenders’ contracts.
+
+**12.** Interest to be charged.
+
+**13.** Penalty for charging unauthorised interest.
+
+**14.** Prohibition of compound interest and provision as to defaults.
+
+**15.** Method of calculating interest when not expressed in terms of a rate.
+
+**16.** Prohibition of charge for expenses on loans by moneylenders.
+
+**17.** Employment of agents or canvassers by moneylender prohibited.
+
+**18.** Moneylenders to give receipts and keep record of transactions.
+
+**19.** Obligation of moneylender to supply information as to state of loan and copies of documents relating thereto.
+
+**20.** Limitation of time for proceedings in respect of money lent by moneylenders.
+
+**21.** Restrictions on moneylending advertisements.
+
+**22.** Notice and information to be given on assignment of moneylenders’ debts.
+
+**23.** Application of Act as respects assignees.
+
+**24.** Re-opening of moneylending transactions.
+
+Proceedings by borrower against moneylender.
+
+Bankruptcy.
+
+Application to all moneylending transactions.
+
+Bona fide assignee.
+
+Existing powers of Court.
+
+## ARRANGEMENT OF SECTIONS—Continued SECTION
+
+**25.** Inducing borrowing by false statements.
+
+**26.** Protection of lenders against frivolous and vexatious actions.
+
+**27.** Recovery of penalties.
+
+## SCHEDULE.
+
+*1950 Ed. Ch. 31. No. 11. 42 of 1932. Commencement. Short title. Interpretation and application. [6 of 2014].*
+
+CHAPTER 84:04 MONEYLENDERS ACT An Act relating to Moneylending.
+
+### [1 ST M ARCH 1933]
+
+**1.** This Act may be cited as the Moneylenders Act.
+
+**2.** (1) In this Act—
+
+“authorised name” and “authorised address” mean respectively the name under which and the address at which a moneylender is authorised by a certificate granted under this Act to carry on business as a moneylender;
+
+“business name” means the name or style under which any business is carried on, whether in partnership or otherwise;
+
+“company” means any body corporate being a moneylender;
+
+*Ch. 84:10.*
+
+“firm” means an unincorporate body of two or more individuals, or one or more individuals and one or more corporations, or two or more corporations, who have entered into partnership with one another with a view to carrying on business for profit;
+
+“licensing committee” means a licensing committee established under the Liquor Licences Act;
+
+“moneylender” includes any person whose business is that of moneylending, or who advertises or announces himself or holds himself out in any way as carrying on that business, but does not include any person bona fide carrying on the business of banking or insurance or bona fide carrying on any business not having for its primary object the lending of money, in the course of which and for the purposes of which he lends money;
+
+“principal” means in relation to a loan the amount actually lent to the borrower.
+
+*Ch. 84:05.*
+
+(2) Nothing in this Act shall apply to pawnbrokers licensed under the Pawnbrokers Act.
+
+*Ch. 79:01. Ch. 32:50. Ch. 33:04. Ch. 81:03.*
+
+(3) Nothing in this Act shall require the licensing, as moneylenders, of the following:
+
+(a) bankers licensed under the Banking Act;
+
+(b) societies registered under the Friendly Societies Act, or the Building Societies Act, or the Co-operative Societies Act;
+
+(c) any body corporate, incorporated or empowered by special Act to lend money in accordance with the Act;
+
+*Licences to be taken out by moneylenders. [6 of 1945 51/1980 6 of 1993 8 of 1996].*
+
+(d) any person or body corporate exempted by Order of the Minister.
+
+**3.** (1) Every moneylender, whether carrying on business alone or as partner in a firm, shall take out annually in respect of every address at which he carries on his business as such, a licence (in this Act referred to as a “moneylender’s licence”), which shall expire on the 31st of December next after it is granted, and there shall be charged on every moneylender’s licence a fee of five hundred dollars.
+
+However, where moneylenders’ licences are taken out by two or more moneylenders in respect of any address or addresses at which they carry on their business as partners in a firm, the Board of Inland Revenue shall remit, or if the duty has been paid, repay, to the firm a sum equal to the aggregate of the duties charged on such number of the licences taken out as exceeds the number of the addresses in respect of which they are taken out.
+
+(2) Subject to this Act moneylenders’ licences shall be in such form as the Board of Inland Revenue may direct, and shall be granted on payment of the appropriate duty by any officer authorised by the Board of Inland Revenue to grant them.
+
+(3) A moneylender’s licence shall be taken out by a moneylender in his true name, and shall be void if it is taken out in any other name, and every moneylender’s licence shall also show the moneylender’s authorised name and authorised address.
+
+*Penalty for breaches of section 3. [6 of 2014].*
+
+**4.** If any person—
+
+(a) takes out a moneylender’s licence in any name other than his true name;
+
+(b) carries on business as a moneylender without having in force a proper moneylender’s licence authorising him to do so;
+
+(c) being licensed as a moneylender, carries on business as such in any name other than his authorised name, or at any other place than his authorised address or addresses; or
+
+(d) enters into any agreement in the course of his business as a moneylender with respect to the advance or repayment of money or takes any security for money in the course of his business as a moneylender, otherwise than in his authorised name,
+
+*Certificate required for grant of moneylender’s licence. [6 of 2014].*
+
+he is for each offence liable to a fine of ten thousand dollars and imprisonment for three years, and in the case of a company to a fine of thirty thousand dollars.
+
+**5.** (1) A moneylender’s licence shall not be granted except to a person who holds a certificate granted in accordance with this section authorising the grant of the licence to that person, and a separate certificate shall be required in respect of every separate licence. Any moneylender’s licence granted in contravention of this section shall be void.
+
+(2) Certificates under this section (in this Act referred to as “certificates”) shall be granted by the licensing committee of the district in which the moneylender’s business is to be carried on.
+
+(3) Every certificate granted to a moneylender shall show his true name and the name under which, and the address at which, he is authorised by the certificate to carry on business as such, and a certificate shall not authorise a moneylender to carry on business at more than one address, or under more than one name, or under any name which includes the word “bank” or
+
+otherwise implies that he carries on banking business, and no certificate shall authorise a moneylender to carry on business under any name except—
+
+(a) his true name;
+
+*Ch. 82:85.*
+
+(b) the name of a firm in which he is a partner, not being a firm registered by the Registration of Business Names Act to be registered; or
+
+(c) a business name, whether of an individual or of a firm in which he is a partner, under which he or the firm has, at the commencement of this Act, been registered for not less than three years under the Registration of Business Names Act.
+
+*Procedure on application for a certificate. [42 of 1942]. [6 of 2014].*
+
+(4) A certificate shall come into force on the date specified therein, and shall expire on the 31st of December following.
+
+**6.** (1) A person intending to apply for a certificate under this Act shall, fourteen days at least before the application, give notice by registered letter sent by post of his intention to do so. The notice shall set forth his name and address and the address at which he intends to carry on his business and shall be sent to the licensing committee of the district in which the latter address is situated and to the officer of Police in charge of the division in which the latter address is situated.
+
+*Dispute resolution. [6 of 2014].*
+
+(2) The Minister may make Rules with respect to the procedure to be followed in making applications for certificates (including the notices to be given of intention to make such an application), and certificates shall be in such form as may be prescribed by Rules so made.
+
+**6A.** (1) Where an objection to the grant of a certificate is made, a licensing committee shall meet with the applicant and the objector to assist them in reaching a mutually acceptable resolution.
+
+(2) Where the parties fail to agree to a resolution, the matter shall be heard by a Magistrate assigned for duty in the magisterial district.
+
+*Refusal to grant a certificate. [6 of 2014].*
+
+**7.** (1) A certificate shall not be refused except on one or more of the following grounds:
+
+(a) that satisfactory evidence has not been produced of the good character of the applicant, and in the case of a company of the persons responsible for the management of the company;
+
+(b) that satisfactory evidence has been produced that the applicant, or any person responsible or proposed to be responsible, for the management of his business as a moneylender, is not a fit and proper person to hold a certificate;
+
+(c) that the applicant, or any person responsible or proposed to be responsible for the management of his business as a moneylender, is by order of a Court disqualified from holding a certificate;
+
+(d) that the applicant has not complied with the provisions of any rules made with respect to applications for certificates.
+
+(2) A person aggrieved by a refusal of a licensing committee to grant a certificate for a licence may apply in writing to a Magistrate for a review of the decision.
+
+*Transfer of business to other premises. [42 of l942 6 of 2014].*
+
+(3) A person aggrieved by an order of a Magistrate under subsection (2) may appeal from the decision to the Court of Appeal.
+
+**8.** (1) A moneylender shall not transfer his business to premises other than those specified in his licence, except with the other premises consent of the licensing committee of the district in which the address to which he proposes to transfer his business is situated. The consent shall not be given until the officer of Police in charge of the division in which the address is situated has been notified of the proposed transfer and has had an opportunity of objecting to it.
+
+(2) Any moneylender contravening this section is liable to a fine of five thousand dollars.
+
+*Suspension and forfeiture of moneylenders’ certificates. [6 of 2014].*
+
+**9.** (1) Where any person being the holder of a certificate, is convicted of any offence under this Act, the Court—
+
+(a) may order that any certificates held by that person, and in the case of a partner in a firm by any other partner in the firm, shall either be suspended for such time as the Court thinks fit, or shall be forfeited, and may also, if the Court thinks fit, declare any such person or any person responsible for the management of the moneylending business carried on by the person convicted, to be disqualified from obtaining a certificate for such time as the Court thinks fit; and
+
+(b) shall cause particulars of the conviction and of any order made by the Court to be endorsed on every certificate held by the person convicted or by any other person affected by the Order, and shall cause copies of those particulars to be sent to the authority by whom any certificate so endorsed was granted, and to the Board of Inland Revenue.
+
+However, where by Order of a Court a certificate held by any person is suspended or forfeited, or any person is disqualified from obtaining a certificate, he may, whether or not he is the person convicted, appeal against the Order in the same manner as any person convicted may appeal against his conviction, and the Court may, if it thinks fit, pending the appeal, defer the operation of the Order.
+
+(2) Any certificate required by a Court for endorsement in accordance with this section shall be produced, in such manner and within such time as may be directed by the Court, by the person by whom it is held, and any person who, without reasonable cause, makes default in producing any certificate so required, in respect of each offence, is liable to a fine of two hundred dollars for each day during which the default continues.
+
+(3) Where a certificate held by any person is ordered to be suspended or to be forfeited under this section, any
+
+*Forgery of certificate. [6 of 2014].*
+
+moneylender’s licences granted to that person, whether in pursuance of that or any other certificate, shall be suspended during the period for which the certificate is ordered to be suspended or become void, as the case may be.
+
+**10.** (1) If any person forges a certificate, or tenders a certificate knowing it to be forged, he is liable to a fine of five thousand dollars and to imprisonment for nine months.
+
+*Form of moneylenders’ contracts.*
+
+(2) A licence granted in pursuance of a forged certificate shall be void; and if any person makes use of a forged certificate, knowing it to be forged, he shall be disqualified from obtaining at any time thereafter a moneylender’s licence.
+
+**11.** (1) No contract for the repayment by a borrower of money lent to him or to any agent on his behalf by a moneylender licensed under this Act or for the payment by him of interest on money so lent and no security given by the borrower or by any such agent in respect of any such contract is enforceable, unless a note or memorandum in writing of the contract is made and signed personally by the borrower, and unless a copy of the note or memorandum is delivered or sent to the borrower within seven days of the making of the contract; and no such contract or security is enforceable if it is proved that the note or memorandum was not signed by the borrower before the money was lent or before the security was given, as the case may be.
+
+*Schedule. Interest to be charged.*
+
+(2) The note or memorandum shall contain all the terms of the contract, and in particular shall show the date on which the loan is made, the amount of the principal of the loan, and, either the interest charged on the loan expressed in terms of a rate per cent per annum, or the rate per cent per annum, represented by the interest charged as calculated in accordance with the Schedule.
+
+**12.** (1) The interest which may be charged on loans by any person other than a moneylender licensed under this Act shall not exceed the rate of twenty-four per cent simple interest per annum, whether the interest is payable monthly or at any greater fixed period, and nothing herein contained shall authorise the charging
+
+of compound interest on such loans which would, in effect, amount to simple interest in excess of such rate per annum.
+
+(2) Interest which may be charged on loans by a moneylender licensed under this Act, shall not exceed the respective rates specified, namely—
+
+(a) If by the terms of the contract the principal is not repayable prior to a date exceeding six months from the date of making the loan— On loans not exceeding $25.00 simple interest at the rate of 60% per annum;
+
+On loans not exceeding $50.00 simple interest at the rate of 48% per annum;
+
+On loans not exceeding $100.00 simple interest at the rate of 36% per annum;
+
+On loans exceeding $100.00 simple interest at the rate of 24% per annum.
+
+(b) If by the terms of the contract the principal is repayable on any date within six months of making the loan, or on demand—
+
+On loans not exceeding $10.00 simple interest at the rate of 7% per month;
+
+On loans not exceeding $25.00 simple interest at the rate of 6% per month;
+
+On loans not exceeding $50.00 simple interest at the rate of 5% per month;
+
+On loans not exceeding $100.00 simple interest at the rate of 4 1 / 2 % per month;
+
+On loans exceeding $100.00 simple interest at the rate of 4% per month.
+
+(3) If several sums are loaned by a moneylender to the same person, whether at the same or different times, the rate of interest on the aggregate sum loaned, or owing at the date the last sum is loaned, shall be that authorised as if the whole amount then owing had been loaned as one transaction.
+
+*Penalty for charging unauthorised interest. [172/1961 8/1962 136/1976 6 of 2014].*
+
+(4) The interest shall constitute a comprehensive charge to include all discounts, commissions, bonuses, fines, expenses and any amount by whatever name called, in excess of the principal, paid or payable to the moneylender in consideration of or otherwise in respect of a loan, but shall not include such charges, expenses and costs as are specifically allowed by this Act or by the Court adjudicating on the matter.
+
+*Prohibition of compound interest and provision as to defaults.*
+
+**13.** Any person who loans money at a rate of interest higher than that authorised by this Act may be prosecuted summarily on the complaint of any person, and on conviction he is liable to a fine of five thousand dollars in respect of each loan and one-fourth of the sum recovered by way of fine shall be paid to the informer other than the borrower. A prosecution for an offence under this section shall not be instituted except by or with the consent of the Director of Public Prosecutions.
+
+*Method of calculating interest when not expressed in terms of a rate.*
+
+**14.** Any contract made after the commencement of this Act for the loan of money by a moneylender licensed under this Act shall be illegal in so far as it provides directly or indirectly for the payment of interest in advance whether by deduction of any amount from the principal sum borrowed or otherwise or for the payment of compound interest or for the rate or amount of interest being increased by reason of any default in the payment of sums due under the contract and any such moneylender contravening this section is liable to the penalties prescribed by section 13.
+
+*Schedule.*
+
+**15.** Where by a contract for the loan of money by a moneylender licensed under this Act the interest charged on the loan is not expressed in terms of a rate, any amount paid or payable to the moneylender under the contract (other than simple interest charged in accordance with section 12) shall be appropriated to principal and interest in the proportion that the principal bears to the total amount of the interest, and the rate per cent per annum represented by the interest charged as calculated in accordance with the provisions of the Schedule shall be deemed to be the rate of interest charged on the loan.
+
+*Prohibition of charge for expenses on loans by moneylenders.*
+
+*Employment of agents or canvassers by moneylender prohibited. [6 of 2014].*
+
+**16.** Any agreement between a moneylender licensed under this Act and a borrower or intending borrower for the payment by the borrower or intending borrower to the moneylender of any sum on account of costs, charges or expenses incidental to or relating to the negotiations for or the granting of the loan or proposed loan shall be illegal, and if any sum is paid to the moneylender by a borrower or intending borrower as for or on account of any such costs, charges or expenses that sum shall be recoverable as a debt due to the borrower or intending borrower, or, in the event of the loan being completed, shall, if not so recovered, be set off against the amount actually lent and that amount shall be deemed to be reduced accordingly. However, the provisions of this section shall not apply to such charges, expenses and costs as are specifically allowed by this Act or by the Court adjudicating on the matter.
+
+**17.** (1) No moneylender licensed under this Act or any person on his behalf shall employ any agent or canvasser for the purpose of inviting any person to borrow money or to enter into any transaction involving the borrowing of money from the moneylender, and no person shall act as such agent or canvasser, or demand or receive directly or indirectly any sum or other valuable consideration by way of commission or otherwise for introducing or undertaking to introduce to a moneylender any person desiring to borrow money.
+
+*Moneylenders to give receipts and keep record of transactions. [6 of 2014].*
+
+(2) Any contract by the borrower to pay to an agent or canvasser of a moneylender licensed under this Act a commission for securing a loan shall be null and void, and if any sum has been paid by way of commission or otherwise for such service, the agent or canvasser is liable to a fine of three thousand dollars, and one-half of the sum recovered by way of fine shall be paid to the informer, even though he is the person who paid the agent or canvasser.
+
+**18.** (1) Every moneylender licensed under this Act shall give a receipt for every payment made to him on account of a loan or of interest thereon. Every such receipt shall be given immediately the payment is made.
+
+(2) Every moneylender licensed under this Act shall keep a book in which he shall enter in connection with every loan made by him—
+
+(a) the date on which the loan was made;
+
+(b) the amount of the principal;
+
+(c) the rate of interest;
+
+(d) all sums received in respect of the loan, with the respective dates of payment.
+
+(3) The entries in the said book shall be made forthwith on the making of the loan or the receipt of sums paid in respect of the loan, as the case may be.
+
+*Obligation of moneylender to supply information as to state of loan and copies of documents relating thereto. [51/1980 6 of 2014].*
+
+(4) Any moneylender licensed under this Act who fails or neglects to keep the book required by this section, or to make the necessary entries in such book, or to produce such book when required to do so by any Court, or to give a receipt required by this section, is for each offence liable to a fine of one thousand dollars.
+
+**19.** (1) In respect of every contract for the repayment of money lent by a moneylender (whether made before or after the commencement of this Act) the moneylender shall, on any reasonable demand in writing being made by the borrower at any time during the continuance of the contract and on tender by the borrower of the sum of two dollars for expenses, supply to the borrower or, if the borrower so requires, to any person specified in that behalf in the demand, a statement signed by the moneylender or his agent showing—
+
+(a) the date on which the loan was made, the amount of the principal of the loan and the rate per cent per annum of interest charged;
+
+(b) the amount of any payment already received by the moneylender in respect of the loan and the date on which it was made;
+
+(c) the amount of every sum due to the moneylender, but unpaid, and the date upon which it became due, and the amount of interest accrued due and unpaid in respect of every such sum; and
+
+(d) the amount of every sum not yet due which remains outstanding, and the date upon which it will become due.
+
+(2) A moneylender shall, on any reasonable demand in writing by the borrower, and on tender of a reasonable sum for expenses, supply a copy of any document relating to a loan made by him or any security for such loan, to the borrower, or if the borrower so requires, to any person specified in the demand.
+
+*Limitation of time for proceedings in respect of money lent by moneylenders. [45 of 1979].*
+
+(3) If a moneylender to whom a demand is made under this section fails without reasonable excuse to comply within one month after the demand is made, he shall not, so long as the default continues, be entitled to sue for or recover any sum due under the contract on account either of principal or interest, and interest shall not be chargeable in respect of the period of the default, and if the default is made or continued after proceedings have ceased to lie in respect of the loan, the moneylender is liable to a fine of three hundred dollars for every day on which the default continues.
+
+**20.** (1) No proceedings shall lie for the recovery by a moneylender of any money lent by him after the commencement of this section (that is, 31st December 1979) or of any interest in respect thereof, or for the enforcement of any agreement made or security taken after the commencement of this section in respect of any loan made by him, unless the proceedings are commenced before the expiration of twelve months from the date on which the cause of action accrued.
+
+(2) If during the period of twelve months aforesaid or at any time within any subsequent period during which proceedings may by virtue of this subsection be brought, the debtor acknowledges in writing the amount due and gives a written undertaking to the moneylender to pay that amount, proceedings for the recovery of the amount due may be brought at any time within a period of twelve months after the date of the acknowledgment and undertaking.
+
+(3) The time limit by the foregoing provisions of this section for the commencement of proceedings shall not begin to run in respect of any payments from time to time becoming due to a moneylender under a contract for the loan of money until a cause of action accrues in respect of the last payment becoming due under the contract.
+
+(4) If at the date on which the cause of action accrues or on which any such acknowledgment and undertaking as mentioned above is given by the debtor, the person entitled to take the proceedings is mentally ill, the time limited by the foregoing provisions of this section for the commencement of proceedings shall not begin to run until that person ceases to be of unsound mind or dies, whichever first occurs.
+
+(5) If at the date on which the cause of action accrues or on which any such acknowledgment and undertaking as mentioned above is given by the debtor, the debtor is out of Trinidad and Tobago, the time limited by the foregoing provisions of this section for the commencement of proceedings shall not begin to run until he returns to Trinidad and Tobago.
+
+*Restrictions on moneylending advertisements. [6 of 2014].*
+
+(6) Without prejudice to the powers of a Court under section 24, if at the time when proceedings are taken by a moneylender in respect of a default in the payment of any sum due to him under a contract for the loan of money, any further amount is outstanding under the contract but not yet due, the Court may determine the contract and order the principal outstanding to be paid to the moneylender with such interest thereon, if any as the Court may allow up to the date of payment.
+
+**21.** (1) No person shall knowingly send or deliver or cause to be sent or delivered to any person except in response to his written request any circular or other document advertising the name, address or telephone number of a moneylender, or containing an invitation—
+
+(a) to borrow money from a moneylender;
+
+(b) to enter into any transaction involving the borrowing of money from a moneylender;
+
+(c) to apply to any place with a view to obtaining information or advice as to borrowing any money from a moneylender.
+
+(2) Subject as provided below, no person shall publish or cause to be published in any newspaper or other printed paper issued periodically for public circulation, or by means of any poster or placard, an advertisement advertising any such particulars, or containing any such invitation.
+
+(3) However, an advertisement in conformity with the requirements of this Act relating to the use of names on moneylenders’ documents may be published by or on behalf of a moneylender in any newspaper or in any such paper as mentioned above or by means of a poster or placard exhibited at any authorised address of the moneylender, if it contains no addition to the particulars necessary to comply with the said requirements, except any of the following particulars, that is to say, any authorised address at which he carries on business as a moneylender and the telegraphic address and telephone number thereof, any address at which he formerly carried on business, a statement that he lends money with or without security, and of the highest and lowest sums that he is prepared to lend, and a statement of the date on which the business carried on by him was first established.
+
+*Schedule.*
+
+(4) Where any document issued or published by or on behalf of a moneylender purports to indicate the terms of interest upon which he is willing to make loans or any particular loan, the document shall either express the interest proposed to be charged in terms of a rate per cent per annum or show the rate per cent per annum represented by the interest proposed to be charged as calculated in accordance with the provisions of the Schedule.
+
+(5) Any person acting in contravention of any of the provisions of this section is liable to a fine of two thousand dollars.
+
+(6) Where it is shown that a moneylending transaction was brought about by a contravention of any of the provisions of this section, the transaction shall, notwithstanding that the moneylender was duly licensed under this Act, be illegal, unless the moneylender proves that the contravention occurred without his consent and connivance.
+
+*Notice and information to be given on assignment of moneylenders’ debts. [6 of 2014].*
+
+**22.** (1) Where any debt in respect of money lent by a moneylender whether before or after the commencement of this Act or in respect of interest on any such debt or the benefit of any agreement made or security taken in respect of any such debt or interest is assigned to any assignee, the assignor (whether he is the moneylender by whom the money was lent or any person to whom the debt has been previously assigned) shall, before the assignment is made—
+
+(a) give to the assignee notice in writing that the debt, agreement or security is affected by the operation of this Act; and
+
+(b) supply to the assignee all information necessary to enable him to comply with this Act relating to the obligation to supply information as to the state of loans and copies of documents relating to such loans,
+
+and any person acting in contravention of any of the provisions of this section is liable to indemnify any other person who is prejudiced by the contravention, and is also in respect of each offence liable to a fine of five thousand dollars and to imprisonment for nine months.
+
+(2) In this section the expression “assigned” means assigned by any assignment inter vivos other than an assignment by operation of law, and the expressions “assignor” and
+
+*Application of Act as respects assignees.*
+
+“assignee” have corresponding meanings.
+
+**23.** (1) Subject as provided below, this Act shall continue to apply as respects any debt to a moneylender in respect of money lent by him after the commencement of this Act or in respect of interest on money so lent or of the benefit of any agreement made or security taken in respect of any such debt of interest, notwithstanding that the debt or the benefit of the agreement or security may have been assigned to any assignee, and, except where the context otherwise requires, references in this Act to a moneylender shall accordingly be construed as including any such assignee.
+
+(2) Notwithstanding anything in this Act—
+
+(a) any agreement with, or security taken by, a moneylender in respect of money lent by him after the commencement of this Act shall be valid in favour of any bona fide assignee or holder for value without notice of any defect due to the operation of this Act and of any person deriving title under him; and
+
+(b) any payment or transfer of money or property made bona fide by any person, whether acting in a fiduciary capacity or otherwise, on the faith of the validity of any such agreement or security, without notice of any such defect shall, in favour of that person, be as valid as it would have been if the agreement or security had been valid; and
+
+(c) the provisions of this Act limiting the time for proceedings in respect of money lent shall not apply to any proceedings in respect of any such agreement or security commenced by a bona fide assignee or holder for value without notice that the agreement or security was affected by the operation of this Act, or by any person deriving title under him, but in every such case the moneylender shall be liable to indemnify the borrower or any person who is prejudiced by virtue of this section, and nothing in this subsection shall render valid an agreement or security in favour of, or apply to proceedings commenced by, an assignee or holder for value who is himself a moneylender.
+
+*Re-opening of moneylending transactions.*
+
+(3) Nothing in this section shall render valid for any purpose any agreement, security or other transaction which would, apart from this Act, have been void or unenforceable.
+
+**24.** (1) Where proceedings are taken in any Court by any person for the recovery of any money lent, or the enforcement of any agreement or security made or taken in respect of money lent, and there is evidence which satisfies the Court that the
+
+*Proceedings by borrower against moneylender.*
+
+interest charged in respect of the sum actually lent exceeds the rates authorised by this Act, the Court may re-open the transaction, and take an account between the lender and the person sued, and may, notwithstanding any statement or settlement of account or any agreement purporting to close previous dealings and create a new obligation, re-open any account already taken between them, and relieve the person sued from payment of any sum in excess of the sum adjudged by the Court to be due in respect of such principal and interest, and for such costs and charges as the Court may adjudge to be reasonable, and, if any such excess has been paid or allowed in account by the debtor, may order the creditor to repay it; and may set aside, either wholly or in part, or revise, or alter, any security given or agreement made in respect of money lent, and if the lender has parted with the security may order him to indemnify the borrower or other person sued.
+
+*Bankruptcy.*
+
+(2) Any Court in which proceedings might be taken for the recovery of money lent by any person shall have power to and may, at the instance of the borrower or surety or other person liable, exercise the same powers as may be exercised under this section, where proceedings are taken for the recovery of money lent, and the Court shall have power, notwithstanding any provision or agreement to the contrary, to entertain any application under this Act by the borrower or surety or other person liable, notwithstanding that the time for repayment of the loan, or any instalment thereof, may not have arrived.
+
+*Application to all moneylending transactions. Bona fide assignee. Existing powers of Court.*
+
+(3) On any application relating to the admission or amount of a proof by a person who has lent money in any bankruptcy proceedings, the Court may exercise the same powers as may be exercised under this section when proceedings are taken for the recovery of money.
+
+(4) This section shall apply to any transaction which, whatever its form may be, is substantially one of moneylending.
+
+(5) Nothing in this section shall affect the rights of any bona fide assignee or holder for value without notice.
+
+(6) Nothing in this section shall be construed as derogating from the existing power or jurisdiction of any Court
+
+*Inducing borrowing by false statements. [6 of 2014].*
+
+to enquire into and give relief in respect of any loan effected before the commencement of this Act. However, the Court shall not set aside, vary or affect any judgment obtained before the commencement of this Act.
+
+*Protection of lenders against frivolous and vexatious actions. [51/1980 6 of 2014].*
+
+**25.** Any person who by any false, misleading or deceptive statement, representation or promise or by any dishonest concealment of material facts, fraudulently induces or attempts to induce any person to borrow money or to agree to the terms on which money is or is to be borrowed, is liable to a fine of five thousand dollars and to imprisonment for nine months.
+
+**26.** (1) In any civil proceedings in which a borrower pleads any of the provisions of this Act (whether in any plaint, defence or other pleading, or in any affidavit or application for the purpose of obtaining leave to defend any action), if the Court is satisfied that the plea was not made in good faith, but was made for the purpose of delaying or harassing the moneylender, the Court may order the borrower to pay for the benefit of the moneylender a sum not exceeding one thousand dollars by way of compensation and the costs incurred by the moneylender in the proceeding to such an amount as shall be determined by the Court, and every such sum so ordered to be paid shall be added to the amount of the judgment recoverable by the moneylender.
+
+*Recovery of penalties. Ch. 4:20.*
+
+(2) In any criminal proceeding instituted against a moneylender for a breach of any provision of this Act if the Court is satisfied that the charge was made maliciously, frivolously or vexatiously, it may direct that a sum not exceeding one thousand dollars by way of compensation and the costs of the accused to such an amount as shall be determined by the Court shall be payable by the informer or complainant, and any amount so ordered to be paid shall be recoverable for the benefit of the accused in the same manner as a fine imposed by the Court.
+
+**27.** All offences under this Act may be prosecuted, and all penalties incurred may be imposed or recovered, in the manner provided by the Summary Courts Act.
+
+*Sections 11, 15,*
+
+## SCHEDULE
+
+**21.** CALCULATION OF INTEREST WHERE THE INTEREST CHARGED ON A LOAN IS NOT EXPRESSED IN TERMS OF A RATE
+
+**1.** The amount of principal outstanding at any time shall be taken to be the balance remaining after deducting from the principal the total of the portions of any payments appropriated to principal in accordance with the provisions of this Act.
+
+**2.** The several amounts taken to be outstanding by way of principal during the several periods ending on the dates on which payments are made shall be multiplied in each case by the number of calendar months during which those amounts are taken to be respectively outstanding, and there shall be ascertained the aggregate amount of the sum so produced.
+
+**3.** The total amount of the interest shall be divided by one-twelfth part of the aggregate amount mentioned in paragraph 2, and the quotient, multiplied by one hundred, shall be taken to be the rate of interest per cent per annum.
+
+**4.** If having regard to the intervals between successive payments it is desired to do so, the calculation of interest may be made by reference to weeks instead of months, and in such a case the foregoing paragraphs shall have effect as though in paragraph 2 the word “weeks” were substituted for the words “calendar months”, and in paragraph 3 the words “one-fifty-second” were substituted for the words “one-twelfth”.
+
+**5.** Where any interval between successive payments is not a number of complete weeks or complete months, the foregoing paragraphs shall have effect as though one day were one-seventh part of a week or one-thirtieth part of a month, as the case may be.
+
+*GN 128/1965. Citation. Exemption.*
+
+SUBSIDIARY LEGISLATION *MONEYLENDERS (EXEMPTION) ORDER made under section 2(3)(d)
+
+**1.** This Order may be cited as the Moneylenders (Exemption) Order.
+
+**2.** The bodies corporate set out in the Schedule are exempted from being licensed as moneylenders.
+
+*128/1965. 6/1966. 79/1967. 185/1970. G. 1.5. 1971 Notice 1131. 12/1972. 163/1972. 164/1972. 165/1972. 173/1972. 16/1975. 104/1978.*
+
+## SCHEDULE Trinidad and Tobago Mortgage Finance Company.
+
+Bolam Barclays Finance Corporation (Trinidad) Limited.
+
+The Credit for Industry (East Caribbean) Limited.
+
+Trinidad and Tobago Development Finance Company Limited.
+
+General Finance Corporation Limited.
+
+Barclays Finance Corporation of Trinidad and Tobago Limited.
+
+The Canadian Bank of Commerce Trust Company (Caribbean) Limited. The Royal Bank Trust Company (Trinidad) Limited.
+
+The Bank of Nova Scotia Trust Company of The West Indies Limited. International Trust of Washington (Caribbean) Limited.
+
+International Trust Limited.
+
+Bank of Commerce Trust Company Trinidad and Tobago Limited. * This Order is a consolidation of the diverse Notices made under section 2(3)(d).
+
+*65/1986. 136/1986. 3/1987. 3/1987. 37/1987. 206/1987. 72/1988. 122/1989. 76/1991. 133/1991. 43/1996. 67/2000. 6/2003.*
+
+Moneylenders (Exemption) Order International Finance Corporation
+
+Overseas Private Investment Corporation
+
+Trade Confirmers Limited
+
+Total Finance Limited
+
+Amalgamated Finance Company Limited
+
+Bank of Credit and Commerce International (Trinidad and Tobago Merchant Bankers) Limited
+
+Citicorp Merchant Bank Limited
+
+Fidelity Finance and Leasing Company Limited The Inter-American Investment Corporation Kreditanstalf fur Wiederaufbau
+
+Trinidad and Tobago Water Finance Limited Trinidad and Tobago Development Foundation Limited (Fund Aid) Mayaro Initiative for Private Enterprise Development
+
+*G. 2.2.1933. Citation. Forms. Schedule. Application. Ch. 81:01.*
+
+MONEYLENDERS RULES made under section 6(2)
+
+**1.** These Rules may be cited as the Moneylenders Rules.
+
+**2.** The forms set out in the Schedule shall be used in the cases to which they refer, with such variations as circumstances may require.
+
+*Application by firm.*
+
+**3.** In the case of an applicant being a company registered under the Companies Act, the application shall be signed by the Secretary or a Director of the Company, and the application shall be accompanied by copies of the memorandum and articles of association and of the last balance sheet, certified by some responsible officer of the Company as being true copies, together with a statement showing the names and addresses of all the Directors of the Company.
+
+**4.** In the case of an application by a firm, the application shall be signed by all the partners of the firm and shall state the name of the firm under which it is proposed to carry on business.
+
+## SCHEDULE FORM A (Section 3)
+
+Trinidad and Tobago MONEYLENDERS ACT LICENCE TO CARRY ON THE BUSINESS OF A MONEYLENDER .................. of [True name and address], of................., being the holder of a certificate under section 5 of the Act granted on ........... by........... Magistrate of .................. is hereby licensed to exercise and carry on the business of a Moneylender under the name of................ [Authorised name] in premises at ...................... [Authorised place of business] from the day of the date hereof until the 31st day of December next ensuing. The sum of $25.00 has been paid for this licence.
+
+Dated this ................... day of ......................... 20.......
+
+Board of Inland Revenue. Note—A Moneylender shall not transfer his business to premises other than those specified above without the consent of the Magistrate of the District. (Section 8 of the Act).
+
+Moneylenders Rules FORM B (Section 6)
+
+Trinidad and Tobago MONEYLENDERS ACT NOTICE OF APPLICATION FOR A MAGISTRATE’S CERTIFICATE To the Magistrate
+
+District
+
+I, ................ [True name and address] of...................do hereby give you notice that it is my intention to apply at the Sessions to be held at............, on the......... day of .................... next ensuing for a Certificate authorising me to obtain a Moneylender’s Licence in respect of the business carried on by me in the name of ......................... [Authorised name] in premises at ............................ [Authorised place of business]. Dated this ........................ day of ............................ 20 ........
+
+Note—A Duplicate of this Form when completed is to be sent to the Commissioner of Police at least 14 days before the date of making the application.
+
+FORM C (Section 6)
+
+Trinidad and Tobago MONEYLENDERS ACT MAGISTRATE’S CERTIFICATE District.
+
+At the Sessions holden at................. on the ......................day of ................ 20 ....., appeared ............................. [True name and address] in support of an application for a Certificate for the issue of a Moneylender’s Licence in the name of............................[Authorised name] in premises at .................. [Authorised place of business].
+
+I hereby certify that the said ..................... has produced satisfactory evidence of good character and is a fit and proper person to hold such Licence and is not disqualified from holding or obtaining such Licence as at the date hereof. Dated this ............. day of ............................. 20 .......
+
+Magistrate, District.
