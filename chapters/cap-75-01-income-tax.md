@@ -1,0 +1,5255 @@
+---
+title: "Income Tax Act"
+identifier: "Chap. 75:01"
+original_act: "Act 34 of 1938"
+type: act
+jurisdiction: tt
+language: en
+date: 1938-12-22
+last_amended: 2016-12-31
+status: in_force
+long_title: "An Act to impose a tax upon incomes and to regulate the collection thereof."
+classification: "REVENUE"
+source: "https://laws.gov.tt/ttdll-web/revision/list?offset=0&q=&currentid=562"
+source_pdf: "https://laws.gov.tt/ttdll-web/revision/download/106658?type=act"
+pages: 228
+retrieved: 2026-10-13
+---
+
+# Income Tax Act
+
+### INCOME TAX ACT
+
+CHAPTER 75:01 Act
+
+34 of 1938 Amended by 22 of 1946 12 of 1972 13 of 1984 9 of 1997 1 of 1951 27 of 1972 73/1984 * 33 of 1997 22 of 1951 22 of 1974 7 of 1985 38 of 1997 23 of 1951 30 of 1974 17 of 1985 * 4 of 1998 33 of 1952 7 of 1975 198/1985 35 of 1998 20 of 1954 41 of 1975 1 of 1986 36 of 2000 30 of 1954
+
+66 of 1975 3/1986 39 of 2000 26 of 1955
+
+14 of 1976 14 of 1987 50 of 2000 11 of 1956
+
+11 of 1988 40 of 1976 91 of 2000 34 of 1956
+
+6 of 1989 195/1976 2 of 2002 23 of 1957
+
+9/1977 18 of 1989 15 of 2003 18 of 1958
+
+46 of 1977 20 of 1989 20 of 2003 3 of 1962
+
+21/1978 *30 of 1989 5 of 2004 16 of 1963
+
+33/1978 37 of 1989 21 of 2005 5 of 1964
+
+1 of 1979 38 of 1989 2 of 2006 29 of 1966
+
+10/1979 9 of 1990 17 of 2007 42 of 1966
+
+203/1979 6 of 1991 30 of 2007 8 of 1967
+
+7 of 1980 4 of 1992 24 of 2008 28 of 1967
+
+19 of 1980 17 of 1992 †1 of 2009 2 of 1968
+
+25 of 1980 25 of 1992 †13 of 2010 13 of 1968
+
+17 of 1981 6 of 1993 2 of 2012 5 of 1969
+
+25 of 1981 22 of 1993 2 of 2013 13 of 1969
+
+41 of 1981 3 of 1994 4 of 2014 32 of 1969
+
+46 of 1969 2 of 1982 14 of 1994 †2 of 2015 5 of 1970 9 of 1983 22 of 1994 †1 of 2016 35 of 1971 21 of 1983 5 of 1995 7 of 2016 8 of 1972 6 of 1984 8 of 1996 †10 of 2016 * By implication †See Note on page 3.
+
+Current Authorised Pages Pages Authorised (inclusive) by L.R.O.
+
+1–8 ..
+
+9–20 ..
+
+21–24 ..
+
+25–52 –
+
+53–58 ..
+
+59–68 ..
+
+69–70 ..
+
+71–84 ..
+
+85–228 ..
+
+Index of Subsidiary Legislation Page Income Tax (Miscellaneous Clearance) Regulations (132/1971) … … 206 Income Tax (Employment) Regulations (177/1957) … … … 211 Income Tax (Judgment Certificate) Regulations (169/1966) … … 227 Omissions The following Subsidiary Legislation have been omitted:
+
+**1.** (a) Approved Agricultural Holdings Notices and Extension of Exemption Period of Commercial Farming Orders made under section 14.
+
+(b) Double Taxation Relief Orders made under section 93.
+
+(c) Reduction of Withholding Tax Orders made under section 96.
+
+**2.** (a) Income Tax (Delegation of Powers and Duties) Order (1/1960).
+
+(b) Income Tax (Exemption of Tax on Interest on Savings Bonds) Proclamation (30/1962).
+
+(c) Income Tax (Approved Foreign Companies) Notice (100/1980).
+
+(d) Income Tax (Withdrawal of Approved Foreign Companies) Notice (106/1980).
+
+(e) Income Tax (Delegation of Functions) Order (113/1996).
+
+(References to these may be found in the current Consolidated Index of Acts and Subsidiary Legislation).
+
+Note on Transfer of Provisions The provisions of the Income Tax Ordinance, Ch. 33. No. 1 relating to appeals (ss. 43 to 43E) have been transferred to a separate enactment entitled the Tax Appeal Board Act published in this Edition as Chapter 4:50.
+
+Note on TIDCO Vesting Act and Premier Vesting Act
+
+**1.** Section 4(1)(h) of the Tourism and Industrial Development Company of Trinidad and Tobago Limited Vesting Act, Ch. 87:21 (“TIDCO Act”) stipulates that any contract made before 1st May, 1995 (the appointed day of the TIDCO Act) to which section 4(1)(a) of the TIDCO Act applies and which contract was an approved plan, fund or scheme under the Income Tax Act, shall continue to be treated as an approved plan, fund or scheme for the purposes of the Income Tax Act.
+
+**2.** Section 4(1)(c) of the Premier Vesting Act, (No. 33 of 1997) is an exact replica of section 4(1)(h) of the TIDCO Act.
+
+Note on Maternity Leave Pay Tax Deduction Section 11 of the Maternity Protection Act, (Ch. 45:57) provides for an employer to claim the full amount paid to an employee for maternity leave as a tax deduction.
+
+Note on Hotel Development Act, 2000 All references in the Income Tax Act to the Hotel Development Act, (formerly Ch. 85:02) have been changed to the Tourism Development Act, (Ch. 87:22) which repealed and replaced the Hotel Development Act. Section 40 of the Tourism Development Act preserves the tax benefits conferred upon persons through Orders made under the former Hotel Development Act.
+
+Note on Act No. 1 of 2009 Amendments effected to section 28 by Act No. 1 of 2009 took effect from 1st January 2009. Note on Act No. 13 of 2010 Amendments effected by Act No. 13 of 2010 took effect as follows:
+
+Section 8(1) — 1st October 2010.
+
+Sections 48B and 48C — 1st January 2010.
+
+Seventh Schedule — 8th September 2010.
+
+Note on Act No. 2 of 2015 Amendments made by Act No. 2 of 2015 took effect from 1st January 2015.
+
+Note on Act No. 1 of 2016 Amendments made to section 5A(1) by Act No. 1 of 2016 took effect on 21st January 2016 and amendments made to section 18 took effect on 1st January 2016.
+
+Note on Act No. 10 of 2016 Amendments made to the Third Schedule by Act No. 10 of 2016 took effect from 1st January 2017.
+
+### CHAPTER 75:01 INCOME TAX ACT
+
+*SECTION*
+
+## ARRANGEMENT OF SECTIONS
+
+**1.** Short title.
+
+**2.** Interpretation.
+
+### ADMINISTRATION
+
+**3.** Board of Inland Revenue.
+
+**4.** Official secrecy.
+
+### CHARGING PROVISIONS
+
+**5.** Charge to income tax.
+
+**5A.** Business Levy.
+
+### BASIS OF ASSESSMENT
+
+**6.** Basis of assessment.
+
+**7.** Chargeable income of certain persons.
+
+**8.** Exemptions.
+
+**8A.** Savings account free of tax.
+
+**8B.** Saving of benefits under repealed section 8(1)(fa).
+
+**9.** Government loans.
+
+### COMPUTATION OF INCOME
+
+**10.** Computation of income generally.
+
+**10A.** Promotional expenses.
+
+**10B.** (Repealed by Act No. 17 of 2007).
+
+**11.** Allowances in certain cases.
+
+**11A.** Computation of wear and tear allowances.
+
+**11B.** Allowances on buildings and structures.
+
+**12.** Deductions not allowed.
+
+**13.** Relief to hotel proprietors.
+
+**13A.** (Repealed by Act No. 2 of 2006).
+
+**13B.** Deduction for investment in approved guest house.
+
+**14.** Exemption of income from approved agricultural holdings.
+
+**15.** (Repealed by Act No. 6 of 1993).
+
+### SECTION
+
+**16.** Allowances of trade losses.
+
+**17.** Relief allowable to residents.
+
+**18.** Personal allowance.
+
+**18A.** Allowances for purchase of house.
+
+**18B.** } (Repealed by Act No. 2 of 2006).
+
+**19.** (Repealed by Act No. 6 of 1989).
+
+**20.** Maintenance and alimony.
+
+**21.** (Repealed by Act No. 9 of 1997).
+
+22.
+
+to (Repealed by Act No. 6 of 1989).
+
+26.
+
+**27.** Deduction in respect of Life Insurance and contribution to Widows’ and Orphans’ Fund.
+
+**27A.** Covenanted donations.
+
+**28.** Interpretation.
+
+**29.** Employer’s special payments to funds.
+
+**29A.** (Repealed by Act No. 2 of 2006).
+
+**30.** Constitution of pension fund plan.
+
+**31.** Rules for deductions in respect of insurance, etc.
+
+**32.** Regulations.
+
+**33.** Conversion of certain policies into local currency.
+
+**34.** (Repealed by Act No. 17 of 2007).
+
+**34A.** (Repealed by Act No. 5 of 2004).
+
+**34B.** (Repealed by Act No. 5 of 1995).
+
+**35.** Company may establish employees’ profit-sharing plan.
+
+**36.** (Repealed by Act No. 6 of 1989).
+
+**37.** Deduction for purchase of bonds.
+
+**37A.** (Repealed by Act No. 6 of 1989).
+
+**37B.** Certain interest on housing bonds exempt.
+
+}
+
+**38.** Employer may establish employees’ savings plan.
+
+**39.** Employer’s contribution to be allowed as deduction for income tax.
+
+**40.** Trustees to be taxed on income derived from investment.
+
+**41.** Withdrawal of contributions.
+
+41A.
+
+to (Repealed by Act No. 6 of 1989).
+
+41B.
+
+**42.** Income tax exemptions.
+
+## ARRANGEMENT OF SECTIONS—Continued SECTION
+
+**43.** Limitation on tax exemption.
+
+**44.** Builder excluded from tax exemptions.
+
+**45.** Application of sections 10, 11 and 12.
+
+**45A.** Additional income tax exemptions.
+
+**45B.** Dividends paid out of profits exempted under section 45A similarly exempted.
+
+**45C.** Exemption of profits from sale of residential house.
+
+**45D.** Exemptions in relation to commercial buildings on multi-storey car parks.
+
+**45E.** Exemptions in relation to multi-family dwellings.
+
+**46.** Board to require certificate of exemption.
+
+### TEMPORARY RESIDENTS
+
+**47.** Temporary residents.
+
+### RATE OF TAX }
+
+**48.** Rates of tax as per Third Schedule.
+
+### TAX CREDITS
+
+**48A.** } Certain tax credits to be allowed.
+
+48B.
+
+to (Repealed by Act No. 9 of 1997).
+
+48E.
+
+**48F.** Tax credit on interest paid by mutual funds.
+
+48G.
+
+to (Repealed by Act No. 9 of 1997).
+
+48I.
+
+**48J.** (Repealed by Act No. 8 of 1996).
+
+**48K.** Tax credit for shares in venture capital company.
+
+**48L.** Tax credit on CNG kits and cylinders.
+
+**48M.** Tax credit on solar water heating equipment.
+
+**48N.** Tax credit entitlement.
+
+### TAX ON DISTRIBUTIONS AND OTHER PAYMENTS
+
+**49.** Meaning of distribution.
+
+**50.** Rates of withholding tax.
+
+**51.** Meaning of “payment”.
+
+**52.** Loans to directors of close companies.
+
+*SECTION } to*
+
+**53.** Settlements in favour of participators of close companies.
+
+**54.** Discharge of liability for withholding tax.
+
+**55.** Certificate for deduction of tax.
+
+**55A.** Chargeability of distributions made by listed resident companies.
+
+56.
+
+(Repealed by Act No. 8 of 1996).
+
+57.
+
+**57A.** Tax credits.
+
+**58.** Transitional provisions in respect of deduction of tax from dividends. TRUSTEE, AGENT, ETC.
+
+**59.** Chargeability of trustees, etc.
+
+**60.** Chargeability of agent of person residing out of Trinidad and Tobago.
+
+**61.** Acts, etc., to be done by trustees, etc.
+
+**62.** Lists to be prepared by representative or agent.
+
+**63.** Manager of corporate bodies of persons.
+
+**64.** Agent, etc., of non-resident to be assessed.
+
+**65.** Indemnification of representative.
+
+**66.** Deceased persons.
+
+### MISCELLANEOUS PROVISIONS AS TO ASSESSMENT OF TAX
+
+**67.** Artificial transactions, transfers to minors and in trust.
+
+**68.** Settlements.
+
+**69.** Revocable settlements.
+
+**70.** When income of settlement not income of settlor.
+
+**71.** (Repealed by Act No. 6 of 1989 and Act No. 35 of 1998).
+
+**72.** Interpretation of sections 68 to 70.
+
+**73.** Commencement of sections 68 to 72.
+
+**74.** (Repealed by Act No. 6 of 1989 and Act No. 35 of 1998).
+
+**75.** Deductions for settlements.
+
+### RETURNS: BY WHOM TO BE MADE
+
+**76.** Returns of income.
+
+**76A.** Board of Inland Revenue file number.
+
+**76B.** Employee or officer to furnish B.I.R. file number to employer.
+
+**76C.** Exemptions.
+
+**77.** Power of Board to require returns.
+
+## ARRANGEMENT OF SECTIONS—Continued SECTION
+
+### PARTNERSHIPS
+
+**78.** Partnerships.
+
+### PAYMENT OF TAX
+
+**79.** Payment of tax by instalments.
+
+**80.** Payment of tax for 1963.
+
+**81.** Payment of assessed tax.
+
+**82.** Payments on behalf of others.
+
+Certificate before distribution.
+
+Liability.
+
+**82A.** Relief from payment of tax.
+
+### ASSESSMENTS
+
+**83.** Board to make assessments.
+
+Acceptance of return.
+
+Refusal of return.
+
+Assessment in default of return.
+
+Additional tax on increased chargeable income.
+
+Additional tax for non-return of income.
+
+Board may remit additional tax.
+
+Appeal Board’s discretion re additional tax.
+
+**84.** Appointment of agent in the United Kingdom.
+
+### ASSESSMENT LISTS
+
+**85.** Lists of persons assessed and notices of assessments.
+
+### NOTICES OF ASSESSMENTS
+
+**86.** Notices to be served on persons assessed.
+
+### APPEALS AGAINST ASSESSMENT
+
+**87.** Right of appeal against Board decision.
+
+### ERRORS IN ASSESSMENTS AND NOTICES
+
+**88.** Liability not affected by inaccurate or incomplete assessments, absence of assessments, errors of form or description. ADDITIONAL ASSESSMENTS
+
+**89.** Assessments, additional assessments, etc.
+
+### SECTION
+
+### REPAYMENT OF TAX
+
+**90.** Circumstances under which repayment may be made.
+
+**91.** Refund of excess of tax collected under section 99.
+
+**92.** Refunds.
+
+### RELIEF IN CASES OF DOUBLE TAXATION
+
+**93.** Relief from double taxation.
+
+**94.** Certain income deemed to be income for purposes of Act.
+
+**95.** Unilateral relief.
+
+**96.** Power to vary withholding tax.
+
+### GENERAL POWERS OF THE BOARD
+
+**97.** Power of Board to require schedule of particulars.
+
+Power of Board to require persons to attend before it. COLLECTION AND RECOVERY OF TAX
+
+**98.** Declaration by persons to whom emoluments are paid.
+
+**99.** Deductions and payment of emoluments.
+
+**100.** Interpretation of emoluments.
+
+**101.** Board to prepare tax tables.
+
+**102.** Penalty for non-payment of tax and enforcement of payment.
+
+**103.** Interest.
+
+**103A.** Waiver of liabilities.
+
+**104.** Distraint by Board.
+
+**105.** Priority of claim for tax.
+
+**106.** Execution of warrants.
+
+**107.** Obstruction of officers.
+
+**108.** Surplus on sale.
+
+### RECOVERY OF TAX IN CERTAIN CASES
+
+**109.** Persons leaving Trinidad and Tobago or defaulting. Construction.
+
+**110.** Provisions as to recovery of tax and penalties.
+
+**111.** Certificates.
+
+**112.** Garnishments.
+
+Service of garnishees.
+
+## ARRANGEMENT OF SECTIONS—Continued SECTION
+
+### NOTICES
+
+**113.** Signatures of notices.
+
+**114.** Service of notices.
+
+### IMPRISONMENT OF DEFAULTERS
+
+**115.** In case of refusal to pay where there are no distrainable effects, defaulter may be imprisoned.
+
+Release.
+
+### GENERAL
+
+**116.** Traders, etc., to keep accounts, books and records in English language.
+
+**117.** Powers of inspection of records.
+
+**118.** Powers of entry for certain purposes.
+
+**119.** Offence in respect of fraud.
+
+**120.** Failure to perform required duty.
+
+**121.** Offences and penalties.
+
+**121A.** Prosecution of offences.
+
+**122.** Time limit for proceeding to recover fines and penalties.
+
+**123.** Saving for criminal proceedings.
+
+**124.** President may remit tax.
+
+**125.** Regulations.
+
+The Appeal Board.
+
+**126.** Transitional provisions.
+
+**127.** Discharge of tax for 1962.
+
+**128.** Assessments deemed to be those of previous years.
+
+**129.** Assessments already made for 1963.
+
+### MISCELLANEOUS POWERS OF THE BOARD
+
+**130.** Power to obtain information as to interest paid or credited without deduction of tax.
+
+**131.** Delegation by Board.
+
+**132.** Indemnity for liability.
+
+### EXPENSES ALLOWANCES TO DIRECTORS AND OTHERS
+
+**133.** Expenses allowances, etc.
+
+### SECTION
+
+**134.** Benefits in kind to be taken into account.
+
+**134A.** Tax on refund of premiums.
+
+**135.** Valuation of benefits in kind.
+
+**136.** Meaning of “director”, “employment” and “employ”.
+
+**137.** Saving for certain payments and expenses.
+
+**138.** Additional provisions as to information.
+
+**139.** (Repealed by Act No. 21 of 2005).
+
+**140.** Interpretation.
+
+**141.** Unincorporated bodies and partnerships.
+
+Construction of reference in Act.
+
+**142.** General as to exemption.
+
+## FIRST SCHEDULE— [Capital Gains (Supplementary Provisions) Rules].
+
+## SECOND SCHEDULE— (Repealed by Act No. 6 of 1989).
+
+## THIRD SCHEDULE— (Rates of tax payable on chargeable income of a person other than a company).
+
+## FOURTH SCHEDULE— (Repealed by Act No. 8 of 1996). }
+
+## FIFTH SCHEDULE— (Double Taxation Regulations).
+
+## SIXTH SCHEDULE— (Distress warrant).
+
+## SEVENTH SCHEDULE— (Wear and Tear Rates).
+
+## EIGHTH SCHEDULE
+
+— (Repealed by Act No. 2 of 2006).
+
+## NINTH SCHEDULE
+
+*Ch. 33. No. 1. (1950 Ed.). 34 of 1938. Commencement. Short title. Interpretation. Ch. 4:50. [26 of 1955 16 of 1963 29 of 1966 30 of 1974 6 of 1989 5 of 2004 2 of 2006].*
+
+CHAPTER 75:01 INCOME TAX ACT An Act to impose a tax upon incomes and to regulate the collection thereof.
+
+### [22 ND D ECEMBER 1938]
+
+**1.** This Act may be cited as the Income Tax Act.
+
+**2.** (1) In this Act—
+
+“Appeal Board” means the Appeal Board established under the Tax Appeal Board Act;
+
+“assessment” includes a re-assessment;
+
+“Board of Inland Revenue” or “Board” means the Board of Inland Revenue established by section 3;
+
+“body of persons” means any body politic, corporate or collegiate and any company, fraternity, society or fellowship and persons, whether corporate or not corporate;
+
+“chargeable income” means the aggregate amount of the income of any person from the sources specified in section 5 remaining after allowing the appropriate deductions and exemptions under this Act;
+
+*Third Schedule. Ch. 75:02.*
+
+“child” includes a step-child, an illegitimate child or an adopted child;
+
+“close company” has the same meaning as in the Third Schedule of the Corporation Tax Act;
+
+“company” has the meaning assigned to that expression for the purposes of the Corporation Tax Act by section 2(1) thereof;
+
+“corporation tax” means the tax charged under the Corporation Tax Act by section 3 thereof;
+
+“distribution” has the meaning assigned to that expression in section 49;
+
+“earned income” means any income of an individual arising in respect of—
+
+(a) any gains or profits immediately derived by the individual from any trade, business, profession or vocation carried on, or exercised by the individual either as an individual or in the case of a partnership as a partner personally acting therein; or
+
+(b) any gains or profits from any employment or office including any contribution of the employee paid by the employer on behalf of the employee to an approved fund or scheme referred to in section 27(1)(c) or paid by the employer on behalf of the employee under an approved pension fund plan referred to in sections 28 to 33 and the estimated annual value of any quarters or board, residence or of any other allowance granted in respect of employment whether in money or otherwise; or
+
+(c) any pension, superannuation or other allowances, deferred pay or compensation for loss of office, given in respect of the past services of the individual or of the husband or parent of the individual or given to the individual in respect of the past services of any deceased person whether the individual or husband or parent of the individual has contributed to such pension, superannuation or other allowance or not;
+
+“employer”, in relation to an employee or officer, means the person from whom the employee or officer receives his remuneration;
+
+“former year of assessment” means the period of twelve months commencing on the 1st January in each year that before 20th April 1965 [that is, the date of commencement of the
+
+*16 of 1963.*
+
+Income Tax (Amendment) Act, 1963] was the year for which tax was charged, levied and collected upon the chargeable income of any person for the year immediately preceding that year;
+
+“guardian”, in relation to an infant, includes parent;
+
+“incapacitated person” means an infant, person of unsound mind, idiot or insane person;
+
+“management charges” means charges made for the provision of management services and charges made for the provision of personal services and technical and managerial skills, head office charges, foreign research and development fees and other shared costs charged by head office;
+
+*Ch. 75:02.*
+
+“Minister” means the Minister responsible for Finance;
+
+“non-resident company” has the meaning assigned to that expression for the purposes of the Corporation Tax Act in section 2 thereof;
+
+“penalty” means any amount or other sum (other than interest) imposed or charged on a person in addition to any tax payable on an assessment made under the provisions of this Act, and includes a fine recoverable on summary conviction;
+
+*Third Schedule.*
+
+“person” includes, subject to subsection (2), a company;
+
+“participator” has the same meaning as in paragraph 4 of the Third Schedule to the Corporation Tax Act;
+
+“resident company” has the meaning assigned to that expression for the purposes of the Corporation Tax Act by section 2 thereof;
+
+“royalties” has the meaning assigned to that expression for the purposes of the Corporation Tax Act by section 2 thereof;
+
+“separated” means in relation to the marital status of an individual, that the individual is living apart from his or her spouse under—
+
+(a) an order of a Court of competent jurisdiction;
+
+(b) a written agreement of separation; or
+
+(c) any other circumstances where the separation is likely to be permanent;
+
+“short term capital gains” means chargeable gains accruing on the disposal of an asset within twelve months of its acquisition;
+
+“tax” means income tax imposed by this Act;
+
+“total income” means the aggregate amount of income of a person from the sources specified in section 5, before making any deductions allowed by—
+
+*Ch. 85:04.*
+
+(a) any provision of this Act other than sections 10, 11 and 16;
+
+(b) the Income Tax (In Aid of Industry) Act;
+
+“trade” includes a business, and every trade, manufacture, adventure or concern in the nature of a trade or business;
+
+“withholding tax” means the tax so referred to in section 50;
+
+“year of income” means the period of twelve months commencing on 1st January in each year.
+
+(2) For years of income after the year of income 1965 the provisions, other than section 50 of this Act relating to the charge of income tax shall not apply to the profits or gains accruing or arising—
+
+(a) to a resident company; or
+
+*Ch. 75:02. Board of Inland Revenue. [29 of 1966 37 of 1989 15 of 2003].*
+
+(b) to a non-resident company, if the profits or gains are within the charge (as defined by section 2(1) of the Corporation Tax Act) to corporation tax. ADMINISTRATION
+
+**3.** (1) For the purposes of this Act there is hereby established a Board of Inland Revenue.
+
+(2) The Board shall consist of five Commissioners whose offices shall be public offices within the meaning of section 3 of the Constitution of Trinidad and Tobago.
+
+(3) The President shall appoint one of the Commissioners to be Chairman and the Chairman shall preside at all meetings of the Board.
+
+(4) Subject to any Regulations made by the President for the purpose, the Board may regulate its own procedure.
+
+*Official secrecy. [16 of 1963].*
+
+\*4. (1) Every person having any official duty or being employed in the administration of this Act shall regard and deal with all documents, information, returns, assessment lists, and copies of such lists relating to the income or items of the income of any person, as secret and confidential, and shall make and subscribe a declaration in the form prescribed to that effect before a Magistrate.
+
+(2) Any person having possession of or control over any document, information, returns, or assessment lists or copies of such lists relating to the income or items of income of any person who at any time communicates or attempts to communicate such information or anything contained in such documents, returns, lists or copies to any person—
+
+(a) other than a person to whom he is authorised by the President to communicate it; or
+
+(b) otherwise than for the purposes of this Act or any other written law administered by the Board, is guilty of an offence.
+
+(3) Where, under any law in force in any Commonwealth country provision is made for the allowance of relief from income tax in respect of the payment of income tax in Trinidad and Tobago, the obligation as to secrecy imposed by this section shall not prevent the disclosure to the authorised officers of the Government in that Commonwealth country of such facts as may be necessary to enable the proper relief to be given in cases where relief is claimed from income tax in Trinidad and Tobago or from income tax in that Commonwealth country aforesaid.
+
+*Charge to income tax.*
+
+CHARGING PROVISIONS †5. (1) Income tax shall, subject to the provisions of this Act, be payable at the rate or rates specified hereafter for each year of * This provision must be read and construed with section 7 of the Tax Information Exchange Agreements Act, Ch. 76:51, (30 of 1989) which has created an exception to this provision whereby disclosure is permitted for the purpose of giving effect to any tax information exchange agreement under the aforesaid Act. See also section 117(6) of this Act. † This section has been amended by the following: 29 of 1966; 46 of 1969; 14 of 1976; 10 of 1979; 203/1979; 19 of 1980; 25 of 1981; 41 of 1981; 21 of 1983; 7 of 1985; 11 of 1988; 6 of 1989; 20 of 1989; 6 of 1993; 5 of 1995 and 20 of 2003.
+
+*income from Trinidad*
+
+upon the income of any person accruing in or derived Trinidad and Tobago or elsewhere, and whether received in and Tobago or not in respect of—
+
+(a) gains or profits from farming, agriculture, forestry, fishing or other primary activity;
+
+(b) gain or profits from operation of mines or the exploitation of natural or mineral resources;
+
+(c) gains or profits from any other trade or business;
+
+(d) gains or profits from the practice of any profession or vocation or management charges for the provision of personal services and technical and managerial skills;
+
+(e) gains or profits from any employment or office including pensions or emoluments within the meaning of section 100 and any contribution of the employee paid by the employer on behalf of the employee to an approved fund or scheme referred to in section 27(1)(c) or paid by the employer on behalf of the employee under an approved pension fund plan referred to in sections 28 to 33 and the estimated annual value of any quarters or board or residence or of any other allowance granted in respect of employment or office whether in money or otherwise;
+
+(f) short-term capital gains;
+
+(g) interest, discounts, annuities or other annual or periodical sums;
+
+(h) rents for real property and royalties from the operation of mines, quarries or other natural resources;
+
+(i) rentals and royalties for the use or the right to use—
+
+(i) copyrights, artistic or scientific works, patents, designs, plans, secret processes or formulae, trade marks, motion picture
+
+films, films or tape for radio and television broadcasting, or other like properties or rights; or
+
+(ii) information concerning industrial, commercial or scientific knowledge, experience or skill;
+
+(j) premiums, commissions, fees and licence charges;
+
+(k) dividends or other distributions;
+
+(l) gains or profits or amounts deemed to be income of that person under this Act;
+
+(m) any annual gains or profits not falling under any of the foregoing paragraphs.
+
+(2) In the case of income arising outside Trinidad and Tobago to a person who is not ordinarily resident or not domiciled therein, tax shall be payable on the amount received in Trinidad and Tobago, so however, that where any employment or office is exercised by any such person in Trinidad and Tobago, gains or profits from the employment or office, whether received in Trinidad and Tobago or not, shall be treated as income arising therein.
+
+*First Schedule.*
+
+(3) The Capital Gains (Supplementary Provisions) Rules set out in the First Schedule shall have effect for the computation of short-term capital gains and generally for the purposes of the charge to tax thereon.
+
+(4) Where a person has ceased to hold any employment or office and any pension or annual payment is paid to him, or his widow or child, or to any relative or dependant of his by the person by whom he was employed, or by the successors of that last-mentioned person, then, notwithstanding that the pension or annual payment is paid voluntarily or is capable of being discontinued, any amount paid in respect of that pension or annual payment shall be deemed to be income of the person to whom, and for the year of income in which, it is so paid.
+
+(5) Notwithstanding anything in this Act or any other rule of law to the contrary, where income arises to a person from any
+
+*Ch. 1:52.*
+
+activities on the continental shelf (this expression here having the same meaning as in the Continental Shelf Act) such income shall for all the purposes of this Act be deemed to have accrued in or to have been derived from Trinidad and Tobago.
+
+(6) Notwithstanding subsection (1)(e), where under a contract of employment the employer is liable to pay an amount by way of severance pay upon the termination of the employment of an employee by reason of the redundancy of the position held by the employee or upon the retirement, or other termination of the employment, by reason of ill health—
+
+(a) so much of the amount as does not exceed three hundred thousand dollars shall be exempt from tax; and
+
+(b) the remainder, if any, of the amount—
+
+(i) shall be treated as income for the year in which the employment is terminated and, irrespective of when payment is received, shall not be treated as income of any other year;
+
+(ii) shall not form part of the chargeable income of the employee but shall be separately charged to tax at his average rate of tax for the year of income immediately preceding the year in which the employment is terminated.
+
+(6A) For the purposes of subsection (6), ill health shall not be regarded as the reason for retirement or other termination of the employment of an employee unless the Board is satisfied, on such evidence that it may require, that ill health was the reason for the termination of employment.
+
+(6B) The provisions of subsection (6)(a) and (b) in relation to the taxation of an amount paid by an employer to an employee on the termination of the employment of an employee by reason of redundancy, shall apply to a payment not otherwise chargeable to
+
+tax which is made, whether in pursuance of any legal obligation or not, either directly or indirectly, in consideration or in consequence of, or otherwise in connection with, the termination of the holding of an office or employment or any change in the functions or emoluments of an employee, including any payment in commutation of annual or periodical payments, whether chargeable to tax or not, which would otherwise have been made.
+
+(6C) For the purposes of subsection (6B), any payment made to the spouse or any relative or dependant of a person who holds or has held an office or employment, or made on behalf of or to the order of that person, shall be treated as a payment made to that person, and any valuable consideration other than money shall be treated as a payment of money equal to the value of that consideration at the date when it was given.
+
+(6D) A payment referred to in subsection (6B) does not include a lump sum payment made—
+
+(a) under an approved pension scheme under section 28;
+
+(b) under an approved pension fund plan or an approved deferred annuity plan under section 28;
+
+(c) under a fund or contract approved by the Board under section 134(6A);
+
+(d) in connection with the termination of the holding of an office or employment by the death of the holder or made on account of the injury to or disability of the holder of the office or employment.
+
+(7) For the purposes of subsection (6)—
+
+“severance pay” includes any payment in lieu of notice and any payment made in relation to past service of the employee;
+
+“average rate of tax” means such rate, expressed as a percentage, as results from dividing the tax payable in respect of a year of income by the amount of the chargeable income of that year.
+
+(8) Where the gains or profits from any employment or office which are received by any person during a year of income include an amount which relates to any other year or years of income, the whole of the amount shall, subject to subsections (6) and (10), be treated as income for the year of income during which the amount was received by the person.
+
+(9) (Repealed by Act No. 6 of 1989).
+
+*Ch. 32:01. Ch. 32:02.*
+
+(10) Notwithstanding paragraph (e) of subsection (1), a person who receives a retirement severance benefit shall be exempt from income tax to the extent of not more than three hundred thousand dollars of such benefit where at the date of his retirement—
+
+(a) he is not entitled to a pension other than under the National Insurance Act or the *Old Age Pensions Act;
+
+(b) he is not a member of an approved Pension Fund Plan, or of a Fund or Scheme that is a Provident Fund; and
+
+(c) he produces evidence to the satisfaction of the Board of Inland Revenue—
+
+(i) that he has retired from insurable employment within the meaning of the National Insurance Act;
+
+(ii) that he has reached the age of sixty years, but nothing in this subsection limits the effect of subsection (6).
+
+*Business levy. [30 of 2007 1 of 2016 7 of 2016].*
+
+(11) For the purposes of subsection (10), the Board of Inland Revenue may require from the employee the production of a certificate from the National Insurance Board to the effect that the requirements outlined in subsection (10)(c) have been fulfilled.
+
+†5A. (1) For each year of income, there shall be levied and paid to the Board at the rate of 0.6 per cent a tax to be known as a business levy on the gross sales or receipts, other than emolument income under section 100, of a person.
+
+\* Now renamed the Senior Citizens’ Pension Act (See Act No. 13 of 2010).
+
+† This section has also been amended by the following: 3 of 1994; 14 of 1994; 5 of 1995; 8 of 1996; 9 of 1997; 35 of 1998; 39 of 2000 and 91 of 2000.
+
+(2) Subsection (1) does not apply to—
+
+(a) the gross sales or receipts of a person which give rise to income exempt from income tax under any Act;
+
+(b) the income of a person whose emolument income under section 100 exceeds seventy-five per cent of his total income;
+
+(c) the gross sales or receipts of a person whose gross sales or receipts in the preceding year of income does not exceed the sum of two hundred and fifty thousand dollars, unless there are reasonable grounds to believe that the gross sales or receipts in the particular year of income will exceed that sum; and
+
+(d) the gross sales or receipts of the business of a person for a period of three years following the commencement of the business.
+
+(3) A person is entitled to a tax credit against his business levy liability for a year of income of any payment made in respect of his income tax liability for that year of income up to a maximum of his business levy liability.
+
+(4) (Repealed by Act No. 5 of 1995).
+
+(5) The business levy shall be payable on the gross sales or receipts of each quarter ending on 31st March, 30th June, 30th September and 31st December, in each year of income.
+
+(6) Where the Board is satisfied that a person is unable to determine, by the due date for payment in any quarter, the gross sales or receipts for any day in that quarter, that person may, with the approval of the Board, estimate the gross sales or receipts for that day.
+
+(7) Where a person who estimates his gross sales or receipts for any day in a quarter, determines that his actual sales or receipts for that day are more than the estimated sales or receipts, that person shall pay the business levy due on the difference
+
+between the actual sales or receipts and the estimated sales or receipts, no later than the last day of the quarter following the quarter in which the sales or receipts were estimated.
+
+(8) Where a person to whom subsection (6) applies, pays business levy in any quarter amounting to less than ninety per cent of the business levy liability for that quarter, the difference between ninety per cent of the business levy liability and the amount paid by the end of the quarter in which the levy liability arose, shall be subject to interest from the day following the end of that quarter to the date of payment at the rate of fifteen per cent per annum.
+
+(9) For the avoidance of doubt, it is declared that in ascertaining the chargeable income of a person, no deduction or allowance shall be made of, or on account of, the levy imposed by this section.
+
+(10) The business levy shall be under the care and management of the Board and the provisions referred to in the Table apply in relation to the business levy as they apply in relation to income tax, but subject to any necessary modifications and adaptations.
+
+TABLE INCOME TAX PROVISIONS APPLIED TO THE BUSINESS LEVY Section 2 (Interpretation)
+
+Sections 3 and 4 (Administration)
+
+Sections 59 to 65 (Trustees, Agents, etc.)
+
+Section 66 (Deceased persons)
+
+Sections 76 and 77 (Returns)
+
+Sections 79 to 82 (Payment of tax by instalments)
+
+Section 82A (Relief from payment of tax)
+
+Sections 83 and 84 (Assessments)
+
+Section 85 (Assessment lists, etc.)
+
+Section 86 (Notices of Assessment)
+
+Section 87 (Appeals)
+
+Sections 88 and 89 (Errors in assessments and additional assessments)
+
+Section 90(1) and (3) (Repayment of tax)
+
+TABLE—Continued Section 92 (Refunds)
+
+Section 93 (Relief from double taxation)
+
+Section 94 (Certain income deemed to be income for the purposes of the Income Tax Act)
+
+Section 97 (General powers of the Board)
+
+Section 103 (Interest for non-payment of tax)
+
+Section 103A (Waiver of Liabilities)
+
+Sections 104 to 108 (Collection)
+
+Sections 109 to 112 (Recovery)
+
+Sections 113 and 114 (Notices)
+
+Section 115 (Imprisonment of defaulters)
+
+Sections 116 to 124 (General Provisions)
+
+Section 125 (Regulations)
+
+Sections 130 to 132 (Miscellaneous powers of Board) The Sixth Schedule.
+
+*Basis of assessment. [16 of 1963]. Chargeable income of certain persons. [16 of 1963 5 of 1964 29 of 1966].*
+
+### BASIS OF ASSESSMENT
+
+**6.** Tax shall be charged for each year of income upon the chargeable income of any person for that year.
+
+**7.** (1) The gains or profits of any person for a year of income so far as such gains or profits arise from the carrying on of any trade, business, profession or vocation shall be—
+
+(a) where there is an established accounting terminal date, the gains or profits of the twelve months from the established accounting terminal date occurring in the year immediately preceding the year of income;
+
+(b) in the case of the commencement by any person of any trade, business, profession or vocation, the gains or profits from the date of commencement of such trade, business, profession or vocation occurring in the year immediately preceding the year of income or
+
+occurring in the year of income to such date in the year of income as may be agreed by the Board which agreed date shall thereafter be the established accounting terminal date;
+
+(c) in the event of a departure from the established accounting terminal date, the gains or profits for such twelve-month period as the Board in its discretion may determine in respect of the year of income in which the departure from the established accounting terminal date occurs and in respect of the next succeeding year of income; thereafter the accounting terminal date resulting from the change shall be the established accounting terminal date.
+
+(2) Where any person ceases to carry on his trade, business, profession or vocation, the gains or profits of such person arising from his trade, business, profession or vocation for the year of income in which he ceased to carry on his trade, business, profession or vocation shall be the gains or profits from the established accounting terminal date in the year immediately preceding the year of income to the date upon which he ceased his trade, business, profession or vocation.
+
+*Exemptions.*
+
+(3) In this section “established accounting terminal date” means the accounting date to which the accounts of any trade, business, profession or vocation of any person are ordinarily made up and accepted for the purposes of assessment under this Act or in the case of any new trade, business, profession or vocation, such date as may be agreed by the Board. *8. (1) There shall be exempt from the tax—
+
+(a) the official emoluments received by the President, or a person performing the functions of President temporarily, the pension received by a retired President and by the widow of a President or retired President;
+
+\* This section has been amended by the following: 29 of 1966; 35 of 1971; 27 of 1972; 30 of 1974; 41 of 1975; 66 of 1975; 40 of 1976; 1 of 1979; 19 of 1980; 198/1985; 1 of 1986; 14 of 1987; 11 of 1988; 20 of 1989; 9 of 1990; 6 of 1991; 4 of 1992; 3 of 1994; 22 of 1994; 5 of 1995; 8 of 1996; 9 of 1997; 35 of 1998; 36 of 2000; 39 of 2000; 5 of 2004; 2 of 2006;
+
+*Ch. 17:01.*
+
+(b) the official emoluments received by persons exempt under the Privileges and Immunities (Diplomatic, Consular and International Organisations) Act;
+
+(c) wound and disability pensions granted to members of the armed forces of any Commonwealth country;
+
+(d) gratuities to members of the armed forces of any Commonwealth country in respect of service rendered during the wars which began on 14th August 1914 and 3rd September 1939;
+
+(e) the income arising under a scholarship, exhibition, bursary or any other similar education endowment held by a person receiving full-time instruction at a university, college, school or other educational establishment;
+
+(f) the income arising from investments of any fund or scheme approved by the President under section 27(1)(c);
+
+(fa) (Repealed by Act No. 2 of 2006);
+
+*Ch. 32:01.*
+
+(g) benefits (including lump sum payments) paid out of the Employment Injury Benefit Fund and the Short Term Benefits Funds established under section 43 of the National Insurance Act;
+
+(h) dividends or bonus distributions, or both, paid by a registered co-operative society or dividends paid by the Agricultural Development Bank to a member or a shareholder, as the case may be, who is either resident or ordinarily resident in Trinidad and Tobago;
+
+(i) the income of the Council of Legal Education;
+
+(j) (Repealed by Act No. 11 of 1988);
+
+(k) the income of any resident individual where the total income does not exceed sixty thousand dollars for a year of income;
+
+(l) interest payable on bonds, known as TTDFC Industrial Bonds, that are issued by Trinidad and Tobago Development Finance Company Limited;
+
+(la) interest payable on bonds, known as restoration bonds, that are issued by the Industrial Development Corporation for the purposes of financing a business restoration facility;
+
+(lb) with effect from 1st October 1998, interest payable to resident individuals on bonds issued by the Trinidad and Tobago Mortgage Finance Company Limited for the purpose of providing loans to first-time home owners;
+
+*Ch. 32:01.*
+
+(m) subject to subsection (1A), the amount of any gratuity payable under a Government Pension Act to a person who was a monthly-paid officer or employee;
+
+(n) (Repealed by Act No. 9 of 1997);
+
+(o) pensions payable under the National Insurance Act;
+
+(p) interest whether or not denominated in local currency, paid or credited to a resident individual—
+
+(i) on all classes of savings or other accounts with banks or other financial institutions in Trinidad and Tobago;
+
+(ii) on savings or other accounts with a person carrying on a trade or business in Trinidad and Tobago who, in the ordinary course of operations of such trade or business, receives and retains money in such circumstances that interest becomes payable; or
+
+(iii) on bonds or other similar investment instruments issued in Trinidad and Tobago;
+
+(pa) that portion of a dividend comprising interest which is payable to a resident individual who is a beneficiary under a trust operated by a financial institution carrying on unit trust
+
+*Chap. 75:01 Ch. 79:09.*
+
+business and licensed under the Financial Institutions Act, where the profits of such trust are exempt from corporation tax;
+
+(pb) that portion of the amount or value of a distribution comprising interest which is paid or credited to a resident individual by the Trinidad and Tobago Unit Trust Corporation;
+
+*Sub. Leg.*
+
+(q) (Repealed by Act No. 9 of 1997);
+
+(r) with effect from 10th January 1996, interest on bonds issued in accordance with the National Tax Free Savings Bonds Regulations;
+
+(s) (Repealed by Act No. 9 of 1997);
+
+(t) annuity or other periodic sum payable under an immediate annuity purchased on or after 1st January 2006 by an individual who is a resident of Trinidad and Tobago;
+
+(u) dividends paid by a venture capital company to its shareholders who are ordinarily resident in Trinidad and Tobago;
+
+(ua) dividends paid by the Export Import Bank to its shareholders who are ordinarily resident in Trinidad and Tobago for a period of ten years commencing from the date of the initial investment;
+
+(ub) dividends paid by the Export Import Bank to its shareholders who are not ordinarily resident in Trinidad and Tobago for a period of ten years commencing from the date of the initial investment;
+
+\*(v) the amount or value of the dividends or other distributions paid to a resident individual—
+
+*\\* Act No. 5 paragraph (v). was inserted*
+
+(i) by a trust operated by a financial institution carrying on unit trust business and licensed under the Financial Institutions Act, or by such other trust approved by the President where the profits of such trust are exempt from corporation tax;
+
+of 1995 section 5(1)(c) stated that this paragraph was to replace the existing However, no paragraph (v) existed prior to Act No. 5 of 1995 so that paragraph (v) here for the first time under the said Act.
+
+*Ch. 83:03.*
+
+(ii) under the First and Second Unit Schemes of the Trinidad and Tobago Unit Trust Corporation established by the Unit Trust Corporation of Trinidad and Tobago Act;
+
+(va) the income or dividends distributed to resident unit holders of the CLICO Investment Fund (CIF);
+
+(w) the amount or value of distributions, other than preference dividends, paid by a resident company to a resident individual;
+
+(x) on the death of a person, a lump sum death benefit paid under a pension fund plan or deferred annuity plan approved by the Board in accordance with section 28;
+
+*Ch. 15:01.*
+
+(y) with effect from 1st October 2010, the special duty allowance paid to an office holder in the Police Service, as classified under the Third Schedule to the Police Service Act;
+
+(z) with effect from 1st October 2011, the duty allowance paid to—
+
+(i) an officer in the Prison Service;
+
+(ii) an officer in the Fire Service; and
+
+(iii) an officer, and other rank, a midshipman and a cadet in the Defence Force;
+
+(aa) with effect from 1st October 2012, the duty allowance paid to a member of the Special Reserve Police;
+
+(ab) with effect from 1st October 2010, the duty allowance paid to a member of a Municipal Police Service.
+
+*Ch. 23:03.*
+
+(1A) Where a gratuity, other than a gratuity payable as a result of the exercise of an option to receive a gratuity and a reduced deferred pension as referred to in section 9 of the Voluntary Termination of Employment Act, is payable to a person upon his services terminating under the Voluntary Termination of Employment Act before he has attained the age of fifty years, the exemption provided by subsection (1)(m) does not apply but section 5(6) applies to the amount of the gratuity as if it were an amount that the employer of that person were liable to pay by way of severance pay, as referred to in section 5(6).
+
+*Ch. 75:02.*
+
+(2) Nothing in section 6 of the Corporation Tax Act shall be construed so as to exempt in the hands of the recipients any dividends, interests, bonuses, salaries or wages paid or credited to any person wholly or in part out of the income so exempt.
+
+(3) In subsection (1)—
+
+*Ch. 79:07.*
+
+“Agricultural Development Bank” means the Agricultural Development Bank of Trinidad and Tobago established under the Agricultural Development Bank Act;
+
+“emolument income” means all salary, wages, overtime, bonus, remuneration, perquisites including the value of board and lodging, stipend, commission or other amounts for services, director’s fees, retiring allowances or pension, arising or accruing in, or derived from, or received in Trinidad and Tobago, but does not include any salary or share of profits arising from a trade, business, profession or vocation carried on by a person either by himself or in partnership with any other person;
+
+“Government Pension Act” means an Act under which there is payable any benefit by way of a pension or gratuity in respect of past service, the payment of which is a charge on the Consolidated Fund or other public funds;
+
+“immediate annuity” means a contract between an individual and a person authorised to carry on an annuities business in Trinidad and Tobago under which, in consideration of a lump sum payment made by the individual, the person agrees to pay to the individual an annuity or other periodic sum commencing immediately;
+
+*Ch. 85:50. Ch. 81:03. Ch. 45:55.*
+
+“Industrial Development Corporation” means the Industrial Development Corporation established in accordance with the Industrial Development Corporation Act;
+
+“registered co-operative society” means a society which has been registered under the Co-operative Societies Act;
+
+“spouse” includes a cohabitant as defined in the Cohabitational Relationships Act;
+
+*Savings account free of tax. [5 of 2004].*
+
+**8A.** Where, on or after 1st January 2004, but before the commencement of the Finance Act 2004 a bank, financial institution or other person—
+
+(a) pays or credits a resident individual with the interest referred to in section 8(l)(p), (pa) or (pb); and
+
+*Saving of benefits under repealed section 8(1)(fa). [2 of 2006 17 of 2007].*
+
+(b) deducts a tax at the rate of five per cent thereon, such bank, financial institution or other person shall pay or credit the resident individual with an amount equal to the tax deducted instead of remitting the tax to the Board.
+
+*Government loans. [16 of 1963].*
+
+**8B.** Notwithstanding the repeal of section 8(1)(fa), where, on or before 31st December 2005, a person would have been entitled to an exemption from tax under the repealed section 8(1)(fa) in respect of interest income on loans made to fund projects within the small business sector, the provisions of that repealed section shall continue to have effect with respect to that person as if section 8(1)(fa) had not been repealed.
+
+**9.** The President may by Order provide that the interest payable on any loan charged on the public revenue of Trinidad and Tobago shall be exempt from the tax, either generally or only in respect of interest payable to persons not resident in Trinidad and Tobago; and such interest shall, as from the date and to the extent specified in the Order, be exempt accordingly.
+
+*Computation of income generally.*
+
+COMPUTATION OF INCOME *10. (1) In computing the income of any person for a year of income from any source specified in section 5 for the purpose of ascertaining the chargeable income of a person for that year, there shall be allowed to that person all outgoings and expenses wholly and exclusively incurred during the year of income by that person in the production of the income from that source, so however that—
+
+(a) in the case of gains or profits from employment or office under section 5(1)(e), the outgoings or expenses allowable shall be expenses that were * This section has been amended by the following: 22 of 1951; 29 of 1966; 30 of 1974; 14 of 1976; 1 of 1979; 14 of 1987; 11 of 1988; 6 of 1989; 4 of 1992; 6 of 1993; 3 of 1994; 14 of 1994; 5 of 1995; 8 of 1996; 9 of 1997; 35 of 1998; 39 of 2000; 91 of 2000; 2 of 2006 and 17 of 2007.
+
+wholly, exclusively and necessarily incurred and defrayed in respect of travelling in the performance of the duties of the employment or office, or keeping or maintaining means of transport to enable the performance of those duties;
+
+(b) in the case of outgoings and expenses in respect of management charges paid to or for the benefit of a person not resident in Trinidad and Tobago and to every non-resident company (such person or company not being engaged in a trade or business in Trinidad and Tobago giving rise to such management charges) the expenses allowable shall, subject to subsection (2), be the amount of the management charges or two per cent of the outgoings and expenses (exclusive of such management charges) allowed under this section and section 11(1), other than paragraph (a) or (b) thereof, whichever is the lesser;
+
+(c) in the case of expenses incurred by way of salary or wages paid to one’s spouse as an employee, the expenses shall be allowable only to the extent to which the Board is satisfied that they are reasonable in amount, and any amount not allowed shall be deemed not to be income of the spouse;
+
+(d) in the case of expenses incurred in respect of entertainment or meals provided for the purpose of entertainment, the amount allowed shall be seventy-five per cent of such expenses.
+
+(2) Where the Board is satisfied that any outgoings and expenses in respect of management charges incurred in any year of income by a person is of an extraordinary and non-recurrent nature (not being capital expenditure), the Board may, in its discretion allow so much thereof in excess of two per cent as appears to the Board to be reasonable in the circumstances, so however, that nothing in this subsection shall apply unless the Board is satisfied that the management charges were incurred in respect of services that cannot reasonably be expected to be acquired or performed or both in Trinidad and Tobago.
+
+}
+
+(3)
+
+(4)
+
+(4A)
+
+(5)
+
+(5A) (Repealed by Act No. 2 of 2006).
+
+(5B)
+
+(6)
+
+(7)
+
+(8)
+
+(9) Subject to subsection (10), where in a year of income a person incurs expenditure on behalf of himself, his spouse or his child in respect of tertiary education at an institution approved by the Ministry with responsibility for tertiary education, other than—
+
+(a) at an institution situated in Trinidad and Tobago; or
+
+(b) at a regional public institution supported substantially by public funds, whether or not situated in Trinidad and Tobago, a deduction of the amount actually incurred but not exceeding the sum of sixty thousand dollars, may be claimed by that person in ascertaining his chargeable income for the year during which the person, his spouse or child received tertiary education.
+
+(10) Where, in a year of income, a person and his spouse incur expenditure under subsection (9), a deduction of the amount actually incurred by both spouses in that year but not exceeding the sum of sixty thousand dollars, may be claimed in such proportion as may be determined by both spouses in ascertaining their respective chargeable incomes for that year.
+
+*Promotional expenses. [3 of 1994].*
+
+(11) (Repealed by Act No. 2 of 2006).
+
+**10A.** (1) For the purpose of ascertaining the chargeable income of a person for a year of income from a trade or business including commercial farming carried out on an approved
+
+agricultural holding, there shall be allowed promotional expenses wholly and exclusively incurred in order to create or promote the expansion of foreign markets for the export of—
+
+(a) architectural, engineering, design, quantity surveying or contracting services in connection with the building industry, where such services are performed by a person resident in Trinidad and Tobago for a recipient who is outside Trinidad and Tobago; or
+
+(b) goods and agricultural produce manufactured or produced in Trinidad and Tobago and shipped in commercial quantities, equivalent to one hundred and fifty per cent of the amount actually expended.
+
+(2) A person granted an allowance under this section is not entitled to a deduction under section 10 in respect of the expenses referred to in subsection (1).
+
+(3) A person may only qualify for an allowance under this section in respect of promotional expenses incurred in order to create or promote the expansion of foreign markets for the export of services referred to in subsection (1)(a) or goods and agricultural produce manufactured or produced in Trinidad and Tobago, where the services or goods and agricultural produce have been exported as a result of such expenditure.
+
+(4) A person may not be allowed an allowance under this section in respect of expenses incurred on emolument income within the meaning of section 100, except in respect of expenses incurred under subsection (5)(g).
+
+(5) For the purposes of this section, “promotional expenses” means expenses incurred in respect of goods and agricultural produce manufactured or produced in Trinidad and Tobago or services referred to in subsection (1)(a) in—
+
+(a) advertising in foreign markets;
+
+(b) providing promotional literature for overseas distribution;
+
+(c) participating in trade fairs, trade missions and similar promotional activities;
+
+(d) overseas travel for the purposes of conducting promotional activities;
+
+(e) providing free samples and technical information on products;
+
+(f) inviting buyers to Trinidad and Tobago;
+
+(g) the recruitment of specialist sales personnel operating in foreign markets for a maximum of two years;
+
+(h) conducting foreign market surveys.
+
+*Ch. 75:02. Sixth Schedule.*
+
+(6) The provisions of subsection (1) shall not apply to expenses incurred in petroleum operations, nor in respect of expenses incurred in the export or the expanding of the export of services referred to in subsection (1)(a) or goods and agricultural produce manufactured or produced in Trinidad and Tobago to countries specified in the Sixth Schedule to the Corporation Tax Act.
+
+(7) For the purposes of subsection (6), “petroleum operations” means operations related to the various phases of the petroleum industry and includes exploring for, producing, refining, transporting and marketing petroleum or petroleum products or both and manufacturing and marketing of petroleum-based products and petrochemicals.
+
+*Allowances in certain cases.*
+
+**10B.** (Repealed by Act No. 17 of 2007).
+
+\*11. (1) For the purpose of ascertaining the chargeable income of any person for any year of income from any trade, business, profession or vocation, there shall be allowed—
+
+(a) where that person has expended any sum in replacing any plant or machinery which was used or employed in such trade, business, profession or vocation that has become obsolete, an amount equivalent to the cost of the machinery replaced, after deducting from that cost such sum as represents the total depreciation which has occurred by reason of * This section has been amended by the following: 29 of 1966, 28 of 1967; 35 of 1971; 30 of 1974; 198/1985; 1 of 1986; 6 of 1989; 17 of 1992; 6 of 1993; 3 of 1994; 5 of 1995; 9 of 1997; 35 of 1998; 50 of 2000; 91 of 2000; 5 of 2004; 2 of 2006; 17 of 2007; 30 of 2007 and 13 of 2010.
+
+*Chap. 75:01*
+
+exhaustion or wear and tear since the date of purchase of such plant and machinery and any sum realised by the sale thereof;
+
+(b) a reasonable amount for the exhaustion by wear and tear of any plant and machinery, and any buildings used exclusively for housing such plant and machinery owned by him arising out of the use or employment of such plant or machinery in the trade, business, profession or vocation during that year;
+
+(ba) where that person has incurred expenditure in constructing or setting up a facility which is dedicated for use as a child care or homework facility for dependants of employees who are minors, an amount equivalent to the expenditure actually incurred in that year in constructing or setting up the facility up to a maximum of five hundred thousand dollars in respect of each facility but not exceeding in the aggregate in a year of income the sum of three million dollars;
+
+(bb) where the amount actually expended in paragraph
+
+(ba) exceeds the sum of five hundred thousand dollars, the amount in excess may be claimed as a wear and tear allowance in accordance with paragraph (b) and sections 11A and 11B;
+
+(bc) with effect from 1st January 2011, where that person incurs expenditure on—
+
+(i) the acquisition of plant, machinery and equipment, excluding installation costs, for the purpose of providing a compressed natural gas kit and cylinder installation service; or
+
+(ii) the acquisition and installation, in a motor vehicle, of a compressed natural gas kit and cylinder,
+
+a wear and tear allowance on 130% of that expenditure in accordance with paragraph (b) and sections 11A and 11B;
+
+(bd) with effect from 1st January 2011, where a person incurs expenditure on—
+
+(i) the acquisition of plant, machinery, parts and materials for use in the manufacture of solar water heaters; or
+
+(ii) the acquisition of—
+
+(a) wind turbines and supporting equipment;
+
+(b) solar photovoltaic systems and supporting equipment; or
+
+(c) solar water heaters, a wear and tear allowance on 150% of that expenditure in accordance with paragraph (b) and sections 11A and 11B;
+
+(be) where a certified Energy Service Company has acquired plant and machinery for the purpose of conducting energy audits there shall be allowed an amount of seventy-five per cent of the cost incurred in the year of acquisition, and this amount shall be the only allowance on this expenditure for that year;
+
+(bf) the amount of expenditure not yet allowed under paragraph (be) may be claimed as a wear and tear allowance in accordance with subsection (1)(b) and sections 11A and 11B from the following year;
+
+(c) bad debts incurred in any trade, business, profession or vocation, proved to the satisfaction of the Board to have become bad during the year of income, and doubtful debts to the extent that they are respectively estimated to the satisfaction of the Board to have become bad during the said year, notwithstanding that such bad or doubtful debts were due and payable prior to the commencement of the said year, so however that all sums recovered during the said year on account of amounts previously written off or allowed in respect of bad or doubtful debts shall, for the purpose of this Act, be
+
+treated as receipts of the trade, business, profession or vocation for that year;
+
+(d) rates and taxes on real estate (but not including income tax);
+
+*Ch. 84:01.*
+
+(e) premiums paid on any fire insurance policy entered into with an insurance company, the agents or managing directors of which are liable to pay a contribution under section 168A of the Insurance Act on property used in acquiring the income upon which the tax is payable;
+
+(f) any annual sums paid by such person (being an employer) in respect of an employee by way of the employer’s contribution to any approved fund or scheme referred to in section 27(1)(c);
+
+(g) in the case of a lump sum payment made by such person (being an employer) in respect of an employee’s past services by way of the employer’s contribution to any approved fund or scheme referred to in section 27(1)(c), one-tenth of the said lump sum payment in each of ten successive years, commencing in the year in which payment is made, but only if the said lump sum is irrevocably charged for the benefit of the said approved fund or scheme;
+
+(h) amounts contributed by an employer or employee to a trust under an approved pension fund plan to the extent provided by sections 28 to 33;
+
+*Ch. 32:01.*
+
+(i) contributions paid by an employer under the system of national insurance established under the National Insurance Act; and for the purposes of this paragraph “employer” includes the employer of a domestic worker within the meaning of the National Insurance Act;
+
+(j) amounts contributed by an employer to an }
+
+approved employees’ profit-sharing plan established under section 35;
+
+(k)
+
+(Repealed by Act No. 2 of 2006).
+
+(l)
+
+*Ch. 85:04.*
+
+(2) Where deductions have been allowed under subsection (1)(b) and sections 11A and 11B to any person in ascertaining his chargeable income for a year of income from any trade, business, profession or vocation, and that person ceases to have any interest in plant and machinery and buildings in respect of which the deductions have been allowed, a balancing allowance or a balancing charge shall be made, and for the purposes of ascertaining such allowance or charge, section 4, sections 17 and 17A, as the case may be, of the Income Tax (In Aid of Industry) Act shall apply.
+
+(2A) Notwithstanding subsection (2), where a person ceases to have an interest in respect of assets to which section 11A relates—
+
+(a) a balancing allowance shall not be made until there are no assets left in the pool;
+
+(b) a balancing charge shall not be made until the value in the pool results in a credit balance.
+
+(3) In computing the amount to be allowed under subsection (1)(b) in respect of a private motor car purchased prior to 1st January 2006, the cost of which exceeds one hundred thousand dollars, the value against which the amount is computed shall be deemed to be one hundred thousand dollars.
+
+(4) Subsection (3) shall not apply to a rented car.
+
+(5) In computing the balancing allowance or balancing charge under subsection (2) on the disposal of a private motor car the value or cost of which is deemed to be one hundred thousand dollars under subsection (3), the allowance or charge shall be calculated on the basis that the amount of the sale, insurance, salvage or compensation moneys shall be deemed for those purposes only to be an amount equal to the fraction of that sum of which the numerator is the actual amount of the sale, insurance, salvage or compensation moneys and the denominator is the actual
+
+value or cost of the total capital expenditure incurred, that is to say by applying the following formula:
+
+Proceeds from disposal x $100,000.00 Actual value or cost
+
+*Ch. 48:50. Ch. 76:04. Ch. 25:04.*
+
+(6) For the purposes of subsections (3), (4) and (5),
+
+“private motor car” and “rented car” have the same meanings as in section 2 of the Motor Vehicles and Road Traffic Act.
+
+(7) Where in a year of income a person claims an allowance under subsection (1)(b), the allowance shall be granted where the taxes payable in that year under the Lands and Buildings Taxes Act and the Municipal Corporations Act have been paid for the year of income to which the claim relates.
+
+*Computation of wear and tear allowances. [5 of 1995 35 of 1998 2 of 2006].*
+
+(8) Notwithstanding subsection (7), the allowance under subsection (1)(b) shall be granted in computing the chargeable income of a person for the year of income 1994, where the person satisfies the Board that the taxes payable by him in that year of income under the Lands and Buildings Taxes Act and the Municipal Corporations Act have been paid on or before 30th April 1995.
+
+**11A.** (1) For the purpose of computing the allowance under section 11(1)(b) for a year of income in respect of—
+
+(a) any plant and machinery;
+
+*Seventh Schedule.*
+
+(b) any buildings used exclusively to house such plant and machinery, acquired after 1st January 1995, the plant and machinery or the buildings housing such plant and machinery shall be classified into a class specified in the Seventh Schedule, and the wear and tear percentage relating to that class shall be applied against the expenditure incurred in acquiring the plant and machinery or buildings housing such plant and machinery.
+
+(1A) For the purpose of computing the allowance under section 11(1)(b) for a year of income commencing 1st January 2006, in respect of—
+
+(a) any plant and machinery;
+
+*Seventh Schedule.*
+
+(b) any building used exclusively to house such plant and machinery, acquired prior to 1st January 1995, the plant and machinery or the buildings housing such plant and machinery, shall be classified into a class specified in the Seventh Schedule and the wear and tear percentage relating to that class shall be applied against the expenditure incurred in acquiring the plant and machinery or buildings housing such plant and machinery less any wear and tear allowances previously granted in respect of such plant and machinery or buildings.
+
+*Ch. 85:04.*
+
+(1B) For the purpose of computing the allowance for a year of income commencing 1st January 2006, in respect of the exhaustion of wear and tear of any building which—
+
+(a) qualifies under the Income Tax (In Aid of Industry) Act; and
+
+*Seventh Schedule. Seventh Schedule.*
+
+(b) is acquired after 1st January 2006, such building shall be classified into Class A specified in the Seventh Schedule and the wear and tear percentage relating to that class shall be applied against the expenditure incurred in acquiring such building.
+
+(2) In computing the allowance applicable to several items in a class specified in the Seventh Schedule, the wear and tear percentage relating to that class shall be applied against the aggregate expenditure incurred in acquiring the several plant and machinery or buildings housing such plant and machinery within that class.
+
+*Seventh Schedule.*
+
+(2A) In computing the allowance applicable to the items in a class specified in the Seventh Schedule—
+
+(a) the value of the plant or machinery acquired in a year of income shall be added to the written-down value of the plant or machinery;
+
+(b) the value of the plant or machinery disposed of in a year of income shall be deducted from the written-down value of the plant or machinery so however, that in the case of—
+
+(i) a sale of plant or machinery, the amount deducted shall be the proceeds of sale of the plant or machinery; and
+
+(ii) loss or destruction of plant or machinery, the amount deducted shall be the money received by way of insurance or compensation;
+
+(c) where the plant or machinery is used both for business and private purposes, the pool shall be debited with the proportionate cost of the asset equivalent to its business use and where the asset is disposed of, the pool shall be credited with the same percentage applied to the proceeds of disposal up to the original cost of the asset;
+
+(d) the value of plant or machinery brought into the business from private use shall be the market value of the plant or machinery;
+
+(e) where plant or machinery used for business purposes is appropriated for private use, the pool shall be credited with the market value of the plant or machinery so appropriated;
+
+(f) in the case of any other event resulting in the cessation of interest in any plant or machinery the amount deducted from the pool shall be the market value of such plant or machinery;
+
+(g) where plant or machinery is sold and the buyer and the seller are associates, the disposal value of the said plant or machinery shall be its market value;
+
+(h) (Repealed by Act No. 2 of 2006).
+
+*Ch. 81:01. Seventh Schedule.*
+
+(2B) For the purpose of subsection (2A), “associates” has the same meaning assigned to it in the Companies Act.
+
+(3) Where the plant and machinery or the buildings referred to in section 11(1)(b) cannot be placed into a class under the Seventh Schedule, the Board may apply such wear and tear percentage as may be determined by it by reference to the anticipated normal working life of the plant and machinery or the buildings housing such plant and machinery.
+
+*Allowances on buildings and structures. [5 of 1995 50 of 2000 of 2007 2 of 2013].*
+
+(4) For the purposes of this section, “anticipated normal working life” means, in relating to plant and machinery or buildings housing such plant and machinery, the period which might be expected to elapse, when the plant and machinery or the buildings housing such plant and machinery are first put into use, before they are finally put out of use as being unfit for further use, it being assumed that they will be used in the normal manner and to the normal extent and are going to be so used throughout that period.
+
+**11B.** (1) Subject to subsection (6), for the purpose of ascertaining the chargeable income of a person carrying on a trade, business, profession or vocation for a year of income, there shall be allowed as a wear and tear allowance, an amount equal 17 to ten per cent on a declining balance of the capital expenditure incurred by that person—
+
+(a) in the construction of a building or structure; or
+
+(b) in respect of capital improvements made to a building or structure, completed on or after 1st January 1995 and used in the trade, business, profession or vocation for the production of the income of that person for that year of income.
+
+(2) Where part of the building or structure is to be used in the production of income of a person under subsection (1) and the capital expenditure incurred in the construction of that part of the building which is not used in the production of the income—
+
+(a) does not exceed one-tenth of the total capital expenditure incurred in the construction of or improvements to the entire building or structure, the allowance granted in subsection (1) shall apply to the total capital expenditure incurred in the construction of the building or structure or in the capital improvements made to the building or structure;
+
+(b) exceeds one-tenth but does not exceed one-half of the total capital expenditure incurred in the construction of or improvements to the entire building or structure, the allowance granted in subsection (1) shall apply only to the capital expenditure incurred in the construction of or improvements to that part of the building or structure which is to be used in the production of income;
+
+(c) exceeds one-half of the total capital expenditure incurred in the construction of or improvements to the entire building or structure, no allowance shall be granted under subsection (1).
+
+(3) Where the building or structure is used in the production of income for part of a year of income, the allowance granted under subsection (1) shall be reduced by a proportionate part equivalent to the period during which the building or structure was not used for the production of income.
+
+(4) A person whose income derived from premiums and rents is exempt from tax under section 42(2)(b) or section 45A(2) may, in ascertaining his chargeable income for a year of income, at his option elect to claim—
+
+(a) the exemption under those sections; or
+
+(b) the allowance granted under subsection (1).
+
+(5) A person who makes an election under subsection (4) shall do so in writing to the Board in the year of income in which the construction or the capital improvements were completed and such election shall be irrevocable.
+
+*Ch. 85:01.*
+
+(6) Notwithstanding subsection (1), no allowance shall be made to a person for a year of income where the person is entitled to benefits under—
+
+(a) the Fiscal Incentives Act;
+
+*Ch. 87:22.*
+
+(b) the Tourism Development Act;
+
+(c) (Repealed by Act No. 2 of 2013);
+
+(d) section 13B,
+
+*Ch. 85:04.*
+
+in respect of the building or structure or the capital improvements made to the building or structure.
+
+(7) The provisions of Part I of the Income Tax (In Aid of Industry) Act relating to initial and annual allowances on industrial buildings and structures shall not apply to a person entitled to an allowance under this section.
+
+*Deductions not allowed. [30 of 1954 16 of 1963 29 of 1966 11 of 1988 5 of 1995].*
+
+(8) For the avoidance of doubt, in ascertaining the chargeable income of a person for a year of income, no allowance shall be made under subsection (1) in respect of any plant and machinery or buildings used exclusively for housing such plant and machinery in the production of the income of that person.
+
+**12.** In ascertaining the chargeable income of any person for any year of income, no deduction shall be allowed from the income in respect of—
+
+(a) any disbursements or expenses not being moneys wholly and exclusively laid out or expended for the purpose of producing the income;
+
+(b) domestic or private expenses;
+
+(c) any capital withdrawn or any sum employed or intended to be employed as capital;
+
+(d) any capital employed in improvements;
+
+(e) any sum recoverable under an insurance contract of indemnity;
+
+(f) rent of, or cost of repairs to, any premises or part of premises not paid or incurred for the purpose of the production of the income;
+
+(g) any amounts paid or payable in respect of foreign income tax, except in accordance with the provisions of this Act or of any double
+
+taxation arrangements entered into with the foreign country;
+
+(h) sums paid by any person by way of interest upon any money borrowed by that person for use in the production of the income, unless—
+
+(i) the person receiving such interest is chargeable to tax, or
+
+(ii) such interest is exempt in the hands of the person entitled to receive it by virtue of the provisions of this Act or any other written law;
+
+(i) payments within the meaning of section 51, unless the payer has accounted for and paid over withholding tax to the Board;
+
+(j) rental payments incurred for the purpose of the production of income unless information relating to such payments and to the payee are furnished to the Board in a form approved by the Board;
+
+*\13. (1)*
+
+*Relief to hotel in this Act— proprietors. [30 of 1954 29 of 1966 50 of 2000].*
+
+(k) expenses incurred by a resident individual in acquiring shares in a listed resident company under section 55A where the distributions made in respect of those shares are subject to tax under that section.
+
+Notwithstanding anything to the contrary contained
+
+*Ch. 87:22.*
+
+(a) in any case approved by the President in which the erection of a hotel or of any extension to a hotel is commenced after 1st of July 1954, and in which a licence has been granted to any person in respect of such hotel under the Tourism Development Act, the proprietor of such hotel shall be exempt from income tax in respect of the income arising from such hotel in each of the five years of assessment next
+
+after the year of assessment in which the erection or extension of such hotel, as the case may be, is completed, and thereafter shall be allowed in each of any five of the eight years of assessment next following to set off against the income arising from such hotel one-fifth of the capital expenditure upon such hotel or extension thereof, as the case may be, so however, that no such set-off be allowed in any year of assessment later than the thirteenth year of assessment next after the year of assessment in which the erection or extension of such hotel, as the case may be, is completed;
+
+*Ch. 87:22.*
+
+(b) in any case approved by the President in which a licence has been granted to any person under the Tourism Development Act but which is not within the contemplation of paragraph (a), the proprietor of the hotel to which such licence relates shall be allowed in each of any five of the eight years of assessment next after the year of assessment in which the licence is granted to set off against the income arising from the hotel one-fifth of the capital expenditure upon such hotel, so however that no such set-off be allowed in any year of assessment later than the eighth year after the year of assessment in which the capital expenditure was incurred.
+
+(2) Where the capital expenditure is allowed to be set off against the income arising from a hotel, section 11(1)(b) shall not apply in respect of such expenditure.
+
+(3) For the purposes of this section, the question whether the erection or extension of a hotel was commenced before 1st July 1954 shall be for determination by the President. The President shall also for the purposes of this section determine on what date the erection or extension of a hotel is completed. His determination in each case shall be final.
+
+(4) Relief under subsection (1)(a) shall not be granted to any person unless such person—
+
+(a) applies in writing to the President through the Minister, for approval of the case before commencing the erection or extension, as the case may be, of the hotel; and
+
+(b) notifies the Minister in writing of the date on which he intends to commence the erection or extension, as the case may be, of the hotel.
+
+(5) Where any case is approved by the President for the purposes of subsection (1)(a), the Minister shall—
+
+(a) report to the President the dates on which, in his opinion, the erection or extension, as the case may be, of the hotel was commenced and completed;
+
+(b) issue to the Board a certificate stating the fact of such approval and the dates fixed by the President as the dates on which the erection or extension, as the case may be, of the hotel was commenced and completed.
+
+(6) The Minister, or any person authorised by him in writing to do so, may at any reasonable time enter upon the premises on which a hotel or any extension of a hotel is to be, or is being, erected, for the purpose of obtaining such information as will enable the Minister to report to the President in accordance with the requirements of subsection (5)(a).
+
+(7) The President may by Regulations make any provision which in his opinion is necessary or expedient for the better carrying into effect of the provisions of this section.
+
+(8) In this section—
+
+“capital expenditure” means such sum as the Board is satisfied has been expended on—
+
+(a) advertising, publicising and promoting the business of the hotel prior to the commencement of such business;
+
+(b) the purchase of building materials for the construction of the hotel and on effecting such construction;
+
+(c) the purchase of any existing hotel where—
+
+(i) an existing hotel has been purchased;
+
+*Ch. 87:22.*
+
+(ii) there has been a bona fide change of ownership; and
+
+(iii) the purchaser qualifies for relief under the Tourism Development Act in respect of the buildings comprising the hotel; but no account shall be taken of any sum paid in respect of the purchase price of the land on which such hotel stands or in respect of goodwill;
+
+(d) the purchase of articles of hotel equipment and on the installation of such articles of hotel equipment,
+
+and for the purposes of this definition “articles of hotel equipment” and “construction” have the same meanings as are respectively assigned to the said expressions in the Tourism Development Act;
+
+“hotel” has the same meaning as is assigned to that expression in the Tourism Development Act;
+
+“Minister” means the Minister responsible for Industry.
+
+*Deduction for investment in approved guest house. [2 of 2002].*
+
+**13A.** (Repealed by Act No. 2 of 2006).
+
+**13B.** (1) Subject to this section, where an individual converts a house into an approved guest house there shall be allowed in the year in which the certificate of completion for the approved guest house was issued, a deduction of the approved capital expenditure incurred by the individual in respect of the conversion to such guest house.
+
+(2) The deduction referred to in subsection (1) shall not be allowed unless the individual—
+
+(a) obtains from the Minister, approval for conversion into a guest house prior to the commencement of conversion; and
+
+(b) furnishes the Board with a certificate of completion of the conversion issued by the appropriate State agency.
+
+(3) The individual referred to in subsection (1) shall, prior to the commencement of a conversion, apply to the Minister for approval of the conversion, such application being accompanied by—
+
+(a) the building plans for the conversion;
+
+(b) any other requisite approvals which may be required from other State agencies for the conversion; and
+
+(c) any other information as may be required by the Minister.
+
+(4) The Minister shall, where the individual meets the requirements under subsection (3) and after consultation with the Tourism and Industrial Development Company of Trinidad and Tobago, grant written approval to the individual for the conversion, such approval stating—
+
+(a) the date on which approval for the conversion is granted;
+
+(b) the nature of the conversion in respect of which approval is granted; and
+
+(c) any other information which the Minister considers necessary.
+
+(5) In this section—
+
+“approved capital expenditure” means such sum as the Board is satisfied has been expended on the purchase of building materials used in the conversion of a house into a guest house;
+
+“approved guest house” means a building in respect of which approval is granted by the Minister under subsection (4), comprising not more than six separate bedrooms occupied for the purpose of providing for reward sleeping accommodation together with services and facilities ancillary thereto provided for its guests, not being persons resident in the guest house under a contract of service;
+
+*Exemption of income from approved agricultural holdings. [30 of 1974 46 of 1977 25 of 1980 73/1984 11 of 1988 6 of 1993].*
+
+“Minister” means the member of Cabinet to whom responsibility for tourism is assigned.
+
+**14.** (1) Notwithstanding anything to the contrary contained in section 5, but subject to this section, the gains or profits from commercial farming carried out on an approved agricultural holding shall be exempt from tax for a period of ten years from the date of approval of the agricultural holding under section 14(5).
+
+(1A) Where a person has enjoyed a period of exemption for ten years or more, the exemption from tax of his gains or profits from commercial farming shall cease to have effect from 1st January 1993.
+
+(1B) Where a person has enjoyed a period of exemption for less than ten years, the period of exemption shall continue for a further period not exceeding ten years from the date of approval of the agricultural holding under section 14(5).
+
+(1C) For the purpose of determining whether a person has enjoyed a period of exemption for ten years or more, the date of the approval of the agricultural holding under section 14(5) shall be treated as the commencement date of the period of exemption.
+
+(2) Where, in any year of income during the period of exemption, a loss is incurred, that loss or where the loss occurs in more than one year of income the aggregate of those losses shall be carried forward until the end of the period of exemption and there shall be deducted from that loss or the aggregate of those losses any profits made during the period of exemption and the remainder of that loss or such losses, if any (hereinafter referred to as the “net loss”) shall be dealt with in accordance with subsection (3).
+
+(3) Any net loss incurred by any person during the period of exemption shall be set off against his income of succeeding years of income in the manner provided by section 16.
+
+(4) Where, during the period of exemption, an approved agricultural holding is—
+
+(a) sold or otherwise disposed of; or
+
+(b) increased so that it ceases to qualify as an approved agricultural holding, the net loss, calculated in accordance with subsection (2), incurred by a person before the occurrence of either of these two events shall be set off against his income of succeeding years of income in the manner provided by section 16.
+
+(5) For the purposes of this section, the Minister may by Notice approve any parcel of land as an approved agricultural holding, but no such approval shall be given in respect of a parcel of land which—
+
+(a) exceeds one hundred acres in area;
+
+(b) is used as a pleasure ground, private garden or an allotment garden;
+
+(c) is used or preserved mainly for sporting or other recreational purposes, unless the Minister is satisfied that the use of such land for agricultural purposes does not conflict with its main usage.
+
+(6) In this section—
+
+“approved agricultural holding” means a parcel of land, held by way of freehold, leasehold or other form of occupancy including mere user, which is used or is capable of being used for the purpose of farming that is approved by the Minister under subsection (5);
+
+“Minister” means the Minister responsible for agriculture.
+
+*Allowances of trade losses. [11 of 1956 16 of 1963 30 of 1974 11 of 1988 2 of 2002 17 of 2007].*
+
+**15.** (Repealed by Act No. 6 of 1993).
+
+**16.** (1) Subject to subsection (2), where the amount of a loss incurred in the year of income in any trade, business, profession or vocation carried on by any person either solely or in partnership is such that it cannot be wholly set off against his income from other sources for the same year, the amount of such loss shall, to the extent to which it is not allowed against his income from other sources for the same year, be carried forward, and shall, subject as is hereinafter provided, be set off against what would otherwise have been his chargeable income for succeeding years.
+
+(2) (a) The amount of any such loss allowed to be set off in computing the chargeable income of any year shall not be set off in computing the chargeable income of any other year.
+
+(b) (Deleted by Act No. 11 of 1988).
+
+(c) The amount of any such loss shall be set off as far as possible against what would otherwise have been his chargeable income for the first succeeding year, and so far as it cannot be so set off, then against the said income for the next succeeding year and so on.
+
+(d) No loss incurred in connection with any hotel in any year in respect of which any allowance is granted under section 13 shall be set off against the profits arising from any other trade, business, profession or vocation carried on by the person to whom the allowance is granted.
+
+(e) No loss incurred in connection with a guest house in any year in respect of which an allowance is granted under section 13A*, shall be set off against the profits arising from any other trade, business, profession or vocation carried on by the person to whom the allowance is granted.
+
+(3) The amount of any loss incurred by a person in any year of income—
+
+(a) from sources specified in section 5(1)(a) to (c) and (f) to (m), shall not be set off in that year or any succeeding year against gains or profits from the sources specified in section 5(1)(d) or (e); and
+
+*Relief allowable to residents. [16 of 1963 of 1975 46 of 1977 6 of 1989].*
+
+(b) from sources specified in section 5(1)(d), shall not be set off in that year or any succeeding year against gains or profits from sources specified in section 5(1)(e).
+
+**17.** In ascertaining the chargeable income for any year of an individual who is resident in Trinidad and Tobago, there shall, upon due claim and subject to such evidence as the Board may require, 66 be allowed any deduction to which he is entitled under this Act. * Section 13A referred to in this section was repealed by Act No. 2 of 2006.
+
+*Personal allowance. [1 of 2016].*
+
+**18.** In ascertaining chargeable income for any year—
+
+(a) an individual to whom section 17 applies; and
+
+*Allowances for purchase of house. [2 of 2002 2 of 2006 13 of 2010 2 of 2015].*
+
+(b) an individual who is not resident in Trinidad and Tobago and in receipt of pension income accruing or derived from Trinidad and Tobago, is entitled to a personal allowance of seventy-two thousand dollars.
+
+**18A.** (1) Subject to subsections (2), (3) and (4), where in a year of income commencing 1st January 2011, an individual who is a resident acquires by way of purchase or construction, a house to be used as his residence and was not the owner of a house at any time prior to 1st January 2011, that person shall be entitled to an allowance of twenty-five thousand dollars per year in respect of such acquisition.
+
+(2) The allowance referred to in subsection (1) may be claimed by such individual referred to in subsection (1), for each of the first five years commencing from the year in which the house is acquired.
+
+(3) Where in a year of income an individual claims the allowance referred to in subsection (1), the allowance shall not be granted unless the individual—
+
+(a) furnishes the Board with proof of ownership of the house;
+
+(b) satisfies the Board that the house which is to be used as his residence is a first-time acquisition; and
+
+*Ch. 76:04. Ch. 25:04.*
+
+(c) satisfies the Board that the taxes payable by him in that year of income under the *Lands and Buildings Taxes Act and the Municipal Corporations Act, have been paid in respect of the year to which the claim relates.
+
+\* This Act was repealed by Act No. 18 of 2009.
+
+(4) Where in a year of income, an individual acquires a house by way of purchase or construction together with one or more other individuals to be used as their residence—
+
+(a) each individual shall be entitled to that proportion of the allowance as may have been determined among themselves;
+
+(b) the aggregate allowance shall not exceed twenty-five thousand dollars in any year.
+
+(5) For the purposes of this section, “first-time acquisition” means—
+
+(a) the purchase for the first time of a completed house or any share therein on or after 1st January 2011; or
+
+(b) the construction for the first time of a house completed on or after 1st January 2011.
+
+(6) (Repealed by Act No. 13 of 2010).
+
+**18B.** (Repealed by Act No. 2 of 2006).
+
+*Maintenance and alimony. [66 of 1975 5 2 of of 2006].*
+
+**19.** (Repealed by Act No. 6 of 1989).
+
+**20.** (1) Subject to subsection (2), an individual to whom section 17 applies who, in the year of income has paid—
+
+(a) a maintenance or separation allowance in 1995 accordance with the terms of a registered deed of separation or an order of any Court of competent jurisdiction to his or her spouse from whom he or she is separated; or
+
+(b) alimony to a former spouse from whom he or she is divorced under a divorce recognised under the laws of Trinidad and Tobago, shall be entitled to a deduction equal to the amount of such allowance or alimony.
+
+(2) The deduction allowable under this section shall not apply unless the spouse or former spouse, as the case may be, receiving such maintenance or separation allowance or alimony is chargeable to tax thereon under this Act.
+
+(3) (Repealed by Act No. 2 of 2006).
+
+*Deduction in respect of Life Insurance and contribution to Widows’ and Orphans’ Fund. Ch. 23:54.*
+
+}
+
+**21.** (Repealed by Act No. 9 of 1997).
+
+22.
+
+to (Repealed by Act No. 6 of 1989).
+
+**26.** }
+
+\*27. (1) An individual to whom section 17 applies who— (a)
+
+(Repealed by Act No. 6 of 1989);
+
+(b)
+
+*Ch. 32:01. Ch. 2:03.*
+
+(c) has made a contribution under the Widows’ and Orphans’ Pensions Act or under any similar written law in the United Kingdom or in any Commonwealth country, or to any approved fund or scheme;
+
+(d) being an insured person within the meaning of the National Insurance Act, has paid a contribution under the system of national insurance established by that Act, or
+
+(e) has made a contribution under the Retiring Allowances (Legislative Service) Act, shall be allowed, subject to section 28(15), a deduction of the contribution in accordance with sections 28 to 32.
+
+(1A) Subsection (1)(e) shall be deemed to come into operation on 1st January 1996.
+
+(2) Nothing in subsection (1)(d) shall apply to so much of the contribution of an employed person who is registered or eligible to be registered under the system of national insurance established by the National Insurance Act as is paid out of contributions of a contributor under the Widows’ and Orphans’ Pensions Act in accordance with section 18(3) thereof.
+
+\* This section has been amended by the following: 20 of 1954; 26 of 1955; 16 of 1963; 5 of 1964; 29 of 1966; 35 of 1971; 12 of 1972; 66 of 1975; 14 of 1976; 21/1978; 7 of 1980; 6 of 1989; 9 of 1997; 35 of 1998 and 2 of 2002.
+
+}
+
+(3)
+
+(4) (Repealed by Act No. 6 of 1989).
+
+(5)
+
+(6) For the purposes of this section, a contribution of an employee paid by an employer on behalf of the employee to an approved fund or scheme referred to in subsection (1)(c) shall be deemed to be a contribution to such fund or scheme by the employee.
+
+(7) In this section—
+
+*16 of 1963.*
+
+“approved” means approved by the Governor-General before the passing of the Income Tax (Amendment) Act 1963;
+
+“any Commonwealth country” includes Pakistan and South West Africa.
+
+*Covenanted donations. [13 of 2010].*
+
+(8) (Repealed by Act No. 6 of 1989).
+
+**27A.** (1) Where, in a year of income commencing 1st January 2011, an individual to whom section 17 applies makes a covenanted donation to charity, the individual shall be entitled to claim as a deduction, in ascertaining his chargeable income for that year, an allowance equal to the amount of the covenanted donation paid during that year, not exceeding fifteen per cent of the total annual income of that individual.
+
+*Ch. 76.01.*
+
+(2) An individual shall not be entitled to the allowance under this section where the deed or other agreement under which the covenanted donation to charity is made, has not been duly stamped in accordance with the Stamp Duty Act by the 31st December of the year in which the deed or agreement was executed.
+
+*Ch. 75.02.*
+
+(3) For the purposes of this section, “covenanted donation to charity” means a payment under a deed of covenant or other agreement, made by an individual in favour of—
+
+(a) a sporting body of persons as defined by section 6(2) of the Corporation Tax Act and approved by the President in writing;
+
+*Ch. 29.01. Interpretation. to 32— [16 of 1963 5 of 1964 29 of 1966 8 of 1972 22 of 1993 9 of 1997 35 of 1998 2 of 2002 5 of 2004 2 of 2006 17 of 2007 30 of 2007 1 of 2009 2 of 2012 2 of 2015].*
+
+(b) an ecclesiastical, charitable or educational institution of a public character, approved by the President in writing; or
+
+(c) the Children’s Life Fund established under the Children’s Life Fund Act.
+
+\*28. (1) In this section and in section 11(1)(h) and sections 29
+
+(a) “actuarial reserve” means—
+
+(i) in the case of an approved pension fund plan, the cash equivalent of the benefits that would be payable to an employee if he left the service of the employer on the date at which the reserve is determined, including the amount of any tax payable in respect of the said benefits;
+
+(ii) in the case of an approved deferred annuity plan, the surrender value which would be payable on the date at which the reserve is determined if the contract were capable of being surrendered, including the amount of any tax payable in respect of the said surrender value;
+
+*Ch. 84.01.*
+
+(aa) “actuary” means a Fellow by examination of the Institute of Actuaries in England, of the Faculty of Actuaries in Scotland or the Society of Actuaries in the United States of America or an actuary possessing such other qualifications as may from time to time be approved by the officer designated to be the Supervisor of Insurance under the Insurance Act by the Minister to whom responsibility for finance is assigned;
+
+(ab) “annuitant” means an individual referred to in paragraph (b)(i) or (b)(ii) to whom, under an approved deferred annuity plan, any annuity for life is agreed to be paid or is to be provided; *Amendments made to subsections (14A) and (14B) by Act No. 2 of 2012 took effect from 1st January 2007.
+
+(b) “deferred annuity plan” means—
+
+(i) a contract between an individual and a person authorised to carry on an annuities business in Trinidad and Tobago, under which, in consideration of payment by the individual of any periodic or other amount as consideration under the contract, that person agrees to pay to the individual, commencing at maturity, an annuity for life, in this section and in sections 29 to 32 referred to as an approved deferred annuity plan; or
+
+(ii) an arrangement under which payment is made by an individual—
+
+(A) in trust to a company of any periodic or other amount as a contribution under the trust; or
+
+(B) in trust to a company, approved by the President for the purposes of this section that is authorised by law to issue investment contracts providing for the payment to or to the credit of the holder thereof of a fixed or determinable amount at maturity, of any periodic or other amount as a contribution under any such contract between the individual and that investment company, to be used, invested or otherwise applied by that company or that investment company, as the case may be, for the purpose of providing to the individual, commencing at maturity, an annuity for life;
+
+(c) “approved deferred annuity plan” means a deferred annuity plan approved by the Board for the purposes of this Act as complying with the requirements of this section and the Regulations;
+
+(d) “approved pension fund plan” means a pension fund plan approved by the Board for the purposes of this Act as complying with the requirements of this section and the Regulations;
+
+(e) “benefit” means any amount paid or payable under an approved pension fund plan or an approved deferred annuity plan otherwise than as a contribution or premium, as the case may be;
+
+(f) “contribution” means other than in paragraph (b)(ii)(A) and in paragraph (k)(ii) any periodic or other amount paid or payable under a pension fund plan as a contribution referred to in paragraph (j) for the purpose stated in that paragraph;
+
+(g) “employee” means any person employed in the service of another at a weekly, monthly or other periodic remuneration other than the directors not actively engaged in the day-to-day management of a company, whether the company is incorporated or not;
+
+(ga) (Repealed by Act No. 2 of 2006);
+
+(h) “maturity” means the date fixed under an approved deferred annuity plan for the commencement of any annuity the payment of which is provided for by the plan;
+
+(i) “non-contributory plan” means a pension fund plan under the terms of which no payment of any amount is made by employees as a contribution to the plan;
+
+(j) “pension fund plan” means an arrangement under which payment is made by—
+
+(i) an employee in trust to trustees or a corporation sole of any periodic or other amount as a contribution under the trust; and
+
+(ii) by an employer in respect of that employee in trust to the said trustees or corporation sole of any periodic or other amount as a contribution under the trust, to be used, invested or otherwise applied by the said trustee or trust corporation, as the case may be, in accordance with the Regulations for the purpose of providing to the employee commencing on retirement a pension for life;
+
+(k) “premium” means any periodic or other amount paid or payable under an approved deferred annuity plan—
+
+(i) as consideration for any agreement referred to in paragraph (b)(i) to pay an annuity; or
+
+(ii) as a contribution referred to in paragraph (b)(ii) for the purpose stated in that subparagraph;
+
+(l) “refund of contributions” means any amount paid or payable under an approved pension fund plan on the withdrawal from a plan before five years contribution is made of an employee, or on approval of an application by the Board therefore for any other reason, as or on account of—
+
+(i) a return of the employee’s contributions;
+
+(ii) reasonable interest on the employee’s contributions;
+
+(m) “refund of premiums” means any amount paid or payable under an approved deferred annuity plan on or after the death of the annuitant thereunder in the event of his death before maturity, as or on account of—
+
+(i) a return of premiums;
+
+(ii) reasonable interest of premiums; or
+
+(iii) a share or interest in or a bonus out of profits or gains;
+
+(n) “Regulations” means Regulations made under section 32;
+
+*Ch. 8. No. 3. (1950 Ed). 16 of 1963. Act 1963—*
+
+(o) “trustee” means a person in whom a trust in respect of an approved pension fund plan is vested in accordance with section 30 and includes a member of a Management Committee where the trust is vested in a trust corporation; }
+
+(p) “trust corporation” has the meaning assigned to it by the Trustee Ordinance;* (q)
+
+(Repealed by Act No. 2 of 2006).
+
+(r)
+
+(2) After the passing of the Income Tax (Amendment)
+
+(a) the President shall not approve any fund or scheme under section 27;
+
+*Insurance Ch. 84.01. subsection scheme by the Ch. 32.01.*
+
+(b) no deductions under section 11(1)(f) and (g) or under section 27(1)(c) on account of a contribution to an approved fund or scheme that is a Provident Fund, shall be allowed with respect to any new contributor under such approved fund or scheme. (3) Where an approved fund or scheme (within the meaning of section 27) is registered under Part VI of the Act the fund or scheme shall unless converted under
+
+(4) continue to be treated as an approved fund or under section 27 for the purposes of this Act, notwithstanding any amendment to its Rules directed to be made Supervisor of Insurance—
+
+(a) for the purpose of the qualification of the fund or scheme for registration; or
+
+*\\* This Ordinance date of the*
+
+(b) in order to comply with the requirements of any Regulations made under the National Insurance Act for the purpose of the harmonisation of the fund or scheme with the system of national insurance established by that Act.
+
+has been repealed by the Trustee Act, 1981 (Act No. 21 of 1981) but up to the revision of this Chapter, Act No. 21 of 1981 had not yet been brought into operation.
+
+(4) An approved fund or scheme within the meaning of section 27 may at any time be converted into an approved pension fund plan if it complies with the provisions of this section and the regulations and the Board approves the plan save that where such approved fund or scheme is so converted the regulations shall not apply to pension accrued at the date of approval of the plan.
+
+(5) The Board shall not approve for the purposes of this Act any pension fund plan or deferred annuity plan unless, in its opinion, it complies with the following conditions:
+
+(a) the pension fund plan or deferred annuity plan does not, subject to subsections (6) and (7)—
+
+(i) provide for the payment of any benefit before retirement or maturity except by way of a—
+
+}
+
+(A) refund of contributions;
+
+(B) refund of premiums;
+
+(C)
+
+(Repealed by Act No. 2 of 2006); (D)
+
+(ii) provide for the payment of any benefit after retirement or maturity except by way of gratuity and pension, or—
+
+(A) an annuity to the annuitant for his life; or
+
+(B) an annuity to the annuitant for the lives, jointly, of the annuitant and spouse and to the survivor of them for his or her life, commencing at maturity and with or without a guaranteed term, not exceeding fifteen years, as the case may be;
+
+(b) the pension fund plan or deferred annuity plan does not—
+
+(i) subject to subsection (6), provide for the payment of any amount by way of pension or of an annuity except equal annual or
+
+periodic amounts throughout the lifetime of the employee after retirement or the annuitant, as the case may be, or in the case of a deferred annuity plan equal annual or other periodic amounts (not exceeding the corresponding annual or other periodic amounts aforementioned) throughout the period, if any, after the death of the annuitant, for which payment of the annuity is provided for by the deferred annuity plan;
+
+(ii) provide for the payment of any contribution after retirement or premium after maturity, as the case may be; or
+
+(iii) provide for retirement or maturity before such time as the employee or annuitant attains fifty years of age;
+
+(c) the pension fund plan or deferred annuity plan includes a provision stipulating that no pension or annuity payable thereunder is capable either in whole or in part of surrender, commutation or assignment;
+
+(d) the pension fund plan or deferred annuity plan in all other respects complies with this section and sections 29 to 32 and the Regulations;
+
+*any pension*
+
+(e) (Repealed by Act No. 2 of 2006).
+
+(6) The Board may approve for the purposes of this Act fund plan notwithstanding that the pension fund plan—
+
+(a) is a non-contributory plan; and
+
+*any*
+
+(b) contains such other terms and provisions not inconsistent with this section as are authorised or permitted by the Regulations.
+
+(7) The Board may approve for the purposes of this Act deferred annuity plan notwithstanding that the plan—
+
+(a) provides for the payment of a benefit after maturity by way of dividend;
+
+(b) provides for the commutation of any annuity payable thereunder if the amount so payable expressed in terms of a monthly rate is less than five hundred dollars;
+
+(c) in the case of an annuity for a guaranteed term, provides for the annuity to be assignable by will, or, in the event of the death of any person to whom any such annuity is payable, to be assignable by the heir, executors, administrators or other legal representatives of such person in the distribution of his estate, so as to give effect to any testamentary disposition, or to the rights of any person on an intestacy, or to its appropriation to a legacy or a share or interest in the estate;
+
+(d) is adjoined to a contract or other arrangement that is not a deferred annuity plan; or
+
+(e) contains such other terms and provisions, not inconsistent with this section, as are authorised or permitted by the Regulations.
+
+(8) No tax is payable under this Act by a trust on the chargeable income of the trust for a period during which the trust was governed by an approved pension fund plan. }
+
+(9) All amounts received by a person in a year of income as a benefit under an approved pension fund plan or an approved deferred annuity plan shall be deemed to be the income of that person, except amounts received by way of a lump sum equivalent to the capitalised value of twenty-five per cent of the annual pension or annuity at the date of retirement or maturity. (9A)
+
+(9B) (Repealed by Act No. 2 of 2006).
+
+(9C)
+
+(10) Where an amount is payable by a trustee or trust corporation under an approved pension fund plan or by a company under an approved deferred annuity plan for a year of
+
+income by way of a refund of contributions or refund of premiums, as the case may be, there shall be deducted or withheld a tax equal to twenty-five per cent of the amount payable, and—
+
+(a) that tax shall be paid to the Board by the fifteenth day of the month following that in which that tax was deducted or withheld and the remainder when received by the employee or annuitant, shall be deemed not to be the income of that person for the purposes of this Act;
+
+(b) there shall be payable a penalty of twenty-five per cent of the tax owed for failure to pay to the Board by the fifteenth day of the month following that in which the tax was deducted or withheld; and
+
+(c) there shall be payable from the due date, interest at the rate of twenty per cent a year on the amount of tax remaining unpaid.
+
+(11) Where, at any time after a pension fund plan or deferred annuity plan has been approved by the Board for the purposes of this Act, the plan is revised or amended or a new pension fund plan or a new deferred annuity plan is substituted therefor, and the plan as revised or amended or the new pension fund plan or the new deferred annuity plan substituted therefor, as the case may be, (hereinafter in either case in this subsection referred to as the “amended plan”) does not comply with the requirements of this section for its approval by the Board for the purposes of this Act, the following rules apply:
+
+(a) the amended plan shall be deemed, for the purposes of this Act, not to be an approved pension fund plan or deferred annuity plan, as the case may be;
+
+(b) there shall be included in computing the income of a person for a year of income all amounts received by him in the year that, by virtue of subsection (9), would have been so included—
+
+(i) if the amended plan had been an approved pension fund plan or an approved deferred
+
+annuity plan, as the case may be, at the time he received those amounts; and
+
+(ii) if those amounts had been received by him otherwise than by way of a refund of contributions or a refund of premiums, as the case may be;
+
+(c) there shall be deducted or withheld from any amount paid to a person, in a year of income as a benefit under the amended plan, by the person paying that amount, an amount equal to twenty-five per cent thereof, and—
+
+(i) any amount so withheld or deducted shall be remitted to the Board on the fifteenth day of the month following that in which the tax was withheld or deducted, on account of the payee’s tax for the year under this Act;
+
+(ii) there shall be payable a penalty of twenty-five per cent of the tax owed for failure to remit to the Board by the fifteenth day of the month following that in which the tax was deducted; and
+
+(iii) there shall be payable interest at a rate of twenty per cent a year on that tax by the fifteenth day of the month following that in which the tax was deducted;
+
+(d) where an amount is deducted or withheld under this subsection from any amount paid to a person as a benefit under an amended plan, it shall be deemed, for all purposes of this Act, to have been received at that time by the person to whom the benefit was paid.
+
+(12) For the purposes of subsection (11)—
+
+(a) a reference to an amount paid as a benefit under an amended plan shall be deemed to include any
+
+amount paid under that amended plan, otherwise than as a contribution or premium, as the case may be, or an amount that would, by virtue of paragraph (f) or (k) of subsection (1), as the case may be, be regarded as contribution or premium if that amended plan were a pension fund plan or deferred annuity plan; and
+
+(b) an arrangement under which a right or obligation under an approved pension fund plan or an approved deferred annuity plan is released or extinguished either wholly or in part and either in exchange or substitution for any other right or obligation, or otherwise (other than an arrangement the sole object and legal effect of which is to revise or amend the plan) or under which payment of any amount by way of loan or otherwise is made on the security of a right under an approved pension fund plan, or an approved deferred annuity plan shall be deemed to be a new plan substituted for that approved pension fund plan or approved deferred annuity plan, as the case may be.
+
+(13) Where any amount has been paid in a year of income as a contribution or premium under a pension fund plan or a deferred annuity plan that was, at the end of that year of income, an approved pension fund plan or an approved deferred annuity plan, the amount so paid shall be deemed, for the purposes of this Act, to have been paid in that year as a contribution or premium under an approved pension fund plan or an approved deferred annuity plan, as the case may be.
+
+(14) In ascertaining the chargeable income of any person for any year of income there shall be allowed a deduction of the premiums paid by him as an annuitant under an approved deferred annuity plan to the extent provided by this section and by sections 29 to 33.
+
+(14A) A trustee, trust corporation or insurer which manages a pension fund plan or deferred annuity plan approved
+
+under this section, shall, at the request of an employee or annuitant, transfer the value of the benefits accrued to the employee or annuitant under such plans to another approved pension fund plan or deferred annuity plan.
+
+(14B) For the purpose of subsection (14A), the value of the benefits—
+
+(a) accrued to an employee who is a member of a pension fund plan approved under this section, shall not be less than the contributions of the employee, such contributions being deemed to include the payment of interest or a share of return on investments made in accordance with the pension fund plan;
+
+(b) accrued to an annuitant under a deferred annuity plan approved under this section, shall not be less than the premiums of such annuitant, such premiums being deemed to include the payment of interest or a share of return on investment in accordance with the deferred annuity plan;
+
+(c) accrued to an employee under a pension fund plan approved under this section may also include the contributions of the employer, such contributions being deemed to include the payment of interest or share of return on investment in accordance with the pension fund plan;
+
+(d) transferred in accordance with subsection (14A) shall be deemed not to have been a payment of a benefit before retirement or maturity and shall not be liable to tax.
+
+(15) Where a person claims a deduction under section 27(1)(c), (d) or (e), section 31(1), and under this section, the deduction shall be limited to an aggregate amount of fifty thousand dollars.
+
+*Employer’s special payments to funds. [16 of 1963 29 of 1966].*
+
+**29.** (1) Where an employer has made a special payment or payments on account of an approved pension fund plan in respect of the past services of employees—
+
+(a) pursuant to a recommendation of a qualified actuary in whose opinion the resources of the plan require to be augmented by the amount of one or more special payments to ensure that all the obligations of the plan to employees may be discharged in full; or
+
+(b) to enable employees with service prior to the constitution of the approved pension fund plan to receive benefits that relate to such service, and has made the payment so that it is irrevocably vested in or for the plan and the payment has been approved by the Board then subject to subsection (2) the whole amount of the payment is deductible in computing the chargeable income of the employer for the year of income.
+
+(2) Where the payment under subsection (1) is equal to or greater than the ordinary annual contribution of the employer to the approved pension fund plan there may be deducted in computing the chargeable income of the employer for the year of income and for the next nine years one-tenth of the whole amount paid under subsection (1).
+
+(3) In the case where a special contribution is made by an employee for the purposes of subsection (1)(b) the whole of the contribution may be deducted in computing the chargeable income of the employee for the year of income.
+
+*Constitution of pension fund plan. [16 of 1963].*
+
+**29A.** (Repealed by Act No. 2 of 2006).
+
+**30.** (1) Every approved pension fund plan under this Act shall be constituted by trust irrevocably vested—
+
+(a) in not less than three trustees where the trustees are individuals; or
+
+(b) in a trust corporation.
+
+(2) Subject to subsection (3), where the trustees are individuals at least one trustee shall be a representative of the employees selected by the employees and where the trustee is a
+
+trust corporation there shall be established a Management Committee of not less than three members at least one of whom is a representative of the employees selected by the employees.
+
+*Rules for deductions in respect of insurance, etc.*
+
+(3) No employer shall be capable of being a trustee in respect of any plan.
+
+\*31. (1) An individual to whom section 17 applies who—
+
+(a) (Deleted by Act No. 6 of 1989);
+
+*Ch. 32:01.*
+
+(b) has made a contribution under such written laws or to such approved fund or scheme as is mentioned in section 27(1)(c) or to an approved pension fund plan or has paid premiums under an approved deferred annuity plan, shall be allowed a deduction of the contributions made or premiums paid, or both;
+
+(c) being an insured person within the meaning of the National Insurance Act, has paid a contribution as is mentioned in section 27(1)(d), shall be allowed a deduction of seventy per cent of the annual amount of the contribution so paid.
+
+*Regulations. [16 of 1963].*
+
+(2) In this section “premiums” includes premiums paid }
+
+for a waiver of premium benefit.
+
+(3) (Repealed by Act No. 6 of 1989).
+
+(4)
+
+(Repealed by Act No. 9 of 1990).
+
+(5)
+
+**32.** (1) The President may make Regulations generally for the purpose of carrying out the provisions of sections 28 to 31 and such Regulations may provide for the granting of pensions and gratuities to employees under an approved pension fund plan. * This section has been amended by the following: 16 of 1963; 5 of 1964; 29 of 1966; 35 of 1971; 66 of 1975; 14 of 1976; 195/1976; 9/1977; 21/1978; 6 of 1989; 9 of 1990; 6 of 1993; 9 of 1997 and 35 of 1998.
+
+(2) The Regulations shall be laid on the Table of the Senate and the House of Representatives within thirty days of the making thereof.
+
+(3) Where the President is satisfied that it is equitable that any regulation should have retrospective effect in order to confer a benefit upon or remove a disability attaching to any employee, that regulation may be given effect for that purpose.
+
+*Conversion of certain policies into local currency. [29 of 1966 6 of 1989 39 of 2000].*
+
+(4) A regulation having retrospective effect shall be subject to affirmative resolution of Parliament.
+
+**33.** (1) Notwithstanding the provisions of sections 27 to 32, but subject to this section, no deduction shall, for the year of income 1966, and subsequent years of income, be allowed—
+
+(a) (Deleted by Act No. 6 of 1989);
+
+(b) in respect of any contribution made to any approved fund, plan or scheme, unless the benefits payable under such fund, plan or scheme are payable only in the currency of the East Caribbean Currency Authority or in the currency of Trinidad and Tobago or if payable in the currency of some other country, are converted within a reasonable period of time to be made payable in the currency of Trinidad and Tobago, such period to be determined by the Minister.
+
+(2) Nothing in this section shall apply—
+
+(a) (Deleted by Act No. 6 of 1989);
+
+(b) to any such contribution as is mentioned under subsection (1)(b) if the person who makes such contribution entered outside Trinidad and Tobago into the agreement to make such contribution and if at the time of entering into such agreement the beneficiary was not resident and not domiciled in Trinidad and Tobago and if the benefits payable under the fund, plan or scheme to which such contribution relates are not payable in Trinidad and Tobago;
+
+*Ch. 84:01.*
+
+(c) to any such contribution as is mentioned under subsection (1)(b), where any sum is payable by an insurer under section 195 of the Insurance Act in the currency in which the premiums had been paid.
+
+**34.** (Repealed by Act No. 17 of 2007).
+
+**34A.** (Repealed by Act No. 5 of 2004).
+
+*\35. (1)*
+
+*Company may*
+
+*employees’*
+
+**34B.** (Repealed by Act No. 5 of 1995).
+
+*establish employees’ profit-*
+
+*made*
+
+*sharing plan. [30 of 1974 35 of 1998 2 of 2006*
+
+*approved*
+
+*13 of 2010].*
+
+Subject to this section, a company may establish an profit-sharing plan to which contributions may be annually by that company.
+
+*provides—*
+
+(2) An employees’ profit-sharing plan shall not be by the Board unless it is satisfied that the plan
+
+(a) for the annual distribution of profits by way of bonus (hereinafter referred to as “the annual bonus distribution”) to all permanent employees;
+
+(b) that not less than twenty-five per cent of the annual bonus distribution shall be utilised to purchase shares in the company;
+
+(c) that the annual bonus distribution to employees does not discriminate against any employees or class of employees; but nothing in this paragraph shall, however, be construed as precluding the allocation of bonus distributions of different amounts to any employee by reason of—
+
+(i) different salary or wage levels; or
+
+(ii) length of service; and
+
+(d) for its constitution by a trust under which the property of the plan is irrevocably vested in—
+
+(i) not less than three persons where the trustees are individuals; or
+
+(ii) a trust corporation.
+
+(3) A company shall transfer not less than twenty-five per cent of the annual bonus distribution to the trustee of an approved employees’ profit-sharing plan to be applied towards the purchase of shares in the company and the remainder, if any, may be applied by the company towards cash payments to the employees.
+
+(4) Where the whole or any part of the annual bonus distribution of a company is applied towards the purchase of shares in the company, the whole or such part of the profits that has been so applied shall be deemed not to be the income of the employee or the trustee.
+
+(5) The trustee shall—
+
+(a) allocate all the shares purchased by him to the employees in proportion to their entitlement thereto;
+
+(b) pay over to each employee any distribution in respect of shares held in trust for that employee, who shall be entitled to the dividend income allowance provided by section 56* in respect of such distribution;
+
+(c) furnish each employee, not later than 31st December in each year, with a statement showing—
+
+(i) the number of shares allocated to him during that year; and
+
+(ii) the total number of shares held on his behalf at the date on which the statement was furnished.
+
+(6) Where shares have been allocated to an employee pursuant to this section the trustee shall—
+
+(a) at the request of the employee, transfer such shares to the employee, or his nominee—
+
+(i) where the employee is still in the employment of the employer, at any time *Section 56, referred to in section 35(5)(b) and other subsequent sections, was repealed by Act No. 8 of 1996.
+
+after the expiration of five years from the date of the allocation of the shares; or
+
+(ii) where for any reason other than retirement or death the employee ceases to be in the employment of the employer, at any time after cessation of such employment;
+
+(b) on the retirement date of the employee, or on the cessation of employment, where an employee retires prematurely as a result of mental or physical infirmity, transfer such shares to the employee or his nominee; or
+
+(c) on the death of the employee before his retirement date, transfer such shares to the personal representative of the employee. In this subsection “retirement date” means, in relation to an employee, the date fixed under an approved employees’ profit-sharing plan as the date of retirement from employment of that employee.
+
+(7) Where shares are transferred in a year of income pursuant to subsection (6)(a), the market value of the shares at the date of transfer shall be deemed to be the income accrued to the beneficial owner of the shares on that date and the full amount of such income shall form part of the income of the individual for that year.
+
+(8) (Repealed by Act No. 2 of 2006).
+
+(9) Where shares are transferred pursuant to subsection (6)(b) or (c), no income shall, by reason of such transfer, be deemed to have accrued to the beneficial owner of the shares.
+
+(10) Where an approved employees’ profit-sharing plan is vested in—
+
+(a) individuals, at least one trustee shall be a representative of the employees selected by them; or
+
+(b) a trust corporation, a management committee shall be established comprising not less than three individuals at least one of whom shall be a representative of the employees selected by them.
+
+(11) No employer shall be capable of being a trustee of any plan established under this section, but nothing herein shall be construed as preventing an employer from appointing a representative under subsection (10) either as a trustee or a member of the management committee, as the case may be.
+
+(12) In this section—
+
+“approved employees’ profit-sharing plan” means an employees’ profit-sharing plan approved by the Board for the purposes of this Act as complying with the requirements of this section;
+
+“company” means any body corporate, whether public or private, or unincorporated association but does not include a partnership;
+
+“employees’ profit-sharing plan” means an arrangement whereby the whole or part of a company’s annual bonus distribution is transferred to a trustee to be applied towards the purchase of shares in the company to be held by the trustee to the use and benefit of the employees of the company and otherwise dealt with in accordance with this section.
+
+*Deduction for purchase of bonds. [46 of 1977 203/1979 19 of 1980 25 of 1981 21 of 1983 14 of 1987 6 of 1989].*
+
+}
+
+**36.** (Repealed by Act No. 6 of 1989).
+
+**37.** (1)
+
+(Repealed by Act No. 9 of 1990).
+
+(2)
+
+(3) Subject to subsection (4), interest on treasury bonds is exempt from income tax.
+
+(4) The exemption referred to in subsection (3) applies only to such portion of treasury bonds held by any person which will not exceed the sum of sixty thousand dollars as at 31st December 1986, and increasing that sum by four thousand dollars per year in each of the next five succeeding years.
+
+**37A.** (Repealed by Act No. 6 of 1989).
+
+*Certain interest on housing bonds exempt. [6 of 1989]. Employer may establish employees’ savings plan. [46 of 1977 5 of 1995].*
+
+**37B.** Where an individual to whom section 17 applies holds tax free housing bonds, the interest on that portion of the value of the bonds that does not exceed eighty-four thousand dollars is exempt from tax.
+
+**38.** (1) Subject to this section, an employer may with the approval of the Board establish an employees’ savings plan to which contributions may be made annually by the employer and the employee.
+
+(2) All persons in the employ of an employer are eligible to become members of an employees’ savings plan (hereinafter referred to as “the plan”).
+
+(3) The Board shall not approve the establishment of a plan unless it is satisfied that—
+
+(a) membership in the plan is voluntary;
+
+(b) the plan is intended as a supplement and not as a substitute for any approved pension fund plan or deferred annuity plan;
+
+(c) the plan is to be constituted by trust vested—
+
+(i) in not less than three trustees where the trustees are individuals; or
+
+(ii) in a trust corporation;
+
+(d) the funds of the plan are to be invested in assets originating and situated in Trinidad and Tobago;
+
+(e) where the employer is a public company, any investment in the company by way of shares or debentures would not exceed one-third of the total assets of the plan; and
+
+(f) the plan provides for contributions—
+
+(i) not exceeding five per cent of the salary or wages of an employee, subject to a maximum of two thousand four hundred dollars, to be made by an employer (hereinafter referred to as “the employer’s contribution”); and
+
+(ii) at least equal to but not exceeding twice the amount of the employer’s contribution to be made by an employee.
+
+(4) The President may, in order to confer a benefit on the employees, approve with retrospective effect any plan which was in operation before the commencement of this Act where he is satisfied that the plan is not inconsistent with the provisions of this Act.
+
+*Employer’s contribution to be allowed as deduction for income tax. [46 of 1977].*
+
+(5) Where pursuant to subsection (4) a plan has been approved with retrospective effect, the provisions of this Act shall apply to that plan as if this Act had been in operation on the date from which the plan was given retrospective effect.
+
+**39.** (1) Every employer who establishes a plan shall, for the purpose of computing his chargeable income for the year of income, be allowed a deduction of the amount contributed by him to the plan in respect of each employee who is a member of the plan.
+
+(2) For the purpose of computing the chargeable income of an employee, no deduction may be allowed in respect of his contribution to a plan.
+
+*Trustees to be taxed on income derived from investment. [46 of 1977].*
+
+(3) The employer’s contribution shall not form part of the chargeable income of the employee except where such contribution is withdrawn pursuant to section 41(3).
+
+**40.** (1) Where the funds of a plan are invested the trustees of the plan shall be taxable on the income derived from the investment—
+
+(a) at prevailing scale rates for the appropriate year of income, where the income does not exceed five thousand four hundred dollars; or
+
+(b) at a flat rate of fifteen per cent where the income exceeds five thousand four hundred dollars.
+
+(2) An employee is entitled to a proportionate share in the income derived from investing the funds of the plan established by the employer.
+
+*be employer’s of such 31st*
+
+(3) The share to which the employee is entitled shall calculated on the amount contributed by him, on the contribution and on the interest accruing in respect contributions.
+
+(4) The trustees of a plan shall on or before December in each year—
+
+(a) submit to the Board accounts of revenue and expenditure in respect of the plan; and
+
+(b) furnish to each employee who is a member of the plan a statement showing the amounts—
+
+(i) contributed by the employee;
+
+(ii) of interest to which the employee is entitled in respect of his contribution;
+
+(iii) of the employer’s contribution;
+
+*\41. (1)*
+
+(iv) of interest to which the employee is entitled in respect of the employer’s contribution; and
+
+*Withdrawal of*
+
+*anytime*
+
+(v) withdrawn by the employee.
+
+*contributions. [46 of 1977 6 of 1989 5 of 1995].*
+
+An employee may without being liable to tax at withdraw—
+
+(a) all or part of the contribution made by him to the plan and the interest accruing in respect thereof;
+
+*case may employer’s*
+
+(b) all or part of the interest accruing in respect of the employer’s contribution.
+
+(2) An employee or his personal representative, as the require, may, without being liable to tax, withdraw the contribution—
+
+(a) on the death of the employee;
+
+(b) on the termination of the employee’s employment by virtue of redundancy;
+
+(c) on the retirement of the employee at any time after he has attained the age of fifty; or
+
+(d) on the retirement of the employee before he has attained the age of fifty where such retirement is on the grounds of ill health or infirmity.
+
+(3) Where an employee withdraws the employer’s contribution in circumstances other than those specified in subsection (2), the amount of the contribution withdrawn shall be treated as income for the year of income during which the contribution was withdrawn.
+
+(4) An employee who ceases to be in the employ of a particular employer may, without being liable to tax, transfer from one plan to another the contribution made by him to the plan and the employer’s contribution and any interest accruing on such contributions and the amount so transferred shall be deemed not to have been withdrawn.
+
+(5) For the purposes of this section and of sections 38, 39 and 40—
+
+*Income tax exemptions. [3 of 1962 29 of 1966 13 of 1969 14 of 1976 46 of 1977 1 of 1979 203/1979 19 of 1980 25 of 1981 6 of 1989 18 of 1989]. Ch. 33:01.*
+
+“employer” means a company, a partnership or a sole trader each of which has in its employ at least fifteen persons; }
+
+“employees’ savings plan” or “plan” means an arrangement whereby the contributions made by an employer and an employee in accordance with this Act are held by trustees in order to encourage savings and investment by employees.
+
+(6) (Repealed by Act No. 6 of 1989).
+
+41A.
+
+to (Repealed by Act No. 6 of 1989).
+
+41B.
+
+**42.** (1) In this section and in sections 43 to 46, “Minister” means the Minister responsible for Housing; and “prescribed” means prescribed by Regulations made under the Housing Act.
+
+(2) Notwithstanding any of the provisions of this Act, there shall be exempted from income tax—
+
+(a) (Repealed by Act No. 6 of 1989);
+
+(b) subject to subsection (7), premiums and rents derived from the letting of any newly constructed houses whether constructed on, before or after 31st December 1978 of the class specified in section 43;
+
+(c) gains or profits derived from the initial sale of newly constructed houses of the class specified in section 43 by any person registered in the prescribed manner as a trader in such houses;
+
+(d) interest on and any service charge payable under a loan granted by an approved mortgage company for the construction of a house and interest on a loan secured by, and any service charge payable under, a mortgage held by an approved mortgage company if the rate of interest charged in respect of the loan does not in either case, exceed the prescribed tax free interest rate;
+
+(e) interest on a loan secured by and any service charge payable under any mortgage on a newly constructed house, if the loan is of not less than ninety per cent of the value of the house and if the rate of interest charged in respect of the loan does not exceed the prescribed tax free interest rate.
+
+(3) (Repealed by Act No. 6 of 1989).
+
+(4) Paragraphs (b), (c), (d) and (e) of subsection (2) do not apply in respect of a newly constructed house that was constructed by way of rental, mortgage or aided self-help projects to which public funds of Trinidad and Tobago have been contributed by way of subsidising any such project and not merely by way of a loan from the public funds.
+
+(5) The exemption provided under subsection (2)(e) applies in respect of a newly-constructed house the cost of construction of which, inclusive of the cost or value, whichever is the less, of the land, in the opinion of the National Housing Authority, having regard to normal building costs prevailing at the time of its construction, would not exceed—
+
+(a) twenty-five thousand dollars, where construction commenced after 31st December 1967, but not later than 31st December 1973;
+
+(b) forty thousand dollars, where construction commenced after 31st December 1973, but not later than 31st December 1975;
+
+(c) sixty thousand dollars where construction commenced after 31st December 1975, but not later than 31st December 1976;
+
+(d) eighty thousand dollars where construction commenced after 31st December 1976, but not later than 31st December 1979; or
+
+*means a rental*
+
+(e) two hundred and fifty thousand dollars where construction commenced after 31st December 1979.
+
+(6) For the purposes of subsection (2)(e), “service charge” service charge prescribed by the Minister as the charge for administering a mortgage that is not a guaranteed mortgage. (7) The exemption as to rent referred to in subsection (2)(b) shall not be granted where the monthly income, whether payable to the owner or to any other person, in any month of the year of income—
+
+(a) in respect of an unfurnished letting, exceeds seven hundred and fifty dollars;
+
+(b) in respect of an unfurnished letting, in connection with which services are provided, exceeds eight hundred and twenty-five dollars;
+
+(c) in respect of a furnished letting, exceeds nine hundred dollars; or
+
+(d) in respect of a furnished letting in connection with which services are provided, exceeds nine hundred and seventy-five dollars.
+
+(8) In subsection (7)—
+
+“furnished letting” means a house rented with furniture consisting of a stove, a refrigerator, a bed and living and dining room furniture;
+
+“services” includes any utility for which the landlord pays the supplier of that utility.
+
+*Limitation on tax exemption.*
+
+\*43. (1) The exemptions provided under section 42(2)(b) and (c) apply in respect of a house the cost of construction of which, exclusive of the cost or value of the land, in the opinion of the Minister, having regard to normal building costs prevailing at the time of its construction, would not exceed—
+
+(a) twenty thousand dollars, where construction commenced after 31st December 1957, but not later than 31st December 1967;
+
+(b) twenty-five thousand dollars, where construction commenced after 31st December 1967, but not later than 31st December 1972;
+
+(c) thirty thousand dollars, where construction commenced after 31st December 1972, but not later than 31st December 1973;
+
+(d) forty thousand dollars, where construction commenced after 31st December 1973, but not later than 31st December 1975;
+
+(e) eighty thousand dollars where construction commenced after 31st December 1976, but not later than 31st December 1977;
+
+(f) eighty thousand dollars where construction commenced after 31st December 1976, but not later than 31st December 1979;
+
+(g) two hundred and fifty thousand dollars, where construction commenced after 31st December 1979, but not later than 31st December 2009;
+
+(h) four hundred and fifty thousand dollars, where construction commenced after 31st December 2009, but not later than 1st February 2013; and
+
+(i) one million, five hundred thousand dollars where construction commenced after 1st February 2013.
+
+(2) The exemption provided under section 42(2)(b) is operative for a period of ten years beginning with the date of the completion of the newly-constructed house.
+
+\* This section has been amended by the following: 3 of 1962; 13 of 1969; 7 of 1975; 14 of 1976; 46 of 1977; 203/1979; 19 of 1980; 25 of 1981; 18 of 1989; 13 of 2010 and 2 of 2013.
+
+*ceases to Minister, the house under*
+
+(3) The exemption provided under section 42(2)(b) apply in respect of a house where, in the opinion of the the cost of repairs, alterations or improvements made to when added to the cost of construction as determined subsection (1) exceeds—
+
+(a) twenty thousand dollars, where the repairs, alterations or improvements were made after 31st December 1957, but not later than 31st December 1967;
+
+(b) twenty-five thousand dollars, where the repairs, alterations or improvements were made after 31st December 1967, but not later than 31st December 1972;
+
+(c) thirty thousand dollars, where the repairs, alterations or improvements were made after 31st December 1972, but not later than 31st December 1973;
+
+(d) forty thousand dollars, where the repairs, alterations or improvements were made after 31st December 1973, but not later than 31st December 1975;
+
+(e) sixty thousand dollars, where the repairs, alterations or improvements were made after 31st December 1975, but not later than 31st December 1976;
+
+(f) eighty thousand dollars, where the repairs, alterations or improvements were made after 31st December 1976 but not later than 31st December 1979; or
+
+(g) two hundred and fifty thousand dollars, where the repairs, alterations or improvements were made after 31st December 1979, but not later than 31st December 2009;
+
+(h) four hundred and fifty thousand dollars, where the repairs, alterations or improvements were made after 31st December 2009, but not later than 1st February 2013; and
+
+(i) one million, five hundred thousand dollars where the repairs, alterations or improvements were made after 1st February 2013.
+
+(4) Subsection (3) does not apply where the Minister has, before the repairs, alterations or improvements are made, authorised the making thereof.
+
+(5) The Minister of Finance may from time to time by Order amend—
+
+(a) section 42(5) and subsection (1), by specifying the cost of construction of newly-constructed houses in respect of which exemptions under section 42(2) would apply and the date after which construction of the house should commence; and
+
+*Builder excluded from tax exemptions. [3 of 1962 29 of 1966].*
+
+(b) subsection (3), by specifying the cost of construction of a house built after a specified date, and of repairs, alterations or improvements made thereto, in respect of which exemption under section 42(2) would cease to apply.
+
+**44.** (1) Nothing in section 42 creates any exemption from liability to income tax in respect of income derived from the exercise of the trade or profession of a builder; and if a question arises under that section as to whether any amount ought properly to be regarded as profit derived from a transaction of sale or as being wholly or in part attributable to the exercise of the trade or profession of a builder, the question shall be determined by the Board.
+
+(2) A person aggrieved by a determination under subsection (1) may appeal in the manner herein provided.
+
+*Application of sections 10, 11 and 12. [11 of 1988 6 of 1989]. Ch. 75:02.*
+
+(3) In this section “builder” means a person who builds houses for sale or for rent.
+
+**45.** Sections 10, 11 and 12 have effect in relation to premiums and rents referred to in section 42(2)(b) and interest referred to in section 42(2)(d) and (e) as if section 42 and paragraph 1 of the Fifth Schedule of the Corporation Tax Act had not been enacted.
+
+*45A. (1)*
+
+*Additional “relevant income tax exemptions. [25 of 1992 6 of 1993 3 of 1994 8 of 1996 4 of 2014]. “residential Ch. 33:01. Act, there income*
+
+In this section—
+
+authority” means in the case of—
+
+(a) residential properties, the Minister with responsibility for Housing;
+
+(b) industrial and commercial properties, the Minister with responsibility for Industry; property” has the same meaning as is assigned to
+
+“house” in section 2 of the Housing Act.
+
+(2) Notwithstanding any of the provisions of this shall be exempt from income tax until the year of 2000—
+
+(a) subject to subsection (4), premiums and rents derived from the letting of any residential, industrial and commercial properties the construction of which begins after 1st January 1993 and is completed by 31st December 1996;
+
+*subsection such owner (2) shall not*
+
+(b) gains or profits derived from the initial sale of such properties.
+
+(3) The income tax exemption given under (2)(a) is granted to the owner of the property, whether is the builder or a subsequent owner thereof. (4) The income tax exemption given under subsection be granted—
+
+(a) in respect of a residential property unless the cost of construction, exclusive of the cost or value of the land, in the opinion of the relevant authority, having regard to normal building costs prevailing at the time of construction in respect of that property, exceeds two hundred and fifty thousand dollars; and
+
+*shall*
+
+(b) unless a certificate from the relevant authority is produced in support of the claim for exemption. (5) The certificate referred to in subsection (4)(b) certify—
+
+(a) the date of commencement of construction;
+
+(b) the date of completion of construction;
+
+(c) that the property is eligible for an income tax exemption under this section; and
+
+(d) the date of the initial sale of the property.
+
+(6) The relevant authority shall maintain a register of properties which qualify for an exemption under subsection (2) and may on request by a subsequent owner issue a certificate to him.
+
+*Dividends paid out of profits exempted under section 45A similarly exempted. [6 of 1993].*
+
+(7) Sections 10, 11 and 12 have effect in relation to premiums and rents referred to in section 45A(2)(a) and gains or profits referred to in section 45A(2)(b) as if section 45A had not been enacted.
+
+**45B.** A company that is in receipt of income or profits that are exempt from income tax under section 45A may, provided separate accounts are kept of such income or profits—
+
+(a) within eight years after the date of completion of construction of the property, if the premiums and rents would be exempt from tax under the said section; or
+
+*Exemption of profits from sale of residential house. [2 of 2013 4 of 2014 7 of 2016].*
+
+(b) within two years after the date of sale of the property, if the gains or profits would be exempt from income tax under the said section, distribute sums not exceeding in the aggregate the exempt income or profits to the members of the company and those sums when so distributed are exempt from income tax in the hands of the members of the company.
+
+**45C.** (1) Notwithstanding any of the provisions of this Act, there shall be exempt from income tax until the year ending 31st December 2025, the gains or profits derived from the initial sale of a residential house site, being part of a land development project, provided the owner of the land produces a certificate from the Minister with responsibility for housing in support of the claim for exemption.
+
+(2) The certificate referred to in subsection (1) shall certify that—
+
+(a) the land development project commenced on or after 1st October 2012;
+
+(b) the proceeds of the initial sale of a residential house site in the land development project were received on or before 31st December 2025; and
+
+*gains or been 45D. (1) Exemptions in there shall relation to commercial 31st buildings or multi-storey car*
+
+(c) the residential land development project has satisfied the requirements for development planning standards for roads, drainage and utilities. (3) Sections 10, 11 and 12 have effect in relation to the profits referred to in this section as if section 45C had not enacted.
+
+*parks. [2 of 2013 4 of 2014 7 of 2016].*
+
+Notwithstanding any of the provisions of this Act, be exempt from income tax until the year ending December 2025—
+
+(a) subject to subsection (2), premiums and rents derived from the letting of a newly-constructed commercial building or multi-storey car park, the construction of which commenced on or after 1st October 2012; and
+
+*provided certificate support of certify—*
+
+(b) gains or profits from the initial sale of such newly-constructed commercial building or multi-storey car park, the construction of which commenced on or after 1st October 2012, the owner of the building or car park produces a from the Minister with responsibility for industry in the claim for exemption.
+
+(2) The certificate referred to in subsection (1) shall
+
+(a) in the case of the sale of the completed commercial building or multi-storey car park—
+
+(i) the date of commencement of the construction of the commercial building or multi-storey car park;
+
+(ii) the date of the initial sale of the completed commercial building or multi-storey car park; and
+
+(iii) that the commercial building or multi-storey car park has satisfied the requirements for development planning standards, or
+
+(b) in the case of the letting of the completed commercial building or multi-storey car park—
+
+(i) the date of commencement of the construction of the commercial building or multi-storey car park;
+
+(ii) the date of the letting of the completed commercial building or multi-storey car park; and
+
+(iii) that the commercial building or multi-storey car park has satisfied the requirements for development planning standards.
+
+*Exemptions in relation to multi-family dwellings. [7 of 2016].*
+
+(3) Sections 10, 11 and 12 have effect in relation to the gains or profits referred to in this section as if section 45D had not been enacted.
+
+**45E.** (1) Notwithstanding any of the provisions of this Act, there shall be exempt from income tax until the year ending 31st December 2025—
+
+(a) subject to subsection (2), premiums and rents derived from the letting of a newly-constructed multi-family dwelling, the construction of which commenced on or after 1st July 2016; and
+
+(b) gains or profits from the initial sale of such newly-constructed multi-family dwelling, the construction of which commenced on or after 1st July 2016,
+
+provided the owner of the multi-family dwelling produces a certificate from the Minister with responsibility for housing in support of the claim for exemption.
+
+(2) The certificate referred to in subsection (1) shall certify—
+
+(a) in the case of the sale of the completed multi-family dwelling—
+
+(i) the date of commencement of the construction of the multi-family dwelling;
+
+(ii) the date of the initial sale of the completed multi-family dwelling; and
+
+(iii) that the multi-family dwelling has satisfied the requirements for development planning standards; or
+
+(b) in the case of the letting of the completed multi-family dwelling—
+
+(i) the date of commencement of the construction of the multi-family dwelling;
+
+(ii) the date of the letting of the completed multi-family dwelling; and
+
+(iii) that the multi-family dwelling has satisfied the requirements for development planning standards.
+
+*Board to require certificate of exemption. [3 of 1962 29 of 1966].*
+
+(3) Sections 10, 11 and 12 have effect in relation to the gains or profits referred to in this section as if section 45E had not been enacted.
+
+**46.** In assessing the chargeable income of a person under this Act, the Board may, as a condition precedent to applying any of the provisions of sections 42 to 45 to the assessment of income, require that person to produce a certificate in the prescribed form from the Minister to the effect that in the opinion of the Minister the provisions of sections 42 to 45 inclusive, may properly be so applied.
+
+*Temporary residents. [26 of 1955 16 of 1963]. Rates as per Third Schedule.*
+
+### TEMPORARY RESIDENTS
+
+**47.** Tax shall not be payable in respect of any income arising outside Trinidad and Tobago of any person who is in Trinidad and Tobago for some temporary purpose only and not with any intent to establish his residence therein and who has not actually resided in Trinidad and Tobago at one or more times for a period equal in the whole to six months of the year of income. RATE OF TAX *48. There shall be levied and paid on the chargeable income of every person tax at the rates set forth in Part I of the Third Schedule.
+
+\* This section has been amended by the following: 16 of 1963; 29 of 1966 and 42 of 1966.
+
+*Certain tax credits to be allowed. [6 of 1989].*
+
+### TAX CREDITS
+
+*Tax credit on interest paid by mutual funds. [8 of 1996 9 of 1997]. Ch. 79:09.*
+
+**48A.** Upon due claim and subject to such evidence as the }
+
+Board may require, there shall be allowed against the amount of the tax assessed, in respect of each year of income for which tax is assessed, any tax credit to which a person is entitled under this Act, but so that the sum of the tax credits allowed shall not exceed the amount of the tax assessed.
+
+48B.
+
+to (Repealed by Act No. 9 of 1997).
+
+48E.
+
+**48F.** (1) An individual over the age of sixty years who is resident in Trinidad and Tobago and who, in a year of income receives—
+
+(a) a dividend as a beneficiary under a trust operated by a financial institution carrying on unit trust business and licensed under the Financial Institutions Act;
+
+*Ch. 75:02.*
+
+(b) the amount or value of a distribution paid by the Unit Trust Corporation of Trinidad and Tobago, out of interest in respect of which tax has been deducted under section 3B of the Corporation Tax Act, is entitled in relation to that year of income to a tax credit equivalent to the tax deducted on that portion of the interest that relates to the dividend or distribution received by the individual.
+
+(2) The tax credit referred to in subsection (1) shall not be granted unless a certificate from the trust or the Unit Trust Corporation of Trinidad and Tobago is produced in support of the claim for relief.
+
+(3) The certificate shall state the amount of tax deducted on that portion of the interest that relates to the dividend or distribution received.
+
+*Sub. Leg. 202/1996.*
+
+(4) Notwithstanding the repeal of section 3B of the Corporation Tax Act by the Provisional Collection of Taxes
+
+(No. 2) Order, 1996, this section shall continue to have effect for the purposes of subsection (5) as though section 3B of the Corporation Tax Act had not been repealed.
+
+*Tax credit for shares in venture capital company. [22 of 1994 9 of 1997 38 of 1997]. Ch. 81:08.*
+
+(5) Notwithstanding section 48A, where a person is, in }
+
+relation to the year of income ending 31st December 1996, entitled to a tax credit under subsection (1) which exceeds the amount of tax for which he is assessed in respect of that year of income, he shall be entitled in relation to that year of income to a refund equivalent to the difference between the amount of the tax credit and the amount of the tax assessed.
+
+48G.
+
+to (Repealed by Act No. 9 of 1997).
+
+48I.
+
+**48J.** (Repealed by Act No. 8 of 1996).
+
+**48K.** (1) In this section—
+
+“Administrator” means the Administrator of the Venture Capital Incentive Programme appointed by the President under section 3 of the Venture Capital Act;
+
+“marginal rate percentage” means the percentage equivalent to the highest marginal rate of tax for persons in a year of income;
+
+“tax credit certificate” means a tax credit certificate issued by the Administrator under the Venture Capital Act in respect of shares issued by a venture capital company;
+
+“venture capital company” means a company registered as a venture capital company under section 5 of the Venture Capital Act.
+
+(2) Subject to this section, a person who is resident in Trinidad and Tobago and who obtains a tax credit certificate under the Venture Capital Act in respect of shares issued by a venture capital company is entitled to a tax credit equivalent to the marginal rate percentage of the amount received by the venture capital company for those shares.
+
+(3) The tax credit is allowed only—
+
+(a) to the original purchaser of the shares issued by the venture capital company; and
+
+(b) for the year of income in which the shares were purchased.
+
+(4) Notwithstanding subsection (3) and section 48A, where the amount of the tax credit as computed under subsection (2) cannot be wholly set off against the tax assessed for the person, the amount of the unclaimed tax credit may be carried forward by the person and set off against his tax assessed for succeeding years of income.
+
+*Tax credit on \*CNG kits and cylinders. [13 of 2010 7 of 2016].*
+
+(5) The amount of the unclaimed tax credit may be set off as far as possible against the tax assessed for the person in the first succeeding year of income, and in so far as it cannot be so set off, then against the tax assessed for the next succeeding year of income and so on.
+
+*Tax credit on solar water heating equipment. [13 of 2010]. Tax credit entitlement. [2 of 2015]. G.N. No. 216 of 1977.*
+
+**48L.** Where an individual, in a year of income commencing 1st January 2011, purchases and installs a *CNG kit and cylinder in his motor vehicle, that individual shall be entitled to a tax credit of twenty-five per cent of the cost of acquiring and installing the *CNG kit and cylinder up to a maximum tax credit of ten thousand dollars.
+
+**48M.** Where an individual, in a year of income commencing 1st January 2011, purchases solar water heating equipment for household use, that individual shall be entitled to a tax credit of twenty-five per cent of the cost of the solar water heating equipment up to a maximum of ten thousand dollars.
+
+**48N.** (1) A person who in a year of income purchases bonds issued in accordance with the National Tax Free Savings Bonds Regulations, is entitled in that year of income to a tax credit of an amount equal to twenty-five per cent of the face value of the bonds where the maturity period is five, seven or ten years. * CNG—Compressed Natural Gas.
+
+(2) The tax credits referred to in subsection (1) apply only to such portion of the bonds purchased in a year of income by any person, which does not exceed five thousand dollars in value.
+
+(3) The tax credit is allowed only to the original purchaser of the bond, and for the year of income in which it is purchased.
+
+(4) Notwithstanding subsections (2) and (3) and section 48A, where the amount of the tax credit as computed under subsection (1) cannot be wholly set off against the tax assessed for the person, the amount of the unclaimed tax credit may be carried forward by the person and set off against his tax assessed for succeeding years of income.
+
+*Meaning of distribution. [34 of 1956 29 of 1966 30 of 1974].*
+
+(5) The amount of the unclaimed tax credit referred to in subsection (4), may be set off as far as possible against the tax assessed for the person in the first succeeding year of income, and in so far as it cannot be so set off, then against the tax assessed for the next succeeding year of income and so on. TAX ON DISTRIBUTIONS AND OTHER PAYMENTS
+
+**49.** (1) In relation to any company “distribution” means—
+
+(a) any dividend paid by the company including a capital dividend;
+
+(b) any other distribution of the assets of the company (whether in cash or otherwise) in respect of shares of the company, except so much as represents the repayment of share capital, or is equal in amount or value to any new consideration given on the distribution;
+
+(c) any redeemable share capital or security issued by the company in respect of shares in the company, to the extent that such share capital or security is not issued for a new consideration;
+
+(d) any interests or other distributions out of assets of the company in respect of securities of the company (except so much, if any, of any such distribution as represents the principal thereby secured), where the securities are either—
+
+(i) securities issued as mentioned in paragraph (c);
+
+(ii) subject to subsection (2), securities convertible directly or indirectly into shares of the company;
+
+(iii) securities under which a consideration given by the company for the use of the principal secured is to any extent dependent on the result of the company’s business or any part of it, under which the consideration so given represents more than a reasonable commercial return on the use of that principal; or
+
+(iv) securities issued by the company to a non-resident company, where the former is a subsidiary of the latter or both are subsidiaries of a third company;
+
+*\\*(2)*
+
+*Ch. 31. No. 1*
+
+*issued by a*
+
+*(1950 Ed.).*
+
+(e) any such amount as is required to be treated as a distribution by subsection (3) or (4).
+
+*meaning of means of a approved*
+
+Subsection (1)(d)(ii) does not apply to securities company, not being a private company within the section 28(1) the repealed Companies Ordinance, by prospectus where the issue of such securities had been by the Minister after being satisfied—
+
+(a) as to the period within which and the price at which such securities may be converted into shares of the company;
+
+(b) as to the rate of interest payable on such securities;
+
+(c) as to the total value of such securities in relation to the issued share capital of the company;
+
+(d) as to the absence of any control by the company over the transferability of such securities;
+
+(e) that in the issue of such securities preference was given to citizens of Trinidad and Tobago and to bodies of persons established in Trinidad and Tobago; and
+
+*\\* See Companies Ordinance (Ch.*
+
+(f) of such other matters as he thinks fit.
+
+Act (Ch. 81:01) for corresponding section to section 28(1) of the Companies
+
+**31.** No. 1) (1950 Ed.).
+
+(3) Notwithstanding subsection (2), any interest paid during the period commencing on 1st January 1971 and ending on 31st December 1973, on securities referred to in that subsection, shall be deemed to be a distribution for the purposes of the dividend income allowance provided by section 56*.
+
+(4) In subsection (1)(d)(iv), a body corporate shall be deemed to be a subsidiary of any other body corporate if and so long as not less than half of its share capital of all classes of stock or half of the total combined voting power in respect of all classes of stock is owned by that other body corporate, whether directly or through any other body corporate, or other bodies corporate, or partly through any other body corporate or other bodies corporate.
+
+(5) Where on a transfer of assets or liabilities by a company to its members or to a company by its members the amount or value of the benefit received by a member (taken according to its market value) exceeds the amount or value (so taken) of any new consideration given by him, the company shall be treated as making a distribution to him of an amount equal to the difference.
+
+(6) Where, after 1st January 1966, a company—
+
+(a) repays any share capital, or has done so at any time after the commencement of the accounting period for the year of income 1966; and
+
+(b) at or after the time of that repayment (but not before the year of income 1966) issues as paid up otherwise than by the receipt of a new consideration any share capital, not being redeemable share capital, the amount so paid up shall be treated as a distribution made in respect of the shares on which it is paid up, except in so far as that amount exceeds the amount or aggregate amount of the share capital so repaid less any amounts previously so paid up and treated by virtue of this subsection as a distribution.
+
+\* See Note on page 74.
+
+(7) Where—
+
+(a) a company issues any share capital as paid up otherwise than by the receipt of new consideration, or has done so after the commencement of the accounting period for the year of income 1966; and
+
+(b) any amount so paid up does not fall to be treated as a distribution,
+
+then, for the purposes of subsections (1) to (6), distributions afterwards made by the company in respect of shares representing that share capital shall not be treated as repayments of share capital, except to the extent to which those distributions, together with any relevant distributions previously so made, exceed the amounts so paid up (then or previously) on such shares after that date and not falling to be treated as distributions.
+
+(8) In subsection (7), “relevant distributions” means so much of any distribution made in respect of shares representing the relevant share capital as apart from that subsection would be treated as a repayment of share capital, but by virtue of that subsection cannot be so treated.
+
+(9) For the purposes of subsections (7) and (8), all shares of the same class shall be treated as representing the same share capital, and where shares are issued in respect of other shares, or are directly or indirectly converted into or exchanged for other shares, all such shares shall be treated as representing the same share capital.
+
+*Ch. 75:02.*
+
+(10) In this section “whole-time service director” has the same meaning as in the Third Schedule of the Corporation Tax Act.
+
+(11) In this section, “new consideration” means consideration not provided directly or indirectly out of assets of the company, and in particular does not include amounts retained by the company by way of capitalising a distribution, so however that where share capital has been issued at a premium representing new consideration, any part of that premium afterwards applied in paying up the share capital shall be treated as new consideration also for that share capital.
+
+(12) A distribution shall be treated under this section as made, or consideration as provided, out of assets of a company if the cost falls on the company.
+
+(13) The following kinds of expenditure when paid by a close company to a participator shall be treated as distributions:
+
+(a) interest or other consideration paid or given by the company to a participator who is also a director (other than a whole-time service director) or an associate of such participator for the use of money advanced by any person, or to a person who is an associate of such director for the use of money so advanced;
+
+(b) any annuity or other annual payment other than interest;
+
+(c) any rent, royalty or other consideration paid for the use of property other than money.
+
+*Rates of withholding tax. [24 of 2008]. Third Schedule.*
+
+(14) For the purposes of subsection (13)(c) in the case of tangible property or copyrights, the excess only over what the Board may consider to be reasonable consideration therefor shall be treated as a distribution.
+
+\*50. (1) There shall be levied and paid income tax, in this Act referred to as withholding tax, at the rate set out in Part II of the Third Schedule—
+
+(a) on any distribution made to any person not resident in Trinidad and Tobago and to every non-resident company;
+
+(b) on any payment made to any person not resident in Trinidad and Tobago or to any person on behalf of such non-resident person, and to every non-resident company (where such person or company is not engaged in trade or business in Trinidad and Tobago), so however that in the case of a payment arising outside Trinidad and Tobago to such a person or company withholding tax shall not be payable.
+
+\* This section has also been amended by the following: 16 of 1963; 29 of 1966; 42 of 1966;
+
+(1A) Subsection (1) shall not apply to—
+
+(a) any distribution made by the Export Import Bank to any non-resident company or non-resident international agency for a period of ten years commencing from the date of the initial injection of private sector funds into the Export Import Bank;
+
+(b) the interest payable on funds borrowed by the Export Import Bank from any institutions outside Trinidad and Tobago.
+
+(2) Where, after 1st January 1966, a person or company makes any payment or distribution to any such person as is mentioned in subsection (1), or to any non-resident company, the person or the company shall under this subsection, within thirty days, account for and pay withholding tax in respect of the payment or distribution aforesaid at the rate referred to in subsection (1).
+
+*Ch. 81:07.*
+
+(2A) For the purposes of subsection (1) payment made to a person not resident in Trinidad and Tobago for services rendered to an approved enterprise in connection with an approved activity carried on in a free zone under the Trinidad and Tobago Free Zones Act is a payment outside Trinidad and Tobago.
+
+(2B) For the purposes of subsection (1), a payment made to a non-resident company pursuant to a lease agreement made by the non-resident company to let aircraft and related equipment to BWIA International Airways Limited, shall be treated as a payment arising outside Trinidad and Tobago to such nonresident company.
+
+(2C) Notwithstanding subsection (1), payments made over a period of two years from 1st January 2007 to a nonresident company pursuant to the lease agreement to let aircraft and related equipment to Caribbean Airlines Limited, shall be exempt from withholding tax in each of such years in an amount not exceeding two million dollars in the currency of the United States of America.
+
+(2D) Subsection (2C) shall be deemed to have come into effect on 1st January 2007.
+
+*Third Schedule.*
+
+(3) Where the payment or distribution is made to a person who is not resident in Trinidad and Tobago or to a nonresident company, and such person or company is resident in a country with which there is a double taxation agreement or Order under section 93, the person or company making the payment shall, nevertheless, deduct tax at the rate specified in Part II of the Third Schedule, unless the person or company making the payments satisfies the Board that a reduced rate of withholding tax applies under or by virtue of the double taxation agreement or Order under section 93.
+
+(4) A person liable under subsection (2) to account for and pay over withholding tax to the Board who fails to do so is guilty of an offence, and the provisions of section 99(4) shall apply accordingly.
+
+(5) Notwithstanding the provisions of section 5, where a payment or distribution that is subject to withholding tax is made to any person not resident in Trinidad and Tobago or to any non-resident company, income tax under section 5 or corporation tax shall not be payable in respect of such payment or distribution.
+
+(6) Where an office or a branch or agency of any nonresident company engaged in trade or business in Trinidad and Tobago remits or is deemed to remit any part of the profits of such non-resident company accruing in or derived from Trinidad and Tobago, such office or branch or agency of the non-resident company shall be liable to account for and pay over withholding tax in respect of such profits in accordance with the provisions of this section as if the remitting of such profits was a distribution.
+
+(7) For the purpose of subsection (6) an office or a branch or agency of a non-resident company shall be deemed to have remitted all the profits thereof, except to the extent that the office or the branch or agency has reinvested to the satisfaction of the Board such profits or any part thereof in Trinidad and Tobago, other than in the replacement of fixed assets.
+
+*Ch. 75:04.*
+
+(8) In subsections (6) and (7) “profits” means—
+
+*Ch. 85:04.*
+
+(a) in relation to any company charged to tax under the Petroleum Taxes Act, profits computed by applying ordinary accounting practices in accordance with section 28(2) of that Act, after deducting however any petroleum profits tax, refinery throughput tax paid in respect of such profits, so however that any such profits shall be deemed to include any amount authorised to be deducted as submarine well allowance or submarine production allowance by the Income Tax (In Aid of Industry) Act in ascertaining the taxable profits of any company for the purposes of the petroleum profits tax, and all such amounts shall be included accordingly;
+
+*\51. In*
+
+*Meaning of*
+
+(b) in relation to any other company, the chargeable profits of that company, for each year of income, after deducting however, any corporation tax, paid in respect of such profits.
+
+*“payment”*
+
+*“payment”. [16 of 1963*
+
+*other*
+
+*29 of 1966 42 of 1966*
+
+sections 49 and 56*—
+
+*section*
+
+*32 of 1969].*
+
+means a payment without any deductions whatsoever, than a distribution, not being a payment to which 99 applies with respect to—
+
+(a) interest, discounts, annuities or other annual or periodic sums;
+
+(b) rentals;
+
+(c) royalties;
+
+(d) management charges or charges for the provision of personal services and technical and managerial skills;
+
+(e) premiums (other than premiums paid to insurance companies and contributions to pension funds and schemes), commissions, fees and licences;
+
+*\\* See Note on*
+
+(f) such other payment as may from time to time be prescribed.
+
+page 74.
+
+*Loans to directors of close companies. [29 of 1966].*
+
+**52.** (1) Subject to subsection (2), where, after 1st January 1966 a close company, otherwise than in the ordinary course of its business carried on by it which includes the lending of money, makes any loan or advances any money to an individual who is a participator in the company or an associate of a participator, the amount of such loan or advance shall be deemed to be a distribution made in the year of income in which the loan was made, unless the loan is repaid within one year after the end of such year of income and it is established that the repayment was not made as part of a series of loans and repayments.
+
+*Settlements in favour of participators of close companies. [29 of 1966]. Discharge of liability for withholding tax. [29 of 1966].*
+
+(2) Where in any subsequent year of income a participator or associate repays any part of a loan deemed to be a distribution made under subsection (1), relief shall be given to such participator or associate by setting-off against the tax payable on his chargeable income for the year the tax attributable to the proportionate part of the loan which was included in his chargeable income for the year in which the loan was deemed to be a distribution.
+
+**53.** Any income which by virtue of any settlement made directly or indirectly by a close company may accrue to or may be received by a participator of the company or an associate of a participator shall be deemed to be a distribution by the company to such participator or associate, as the case may be.
+
+*Certificate for deduction of tax. [29 of 1966].*
+
+**54.** Where a person or a company is liable under section 50 to account for withholding tax deducted or withheld in respect of any payment or distribution made by them, the person or company shall, as against any person entitled to the payment or distribution, be acquitted and discharged of so much money as is represented by the withholding tax as if that sum had actually been paid.
+
+**55.** (1) Where, after 1st January 1966 (that is, the date of the commencement of the Finance Act 1966), a person or a resident company makes any payments or distribution which is subject to withholding tax, the payer shall furnish to the recipient of the payment or distribution a statement in writing showing the gross amount of the payment, the amount of the withholding tax and the actual amount paid.
+
+*Chargeability of distributions made by listed resident companies. [5 of 1995. 8 of 1996].*
+
+(2) The duty imposed by subsection (1) shall be enforceable at the suit or instance of the person entitled to the statement.
+
+**55A.** (1) (Deleted by Act No. 8 of 1996).
+
+(2) With effect from 1st January 1995, there shall be charged upon the income accruing in a year of income to a resident individual in respect of a preference dividend payable by a listed resident company, a tax at the rate of fifteen per cent of the preference dividend actually paid and the dividend so paid shall be deemed not to be the income of the individual for the purposes of this Act.
+
+(2A) Subsection (2) applies to an unlisted resident company.
+
+(3) A resident company shall, at the time when a preference dividend is paid to a resident individual, deduct therefrom a tax at the rate of fifteen per cent of the amount of the preference dividend actually paid and the tax so deducted shall on or before the fifteenth day of the month following that in which the tax was deducted, be remitted to the Board on account of the liability of the individual to the tax.
+
+*Ch. 83:02.*
+
+*Tax credits. [11 of 1988].*
+
+}
+
+\*(4) The provisions of section 34A(2), (4) and (6) apply mutatis mutandis to this section.
+
+(5) For the purposes of this section, “listed resident company” means a resident company whose securities have been admitted for quotation on the Trinidad and Tobago Stock Exchange under the Securities Industry Act.
+
+56.
+
+to (Repealed by Act No. 8 of 1996).
+
+57.
+
+**57A.** (1) An exporter who has paid consolidated special levy and is eligible for a tax credit under section 24(7) of the Finance Act, 1988, may claim in his return of income the tax credit computed in accordance with section 24(9) and (10) of that Act. * Section 34A referred to in this section was repealed by Act No. 5 of 2004.
+
+(2) If it is proved to the satisfaction of the Board that the amount of the tax credit claimed is properly due to the claimant in respect of the goods exported during the period for which the return relates, the Board may set-off the amount of the tax credit against the tax payable for the year of income for which the return is furnished.
+
+*Transitional provisions in respect of deduction of tax from dividends. [29 of 1966 8 of 1967].*
+
+(3) Where, in setting-off the amount of the tax credit against the tax payable for any year of income, the amount of the tax credit exceeds the tax payable, the excess shall, subject to sections 90 and 92, be refunded.
+
+**58.** (1) Where, before 27th September 1966 (that is, the date of passing of the Finance Act, 1966) any company acting under the former provisions of this Act has deducted from the amount of any dividend paid to any shareholder tax at the rate payable by the company on the income out of which the dividend was paid, and that dividend is included in the chargeable income of such shareholder for the year of income 1966, the net amount received in respect of the dividend shall, for all purposes of this Act, be deemed to be the gross amount of the dividend notwithstanding that such dividend, by virtue of the former provisions of this Act, is deemed to represent income of such an amount as would, after deduction of tax, be equal to the net amount received.
+
+*Ch. 33. No. 1. (1950 Ed.). 29 of 1966.*
+
+(2) In this section, the expression “former provisions of this Act” means sections 23, 23A and 23B of the Income Tax Ordinance which were repealed by section 20 of the Finance Act, 1966.
+
+*Chargeability of trustees, etc.*
+
+TRUSTEES, AGENT, ETC.
+
+**59.** (1) Subject to subsection (2), a receiver, trustee, guardian, curator or committee having the direction, control or management of any property or concerned on behalf of any person, shall be chargeable to tax in respect of income derived from such property or concern in like manner and to the like amount as such person would be chargeable if he had received such income, and every such receiver, trustee, guardian, curator or committee shall be answerable for doing all matters and things required to be done under this Act for the purpose of assessment and payment of tax.
+
+*Chargeability of agent of person residing out of Trinidad and Tobago. [16 of 1963 29 of 1966].*
+
+(2) Nothing in this section shall affect the liability of any person represented by any such receiver, trustee, guardian, curator or committee to be himself charged to tax in his own name.
+
+**60.** (1) A person not resident in Trinidad and Tobago (hereinafter in this section referred to as a non-resident person), whether a British subject or not, shall be assessable and chargeable in the name of his trustee, guardian, curator or committee, or of any attorney, factor, agent, receiver, branch or manager, whether such attorney, factor, agent, receiver, branch or manager has the receipt of the income or not, in like manner and to the like amount as such non-resident person would be assessed and charged if he were resident in Trinidad and Tobago and in the actual receipt of such income.
+
+A non-resident person shall be assessable and chargeable in respect of any income arising, whether directly or indirectly, through or from any attorneyship, factorship, agency, receivership, branch or management, and shall be so assessable and chargeable in the name of the attorney, factor, agent, receiver, branch or manager.
+
+(2) Where a non-resident person carries on business with a resident person, and it appears to the Board that, owing to the close connection between the resident person and the nonresident person and to the substantial control exercised by the non-resident person over the resident person, the course of business between those persons can be so arranged and is so arranged that the business done by the resident person in pursuance of his connection with the non-resident person produces to the resident person either no profits or less than the ordinary profits which might be expected to arise from that business, the non-resident person shall be assessable and chargeable to tax in the name of the resident person as if the resident person were an agent of the non-resident person.
+
+(3) Where it appears to the Board by whom the assessment is made, or to the Appeal Board by whom an appeal is heard, that the true amount of the gains or profits of any non-resident person chargeable with tax in the name of a resident person cannot in any case be readily ascertained, the Board or Appeal Board may, if it thinks fit, assess and
+
+charge the non-resident person on a fair and reasonable percentage of the turnover of the business done by the nonresident person through or with the resident person in whose name he is chargeable as aforesaid, and in such case the provision of this Act relating to the delivery of returns or particulars by persons acting on behalf of others shall extend so as to require returns or particulars to be furnished by the resident person of the business so done by the non-resident person through or with the resident person, in the same manner as returns or particulars are to be delivered by persons acting for incapacitated or non-resident persons of income to be charged; and the amount of the percentage shall in each case be determined having regard to the nature of the business, and shall, when determined by the Board, be subject to an appeal to the Appeal Board as provided by section 87.
+
+(4) Nothing in this section shall render a non-resident person chargeable in the name of a broker or general commission agent or other agent where such broker, general commission agent or agent is not an authorised person carrying on the regular agency of the non-resident person, or a person chargeable as if he were an agent in pursuance of subsections (2) and (3) in respect of gains or profits arising from sales or transactions carried out through such a broker or agent.
+
+(5) The fact that a non-resident person executes sales or carries out transactions with other non-residents in circumstances which would make him chargeable in pursuance of subsections (2) and (3) in the name of a resident person shall not of itself make him chargeable in respect of gains or profits arising from those sales or transactions.
+
+(6) Where a non-resident person is chargeable to tax in the name of any attorney, factor, agent, receiver, branch or manager, in respect of any gains or profits arising from the sale of goods or produce manufactured or produced out of Trinidad and Tobago by the non-resident person, the person in whose name the non-resident person is so chargeable may, if he thinks fit, apply to the Board or, in the case of an appeal, to the Appeal Board to have the assessment to tax in respect of those gains or profits made or amended on the basis of the profits which might reasonably be expected to have been earned by a merchant or, where the goods are retailed by or on behalf of the manufacturer or producer, by a
+
+*Acts, etc., to be done by trustees, etc.*
+
+retailer of the goods sold, who had bought from the manufacturer or producer direct; and, on proof to the satisfaction of the Board or Appeal Board of the amount of the profits on the basis aforesaid, the assessment shall be made or amended accordingly.
+
+*Lists to be prepared by representative or agent. [16 of 1963 29 of 1966].*
+
+**61.** The person who is chargeable in respect of an incapacitated person, or in whose name a non-resident is chargeable, shall be answerable for all matters required to be done by virtue of this Act for the assessment of the income of any person for whom he acts and for the payment of the tax chargeable thereon.
+
+**62.** (1) Every person who, in whatever capacity, is in receipt of any money or value being income arising from any of the sources mentioned in this Act of or belonging to any other person who is chargeable in respect thereof, or would be so chargeable if he were resident in Trinidad and Tobago and not an incapacitated person, shall, whenever required to do so by any notice from the Board, prepare and deliver within the period mentioned in such notice a list in a form approved by the Board, signed by him, containing—
+
+(a) a true and correct statement of all such income;
+
+(b) the name and address of every person to whom the same shall belong.
+
+*Manager of corporate bodies of persons. Agent, etc., of non-resident to be assessed. [29 of 1966].*
+
+(2) Any person who refuses, fails or neglects to comply with the provisions of this section is guilty of an offence.
+
+**63.** The manager or other principal officer of every corporate body of persons shall be answerable for doing all such acts, matters and things as are required to be done by virtue of this Act for the assessment of such body and for payment of the tax.
+
+*Indemnification of representative.*
+
+**64.** Any resident agent, trustee, mortgagor or other person who pays or transmits any dividend, interest, rent, loan, royalty, management charge or other income derived from any source within Trinidad and Tobago to a non-resident person shall be deemed to be the agent of such non-resident person and shall, subject to section 50, be assessed and pay the tax accordingly.
+
+**65.** (1) Every person answerable under this Act for the payment of tax on behalf of another person may retain out of any money coming to his hands on behalf of such other person
+
+so much thereof as shall be sufficient to pay such tax, and shall be and is hereby indemnified against any person whatsoever for all payments made by him in pursuance and by virtue of this Act.
+
+*Deceased persons. [16 of 1963].*
+
+(2) For the purposes of this section, every person who is liable under any contract to pay money to a non-resident shall be deemed to be the person having the control of money and to be acting in a representative capacity for the payment of income tax belonging to the non-resident, and all money due by him under the contract shall be deemed to be money which comes to him on behalf of the non-resident.
+
+**66.** (1) Subject to subsection (2) and section 89(2) and (3), when any person dies during the year of income and such person would, but for his death, have been chargeable to tax for the year of income, or when any person dies during the year of income, or within six years after the expiration thereof, and no assessment has been made upon him for that year, the personal representative of such person shall be liable for and charged with the payment of the tax with which such person would have been chargeable, and shall be answerable for doing all such acts, matters and things as such person, if he were alive, would be liable to do under this Act.
+
+(2) In the case of a person dying during the year of income, if his personal representative distributes his estate before the commencement of the year of income, such personal representative shall pay the tax at the rate or rates in force at the date of distribution of the estate.
+
+*Artificial transactions, transfers to minors and in trust. [22 of 1951 26 of 1955 16 of 1963 5 of 1964 29 of 1966].*
+
+### MISCELLANEOUS PROVISIONS AS TO ASSESSMENT OF TAX
+
+**67.** (1) Where the Board is of opinion that any transaction which reduces or would reduce the amount of tax payable by any person is artificial or fictitious, or that full effect has not in fact been given to any disposition or settlement within the meaning of section 72 the Board may disregard any such transaction or disposition or settlement within the meaning of section 72 and the persons concerned shall be assessable accordingly.
+
+(2) Where, under or by virtue of a disposition made directly or indirectly by any disponer, the whole or any part of what would otherwise have been the income of that disponer is payable to or for the benefit, whether present or future and whether on the fulfilment of a condition or the happening of a contingency, or as the result of the exercise of a power or discretion conferred on any person, or otherwise, of a minor, such income shall be deemed to be the income of the disponer and not the income of any other person during the minority of such minor and subsequent to such minority shall continue to be so deemed unless the Board is satisfied that the disposition was not made for the purpose of avoiding tax.
+
+(3) Where a person transfers property in trust and provides that a corpus of the trust shall revert either to the donor or to such persons as he may determine at a future date, or where a trust provides that during the lifetime of the donor no disposition or other dealing with the trust property shall be made without the consent, written or otherwise, of the donor, such person shall nevertheless be liable to be taxed on the income derived from the property transferred in trust, or from property substituted therefor, as if such transfer had not been made.
+
+(4) Subsection (1) shall have effect whether the transaction or disposition was effected or made before or after the commencement of this Act.
+
+(5) Subsection (2) shall have effect (whether the disposition was effected or made before or after the commencement of this Act) in regard to assessments made in respect of the former year of assessment 1951 and each succeeding former year of assessment and subsequent years of income.
+
+(6) Subsection (3) shall apply to all transfers made or trusts created after 4th December 1941.
+
+(7) In this section, “disposition” includes any settlement, trust, grant, covenant, agreement, arrangement or transfer of assets, and “minor” means a person under the age of twenty-one years.
+
+(8) A discretion conferred on the Board by this section may be exercised, on appeal under section 87, by the Appeal Board.
+
+*Settlements. [16 of 1963].*
+
+(9) Nothing in this section shall prevent any income under any disposition from being treated for the purpose of tax as the income of the persons making the disposition in any case in which this section does not apply.
+
+*Revocable settlements. [16 of 1963].*
+
+**68.** Any income which, by virtue of any settlement made directly or indirectly by any person, may accrue to or may be received by any other person for a period which cannot exceed six years, shall be deemed for all the purposes of this Act to be the income of the settlor, if living, and not to be the income of any other person.
+
+**69.** (1) All income which in any year of income accrued to or was received by any person under a revocable settlement shall be deemed to be income of the settlor for such year of income and not income of any other person.
+
+(2) Where in any year of income the settlor, or any relative of the settlor, or any person under the direct or indirect control of the settlor or of any of his relatives, by agreement with the trustees of a settlement in any way, whether by borrowing or otherwise, makes use of any income arising, or of any accumulated income which has arisen under such settlement to which he is not entitled thereunder, then the amount of such income or accumulated income so made use of shall be deemed to be income of such settlor for such year of income and not income of any other person.
+
+(3) For the purposes of this section, a settlement shall be deemed to be revocable if under its terms the settlor—
+
+(a) has a right to reassume control, directly or indirectly, over the whole or any part of the income arising under the settlement or of the assets comprised therein; or
+
+(b) is able to have access, by borrowing or otherwise, to the whole or any part of the income arising under the settlement or of the assets comprised therein; or
+
+*When income of settlement not income of settlor. [16 of 1963 30 of 1974 14 of 1976 35 of 1998].*
+
+(c) has power, whether immediately or in the future and whether with or without the consent of any other person, to revoke or otherwise determine the settlement and, in the event of the exercise of such power, the settlor or the wife or husband of the settlor will or may become beneficially entitled to the whole or any part of the property comprised in the settlement or to the income from the whole or any part of such property, but a settlement shall not be deemed to be revocable by reason only that under its terms the settlor has a right to reassume control, directly or indirectly, over any income or assets relating to the interest of any beneficiary under the settlement in the event that such beneficiary should predecease him.
+
+**70.** (1) Where income under a settlement may accrue to or may be received by any person other than the settlor, then unless under the settlement the income either accrues to or is received by—
+
+}
+
+(a) an individual who is not in the service of the settlor, or accustomed to act as the Attorney-at-law or agent of the settlor, (b)
+
+(Repealed by Act No. 35 of 1998)
+
+(c)
+
+the income shall be deemed to be the income of the settlor and not the income of any other person.
+
+(2) (Repealed by Act No. 35 of 1998).
+
+(3) Notwithstanding subsection (1) where income which has accrued to any person is assigned by that person under a deed of covenant or other instrument of assignment to his or her spouse, such income shall be deemed to be the income of the assignor and not the income of the spouse.
+
+**71.** (1) (Repealed by Act No. 6 of 1989).
+
+(2) (Repealed by Act No. 35 of 1998).
+
+*Interpretation of sections 68 to 70. [16 of 1963].*
+
+**72.** In sections 68 to 70—
+
+“relative” means a husband, wife, ancestor, lineal descendant, brother or sister;
+
+“settlement” includes any disposition, trust, covenant, agreement, arrangement or transfer of assets;
+
+*Commencement of sections 68 to 72. [16 of 1963].*
+
+“settlor”, in relation to a settlement, includes any person by whom the settlement was made.
+
+**73.** Sections 68 to 70 and section 72 have effect from }
+
+5th December 1962.
+
+**74.** (1) (Repealed by Act No. 35 of 1998).
+
+(2)
+
+(Repealed by Act No. 6 of 1989).
+
+(3)
+
+(4) (Repealed by Act No. 35 of 1998).
+
+\*(5) In this section—
+
+“disposition” has the same meaning as in section 67(7) and includes a settlement as defined by section 72;
+
+“disponer”, in relation to a disposition, includes any person by whom the disposition was made;
+
+*Ch. 85:04. Deductions for settlements. [29 of 1966].*
+
+“total income” means the aggregate amount of the income of the disponer from the sources specified in section 5 before making any deductions allowed by any provision of this Act other than sections 10, 11 and 16 and the Income Tax (In Aid of Industry) Act.
+
+**75.** Where under or by virtue of any disposition (as defined by section 74) made directly or indirectly by any person any income may accrue to or may be received by any other person, such income shall to the extent that it is not otherwise directed to be regarded by any provision of this Act be treated as the income of the disponee, and not as the income of any other person. * This provision now stands on its own as the remaining provisions of section 74 have been repealed.
+
+*\76. (1)*
+
+*Returns of*
+
+*respect of*
+
+*income. [66 of 1975 of 1988*
+
+*be approved*
+
+*5 of 1995 35 of 1998*
+
+*year of*
+
+*91 of 2000 2 of 2002].*
+
+*furnish the his behalf to furnish a*
+
+RETURNS: BY WHOM TO BE MADE Every person liable to furnish a return of income in any year of income either personally or in a representative capacity, shall furnish a return in such form as may 11 by the Board within four months after the end of that income.
+
+(2) The return shall be signed by the person liable to return of income or by an agent authorised to sign on and shall contain—
+
+(a) a calculation of the tax payable in respect of the chargeable income, if any, disclosed therein; and
+
+(b) an address for service of notices.
+
+(3) For the purposes of this section, “every person liable return of income” includes—
+
+(a) every person liable to pay tax under this Act;
+
+(b) every partnership;
+
+(c) every person who in that or any previous year of income has made a loss in respect of which he may be entitled to claim a deduction in the year of income or any subsequent year of income;
+
+(d) subject to subsection (4), every person who derives any income from any source specified in section 5, irrespective of the amount of such income; and
+
+(e) every person who derives any income which would be charged to tax under this Act but for the provisions of any other written law which exempts such income from the charge to tax. (4) Notwithstanding subsection (3)—
+
+(a) an individual who is resident in Trinidad and Tobago, whose sole source of income is from an office or employment; or
+
+(b) a person not resident in Trinidad and Tobago, whose income derived from Trinidad and Tobago consists only of income to which the provisions of section 50 other than subsection (6) thereof apply,
+
+shall be relieved of the obligation of furnishing a return of income under subsection (1).
+
+(5) Any person liable to furnish a return of income in respect of any year of income who fails, neglects or refuses to do so is guilty of an offence.
+
+(6) Any person who fails, neglects or refuses to furnish a return of income for the year of income 1987 and subsequent years after six months from the time required to file the return, shall thereafter in addition to any other penalty provided in this Act, unless the Board otherwise directs, be liable to a penalty of one hundred dollars for every six months or part thereof during which such failure, neglect or refusal continues.
+
+*Board of Inland Revenue file number. [17 of 1985 2 of 2013].*
+
+(7) Any person who has not furnished a return of income for any year of income preceding the year of income 1987 and fails, neglects or refuses to furnish any such return on or before 31st October 1988 shall, in addition to any other penalty provided in the Act, be liable to a penalty of one hundred dollars in respect of any such return for every six months or part thereof during which such failure, neglect or refusal continues.
+
+**76A.** (1) Notwithstanding any other law, any person who makes an application to or is issued any permission, licence, authority or any such other document by any—
+
+(a) Government Department;
+
+(b) Public Authority including a local authority;
+
+(c) Public Corporation or other State Agency; or
+
+(d) the Central Bank,
+
+may be required to furnish the person processing the application or issuing the document with his Board of Inland Revenue file number (hereinafter referred to as “the B.I.R. file number”).
+
+(1A) Where an application is made by a person for a B.I.R. file number, the Board shall, within one working day after the date of receipt of the application issue a B.I.R. file number to the person.
+
+(2) Where any person referred to in subsection (1) fails to furnish the B.I.R. file number when required to do so, the Central Bank or Public Agency referred to in subsection (1) shall not process the application or issue the document.
+
+*Employee or officer to furnish B.I.R. file number to employer. [17 of 1985]. Sub. Leg. Ch. 75:01. Exemptions. [17 of 1985].*
+
+(3) In this Act “the Board of Inland Revenue file number” means the Board of Inland Revenue file number assigned by the Board to a taxpayer for the purpose of processing an income tax return under section 76.
+
+**76B.** Every employee or officer from whose emoluments tax was deducted by the employer shall furnish his employer with his B.I.R. file number, and the employer shall record that number on the certificate issued by him under regulation 12 of the Income Tax (Employment) Regulations.
+
+**76C.** The following persons are exempted from compliance with the provisions of section 76A:
+
+(a) any person of the age of sixteen years and under;
+
+(b) any person specified in section 8(1)(a) and (b) of the Act but only in respect of emoluments or pension referred to in that section;
+
+(c) temporary residents in Trinidad and Tobago not in receipt of income where the total period of residence in Trinidad and Tobago does not exceed six weeks;
+
+*Power of Board to require returns. [16 of 1963 29 of 1966 2 of 2002].*
+
+(d) a person who satisfies the Board that he is not in receipt of income or is not required to furnish a return of income under section 76(4), and who is in receipt of a certificate issued by the Board to that effect in respect of a year of income.
+
+**77.** (1) Notwithstanding section 76(4), the Board may, by notice, require any person, or the attorney of any person, or the secretary, attorney, manager, agent, or other principal officer of a company residing in Trinidad and Tobago, to make returns under this Act within the time specified in such notice.
+
+*Partnerships. [16 of 1963].*
+
+(2) Any person who, after being required by the Board to make a return, fails or neglects to do so within the time specified is, whether or not any liability to tax is involved, guilty of an offence. PARTNERSHIPS
+
+**78.** (1) Where a trade, business, profession or vocation is carried on by two or more persons jointly, the income of any partner from the partnership for the year of income shall be deemed to be the share to which he is entitled in the income of the partnership for that year (such income being ascertained in accordance with the provisions of this Act) and shall be included in the return of income to be made by such partner under the provisions of this Act.
+
+(2) (a) The precedent partner, that is to say, the partner who of the partners resident in Trinidad and Tobago—
+
+(i) is first named in the agreement of partnership;
+
+(ii) if there be no agreement, is named singly or with precedence to the other partners in the usual name of the firm; or
+
+(iii) is the precedent acting partner, if the partner named with precedence is not an acting partner, shall make and deliver a return of the income of the partnership for any year, such income being ascertained in accordance with the provisions of this Act and shall declare therein the names and addresses of the other partners in the firm together with the amount of the share of the said income to which each partner was entitled for that year.
+
+(b) Where no partner is resident in Trinidad and Tobago, the return shall be made and delivered by the attorney, agent, manager or factor of the firm resident in Trinidad and Tobago.
+
+(3) Any person who refuses, fails or neglects to deliver any return required under this section is guilty of an offence.
+
+*Payment of tax by instalments. [16 of 1963 5 29 of of 1964 8 11 of of 1967 25 of 1992]. Third Schedule.*
+
+### PAYMENT OF TAX
+
+**79.** (1) Subject to this section, every person shall pay to the Board on or before 31st March, 30th June, 30th September and 31st December, respectively, in each year of income, an amount equal to one-quarter of the tax as estimated by him at the rates set 1966 out in Part I of the Third Schedule on his estimated chargeable 1988 income for the year and, on or before 30th April in the next year, the remainder of the tax, as estimated by him.
+
+(2) For the purposes of subsection (1), the estimated chargeable income of any person for a year of income shall be taken to be the chargeable income as disclosed in his return, if any, of total income for the preceding year of income.
+
+(3) Where the estimated chargeable income of any person for the year of income as provided for by subsection (2) is, in the opinion of such person, likely to be less than the chargeable income of the preceding year, on an application by such person for the purpose, the Board may revise the estimated chargeable income of that person and the amount of tax chargeable thereon, and the provisions of subsection (1) shall apply accordingly.
+
+(3A) Where the estimated chargeable income of any person for a year of income is likely to exceed or exceeds the chargeable income of the preceding year of income, the quarterly instalments by that person shall be paid on the basis of the estimated chargeable income of the year of income.
+
+(3B) Where a person to whom subsection (3A) applies had paid quarterly instalments which amount to less than the tax liability disclosed in the return of the year of income, such person shall, with effect from 1st January 1992, pay interest under section 103 on the difference between—
+
+(a) the tax liability on the chargeable income of the previous year of income plus 80 per cent of the increase in the tax liability of the current year on the previous year of income; and
+
+(b) the total amount paid by the end of the fourth quarter.
+
+(4) The Board may estimate the amount of tax payable by any person where—
+
+(a) that person fails to make the return required by section 76(1);
+
+(b) no tax was payable in the immediately preceding year of income, and, upon making demand therefor in writing of such person, subsection (1) shall apply accordingly, as if the Board’s estimate was the estimate of such person.
+
+(5) Where an individual is in receipt of emoluments within the meaning of section 100 in a year of income, the provisions of subsection (1) shall not apply to that individual in respect of that part of his income arising or accruing to him from emoluments received by him in the year of income, but the instalment of tax payable under subsection (1) shall be at the highest rates as if that part of his income arising or accruing to him from emoluments as aforesaid was included in his estimated chargeable income for the year.
+
+(6) Where amounts have been deducted or withheld under section 99(1) from the emoluments received by an individual in a year of income, if the emoluments from which such amounts have been deducted or withheld and which he had received in the year, are equal to or greater than three-quarters of his total income for the year, he shall, on or before 30th April in the next year, pay to the Board the remainder of his tax for the year as estimated by him.
+
+*Payment of tax for 1963. [16 of 1963 5 of 1964 29 of 1966]. Third Schedule.*
+
+(7) Where the income of an individual for a year of income consists solely of income from emoluments within the meaning of section 100 that individual shall, on or before 30th April in the next year, pay to the Board the remainder of his tax, if any, as estimated by him.
+
+**80.** (1) Notwithstanding section 79, but subject to this section, every person shall for the year of income 1963 pay to the Board on or before the 30th June an amount equal to one-half and on or before the 30th September and the 31st December, respectively, an amount equal to one-quarter of the tax at the rates in the Third Schedule on his estimated chargeable income for 1963, and on or before the 30th April in the next year, the remainder of the tax, if any.
+
+*16 of 1963.*
+
+(2) For the purposes of subsection (1), the estimated chargeable income of any person for the year of income 1963 shall be taken to be the chargeable income as disclosed in his return, if any, of total income for what would have been the year of assessment 1963 had the Income Tax (Amendment) Act, 1963 not been passed.
+
+(3) Where an individual is in receipt of emoluments within the meaning of section 100 in the year of income 1963, the provisions of subsection (1) shall not apply to that individual in respect of that part of his income arising or accruing to him from emoluments received by him in that year of income, but the instalment of tax payable under subsection (1) shall be at the highest rates, as if that part of his income arising or accruing to him from emoluments as aforesaid was included in his estimated chargeable income for the year.
+
+(4) For the purposes of subsection (1), where—
+
+(a) any person has failed to make the return referred to in subsection (2);
+
+(b) no tax was payable for what would have been the year of assessment 1963 had the Income Tax (Amendment) Act, 1963 not been passed, the Board may estimate the amount of tax payable by such person, and upon making demand therefor in writing of such person, the provisions of subsection (1) shall apply accordingly, and tax shall be paid on such estimate.
+
+(5) Where amounts have been deducted or withheld under section 99 from the emoluments received by an individual in the year of income 1963, if the emoluments from which such amounts have been deducted or withheld and which he had received in the year are equal to or greater than three-quarters of his total income for the year, he shall, on or before the 30th April 1964, pay to the Board the remainder of tax, if any.
+
+(6) Where the income of an individual for the year of income 1963 consists solely of income from emoluments within the meaning of section 100, that individual shall, on or before the 30th April 1964, pay to the Board the remainder of his tax, if any, as estimated by him.
+
+*Payment of assessed tax. [16 of 1963 29 of 1966].*
+
+**81.** (1) Every person shall, within thirty days from the day of the service on that person of the notice of assessment, pay to the Board any part of the tax stated in the notice to be payable by him, any interest and any penalties then remaining unpaid in respect of the remainder.
+
+(2) Where any person disputes an assessment under subsection (1), such person shall nevertheless within the time limited by subsection (1) pay to the Board the part of the tax stated in the notice to be payable by him and any interest and any penalties then remaining unpaid that is not in dispute.
+
+*Payments on behalf of others. [16 of 1963 29 of 1966 35 of 1998].*
+
+(3) Notwithstanding anything in this section to the contrary, where in the opinion of the Board any person is attempting to avoid payment of tax the Board may direct that all taxes, penalties and interest be paid forthwith upon assessment.
+
+*Certificate before distribution.*
+
+**82.** (1) Every person required by this Act to deliver a return of the income of any other person for a year of income shall, within thirty days from the date of service on such person of the notice of assessment, pay all taxes, penalties and interest payable by or in respect of that person to the extent that he has or had, at any time since the year of income, in his possession or control property belonging to that person or his estate and shall thereupon be deemed to have made that payment on behalf of that person.
+
+(2) Every assignee, liquidator, administrator, executor, trustee in bankruptcy and other like person, before distributing any property under his control, shall obtain a certificate from the Board certifying that there are not outstanding any taxes, interest or penalties that have been assessed under this Act and are chargeable against or payable out of the property.
+
+*Liability.*
+
+(2A) Every assignee, liquidator, administrator, executor, trustee in bankruptcy and other like person shall submit to the Board full details of the assets and property distributed within three months of such distribution.
+
+(3) Distribution of property without a certificate required by subsection (2) shall render the person required to obtain the certificate personally liable for the unpaid taxes, interest and penalties.
+
+*Relief from payment of tax. [30 of 2007].*
+
+**82A.** For the purposes of sections 79 to 82, 86, 87 and 89, where the tax payable by a person—
+
+(a) as stated in a notice of assessment or additional assessment;
+
+(b) upon the variation of an assessment after the determination of an objection or appeal in accordance with this Act, does not exceed one hundred dollars, the tax so payable shall be deemed to be nil.
+
+*Board to make assessments. [16 of 1963 29 of 1966 35 of 1998]. Acceptance of return. Refusal of return. Assessment in default of return.*
+
+### ASSESSMENTS
+
+**83.** (1) The Board shall proceed to assess every person chargeable with the tax as soon as may be after the day prescribed for delivering the returns.
+
+(2) Where a person has delivered a return, the Board may—
+
+(a) accept the return and make an assessment accordingly; or
+
+(b) refuse to accept the return and, to the best of its judgment, determine the amount of the chargeable income of the person and assess him accordingly.
+
+*Additional tax on increased chargeable income.*
+
+(3) Where a person has not delivered a return and the Board is of the opinion that such person is liable to pay tax, it may, according to the best of its judgment, determine the amount of the chargeable income of such person and assess him accordingly, but such assessment shall not affect any liabilities otherwise incurred by such person by reason of his refusal, failure or neglect to deliver a return.
+
+(4) Subject to section 89(2) and (3), if at any time within the year of income or within six years after the expiration of the year of income or three years from the date the tax return is filed, whichever is later, the Board makes an assessment which results in a person being charged to tax for the year of income in respect of a total chargeable income in excess of the chargeable income disclosed in the return of income rendered by such person, the
+
+*Additional tax for non-return of income.*
+
+Board may (unless the person assessed proves to the Board’s satisfaction that the omission or incorrectness of the return did not amount to fraud, covin, art or contrivance, or gross or wilful neglect) charge such person, in addition to the total tax otherwise charged in the assessment, further tax not exceeding the amount of tax charged in respect of the excess.
+
+(5) If any person neglects or refuses to render a return of income as required by this Act the Board may (unless such person proves to the Board’s satisfaction that such neglect or refusal was for reasonable cause and ought fairly to be excused) charge such person additional tax equal to treble the amount of tax which would have been payable if this subsection had not been enacted.
+
+(6) Nothing in subsections (1) to (5) shall be construed as derogating from any other provisions of this Act.
+
+*Board may remit additional tax. Appeal Board’s discretion re additional tax.*
+
+(7) The provisions of this Act shall apply to any additional tax charged by virtue of this section as they do to tax ordinarily chargeable under this Act.
+
+(8) Without prejudice to the powers conferred by section 124 the Board may for reasons which may appear to it sufficient at any time remit in whole or in part any additional tax charged under this section.
+
+*Appointment of agent in the United Kingdom. [16 of 1963 29 of 1966].*
+
+(9) A discretion to charge additional tax vested in the Board by this section may be exercised, on appeal under section 87 by the Appeal Board; but if the Appeal Board confirms the decision of the Board to charge additional tax and finds that the additional tax imposed by the Board did not exceed the maximum additional tax which could properly be charged, the appeal as regards the additional tax shall be dismissed.
+
+**84.** (1) For the purposes of facilitating the assessment of the income of persons residing in the United Kingdom, the President may appoint an agent in the United Kingdom who shall make enquiries on behalf of the Board in respect of any such person as may apply to be dealt with through such agent, and shall ascertain and report to the Board the amount of the chargeable income of
+
+such person in accordance with this Act, and shall forward to the Board the accounts and computations upon which his report is based. The Board, on receipt of the report, shall enter the amount reported in the assessment list.
+
+(2) If it appears to the Board that any error has occurred in the accounts or computation it may refer the report back for further consideration.
+
+(3) Nothing in this section shall prevent the appeal to the Appeal Board in Trinidad and Tobago conferred by section 87.
+
+*Lists of persons assessed and notices of assessments. [29 of 1966].*
+
+### ASSESSMENT LISTS
+
+**85.** (1) After completing its assessment, the Board shall prepare lists of persons liable to tax.
+
+(2) Such lists (herein called the assessment lists) shall contain the names and addresses of the persons assessed to tax, the amount of the chargeable income of each person, the amount of the tax payable by him, and such other particulars as may be necessary.
+
+*Notices to be served on persons assessed. [16 of 1963 of 1966 32 of 1969 1 of 1986 3 of 1994 35 of 1998].*
+
+### NOTICES OF ASSESSMENTS
+
+**86.** (1) The Board shall cause to be served on each person whose name appears on the assessment list a notice addressed to him at his usual place of abode or business stating the amount of his chargeable income and the amount of tax payable by him, and 29 informing him of his rights under subsection (2).
+
+(2) If any person disputes the assessment he may apply to the Board by notice of objection in writing delivered to the Board to review and to revise the assessment made upon him. Such application shall state precisely the grounds of his objections to the assessment and shall be made within fifteen days from the date of the service of the notice of assessment.
+
+(3) An application under subsection (2) may be made out of time if the Board is satisfied that there was a reasonable excuse
+
+for not making the application within the time limited and that the application was made thereafter without unreasonable delay.
+
+(4) Where the Board disallows an objection for the reason that it is not satisfied under subsection (3), an appeal shall lie to the Appeal Board from such a decision in accordance with section 87.
+
+(5) On receipt of a notice of objection duly made, the Board shall reconsider the assessment and may vacate or vary the assessment, or confirm the assessment and disallow the objection.
+
+(5A) (1) Where, in reconsidering an assessment for the purposes of an objection—
+
+(a) the Board exercises its powers under section 97 by requiring within a specified time the person objecting to the assessment—
+
+(i) to furnish such particulars as the Board may consider necessary with respect to the assessed income; and
+
+(ii) to produce all books and other documents in the custody or under the control of that person relating to that income; and
+
+(b) the person objecting to the assessment, without lawful excuse, refuses or neglects to furnish the particulars or to produce the books or other documents within the specified time, the notice of objection delivered by that person shall cease to have effect and the assessment shall be final and conclusive.
+
+(2) Where new information arises in reconsidering an assessment the Board may raise any new issue at that stage and may increase such assessment.
+
+(6) The Board shall serve on the objector notice of its decision under subsection (5).
+
+(7) In the event of any person assessed, who has objected to an assessment made upon him, agreeing with the Board as to the amount at which he is liable to be assessed the
+
+amount so agreed shall be the amount at which such person shall stand assessed, and the assessment shall be confirmed or amended accordingly; but in the event of any person who under subsection (2) has applied to the Board for a revision of the assessment made upon him failing to agree with the Board as to the amount at which he is liable to be assessed, his right of appeal to the Appeal Board under this Act against the assessment made upon him shall remain unimpaired.
+
+(8) Where within twenty-four months after the service of the notice of objection, the Board fails to determine the objection, the objection shall be deemed to have been determined in favour of the person who has disputed his assessment and the assessment shall be amended accordingly.
+
+*Ch. 4:50.*
+
+(9) Where, upon the expiration of twelve months after the service of the notice of objection the Board fails to determine the objection, the person who has disputed his assessment may, notwithstanding section 7(2) of the Tax Appeal Board Act, appeal to the Appeal Board within twelve months of such expiration.
+
+*29 of 1966.*
+
+(10) Where an objection against an assessment has been made before 27th September 1966 (that is, the date of the passing of the Finance Act 1966), and proceedings in respect of that objection are subsequent to the date of the coming into operation of the said Act still pending before the Board, then unless such objection is determined by the Board within one year from the passing of the Act, the objection shall be deemed to have been determined in favour of the person who has disputed his assessment and the assessment shall be amended accordingly.
+
+*Ch. 4:50.*
+
+(11) Upon the expiration of the time for giving notice of appeal to the Appeal Board under section 7 of the Tax Appeal Board Act, the person who has disputed his assessment shall, if no appeal is then pending, within thirty days, pay to the Board of Inland Revenue any part of the tax that was in dispute and any interest and penalties remaining unpaid as is determined by the Board.
+
+*Right of appeal against Board decision. [16 of 1963 29 of 1966]. Ch. 4:50. Liability not affected by inaccurate or incomplete assessments, absence of assessments, errors of form or description. [16 of 1963 29 of 1966].*
+
+### APPEALS AGAINST ASSESSMENT
+
+**87.** Any person who has disputed his assessment by notice of objection under this Act and who is dissatisfied with the decision of the Board may appeal to the Appeal Board in accordance with the provisions of the Tax Appeal Board Act.
+
+### ERRORS IN ASSESSMENTS AND NOTICES
+
+**88.** (1) Liability for tax under this Act shall not be affected by an incorrect or incomplete assessment or by the fact that no assessment has been made.
+
+(2) The Board shall not be bound by a return or information supplied by or on behalf of a person chargeable to tax and in making an assessment may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable.
+
+(3) No assessment, warrant or other proceeding purporting to be made in accordance with the provisions of this Act shall be squashed or deemed to be void or voidable for want of form, or be affected by reason of a mistake, defect or omission therein if the same is in substance and effect in conformity with or according to the intent and meaning of this Act or any written law amending the same, and if the person assessed or intended to be assessed or affected thereby is designated therein according to common intent and understanding.
+
+(4) An assessment shall not be impeached or affected—
+
+(a) by reason of a mistake therein as to—
+
+(i) the name or surname of a person liable;
+
+(ii) the description of any income; or
+
+(iii) the amount of tax charged;
+
+(b) by reason of any variance between the assessment and the notice thereof; provided that in cases of assessment, the notice thereof shall be duly served on the person intended to be charged, and such notice shall contain, in substance and effect, the particulars on which the assessment is made.
+
+*Assessments, additional assessments, etc. [16 of 1963 of 1966 35 of 1998].*
+
+### ADDITIONAL ASSESSMENTS
+
+**89.** (1) Subject to this section, where it appears to the Board that any person liable to tax has not been assessed, or has been assessed at a less amount than that which ought to have been charged, the Board may, within the year of income or within six 29 years after the expiration of the year of income or three years from the date the tax return is filed, whichever is later, assess such person at such amount or additional amount as according to its judgment ought to have been charged, and the provisions of this Act as to notice of assessment, appeal and other proceedings under this Act shall apply to such assessment or additional assessment and to the tax charged thereunder.
+
+(2) Where any fraud or any gross or wilful neglect has been committed by or on behalf of any person in connection with or in relation to—
+
+(a) any tax for the former years of assessment or for any subsequent year of income; or
+
+(b) any claim, deduction, relief, exemption or other matter having or that might have had a direct or indirect effect upon the amount of tax for the former years of assessment or for any subsequent year of income, an assessment or additional assessment, as the case may be, may, for any such former year of assessment or year of income, be made at any time on that person under subsection (1) or section 83 or, subject to subsection (3), on the personal representative of that person under subsection (1) or section 66 and section 83.
+
+(3) In the case of an assessment or an additional assessment made upon the personal representative of a deceased person in respect of any income of that deceased person that would but for his death have been assessed and charged to tax on him, the time allowed pursuant to subsection (1), sections 66 and 83 for the making of the assessment or additional assessment, as the case may be, shall not extend beyond the expiration of a period of three years after the former year of assessment or the year of income in which the deceased person died.
+
+*16 of 1963.*
+
+(4) Subsections (1) and (3) have effect for the former years of assessment 1961 and 1962 and subsequent years of income but do not render invalid any assessment, objection or appeal made or pending under this Act before 20th April 1965 [that is, the date of commencement of the Income Tax (Amendment) Act 1963].
+
+*Circumstances under which repayment may be made. [16 of 1963 29 of 1966].*
+
+### REPAYMENT OF TAX
+
+**90.** (1) If it be proved to the satisfaction of the Board that any person for any year of income has paid tax in excess of the amount with which he is properly chargeable, such person shall be entitled to have the amount so paid in excess refunded. Every claim for repayment under this section shall be made within six years from the end of the year of income to which the claim relates. The Board shall give a certificate of the amount to be repaid and upon the receipt of the certificate the Comptroller of Accounts shall cause repayment to be made in conformity therewith.
+
+(2) The extension of the time within which such claim for repayment shall be made has effect for the former years of assessment 1961 and 1962, and subsequent years of income.
+
+*Refund of excess of tax collected under section 99. [23 of 1957].*
+
+(3) Except as regards sums repayable on an objection or appeal, no repayment shall be made to any person in respect of any year of income as regards which that person has failed or neglected to deliver a return or has been assessed in a sum in excess of the amount contained in his return, provided that he has received notice of the assessment made upon him for that year, unless it is proved to the satisfaction of the Board that such failure or neglect to deliver a true and correct return did not proceed from any fraud or wilful act or omission on the part of that person.
+
+**91.** Notwithstanding any provision of section 90 to the contrary, where, after the assessment has been made in accordance with the provisions of this Act, any amount collected as required by section 99 is found to be in excess of the amount of tax shown to be payable in an assessment, the excess shall be refunded as soon as practicable thereafter to the person from whose emoluments the tax was deducted or withheld.
+
+*Refunds. [16 of 1963 5 of 2004].*
+
+**92.** (1) For the purposes of sections 79 and 82 but subject to section 90, if any person shall deliver a return of his income for a year of income within two years from the end of the year, the Board—
+
+(a) may, upon serving the notice of assessment for the year, refund, without application therefor, any overpayment made on account of the tax; and
+
+(b) shall make such a refund after serving the notice of assessment if application therefor has been made in writing by that person within twelve months from the day on which the overpayment was made or the day on which the notice of assessment was served.
+
+(2) Instead of making a refund that might otherwise be made under this section, the Board may, where the person is liable or about to become liable to make another payment under this Act, or any other written law administered by the Board, apply the amount of the overpayment to that other liability and notify such person of that action.
+
+(3) For the purpose of this section, “overpayment” means the aggregate of all amounts paid on account of tax less all amounts payable under this Act or an amount so paid where no amount is so payable.
+
+(4) Where an amount in respect of an overpayment is refunded or applied under this section to other liability, interest at the rate of four per cent a year shall be paid or applied thereon for the period commencing with the latest of—
+
+(a) the day when the overpayment arose;
+
+(b) the day on or before which the return of the income in respect of which the tax was paid was required to be filed; or
+
+(c) the day when the return of income was actually filed,
+
+and ending with the day of refunding or application aforesaid, unless the amount of the interest so calculated is less than one dollar, in which event no interest shall be paid or applied under this subsection.
+
+*Relief from double taxation. [29 of 1966 32 of 1969].*
+
+### RELIEF IN CASES OF DOUBLE TAXATION
+
+**93.** (1) If the President by Order declares that arrangements specified in the Order have been made with the Government of any country with a view to affording relief from double taxation in relation to income tax and any tax of a similar character imposed by the laws of that country, and that it is expedient that those arrangements should have effect, then subject to section 95 the arrangements shall, notwithstanding anything in any written law, have effect in relation to income tax in so far as—
+
+(a) they provide for relief from tax; or
+
+(b) they provide for—
+
+(i) charging the income arising from sources in Trinidad and Tobago to persons not resident in Trinidad and Tobago; or
+
+(ii) determining the income to be attributed to such persons and their agencies, branches or establishments in Trinidad and Tobago; or
+
+*Fifth Schedule.*
+
+(iii) determining the income to be attributed to persons resident in Trinidad and Tobago who have special relationships with persons not so resident.
+
+(2) Part I of the Fifth Schedule shall have effect where arrangements which have effect by virtue of this section provide that tax payable under the laws of the country concerned shall be allowed as a credit against tax payable in Trinidad and Tobago.
+
+*Fifth Schedule.*
+
+(3) The President may by Regulations, subject to negative resolution, add to, vary or amend the provisions of the Fifth Schedule.
+
+(4) Where, under any arrangements which have effect by virtue of this section, relief may be given either in Trinidad and Tobago or in the country with the Government of which the arrangements are made in respect of any income, and it appears that the assessment to income tax made in respect of the income is not made in respect of the full amount thereof or is incorrect
+
+having regard to the credit, if any, which falls to be given under the arrangements, any such assessment may be made as is necessary to ensure that the total amount of the income assessed and the proper credit, if any, is given in respect thereof, and, where the income is entrusted to any person in Trinidad and Tobago for payment, any such assessment may be made on the recipient of the income under this Act.
+
+(5) Any arrangements to which effect is given under this section may include provision for relief from tax for periods before the commencement of this section or before the making of the arrangements and provisions as to income which is not itself subject to double taxation, and the preceding provisions of this section shall have effect accordingly.
+
+*Certain income deemed to be income for purposes of Act. [32 of 1969]. Unilateral relief. [29 of 1966]. Fifth Schedule.*
+
+(6) Any Order made under this section may be revoked by a subsequent Order and such revoking Order may contain such transitional provisions as appear necessary and expedient.
+
+**94.** Where under an arrangement to which section 93 refers provision is made whereby income, gains or profits are to be treated as arising in Trinidad and Tobago, such income, gains or profits shall, for all the purposes of this Act, be deemed to be the income, gains or profits of the person entitled thereto.
+
+**95.** (1) To the extent appearing from the following provisions of this section and Parts II and III of the Fifth Schedule, relief from income tax shall be given in respect of income tax payable under the law of any country outside Trinidad and Tobago by allowing the last-mentioned tax as a credit against income tax payable in Trinidad and Tobago, notwithstanding that there are not for the time being in force any arrangements under section 93 providing for such relief.
+
+*Fifth Schedule.*
+
+(2) (a) The said relief (hereinafter referred to in this section and in Parts II and III of the Fifth Schedule as “unilateral relief ”) shall be such relief as would fall to be given under Part I of the Fifth Schedule if arrangements with the Government of the foreign country containing such provision as appears in so much
+
+*Fifth Schedule.*
+
+of Part II of the Fifth Schedule as applies to that country were in force by virtue of section 93 and any reference occurring in the said Part I which imports a reference to relief under arrangements for the time being in force by virtue of section 94 shall be deemed to import also a reference to unilateral relief.
+
+*Fifth Schedule. Fifth Schedule.*
+
+(b) The total credit to be allowed by way of unilateral relief in the case of any income shall not, if the country is within prescribed Commonwealth countries, exceed one-half and in any other case one-quarter of the sum of the limits specified in paragraphs 5 and 6(1) of Part I of the Fifth Schedule; and
+
+(c) Part I of the Fifth Schedule shall, as respects unilateral relief, have effect subject to the provisions set out in
+
+## Part III of the Schedule.
+
+*Fifth Schedule.*
+
+(3) Where unilateral relief may be given in respect of any income and it appears that the assessment to income tax made in respect of the income is not made in respect of the full amount thereof or is incorrect having regard to the credit, if any, which falls to be given by way of unilateral relief, any such assessment may be made as is necessary to ensure that the total amount of income is assessed and the proper credit, if any, is given in respect thereof, and where the income is entrusted to any person in Trinidad and Tobago for payment, any such assessment may be made on the recipient of the income under this Act.
+
+*Power to vary withholding tax. [29 of 1966].*
+
+(4) References in this section and in Parts II and III of the Fifth Schedule to tax payable or tax paid under the law of a country outside Trinidad and Tobago include only references to taxes which are charged on income or profits and correspond to income tax in Trinidad and Tobago and, without prejudice to the generality of the preceding words, a tax which is payable under the law of a province, State or other part of a country, or which is levied by or on behalf of a municipality or other local body, shall not be deemed for the purposes of this subsection to correspond to income tax.
+
+**96.** (1) If the President by Order so provides, the rate of withholding tax shall be reduced to the extent so provided as respects any person, notwithstanding that there are not for the time being in force any arrangements under section 93 providing for such relief.
+
+*Fifth Schedule. Parts IV, V.*
+
+(2) Until arrangements are made with the Commonwealth countries set out in Part IV of the Fifth Schedule, the provisions in Part V of that Schedule shall continue to have effect for the purpose of double taxation relief with respect to those countries; and subsection (1) shall have effect for the purposes of withholding tax.
+
+*Power of Board to require schedule of particulars. [29 of 1966].*
+
+### GENERAL POWERS OF THE BOARD
+
+**97.** (1) The Board may, by notice in writing, require any person to furnish it within a specified time with a schedule containing such particulars as it may require for the purposes of this Act with respect to the income of such person.
+
+*Power of Board to require persons to attend before it.*
+
+(2) Any person who fails or neglects duly to furnish such schedules is guilty of an offence.
+
+(3) The Board may, by not less than fourteen days notice in writing, require any person to attend before it and give evidence with respect to his income, and to produce all books or other documents in his custody or under his control relating to such income.
+
+(4) Any person who, without lawful excuse, refuses or neglects to attend or give evidence in pursuance of such notice or to produce such books or other documents, or who refuses to answer any lawful question touching the matters under consideration or knowingly or wilfully gives any false evidence under this section, is guilty of an offence.
+
+*Declaration by persons to whom emoluments are paid. [23 of 1957 18 of 1958 16 of 1963 of 1966 2 of 1968 35 of 1998].*
+
+### COLLECTION AND RECOVERY OF TAX
+
+**98.** (1) Subject to the provisions of this section, every person, whether an employee or the holder of an office to whom any payment is made at any time during the year 1958 or any year thereafter of or on account of any emoluments, shall, for the purpose of enabling any deductions which may be made under section 99 to be calculated with reference to the allowances to 29 which such person may be entitled under Regulations made under section 125, file with the person making the payment a declaration in a form approved by the Board containing such
+
+particulars as may be prescribed by Regulations made under the said section 125; but a declaration shall not be filed by a person resident outside Trinidad and Tobago.
+
+(2) (a) The Board may declare that such of the persons to whom subsection (1) applies as may be specified in a notice published in the manner prescribed by Regulations made under section 125 shall, notwithstanding subsection (1), file the declaration referred to in the said subsection with the Board in a form approved by the Board.
+
+(b) A person who—
+
+(i) fails to file a declaration as required by this section; or
+
+(ii) files a declaration in contravention of this section,
+
+is liable on summary conviction to a fine of three thousand dollars.
+
+(3) For the purposes of this section and of section 99, the expression “employment” means the position of an individual in the service of some other person (including the State or the Government of Trinidad and Tobago); and the expression
+
+*Ch. 25:04.*
+
+*Deductions and payment of emoluments. [2 of 2002 5 of 2004 30 of 2007].*
+
+“office” means a position, not being an employment or place entitling the holder thereof to a fixed or ascertainable stipend or remuneration and includes the office of a Minister of the State, the office of a member of the Senate or the House of Representatives of Trinidad and Tobago, a member of a Corporation within the meaning of the Municipal Corporations Act and any other office the holder of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a company director.
+
+\*99. (1) Notwithstanding any provision of this Act to the contrary, where emoluments arise or accrue in or are derived from or received in Trinidad and Tobago in a year of income for the benefit of an employee or the holder of an office, tax shall, subject to and in accordance with any Regulations made under section 125, be deducted or withheld by the person providing the emolument. *This section has also been amended by the following: 23 of 1957; 18 of 1958; 16 of 1963;
+
+(1A) If any question arises as to whether—
+
+(a) an amount is an emolument in respect of which tax shall be deducted or withheld pursuant to this section;
+
+(b) an allowance claimed pursuant to section 98 should be admitted;
+
+(c) the quantum of the emolument is in dispute; or
+
+(d) the tax deducted or withheld from the emoluments of an employee is in accordance with the provisions of this Act or any regulations made under section 125, such question shall be determined by the Board in writing subject to the provisions of this section relating to objections and appeals against the determination of the Board.
+
+(1B) Where the Board is of the opinion that an amount is an emolument and that the correct taxes have not been deducted or withheld, it shall—
+
+(a) cause to be served on the person providing the emolument, notice of its determination under subsection (1A), demanding the amount of tax to be deducted or withheld by that person; and
+
+(b) inform the person of his right to object.
+
+(1C) Where a person providing an emolument under this section disputes the determination of the Board, he may apply to the Board by notice of objection in writing delivered to the Board, to review its determination and such application shall—
+
+(a) state precisely the grounds of his objection; and
+
+(b) be made within fifteen days from the date of service of the notice of determination.
+
+(1D) The provisions of section 86(3), (4), (5), (5A), (6), (7), (8) and (11) and section 87 of this Act relating to objections and appeals shall apply mutatis mutandis to this section, except in relation to the period of twenty-four months stated in section 86(8), which shall for the purposes of this section be read as twelve months.
+
+(2) The tax deducted or withheld as required by subsection (1) shall, subject to and in accordance with any Regulations made under section 125, be paid to the Board by the person deducting or withholding the same at such time or times and by such date or dates as may be prescribed by such Regulations, and on the payment thereof the Board shall send to such person a receipt which shall to the extent of the amount referred to therein be a good and sufficient discharge of the liability of such person for any amount deducted or withheld as required by this section.
+
+(3) Subject to subsection (10), where an amount has been deducted or withheld under subsection (1) from the emoluments of any person, it shall for the purposes of this Act be deemed to have been received by such person at the time of the deduction or withholding thereof.
+
+(4) If any person fails—
+
+(a) to deduct or withhold any amount required to be deducted or withheld by him by subsection (1); or
+
+(b) to remit or pay to the Board any amount which he is required by subsection (2) to pay to the Board by such date or dates as may be prescribed by Regulations made under section 125, he is guilty of an offence; and, in addition to such amount, there shall become payable by such person to the Board, unless the Board otherwise directs, a sum of twenty-five per cent of such amount, or forty dollars, whichever is the greater, and he shall pay interest at the rate of twenty per cent a year on such amount and on such additional sum, unless the Board otherwise directs, from the day on or before which he was required to make the payment to the day of payment, as if the same was tax payable by such person on the date when such amount was required to be deducted, withheld, remitted or paid, as the case may be, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and the recovery of any such sum or amount.
+
+(5) All amounts deducted or withheld by any person pursuant to the provisions of subsection (1) shall be deemed to be
+
+held in trust by such person for Trinidad and Tobago, whether or not they have in fact been kept separate and apart from such person’s own monies, and shall not be subject to attachment in respect of any debt or liability of the said person and in the event of any liquidation, assignment or bankruptcy the said amounts shall form no part of the estate in liquidation, assignment or bankruptcy but shall be paid in full to the Board before any distribution of the property is made.
+
+(6) Every person who has deducted or withheld any tax pursuant to subsection (1) shall deliver personally or send by post within such time or times as may be prescribed by regulations made under section 125 to the person from whose emoluments the tax was deducted or withheld or to such other person as may be prescribed by the said regulations such certificate of account relating to the amount of tax deducted by him as may be prescribed by the said regulations.
+
+(7) Any person who fails to comply with subsection (6) or who fails to deliver or send to the Board within such time or times as may be prescribed by Regulations made under section 125 any return, account or certificate or any copy thereof which he may be required by the said regulations to deliver or send to the Board for the purpose of rendering him accountable to the Board for any tax deducted or withheld by him pursuant to this section is liable on summary conviction to a fine of seventy-five dollars for every day during which such failure continues; but it shall be a good and sufficient defence to any complaint brought under this subsection that any such failure was not due to the wilful neglect or default of the defendant or of any person acting on his behalf.
+
+(8) No action shall lie against any person for deducting or withholding any sum of money in compliance or intended compliance with subsection (1).
+
+(9) Where by this Act any obligation is imposed on any person to deduct or withhold any tax pursuant to subsection (1), any agreement made by any such person not to withhold or deduct such tax shall be void and of no force or effect whatsoever.
+
+(10) Every person from whose emoluments any amount is deducted or withheld pursuant to subsection (1) shall upon the amount being so deducted or withheld be deemed to have paid the same and shall thereupon cease to be liable for tax to the extent of the amount so deducted.
+
+(11) The provisions of this Act requiring a person to deduct or withhold an amount in respect of taxes from emoluments payable to a taxpayer applies to the State and to the Government of Trinidad and Tobago.
+
+*Interpretation of emoluments. [23 of 1957 18 of 1958 16 of 1963].*
+
+(12) Where a trade, business, profession or vocation is carried on by two or more persons jointly, the precedent partner of the partnership as defined in section 78(2)(a) shall be personally liable for the performance or the duties by the preceding provisions of this section required to be performed by the person making the payment or by the person deducting or withholding any amount of tax; and where a trade, business, profession or vocation is carried on by a company, the managing director and the secretary of the company shall each, in addition to the company itself, be personally liable for the performance of the said duties.
+
+*Board to prepare tax tables. [23 of 1957 29 of 1966].*
+
+**100.** For the purposes of sections 98, 99, 125(1)(a) and 125(2)(a), the expression “emoluments” means all salary, wages, overtime, bonus, remuneration, perquisites including the value of board and lodging, stipend, commission or other amounts for services, directors’ fees, retiring allowances or pension, arising or accruing in or derived from or received in Trinidad and Tobago and which are assessable to income tax, but does not include any salary or share of profits arising from a trade, business, profession or vocation carried on by any person either by himself or in partnership with any other person.
+
+**101.** The Board shall from time to time as occasion may require, prepare tax tables, a copy whereof shall be made available to any person required by this Act or any Regulations made under section 125 thereof to deduct or withhold tax pursuant to section 99(1), for the purpose of enabling any such person to calculate, subject to and in accordance with any Regulations made under section 125, the amount of tax to be so deducted or withheld.
+
+*Penalty for nonpayment of tax and enforcement of payment. [23 of 1957 of 1958 16 of 1963].*
+
+**102.** (1) If any tax is not paid on or before the prescribed date, a sum equal to five per cent of the amount of the tax payable shall be added thereto, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and 18 recovery of such sum.
+
+(2) Subsection (1) applies only in respect of tax which becomes payable on or before 31st December 1957.
+
+(3) If any tax which becomes payable on or after 1st January 1958 is not paid on or before the prescribed date, a sum shall be added thereto calculated at the rate of twelve per cent a year of the amount of such tax remaining unpaid, and if any amount of such tax is not paid within twelve months after the prescribed date, the rate of fifteen per cent a year of the amount of such tax remaining unpaid, and the provisions of this Act relating to the collection and recovery of tax shall apply to the collection and recovery of such sum.
+
+*Interest. [14 of 1987 11 of 1988 of 2000 2 of 2002 30 of 2007].*
+
+(4) Subsection (3) applies only in respect of tax payable for the former years of assessment of 1958 to 1962.
+
+**103.** (1) Where the amount paid on account of tax payable by any person for a year of income on or before the expiration of the time allowed for filing the return of that person’s income is less 91 than the amount of tax payable for the year, the person liable to pay the tax shall pay interest on the difference between those two amounts from the expiration of the time for filing the return of income to the day of payment at the rate of twenty per cent a year, unless the Board, on being satisfied that the difference between the two amounts did not result from the taxpayer’s own default, directs a reduction in the rate of the interest payable.
+
+(2) In addition to the interest payable under subsection (1), where any person, being required by this Act to pay a part or instalment of tax, has failed to pay all or any part thereof as required, he shall, on payment of the amount he failed to pay, unless the Board otherwise directs, pay interest at twenty per cent a year from the day on or before which he was required to make the payment to the day of the payment or the beginning
+
+of the period in respect of which he becomes liable to pay interest thereon under subsection (1), whichever is the earlier.
+
+(3) The rate of interest referred to in subsections (1) and (2) shall come into effect on 1st May 2001.
+
+(4) Notwithstanding subsections (1) and (2), the amount of interest a person is liable to pay on account of the tax payable by him may be calculated by the Board from the due date up to a date determined by the Board, which is earlier than the date of payment.
+
+(5) The Board shall, by notice in writing, inform the person that interest shall not be calculated in accordance with subsection (1) or (2) as the case may be where the person pays the interest calculated in accordance with subsection (4) on or before a date stipulated in the notice.
+
+*Waiver of liabilities. [7 of 2016].*
+
+(6) Where the interest so calculated by the Board under subsection (4) remains unpaid after the date stipulated in the notice, the person shall be liable to pay interest calculated in accordance with subsections (1) and (2).
+
+**103A.** (1) Notwithstanding any written law to the contrary, there shall be a waiver of the following liabilities:
+
+(a) interest on outstanding income tax, further tax, additional tax, withholding tax and business levy due and payable for the years of income up to and including the year 2015, where such taxes or levy are paid during the period 1st July 2016 to 16th September 2016;
+
+(b) outstanding interest charged on any income tax, further tax, additional tax, withholding tax and business levy due and payable for the years of income up to and including the year 2015, where such taxes and levy have been paid prior to 1st July 2016;
+
+(c) all penalties due and payable on the outstanding income tax and withholding tax
+
+for the years of income up to and including the year ending 31st December 2015, where such taxes are paid during the period 1st July 2016 to 16th September 2016;
+
+(d) all penalties in respect of income tax and withholding tax due and payable for the years of income up to and including the year ending 31st December 2015, where such taxes are paid prior to 1st July 2016, where such penalties have not been paid;
+
+(e) penalties on outstanding income tax returns for the years of income up to and including the year 2015, where such returns are filed during the period 1st July 2016 to 16th September 2016; and
+
+(f) penalties with respect to income tax returns for the years of income up to and including the year 2015 and filed prior to 1st July 2016, where such penalties have not been paid.
+
+(2) For the avoidance of doubt, the waiver granted in this section shall not—
+
+(a) affect any liability to income tax, further tax, additional tax, withholding tax or business levy due and payable by a person under this Act; or
+
+(b) apply to any interest and penalties paid prior to 1st July 2016.
+
+*Distraint by Board. [23 of 1957 of 1958 16 of 1963 of 1966]. Sixth Schedule.*
+
+(3) Where any income tax returns, income tax, withholding tax or business levy remains outstanding after 16th September 2016, the interest and penalties, which would have been payable on such returns, taxes and levies shall be revived and become payable as if the waiver in subsection (1) had not been granted.
+
+**104.** (1) If upon demand made by the Board a person neglects or refuses to pay any tax or any portion thereof that has become payable, the Board by warrant under its hand, in the form given 18 in the Sixth Schedule, may authorise any person hereinafter 29
+
+referred to as an “authorised person” to distrain the person charged by his goods and chattels.
+
+(2) For the purpose of levying any such distress, the authorised person may break open, in the daytime, any house or premises, calling to his assistance any constable. Every such constable shall, when so required, aid and assist the authorised person in the execution of the warrant and in levying the distress in the house or premises.
+
+(3) A distress levied by the authorised person shall be kept for seven days, at the costs and charges of the person neglecting or refusing to pay.
+
+(4) If the person aforesaid does not pay the sum due, together with the costs and charges, within the said seven days, the distress shall be sold by public auction by the authorised person or any person deputed by him for payment of the sum due and all costs and charges. The costs and charges of taking, keeping and selling the distress shall be retained by the authorised person or any person deputed by him, and any overplus coming by the distress, after the deduction of the costs and charges and of the sum due, shall be restored to the owner of the goods distrained.
+
+*Ch. 15:02. Ch. 15:03. Priority of claim for tax. [16 of 1963 29 of 1966].*
+
+(5) In this section “constable” includes any member of the Police Service and any member of supplemental bodies of police established by the Supplemental Police Act or the Special Reserve Police Act.
+
+**105.** (1) No goods or chattels whatever, belonging to any person at the time any tax becomes in arrear, shall be liable to be taken by virtue of any execution or other process, warrant or authority whatever, or by virtue of any agreement or assignment on any account or pretence whatever, except at the suit of the landlord for rent, unless the person at whose suit the execution of seizure is made, or to whom the assignment was made, pays or causes to be paid to the Board before the sale or removal of the goods or chattels, all arrears of tax which are due at the time of
+
+seizure, or which are payable for the year in which the seizure is made; but where tax is claimed for more than one year, the person at whose instance the seizure has been made, may, on paying to the Board the tax which is due for one whole year, proceed in his seizure in like manner as if no tax had been claimed.
+
+*Execution of warrants. [16 of 1963]. Obstruction of officers. [16 of 1963].*
+
+(2) In case of neglect or refusal to pay the tax so claimed or the tax for one whole year, as the case may be, the authorised person shall distrain the goods and chattels notwithstanding the seizure or assignment, and shall proceed to the sale thereof as prescribed by this Act for the purpose of obtaining payment of the whole of the tax charged and claimed, and the reasonable costs and charges attending such distress and sale, and the authorised person so doing shall be indemnified by virtue of this Act.
+
+**106.** (1) Warrants shall be executed by the respective persons to whom they are directed in any part of Trinidad and Tobago.
+
+(2) Constables shall aid in the execution of this Act.
+
+**107.** Any person, who by himself or by any person in his employ, obstructs, molests or hinders—
+
+(a) an authorised person or any person employed in relation to any duty of tax in the execution of his duty, or of any of the powers or authorities by law given to the authorised person or any other person; or
+
+*Surplus on sale. [29 of 1966].*
+
+(b) any person acting in the aid of an authorised person or any person so employed, is guilty of an offence.
+
+**108.** (1) Any surplus moneys arising on any sales under this Act shall be paid to the person entitled thereto.
+
+(2) The Board may, if it thinks fit, pay any such surplus moneys into Court; and the High Court or a Judge thereof may, on the petition of any person entitled or claiming to be entitled to such moneys or any part thereof, make order for the payment of the same or any part thereof to the person entitled thereto.
+
+*Persons leaving Trinidad and Tobago or defaulting. [16 of 1963 29 of 1966 32 of 1969].*
+
+### RECOVERY OF TAX IN CERTAIN CASES
+
+**109.** (1) Where the Board has reason to believe that a person may leave Trinidad and Tobago, the Board may before the day otherwise fixed for payment, serve a notice of assessment upon such person demanding payment of all taxes, interest and penalties for which the person is liable or would be liable if the time for payment had arrived, and the same shall be paid forthwith notwithstanding any other provision of this Act.
+
+(2) A person upon whom a demand has been made under subsection (1) may give security to the satisfaction of the Board for the payment of the tax assessed.
+
+*Construction. Provisions as to recovery of tax and penalties. [29 of 1966].*
+
+(3) Any person who has paid the tax in accordance with the demand made by the Board or who has given security for such payment under subsection (2) shall have the right of objection and appeal conferred by sections 86 and 87 and the amount paid by him shall be adjusted in accordance with the results of any objection or appeal.
+
+(4) The provisions of this section shall not affect the powers conferred on the Board by section 89.
+
+**110.** (1) Where—
+
+(a) the amount of any tax for the time being due and payable under any assessment does not exceed three thousand dollars;
+
+(b) the tax under any assessment is payable by instalments and the sum for the time being due and payable in respect of any of those instalments does not exceed twelve hundred dollars, the tax shall, without prejudice to any other manner of recovery, be a sum enforceable as a civil debt by proceedings commenced in the name of the Board.
+
+(2) All or any of the sums due in respect of tax from any person and payable to the Board (being sums which are by law sums enforceable as a civil debt) may, whether or not they are due under one assessment, be included in the same complaint,
+
+summons, order, warrant or other documents required by law to be laid before a Magistrate or to be issued by a Magistrate, and every document as aforesaid shall as respects such sum be construed as a separate document and its invalidity as respects any one such sum shall not affect its validity as respects any other such sum.
+
+(3) A written statement as to the wages, salaries, fees and other emoluments paid for any period to the person against whom proceedings under this section are brought purporting to be signed by his employer for that period or by any responsible person in the employment of the employer shall in any such proceedings be prima facie evidence that the wages, salaries, fees and other emoluments therein stated to have been paid to the person charged have in fact been so paid.
+
+(4) Where a penalty other than a fine, is imposed by or under this Act in addition to tax, the penalty shall be added to the assessment, and collected and recovered in like manner as any tax included in such assessment may be collected and recovered.
+
+(5) Any tax that is by this section a sum enforceable as a civil debt may be recovered as if it was a simple contract debt in any Court of competent jurisdiction.
+
+*Ch. 8:02.*
+
+(6) For the avoidance of doubt it is hereby declared to be the law that any tax charged under the provisions of this Act is a debt due to the State and may without prejudice to any other manner in which the same may at any time be lawfully recovered be sued for and recovered from the person charged therewith in the manner provided in the State Liability and Proceedings Act.
+
+*Certificates. [23 of 1957 29 of 1966].*
+
+(7) Any person who in the opinion of the Court may be able to give information concerning the property or goods of the person charged may lawfully be summoned to give evidence in any civil or criminal proceedings.
+
+**111.** (1) Where any amount payable to the Board under section 99 or under any other provision of this Act has not been paid within thirty days after payment thereof became due, the Board may make out a certificate in such form as may be
+
+prescribed stating the amount payable and the name, the trade or profession and usual or last known place of abode of the person by whom such amount is payable.
+
+(2) On production thereof to the Registrar of the Supreme Court, a certificate made under this section shall be registered by him in the High Court and when so registered shall have the same force and effect, and all proceedings may be taken thereon as if the said certificate were a judgment for the State obtained in the said Court for a debt of the amount specified in the certificate together with any interest required to be paid by this Act to the day of payment.
+
+*Ch. 4:01.*
+
+(3) Rules of Court may be made under section 77 of the Supreme Court of Judicature Act providing for the procedure to be followed upon the registration of such certificates.
+
+*Garnishments. [23 of 1957 29 of 1966].*
+
+(4) All reasonable costs and charges attendant upon the registration of the certificate shall be recoverable in like manner as if they had been included in such certificate.
+
+**112.** (1) Where the Board has knowledge or suspects that a person is or is about to become indebted or liable to make any payment to a person liable to make a payment of tax under this Act, it may, by registered letter or by a letter served personally, require such first-mentioned person to pay the moneys otherwise payable to such second-mentioned person in whole or in part to the Board on account of the liability of the second-mentioned person under this Act.
+
+(2) The receipt of the Board for moneys paid as required under this section shall to the extent of the payment be a good and sufficient discharge of the original liability—
+
+(a) of the person who pays such moneys to the Board to the person liable to make a payment of tax under this Act;
+
+(b) of the person liable to make a payment of tax under this Act to the Board.
+
+(3) Where the Board, under this section, has required an employer to pay to it on account of an employee’s liability under this Act, moneys otherwise payable by the employer to the employee as remuneration, the requirement shall be applicable to all future payments by the employer to the employee in respect of remuneration until the liability of the employee under this Act is satisfied and shall operate to require payments to the Board out of each payment of remuneration due to the employee of such amount as may be stipulated by the Board in the registered or other letter.
+
+*Service of garnishees.*
+
+(4) Every person who has discharged any liability to a person liable to make a payment of tax under this Act without complying with a requirement under this section shall be liable to pay to the Board as a debt due to the State an amount equal to the liability discharged or the amount which he was required under this section to pay to the Board, whichever is the less.
+
+(5) Where the person who is or is about to become indebted or liable carries on business under a name or style other than his own name, the registered or other letter under subsection (1) may be addressed to the name or style under which he carries on business and, in the case of personal service, shall be deemed to have been validly served if it has been left with an adult person employed at the place of business of the addressee.
+
+(6) Where the persons who are or are about to become indebted or liable carry on business in partnership, the registered or other letter under subsection (1) may be addressed to the partnership name and, in the case of personal service, shall be deemed to have been validly served if it has been served on one of the partners or left with an adult person employed at the place of business of a partnership.
+
+*Signatures of notices. [29 of 1966].*
+
+### NOTICES
+
+**113.** (1) Every notice to be given by the Board under this Act shall be signed by the Board or by some person or persons from time to time appointed by it for that purpose, and every such
+
+notice shall be valid if the signature of the Board or of such person or persons is duly printed or written thereon; but any notice in writing under this Act to any person requiring him to furnish particulars to the Board, or any notice under this Act requiring the attendance of any person or witness before the Board shall be personally signed by the Board or by any person duly authorised by it.
+
+*Service of notices. [16 of 1963 29 of 1966].*
+
+(2) A signature attached to any notice and purporting to be the signature of any person so appointed shall be taken to be the signature of that person until the contrary is shown.
+
+**114.** (1) Notice may be served on a person either personally or by being sent by post to his last known business or private address; but service by post in the case of a notice requiring the attendance of any person or witness before the Board shall be by registered post.
+
+(2) A notice sent by post shall be deemed to have been served, in the case of persons resident in Trinidad and Tobago, not later than the fifteenth day succeeding the day when posted and, in the case of persons not so resident, not later than the thirtieth day succeeding the day on which the notice would have been received in the ordinary course by post, and in proving such service it shall be sufficient to prove that the letter containing the notice was properly addressed and posted.
+
+*In case of refusal to pay where there are no distrainable effects, defaulter may be imprisoned. [16 of 1963].*
+
+### IMPRISONMENT OF DEFAULTERS
+
+**115.** (1) If a person neglects or refuses to pay the tax charged upon him by virtue of this Act and no sufficient distress can be found whereby the same may be levied, the President may, by warrant under his hand and the Public Seal of Trinidad and Tobago, commit such person to prison, there to be kept without bail until payment be made of that sum or security given to his satisfaction for payment thereof, together with such further sum as he may adjudge to be reasonable for the costs and expenses of apprehending and conveying such person to prison, where he shall be detained and kept according to the tenor and effect of the warrant.
+
+*Release.*
+
+(2) The President may issue his warrant to the Commissioner of Prisons directing the liberation of any defaulter, and, on receipt thereof, the Commissioner of Prisons shall forthwith release and discharge such defaulter out of custody, unless he is under detention for some other cause than that set forth in the warrant of commitment.
+
+*Traders, etc., to keep accounts, books and records in English language. [29 of 1966 22 of 1974 35 of 1998].*
+
+### GENERAL
+
+**116.** (1) Every person engaged in any trade, business or profession, and every person who is required by or pursuant to this Act to deduct or withhold and to pay taxes or other amounts, shall keep in the English language and in the currency of Trinidad and Tobago proper records and books of account (including an annual inventory) at his place of business or residence in Trinidad and Tobago or at such other place as may be approved by the Board, and in such form as required by the Board and containing such information as in the opinion of the Board will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or paid to be determined.
+
+(2) Where a person has failed to keep adequate records and books of account for the purposes of this Act, the Board may require him to keep such records and books of accounts as it may specify and that person shall thereafter keep records and books of account as so required.
+
+(3) Every person required by this section to keep records and books of account shall retain every such record or book of account and every account or voucher necessary to verify the information in any such record or book of account for a period of at least six years from the year of income, or three years from the date the tax return is filed, whichever is later, to which the records or books relate, so however that where the Board by notice in writing so requires, a person shall retain any such record or book of account and every such account or voucher as aforesaid until written permission for their disposal is obtained from the Board.
+
+(4) Any person who fails to keep such records, books of account and every account or voucher as may be required to be so kept by this section is guilty of an offence.
+
+*Powers of inspection of records. [29 of 1966 22 of 1974 38 of 1989].*
+
+**117.** (1) The Board may for any purpose related to the administration or enforcement of this Act require any person, except a person engaged in confidential professional relationship with such person, to give it information in such manner and detail and at such time as the Board may from time to time require by notice in writing with respect to his income or assessment or assets or the income or assessment or assets of any other person or to permit it or any person duly authorised by it in writing to inspect any record of any moneys, funds or other assets held by that person on his own behalf or which may be held by him for, or any moneys due by him to, any other person.
+
+(2) Notwithstanding any rule of law to the contrary, but subject to this section, the Board may, for the purpose of determining any objection to an assessment, require by writing any bank or any officer thereof to furnish information in writing or may summon any such officer to appear before it to give evidence respecting the assessment or to furnish statements of accounts and affairs verified in the manner specified by it, and the Board may examine such officer on oath or otherwise.
+
+(3) Where the Board proposes to exercise the powers conferred on it under subsection (2) it shall give notice of its intention to do so to the person who has disputed his assessment and shall inform such person of his rights under this section.
+
+(4) If the person who has disputed his assessment is aggrieved by the proposals of the Board to exercise its powers under subsection (2), he may, within seven days of receipt of notice thereof from the Board, apply to a Judge in Chambers for a declaration of his rights in the matter, and the Judge shall hear and determine such application and shall make such order as the justice of the case requires.
+
+(5) A person is guilty of an offence who—
+
+(a) fails to give to the Board any information in accordance with this section; or
+
+(b) fails to produce for the inspection of the Board or any person duly authorised by it any records which he may be required by the Board or such duly authorised person to produce.
+
+*Ch. 76:51.*
+
+*Powers of entry for certain purposes. [29 of 1966 35 of 1998].*
+
+(6) For the purposes of giving effect to a declared agreement within the meaning of the Tax Information Exchange Agreements Act, the Board is deemed to have the powers set out in subsection (2) notwithstanding the absence of an assessment or objection, and subsections (3), (4) and (5) shall apply mutatis mutandis.
+
+**118.** (1) Subject to this section and to section 117, the Board or any person authorised by it for any purpose related to the administration or enforcement of this Act may, at all reasonable times, enter into any premises or place where any business is carried on or any property is kept or anything is done in connection with any business or any books or where records are, or are required to be kept pursuant to this Act and—
+
+(a) audit or examine the books and any account, voucher, letter, telegram or other document, which relates or may relate to the information that is or should be in the books or records or to the amount of tax payable under this Act;
+
+(b) examine property described by an inventory or any property, process or matter the examination of which may, in its opinion, assist it in determining the accuracy of an inventory or in ascertaining the information that is or is required to be contained in the books or records or the amount of any tax payable under this Act;
+
+(c) require the owner or manager of the property or business and any other person on the premises or place to give it all reasonable assistance with its audit examination and to answer all questions relating to the audit or examination either orally or, if it so requires, in writing, on oath or by statutory declaration and, for that purpose require the owner or manager to attend at the premises or place with it;
+
+(d) search, if necessary with the assistance of any police officer, any building, receptacle or place for documents, books, records, papers or things
+
+which may afford evidence as to the violation of any provision of this Act or the Regulations;
+
+(e) if, during the course of the audit or examination, it appears to it that there has been a violation of this Act or the Regulations, seize and take away any of the records, books of account, vouchers, letters, telegrams and other accounts and retain them until they are produced in any proceedings.
+
+(2) Admission to any premises shall not be demanded as of right unless twenty-four hours’ notice of the intended entry has been given to the occupier, so however that if any person is aggrieved by any such notice he may, within the said period of twenty-four hours, so inform the Board in writing, and thereupon section 117(4) shall apply as if the reference to subsection (2) occurring therein was a reference to subsection (1) of this section.
+
+(3) If it is shown to the satisfaction of a Magistrate on sworn information in writing—
+
+(a) that admission to any premises has been refused, or that refusal is apprehended, or that an application for admission would defeat the object of the entry; and
+
+(b) that there is reasonable ground for entry into the premises for any purpose as is mentioned in subsection (1),
+
+the Magistrate may by warrant under his hand authorise the Board by any authorised officer to enter the premises, if need be by force, except that such a warrant shall not be issued unless the Magistrate is satisfied either that notice of the intention to apply for a warrant has been given to the occupier, or that the giving of such notice would defeat the object of the entry. Where it is shown to the satisfaction of the Magistrate that the giving of the notice would defeat the object of the entry, the provisions of this subsection shall apply notwithstanding anything to the contrary in subsection (2).
+
+(4) An authorised officer entering any premises by virtue of this section, or of a warrant issued thereunder, may take with him such other persons as may be necessary.
+
+(5) Every warrant granted under this section shall continue in force until the purpose for which the entry is necessary has been satisfied.
+
+(6) Any person who in compliance with the provisions of this section, or of a warrant issued thereunder, is admitted into a factory or workplace, discloses to any person any information obtained by him in the factory or workplace with regard to any manufacturing process or trade secret, is, unless such disclosure was made in the performance of his duty, liable to a fine of fifteen thousand dollars or to imprisonment for twelve months.
+
+*Offence in respect of fraud. [17 of 1985 6 of 1991 35 of 1998 5 of 2004].*
+
+(7) Any person who hinders or molests or interferes with any person doing anything that he is authorised to do or prevent or attempts to prevent any person from doing any such thing and any person who, unless he is unable to do so, fails or refuses to do anything he is required by or pursuant to this section to do is guilty of an offence and liable on summary conviction to a fine of fifteen thousand dollars and to imprisonment for two years.
+
+**119.** (1) Any person who—
+
+(a) knowingly or recklessly makes or participates in or assents to or acquiesces in the making of false or deceptive statements or representations in a return, certificate, statement, declaration or answer made under this Act or any Regulations;
+
+(b) with intent to evade payment of a tax imposed by this Act, destroys, alters, mutilates, secretes or otherwise disposes of any records or books of account;
+
+(c) knowingly or recklessly makes or assents to or acquiesces in the making of false or deceptive entries, or omits or assents to or acquiesces in the omission to enter a material particular in any records or books of account;
+
+(d) wilfully in any manner evades or attempts to evade, compliance with this Act or payment of taxes imposed by this Act;
+
+(e) with intent to deceive, furnishes the Central Bank or Public Agency under section 76A(1) with a B.I.R. file number which is not his own;
+
+(f) being an employee or an officer, and who, with intent to deceive, furnishes his employer under section 76B, with a B.I.R. file number which is not his own;
+
+(g) being an employer, and who knowingly or recklessly records under section 76B, a B.I.R. file number of an employee or officer which is different from the number furnished by that employee or officer;
+
+(h) conspires with any person to commit an offence described in paragraphs (a) to (g), is guilty of an offence, and in addition to any penalty otherwise provided is liable on summary conviction to a fine of fifty thousand dollars and to imprisonment for three years.
+
+(2) Any proceedings under a law establishing summary jurisdiction which may be taken against any person in respect of any offence punishable under this Act, may, notwithstanding anything to the contrary in that law, be taken at any time within three years from the date of the commission of the offence or within twelve months from the date on which evidence sufficient in the opinion of the Board to justify the proceedings come to the knowledge of the Board, whichever period last expires, or where the person in question was outside Trinidad and Tobago at the date last mentioned, within twelve months from the date on which he first arrives in Trinidad and Tobago thereafter.
+
+(3) For the purposes of this section a certificate of the Board as to the date on which such evidence as aforesaid comes to the knowledge of the Board shall be conclusive evidence thereof.
+
+*Failure to perform required duty. Offences and penalties. [29 of 1966 11 of 1988 35 of 1998].*
+
+**120.** Any person who fails or neglects to perform any duty required to be performed under this Act is guilty of an offence.
+
+**121.** (1) Any person guilty of an offence under this Act is, unless some other penalty is specifically provided for any such offence, liable on summary conviction to a fine of thirty thousand dollars or to imprisonment for two years or both.
+
+*Prosecution of offences. [8 of 1996]. Ch. 4:20.*
+
+(2) Where a person is guilty of an offence under this Act, the Court may, in addition to any penalty which it may impose, make an order for the immediate payment of any tax or for the penalty imposed or for both such tax and such penalty and the Court may make such order for imprisonment in default for any period not exceeding two years as it may consider fit.
+
+**121A.** (1) Subject to this Act, an offence under this Act may be prosecuted and any penalty or forfeiture imposed by this Act may be sued for, prosecuted and recovered summarily, and all sums whatsoever payable may be recovered and enforced in the manner prescribed by the Summary Courts Act, or as near thereto as the circumstances of the case will permit, on the complaint of the Board.
+
+*Time limit for proceeding to recover fines and penalties. [16 of 1963 5 of 1964 29 of 1966].*
+
+(2) A person authorised in writing by the Board may prosecute and conduct any complaint or other proceedings under this Act in respect of any offence or penalty.
+
+**122.** (1) Proceedings for the recovery of any fine or penalty incurred under this Act in connection with or in relation to tax may be commenced at any time within seven years next after the date on which it was incurred.
+
+(2) The time limited by subsection (1) for commencing proceedings for the recovery of any fine or penalty from any person in connection with or in relation to any tax covered by any assessment shall, where any form of fraud or wilful default has been committed by him or on his behalf in connection with or in relation to that tax, be extended so as to authorise the commencement of such proceedings at any time within three
+
+years from the final determination of the amount of tax covered by the assessment.
+
+(3) For the purposes of subsection (2), the amount of the tax covered by any assessment shall not be deemed to be finally determined until that assessment can no longer be varied or revised, whether by the Board of Inland Revenue or by the Appeal Board or by the order of any Court.
+
+*Saving for criminal proceedings. President may remit tax. [26 of 1955]. Regulations. [26 of 1955 23 of 1957 16 of 1963 29 of 1966 11 of 1988 35 of 1998].*
+
+(4) Nothing in subsection (2) shall extend the time for the bringing of any proceedings against the personal representatives of any person by whom or on whose behalf any form of fraud or wilful default has been committed.
+
+**123.** The provisions of this Act shall not affect any criminal proceedings under any other written law.
+
+**124.** The President may remit or refund the whole or any part of the tax payable or paid, as the case may be, by any person if he is satisfied that it would be just and equitable to do so.
+
+**125.** (1) The President may make Regulations generally for carrying out the provisions of this Act or of any other Act which confers on the Board powers to administer any tax on income or profits similar to those conferred in this Act and may, in particular, by those Regulations provide—
+
+(a) for the collection, recovery and refund of tax in respect of emoluments and with respect to any matter for which by any provision of this Act, Regulations may be made under this section;
+
+(b) for the payment of tax by monthly or other instalments;
+
+(c) for any such matters as are authorised by this Act to be prescribed; and
+
+(d) for any other matter or thing, whether similar or not to those above-mentioned, in respect of which it may be expedient to make Regulations for the purpose of carrying this Act into execution.
+
+*include*
+
+(2) Without prejudice to the provisions of subsection (1), Regulations made under this section may, in particular, provision—
+
+(a) for requiring any person, including the State and the Government for Trinidad and Tobago, making any payment of, or on account of, any emoluments, at the time of making the payment to make a deduction of tax calculated by reference to the tax tables prepared by the Board under section 101 and for rendering persons who are required to make any such deduction accountable to the Board;
+
+(b) prescribing the allowances which may be included in a declaration for the purposes of section 98(1) and which may be admitted for the purposes of calculating the amount of tax to be deducted or withheld pursuant to section 99(1);
+
+(c) for the production to and inspection by the Board or any person authorised by it of wages sheets and other documents and records for the purpose of satisfying the Board that tax has been and is being deducted and accounted for in accordance with the Regulations;
+
+(d) for appeals with respect to matters arising under the Regulations which would not otherwise be the subject of appeal;
+
+(e) for regulating the times when, the dates on which or the periods within which declarations may be filed under section 98;
+
+*prescribe in with any fine of five*
+
+(f) for the purpose of safeguarding the collection of tax.
+
+(3) Regulations made under subsection (1) may respect of any contravention of or failure to comply provision thereof a penalty on summary conviction of a thousand dollars or imprisonment for three months.
+
+*The Appeal Board. Transitional provisions. [23 of 1957 18 of 1958 16 of 1963].*
+
+(4) Any Regulations made under the provisions of this section shall not affect any right of appeal to the Appeal Board which a person would have apart from such Regulations.
+
+**126.** (1) Notwithstanding anything contained in this Act but subject to the provisions of this section, income tax on all emoluments arising or accruing in or derived from or received in Trinidad and Tobago during the year 1957 is hereby discharged.
+
+(2) Income tax shall not be discharged as aforesaid unless the person entitled to any emoluments arising or accruing in or derived from or received in Trinidad and Tobago during the year 1957 is at some time during the year 1958 in receipt of emoluments arising or accruing in or derived from or received in Trinidad and Tobago during the year 1958 from which deductions are made in accordance with the provisions of section 99 of this Act.
+
+(3) If any person is in receipt for part only of the year 1958 of emoluments arising or accruing in or derived from Trinidad and Tobago during that year the amount of income tax to be discharged shall be an amount that bears to the full amount of income tax which would but for the provisions of this subsection be discharged the same proportion that the part of the year 1958 during which he is in receipt of such emoluments bears to the whole of that year.
+
+(4) Where any person in the same employment or holding the same office during the years 1956 and 1957 received in respect of the year 1957 any emoluments by virtue of that employment or office and such emoluments are in excess of the emoluments received by him by virtue of that employment or office in respect of the year 1956 by reason wholly or in part of—
+
+(a) an additional amount being granted on or after 1st January 1957; or
+
+(b) a change in the conditions of service attaching to that employment or office being effected on or after 1st January 1957,
+
+income tax on so much of the amount of the excess as is attributable to either such reason shall not be discharged; but this subsection shall not apply to any increase of emoluments arising from—
+
+(a) promotion in the ordinary course of events, or the ordinary application of an incremental scale of emoluments; or
+
+(b) overtime paid at ordinary rates.
+
+(5) For the purposes of subsection (3) the income tax on the amount of the excess which shall not be discharged shall be an amount that bears to the difference between the income tax on the emoluments received in respect of the year 1957 and the income tax on the emoluments received in respect of the year 1956 the same proportion that the amount of the excess of emoluments in respect of which income tax is not discharged as provided for in the said subsection (3) bears to the difference between the emoluments received in respect of the year 1957 and the emoluments received in respect of the year 1956.
+
+(6) For the purpose of determining the amount of income tax on any emoluments which form a part only of the total income assessed to income tax pursuant to the provisions of this Act, the amount of income tax on such emoluments shall be an amount that bears to the full amount of income tax so assessed the same proportion that the emoluments bear to the total income.
+
+(7) For the purposes of this section the expressions
+
+*Discharge of tax for 1962. [16 of 1963 5 of 1964 29 of 1966]*
+
+“employment”, “office” and “emoluments” have the respective meanings assigned to those expressions by section 98 or section 100.
+
+**127.** (1) Notwithstanding anything contained in this Act other than the provisions of section 126 but subject to this section, income tax on all income (other than income tax on all emoluments within the meaning of section 100) that would have been chargeable to tax for what would have been the year of assessment 1963 had the Income Tax (Amendment) Act 1963 not been passed, is hereby discharged.
+
+*16 of 1963.*
+
+(2) Where the tax payable by any person for the year of income 1963 is less than the tax that would have been payable for what would have been the year of assessment 1963 had the Income Tax (Amendment) Act 1963 not been passed, the amount of tax to be discharged shall not exceed the amount of tax assessed and paid for the year of income 1963, if—
+
+(a) such person was in receipt of income for part only of the year of income 1963; or
+
+(b) such person was in receipt of income for part or the whole of the year of income 1963, but the income—
+
+(i) did not include income from such of the sources from which the total income for what would have been the year of assessment 1963, had the said Act not been passed, was derived, as the Board may in any case determine; or
+
+(ii) was income arising, accruing in, derived from or received in Trinidad and Tobago in respect of a business, trade, profession or vocation that, in the opinion of the Board, has been voluntarily curtailed or reduced by such person.
+
+(3) For the purpose of determining the amount of income tax to be discharged where the total income of an individual includes emoluments within the meaning of section 100 the tax to be discharged shall be an amount that bears to the full amount of income tax assessed in accordance with this Act the same proportion that the income from sources other than emoluments bears to the total income without any deductions allowable under section 17, 18 or 31 but allowing deductions under section 12 other than an allowance in respect of an annual payment under section 12(f).
+
+(4) Notwithstanding the provisions of this Act no loss that may have been allowed to be set off in computing the chargeable income of any person (who carried on any trade,
+
+*16 of 1963.*
+
+business, profession or vocation either solely or in partnership) for what would have been the year of assessment 1963 had the Income Tax (Amendment) Act 1963 not been passed, may be set off in computing the chargeable income of that person for any year of income.
+
+(5) Nothing in subsection (4) shall prevent any loss incurred during a former year of assessment that is permitted under this Act to be set off in a subsequent year, from being so set off in a year of income in computing the chargeable income of such person for that year of income.
+
+*Assessments deemed to be those of previous years. [16 of 1963 5 of 1964].*
+
+(6) Where the amount of tax to be discharged as determined by subsection (2) is less than the tax that would have been payable for what would have been the year of assessment 1963, had the Income Tax (Amendment) Act 1963 not been passed, the remainder of the tax that would have been so payable shall be deemed to be tax payable in respect of the year of income 1963.
+
+**128.** (1) Notwithstanding the provisions of this Act, assessments on all emoluments as defined in section 100 for the former years of assessment 1959 to 1962 inclusive shall be deemed to have been assessments for the former years of assessment 1958 to 1961, respectively, and tax paid or payable in respect to the former years of assessment 1959 to 1962 inclusive shall be deemed to have been paid or to be payable in respect of those years at the then prevailing rates.
+
+(2) Amounts deducted in the year 1962 from emoluments, as defined in section 100 earned in that year on account of tax which would have been assessable on such emoluments in what would have been the year of assessment 1963 had the Income Tax (Amendment) Act 1963 not been passed, shall be deemed to have been chargeable and deductible on account of tax for the former year of assessment 1962 at the then prevailing rates and the remainder of such tax, on such emoluments if any, shall be deemed to be chargeable and payable in respect of tax for the said former year of assessment 1962 at the then prevailing rates.
+
+*Assessments already made for 1963. [16 of 1963 29 of 1966].*
+
+(3) Nothing in subsections (1) and (2) shall be construed as permitting adjustments to be made that would not otherwise have fallen to have been made if this section had not been enacted.
+
+*Power to obtain information as to interest paid or credited without deduction of tax. [16 of 1963 29 of 1966 14 of 1987 35 of 1998].*
+
+**129.** Notwithstanding that any assessment has been made upon any person before the Income Tax (Amendment)Act 1963 was passed in respect of his chargeable income for what would have been the year of assessment 1963 had that Act not been passed, the provisions of this Act shall have effect in relation to that income and the Board may refund the amount paid, if any, in respect of the tax discharged by this Act or instead of making a refund, may, where the person is liable or about to become liable to make a payment under this Act for the year of income 1963, apply any part of that amount to that other liability and refund any balance to such person and notify such person of that action. MISCELLANEOUS POWERS OF THE BOARD
+
+**130.** (1) Subject to subsections (2) and (3), every person carrying on a trade or business either on his own behalf or who, in the ordinary course of the operations thereof, receives or retains money in such circumstances that interest becomes payable thereon which is paid or credited, and, in particular, every person carrying on the trade or business of banking shall, if required to do so by notice from the Board, make and deliver to the Board, within the time specified in the notice, a return of all interest paid or credited by him as aforesaid during a year specified in the notice in the course of his trade or business or any such part of his trade or business as may be so specified, giving the names and addresses of the persons to whom the interest was paid or credited and stating in each case the amount of interest.
+
+(1A) Every person required by subsection (1) to make a return in accordance with that subsection shall obtain from a person to whom is paid or credited interest in the sum of two hundred and fifty dollars or to whom interest becomes payable in respect of a deposit exceeding ten thousand dollars (in this section referred to as “a depositor to whom this section applies”) the Board of Inland Revenue file number of such person and shall enter such file number in the return made and delivered under the subsection.
+
+(1B) A depositor to whom this section applies shall, at the request of a person required by subsection (1), to make a return in accordance with the provisions of that subsection, supply his Board of Inland Revenue file number to such person.
+
+(1C) Subject to subsection (1D), a person required by subsection (1) to make a return in accordance with that subsection who fails to obtain or to enter the Board of Inland Revenue file number in accordance with subsection (1A), is guilty of an offence but it is a good defence to a complaint brought under this subsection that any such failure was not due to the wilful neglect or default of the person so required to obtain or to enter the said file number.
+
+(1D) A depositor to whom this section applies who fails to supply his Board of Inland Revenue file number in accordance with subsection (1B) is guilty of an offence and liable on summary conviction to a fine of fifteen thousand dollars and to imprisonment for one year.
+
+(2) No interest paid or credited to any person shall be required to be included in any such return if the total amount of the interest paid or credited to that person which would otherwise have fallen to be included in the return does not exceed two hundred and fifty dollars.
+
+(3) The year specified in a notice under subsection (1) shall not be a year ending more than three years before the date of the service of the notice.
+
+(4) Without prejudice to the generality of so much of subsection (1) as enables different notices to be served thereunder in relation to different parts of a trade or business, separate notices may be served under that subsection as respects the transactions carried on at any branch or branches respectively specified in the notices, and any such separate notice shall, if served on the manager or other person in charge of the branch or branches in question, be deemed to have been duly served on the
+
+person carrying on the trade or business; and where such a separate notice is so served as respects the transactions carried on at any branch or branches, any notice subsequently served under the said subsection (1) on the person carrying on the trade or business shall not be deemed to extend to any transaction to which the said separate notice extends.
+
+(5) This section shall, with any necessary adaptations, apply in relation to the Post Office Savings Bank as if it were a trade or business carried on by the Postmaster General.
+
+*Ch. 79:04.*
+
+(6) Subsection (5) shall have effect notwithstanding anything in section 15 of the Post Office Savings Bank Act, but save as aforesaid that section shall remain in full force and effect.
+
+(7) This section shall apply to interest paid or credited on or at any time after 31st December 1962.
+
+(8) This section shall apply only to money received or retained in Trinidad and Tobago, and if a person to whom any interest is paid or credited in respect of any money received or retained in Trinidad and Tobago by notice in writing served on the person paying or crediting the interest—
+
+(a) declares that the person who was beneficially entitled to that interest when it was paid or credited was not then ordinarily resident in Trinidad and Tobago; and
+
+(b) requests that the interest shall not be included in any return under this section, the person paying or crediting the interest shall not be required to include that interest in any such return.
+
+*Delegation by Board. [16 of 1963 29 of 1966].*
+
+(9) This section does not apply to interest paid or credited to a resident individual.
+
+**131.** (1) The Board may, in relation to any particular matters or class of matters, by writing under its hand delegate to a Commissioner or other person all or any of its powers or functions under this Act except this power of delegation, so that
+
+the delegated powers or functions may be exercised by the Commissioner or other persons with respect to the matters or class of matters specified in the instrument of delegation.
+
+(2) Every delegation under this section shall be revocable at will, but any delegation shall not prevent the exercise of any power or function by the Board.
+
+*Indemnity for liability. [16 of 1963].*
+
+(3) Any delegation under this section may be made subject to a power of review and alteration within the period specified in the instrument of delegation by the Board of any act done in pursuance of the delegation and the decision given upon such review or alteration shall be deemed to be that of the Board.
+
+**132.** The Board, a Commissioner or any officer acting under its authority shall be indemnified against any liability with respect to any act or thing performed or done by it or in its name in connection with any duty imposed by this Act.
+
+*Expenses allowances, etc. [16 of 1963 5 6 of of 1989].*
+
+### EXPENSES ALLOWANCES TO DIRECTORS AND OTHERS
+
+**133.** (1) Subject to sections 134 to 141*, any sum paid in respect of expenses by a company to any of its directors or to any person employed by it in an employment to which these 1964 sections apply shall be treated as a perquisite of the office or employment of that director or employee and included in the emoluments as defined in section 100 of such director or employee and chargeable to income tax accordingly; but nothing in this subsection shall prevent a claim for deduction being made under this Act in accordance with section 10(1)(a).
+
+(2) In this section, and, in relation to any director or person employed in an employment to which this section and sections 134 to 141* apply, in so much of section 76 as requires employers in certain cases to give particulars of payments to directors and employees in respect of expenses, any reference to a sum paid in respect of expenses includes a reference to any sum put by a company at the disposal of a director or employee and paid away by him.
+
+\* Section 139, being included in the reference to sections 134 to 141 and subsequently referred to in this Act, was repealed by Act No. 21 of 2005.
+
+*Benefits in kind to be taken into account. [16 of 1963 5 of 1964 11 of 1988 6 of 1989 25 of 1992 6 of 1993 5 of 2004 2 of 2006 17 of 2007].*
+
+\*134. (1) Subject to sections 135 to 141†, where a company incurs expense in or in connection with the provision, for any of its directors or for any person employed by it in an employment to which sections 133 to 141† apply, of living or other accommodation, of entertainment, of domestic or other services or of other benefits or facilities of whatsoever nature, and, apart from this section the expense would not be chargeable to tax as income of the director or employee, so much of the said expenses as is not made good to the company by the director or employee shall be chargeable to tax under the provisions of this Act as if the expense had been incurred by the director or employee and the amount thereof had been refunded to him by the company by means of a payment in respect of expenses, and section 76 and subsection (2) of this section shall have effect in relation thereto.
+
+(2) If the director or employee is wholly, exclusively and necessarily obliged to incur and defray out of the emoluments of his employment or office (within the meaning of section 100) the expenses of travelling in the performance of the duties of the employment or office, or of keeping or maintaining means of transport to enable him to perform the same, there may be deducted in computing the chargeable income of the director or employee, the expenses so wholly, exclusively and necessarily incurred and defrayed.
+
+(3) Subsection (1) shall not apply to expense incurred by the company in or in connection with the provision for a director or employee in any of its business premises, of any accommodation, supplies or services provided for the director or employee himself and used by him solely in performing the duties of his office or employment.
+
+(4) Subsection (1) shall not apply to expense incurred by the company in or in connection with the provision of living * The approval required by the Board of Inland Revenue under subsection (6A) of this section for a contract under this section has been validated under section 13 of the Finance Act 2004 (Act No. 5 of 2004) which validated approval given prior to the commencement of the said Act, i.e., 30th January 2004.
+
+† Section 139, being included in the reference to sections 134 to 141 and subsequently referred to in this Act, was repealed by Act No. 21 of 2005.
+
+accommodation for an employee in part of any of its business premises which include living accommodation if the employee is, for the purposes of enabling him properly to perform his duties, required by the terms of his employment to reside in the accommodation and either—
+
+(a) the accommodation is provided in accordance with a practice which commonly prevails in trades of the class in question as respects employees of the class in question; or
+
+(b) it is necessary, in the case of trades of the class in question, that employees of the class in question should reside on premises of the class in question,
+
+but this subsection shall not apply where the employee is a director of the company in question or of any other company over which that company has control or which has control over that company or which is under the control of a person who also has control over that company.
+
+(5) Subsection (1) shall not apply to expense incurred by the company in or in connection with the provision of meals in any canteen in which meals are provided for the staff generally.
+
+(6) Subject to subsection (6A), subsection (1) shall not apply to expense incurred by the company in or in connection with the provision for a director or employee himself or for his spouse, children or dependants of any pension, annuity, lump sum, gratuity or other like benefit to be given on his death or retirement.
+
+(6A) Subsection (6) shall not apply where the employer contributes to a fund or contracts with any person to provide the benefit referred to in that subsection unless the fund or contract is approved by the Board.
+
+(6B) The Board shall not approve a fund or contract to provide such benefit where—
+
+(a) the total of—
+
+(i) the contributions made in respect of the director or employee to the fund or under the contract, as the case may be; and
+
+(ii) any contributions made by the director or employee to an approved pension fund plan or approved deferred annuity plan, exceed one-third of the chargeable income of the employee or twenty per cent of the emolument income of such employee, whichever is the greater computed in accordance with the provisions of this Act before making the deductions specified in section 20;
+
+(b) the fund or contract—
+
+(i) allows for the issuance of a loan in respect of such fund or contract;
+
+(ii) allows for such fund or contract to be used as a security for a loan; or
+
+(iii) except in accordance with paragraph (c) or (d), allows for the commutation in whole or in part, the surrender or the assignment of the benefits to be derived from such fund or contract;
+
+(c) a lump sum or gratuity is payable before the employee attains the age of fifty other than on the death of the employee;
+
+(d) the lump sum or gratuity payable on retirement exceeds twenty-five per cent of the capitalised value of the annual pension or annuity.
+
+(6C) Subsection (6A) shall not apply to contributions made by an employer to a group life insurance policy.
+
+(6CA) A trustee, trust corporation or insurer which manages a fund or contract referred to in subsection (6A) may, at the request of a director or employee, transfer the value of the benefits accrued to the director or employee under such plan or contract to another such fund or contract.
+
+(6CB) For the purpose of subsection (6CA), the value of the benefits accrued to a director or employee shall be deemed to include the payment of interest or share of return on investment in accordance with the fund or contract.
+
+(6CC) The value of the benefit transferred in accordance with section (6CA) shall be deemed not to have been a payment of a benefit before maturity and shall not be liable to tax.
+
+(6D) In this section—
+
+“group life insurance policy” means a life insurance policy under which—
+
+(a) the lives of a group of employees are insured under a single insurance policy made between a life insurance company and an employer;
+
+(b) the only benefit payable is a lump sum on death or disability of the life insured; and
+
+(c) the life insurance policy has no cash surrender value;
+
+“life insurance policy” has the same meaning as in section 34(6).
+
+(6E) Where—
+
+(i) a company provides a loan to any of its directors or to a person employed by it in an employment to which sections 133 to 141* apply; and
+
+(ii) the repo rate of interest set by the Central Bank of Trinidad and Tobago as at the 31st December of the year immediately preceeding a year of income, is more than the rate of interest charged by the company on such loan, the amount of the additional interest that would have been payable by the director or employee in that year of income had the repo rate referred to in paragraph (ii) been applied to the loan, shall be treated as a perquisite of the office or employment of the director or employee and shall be chargeable to tax as emoluments as defined by section 100.
+
+\* See Note on page 165.
+
+(6F) For the avoidance of doubt, where, prior to 1st January 2006, a company provided a loan to a director or person referred to in subsection (6E) and there remains a balance outstanding on the loan on 1st January 2006, the provisions of subsection (6E) shall apply in ascertaining the income of the director or employee for a year of income;
+
+(6G) Subject to subsection (6H), where a loan referred to in subsection (6E) is written off by the company, the outstanding balance on the loan shall be treated as a perquisite of the director or employee and shall be chargeable to tax as emoluments as defined by section 100.
+
+(6H) Subsection (6G) shall not apply where the Board is satisfied that the loan that was written off cannot be recovered by the company.
+
+(7) Any reference in this section to expense incurred in or in connection with any matter includes a reference to a proper proportion of any expense incurred partly in or in connection with that matter.
+
+(8) Where a motor vehicle or any equipment belonging to a company is made available to any of its directors or to any person employed by it in an employment to which sections 133 to 141* apply, and the motor vehicle or equipment is available for the private use of the director or employee, such private use shall be treated as a perquisite of the office or employment of the director or employee and included in the emoluments as defined in section 100 of the director or employee and is chargeable to income tax.
+
+(9) With respect to motor vehicles purchased prior to 1st January 2006, the value per month of the perquisite referred to in subsection (8) is deemed to be one per cent of the cost of acquisition of the motor vehicle or equipment or 33 1 / 3 per cent of the monthly rental of the motor vehicle or equipment incurred by the company, as the case may be.
+
+\* See Note on page 165.
+
+(10) With respect to motor vehicles or equipment acquired on or after 1st January 2006, the value per month of the perquisite referred to in subsection (8) is deemed to be fifty per cent of—
+
+(a) the wear and tear allowance of the motor vehicle or equipment as the case may be; or
+
+(b) the rental value of the motor vehicle or equipment as the case may be for the period of use.
+
+(10A) Subsection (10) shall apply to an employee notwithstanding that the employer does not claim the wear and tear allowance on the motor vehicle or equipment.
+
+*Ch. 48:50. Tax on refund of premiums. [5 of 2004 30 of 2007].*
+
+(11) For the purposes of subsections (9) and (10),
+
+“motor vehicle” has the same meaning assigned to it in section 2 of the Motor Vehicles and Road Traffic Act.
+
+**134A.** (1) Where an amount is payable by a company in respect of a fund or contract approved by the Board under section 134(6B) upon the death of a director or employee by way of refund of premiums, there shall be deducted or withheld, a tax equal to ten per cent of the amount payable and the remainder of the amount, when received by the beneficiary of the director or employee, shall be deemed not to be the income of the beneficiary for the purposes of this Act.
+
+(2) The tax referred to in subsection (1) shall be paid by the company to the Board by the fifteenth day of the month following that in which the refund of premiums was paid.
+
+(3) There shall be payable by the company a penalty of twenty-five per cent of the tax owed for failure to pay the tax within the time specified in subsection (2).
+
+(4) There shall be payable from the due date, interest at the rate of twenty per cent a year on the amount of tax remaining unpaid.
+
+*Valuation of benefits in kind. [16 of 1963 5 of 1964 2 of 2006].*
+
+(5) In this section and in section 134, “refund of premiums” has the meaning assigned to it in section 28(1)(m).
+
+**135.** (1) Any expense incurred by a company in the acquisition or production of an asset which remains its own property shall be left out of account for the purposes of section 134.
+
+(2) Where the making of any such provision as is mentioned in section 134(1) takes the form of a transfer of the property in any asset of the company, and, since the acquisition or production thereof by the company the asset has been used or has depreciated, the company shall be deemed to have incurred in the making of the said provision expense equal to the value of the asset at the time of the transfer.
+
+(3) Where in a year of income, the whole or part of property which is owned by a company, is made available as living or other accommodation for the benefit of any of its directors or employees and the property is not used solely in the performance of the duties of the directors or employees, the provisions of section 133 shall have effect as if the company paid an amount equal to the fair rental value in respect of such property.
+
+(3A) For the purposes of this section, the expression “fair rental value” means the value of the rent which the property can obtain in the open market between unrelated parties.
+
+(4) Where an asset which continues to belong to the company is used wholly or partly in the making of any such provision as is mentioned in section 134(1) and the asset is not premises in respect of which the company is assessable under this Act, the company shall be deemed for the purposes of section 134 to incur in addition to any other expense incurred by it in connection with the asset, not being expense to which subsection (1) applies, annual expense in connection therewith of an amount equal to the annual value of the use of the asset; but where any sum by way of rent or hire is payable by the company in respect of the asset—
+
+(a) if the annual amount of the rent or hire is equal to or greater than the annual value of the use of the asset, this subsection shall not apply; and
+
+(b) if the annual amount of the rent or hire is less than the annual value of the use of the asset, the rent or hire shall be left out of account for the purposes of section 134.
+
+(5) Any reference in this section to a company which is assessable under this Act in respect of any premises shall be deemed to include a reference to a company which would be so assessable if a state of affairs which subsists during any part of the year had subsisted for the whole of the year.
+
+*Meaning of “director”, “employment” and “employ”. [16 of 1963 21 of 2005].*
+
+**136.** (1) In this section and in sections 133 to 135 and 137 to 141* “director” means—
+
+(a) in relation to a company, the affairs whereof are managed by a board of directors or similar body, a member of that board or similar body;
+
+(b) in relation to a company, the affairs whereof are managed by a single director or similar person, that director or person;
+
+(c) in relation to a company, the affairs whereof are managed by the members themselves, a member of the company, and includes any person in accordance with whose directions or instructions the directors of a company, defined in accordance with the preceding provisions of this subsection, are accustomed to act; but a person shall not within the meaning of this subsection be deemed to be a person in accordance with whose directions or instructions the directors of a company are accustomed to act by reason only that the said directors act on advice given by him in a professional capacity.
+
+(2) In this section, “employment” means an employment such that any emoluments thereof would fall to be assessed under this Act and references to persons employed by, or employees of, a company include any person who takes part in the management of the affairs of the company and is not a director thereof. * See Note on page 165.
+
+(3) (a) Subject to this subsection and subsections (4) and (5), the employments to which sections 133 to 141* apply are employments the emoluments of which, calculated on the basis that they are employments to which those sections apply and without any deduction being made in respect of money expended in performing the duties thereof, are at the rate of nine thousand six hundred dollars a year or more.
+
+(b) Where a person is employed in several employments by the same company, and the total of the emoluments of those employments, calculated as aforesaid, is at the rate of nine thousand six hundred dollars a year or more, all those employments shall be treated as employments to which sections 133 to 141* apply.
+
+(c) Where a person is director of a company, all employments in which he is employed by the company shall be treated as employments to which the sections 133 to 141* apply.
+
+(4) All the directors of and persons employed by a company over which another company has control shall be treated for the purposes of subsection (3)(b) and (c) but not for any other purpose, as if they were directors of, or, as the case may be, as if the employment were an employment by, that other company.
+
+*Saving for certain payments and expenses. [16 of 1963 29 of 1966].*
+
+(5) (Repealed by Act No. 21 of 2005).
+
+**137.** (1) If a company furnishes to the Board a statement of the cases and the circumstances in which payments of a particular nature are made or things of a particular nature are provided for any of its directors or employees and the Board is satisfied that no additional tax would fall to be paid if sections 133 to 136 and 138 to 141* were to apply in relation to payments made or things provided by the company in accordance with the statement, the Board shall notify the company accordingly and, where such a notification is given, those sections shall not apply in relation to payments made or things provided by the company in accordance with the statement.
+
+\* See Note on page 165.
+
+*Additional provisions as to information. [16 of 1963 29 of 1966].*
+
+(2) Notwithstanding subsection (1), the Board may, if in its opinion there is reason to do so by notice in writing served on the company, revoke any such notification, either as from the date of the making of the notification or as from such later date as may be specified in the notice and thereupon all such tax shall become chargeable, and all such returns shall be made by the company and by the directors or employees in question, as would have been chargeable or would have had to have been made in the first instance if the notification had never been given or, as the case may be, if it had ceased to have effect on the specified date.
+
+**138.** (1) Where, for the purposes of a return under section 76, a company apportions expenses incurred partly in or in connection with a particular matter and partly in or in connection with other matters, the return shall contain a statement that the sum included in the return is the result of such an apportionment and the company, if required to do so by notice from the Board, shall prepare and deliver to the Board, within the time limited by the notice which shall be not less than fourteen days from the receipt of such notice, a return containing full particulars as to the amount apportioned and the manner in which and the grounds on which the apportionment has been made.
+
+(2) The provisions of this Act relating to returns under section 76 shall apply in relation to any return required under subsection (1).
+
+*Interpretation. [16 of 1963].*
+
+**139.** (Repealed by Act No. 21 of 2005).
+
+**140.** (1) In sections 133 to 141* “business premises”, in relation to a company, includes all premises occupied by that company for the purposes of any trade carried on by it; but where the reference is expressly to premises which include living accommodation, the said expression does not include so much of any such premises as aforesaid as is used wholly or mainly as living accommodation for any of the directors of the company or for any persons employed by the company in any employment to which those sections apply.
+
+\* See Note on page 165.
+
+(2) Any reference in sections 133 to 141* to anything provided for a director or employee shall, unless the reference is expressly to something provided for the director or employee himself, be construed as including a reference to anything provided for the spouse, family, servants, dependants or guests of that director or employee, and the reference in subsection (1) to living accommodation for directors or employees shall be construed accordingly.
+
+*Unincorporated bodies and partnerships. [16 of 1963].*
+
+(3) In sections 133 to 141* “control”, in relation to a company, means the power of a person to secure, by means of the holding of shares or the possession of voting power in or in relation to that or any other company or by virtue of any powers conferred by the articles of association or other document regulating that or any other company, that the affairs of the first-mentioned company are conducted in accordance with the wishes of that person and, in relation to a partnership, means the right to a share of more than half of the assets, or of more than one-half of the income, of the partnership.
+
+**141.** (1) Sections 133 to 140* shall apply in relation to a body of persons as they apply in relation to a company, and, in connection with the said sections, the definition of “control” in section 140 shall, with the necessary adaptations, also so apply.
+
+*Construction of reference in Act.*
+
+(2) Subject to subsection (3), sections 133 to 140* shall apply in relation to any partnership carrying on any trade, profession or vocation as they would apply in relation to a company carrying on a trade if so much thereof as relates to directors of the company or persons taking part in the management of the affairs of the company were omitted.
+
+(3) In subsection (2)—
+
+(a) “control” has, in relation to a partnership, the meaning assigned to it by section 140 in relation to a company;
+
+\* See Note on page 165.
+
+(b) where such a partnership as aforesaid has control over a company to which sections 133 to 140* apply—
+
+(i) any employment of any director of that company by the partnership shall be an employment to which those sections apply; and
+
+(ii) all the employments of any person who is employed both by the partnership and by the company, being employments by the partnership or the company, shall, for the purpose of determining whether those employments or any of them are employments to which those sections apply, be treated as if they were employments by the company.
+
+*General as to exemption. [29 of 1966].*
+
+(4) Subsections (2) and (3) apply in relation to individuals as they apply in relation to partnerships; but nothing in subsection (3) shall cause an individual to be treated in any circumstances as under the control of another person.
+
+**142.** (1) Notwithstanding any written law to the contrary, where, under any enactment conferring exemption from income tax with respect to distributions or payments of interest made to members of a company that is exempt from income tax, the period during which such company may distribute profits that are exempt from tax is limited, such company may nevertheless distribute the exempt profits at any time thereafter and every such sum when so distributed is exempt from the payment of income tax in the hands of such members, if a special account showing the distribution and payments of interest made by the exempt company is maintained by the company to the satisfaction of the Board.
+
+(2) Where by any written law conferring exemptions from income tax with respect to the distributions or payments of * See Note on page 165.
+
+interest made to members of a company that is itself exempt from tax, a member of such a company is another company, then that other company is entitled at any time to distribute a sum equal to the exempt distributions or payments of interest received by it to its members, and every such sum when so distributed is exempt from payment of income tax in the hands of such members, if a special account showing the distribution and payments of interest received from the exempt company is maintained by the other company to the satisfaction of the Board.
+
+*Section 5. [16 of 1963 29 of 1966].*
+
+## FIRST SCHEDULE CAPITAL GAINS (SUPPLEMENTARY PROVISIONS) RULES INTERPRETATION
+
+**1.** (1) In these Rules—
+
+“allowable loss” means any loss that is permitted to be deducted in computing the chargeable gains of any person for a year of income under rules 3 and 5;
+
+“assets” means all forms of property whether situated in Trinidad and Tobago or not, including—
+
+(a) options, debts and incorporeal property generally;
+
+(b) any currency other than the currency of Trinidad and Tobago;
+
+(c) any form of property created by the person disposing of it, or otherwise coming to be owned without being acquired;
+
+*29 of 1966. Ch. 75:02.*
+
+“branch or agency” means any factorship, agency, receivership, branch or management;
+
+“chargeable gains” means every gain accruing on the disposal of an asset after 1st January 1966 (that is the commencement of the Finance Act 1966) except so far as otherwise expressly provided by these Rules;
+
+“control” shall be construed in accordance with rule 3 of the Third Schedule of the Corporation Tax Act;
+
+“disposal” except as otherwise expressly provided by these Rules has the meaning assigned to that expression in rule 4;
+
+“legatee” includes any person taking under a testamentary disposition or on an intestacy or partial intestacy, whether he takes beneficially or as trustee, and a donatio mortis causa shall be treated as a testamentary disposition and shall not be treated as a gift;
+
+“market value”, in relation to any asset, means subject to rule 7, the price which that asset might reasonably be expected to fetch on a sale in the open market;
+
+“non-resident company” has the meaning assigned to that expression for the purposes of the Corporation Tax Act in section 2 thereof;
+
+“person” includes a company;
+
+“part disposal” has the meaning given by subrule (2);
+
+“personal representative” means an executor, original or by representation, or administrator for the time being of a deceased person, and as regards any
+
+liability for the payment of death duties, includes any person who takes possession of, or intermeddles with, the property of the deceased person without the authority of the personal representative or the Court;
+
+“principal” means, in relation to a branch or agency, the person, by whatever name called, managing or in charge of the branch or agency;
+
+*Ch. 75:02.*
+
+“resident company” has the meaning assigned to that expression for the purposes of the Corporation Tax Act in section 2 thereof;
+
+“short-term capital gains” means chargeable gains accruing on a disposal of an asset within twelve months of its acquisition;
+
+“trading stock”, in relation to any trade, means any property of any description whether real or personal being either—
+
+(a) property such as is sold in the ordinary course of the trade or would be so sold if it were mature, or if its manufacture, preparation or construction were complete; or
+
+(b) materials such as are used in the manufacture, preparation or construction of any such property as is referred to in paragraph (a).
+
+(2) For the purposes of these Rules—
+
+(a) references to a disposal of an asset include references to a part disposal of the asset;
+
+(b) there is a part disposal of an asset where an interest or right in or over the asset is created by the disposal, as well as where it subsists before the disposal, and generally, there is a part disposal of an asset where, on a person making a disposal, any description of property derived from the asset remains undisposed of.
+
+(3) In the case of a disposal within the meaning of rule 4(1)(a), (b) and (c), the time of the disposal shall be the time when the right to the capital sum is derived as described in that subrule.
+
+(4) A hire purchase or other transaction under which the use and enjoyment of an asset is obtained by a person for a period at the end of which the property in the asset will or may pass to that person shall be treated for the purposes of these Rules, both in relation to that person and in relation to the person from whom he obtains the use and enjoyment of the asset, as if it amounted to an entire disposal of the asset to that person at the beginning of the period for which he obtains the use and enjoyment of the asset, but, subject to such adjustments of tax, whether by way of repayment or discharge of tax or otherwise, as may be required, where the period for which that person has the use and enjoyment of the asset terminates without the property in the asset passing to him.
+
+## PART I CHARGE TO TAX GENERAL
+
+**2.** Where a person is not resident and not ordinarily resident in Trinidad and Tobago the tax shall be so charged on chargeable gains accruing on the disposal of assets that are immovable property situated in Trinidad and Tobago.
+
+### COMPUTATION OF CHARGEABLE GAINS
+
+**3.** In ascertaining the chargeable gains accruing to any person chargeable with tax in a year of income, there may be deducted any allowable loss accrued to that person in that year of income and, (so far as such loss has not been allowed as a deduction in ascertaining chargeable gains accruing in any previous year of income), any allowable loss accruing to that person in any previous year of income, not earlier than the year of income 1966. DISPOSAL OF ASSETS
+
+**4.** (1) Subject to subrule (4), and to the exceptions in these Rules, there is for the purposes of these Rules a disposal of assets by their owner where the right to any capital sum is derived from assets notwithstanding that no asset is acquired by the person paying the capital sum, and this subrule applies in particular to the right to—
+
+(a) capital sums by way of compensation for any kind of damage or injury to assets or for the loss, destruction or dissipation of assets or for any depreciation or risk of depreciation of an asset;
+
+(b) capital sums under a policy of insurance of the risk of any kind of damage or injury to, or the loss or depreciation of, assets;
+
+(c) capital sums in return for forfeiture or surrender of rights, or for refraining from exercising rights.
+
+(2) Subject to the provisions of these Rules, a person’s acquisition of an asset and the disposal of it to him shall for the purposes of these Rules be deemed to be for a consideration equal to the market value of the asset—
+
+(a) where he acquires the asset otherwise than by way of a bargain made at arm’s length and in particular where he acquires it by way of gift or by way of distribution from a company in respect of shares in the company; or
+
+(b) where he acquires the asset wholly or partly for a consideration that cannot be valued, or in connection with his own or another’s loss of office or employment or diminution
+
+of emoluments, or otherwise in consideration for or in recognition of his or another’s services or past services in any office or employment or of any other service rendered by him or another; or
+
+(c) where he acquires the asset as trustee for creditors of the person making the disposal.
+
+(3) In relation to assets held by a person as nominee for another person, or as trustee for another person absolutely entitled as against the trustee, or for any person who would be so entitled but for being an infant or other person under disability (or for two or more persons who are or would be jointly so entitled), these Rules shall apply as if the property were vested in, and the acts of the nominee or trustee in relation to the assets were the acts of, the person or persons for whom he is the nominee or trustee (acquisitions from or disposals to him by that person or persons being disregarded accordingly).
+
+*Losses.*
+
+(4) In this rule, “capital sum” means any money or money’s worth which is not excluded from the consideration taken into account in the computation under these Rules.
+
+**5.** (1) Except as otherwise expressly provided, the amount of a loss accruing on a disposal of an asset shall be computed in the same way as the amount of a gain accruing on a disposal.
+
+(2) Except as otherwise expressly provided, all the provisions of these Rules which distinguish gains which are chargeable gains from those which are not, or which make part of a gain a chargeable gain, and part not, shall apply also to distinguish losses which are allowable losses from those which are not, and to make part of a loss an allowable loss, and part not, and references in these Rules to an allowable loss shall be construed accordingly.
+
+(3) Subject to these Rules, the occasion of the entire loss, destruction, dissipation or extinction of an asset shall, for the purposes of these Rules, constitute a disposal of the asset whether or not any capital sum by way of compensation or otherwise is received in respect of the destruction, dissipation or extinction of the asset.
+
+(4) For the purposes of subrules (1) and (3), a building and any permanent or semi-permanent structure in the nature of a building, may be regarded as an asset separate from the land on which it is situated, but where either of those subrules apply in accordance with this subrule, the person deemed to have made the disposal of the building shall be treated as if he had also sold, and immediately re-acquired the site of the building or structure (including in the site any land occupied for purposes ancillary to the use of the building or structure) for a consideration equal to its market value at that time.
+
+(5) A loss accruing to a person in a year of income shall not be an allowable loss for the purposes of these Rules unless he would be chargeable
+
+to income tax in respect of a chargeable gain if there had been a gain instead of a loss on that occasion.
+
+(6) In no case shall any allowable loss be deducted from income other than short-term capital gains, nor shall any loss under this Act be deducted in computing short-term capital gains.
+
+*Ch. 11:19.*
+
+**6.** (1) Rights and winnings obtained by participating in pool betting or lotteries or games with prizes, lawfully carried on under or by virtue of the provisions of the Gambling and Betting Act, shall not be chargeable assets and no chargeable gain or allowable loss shall accrue on their disposal.
+
+(2) No chargeable gain shall accrue—
+
+(a) upon the disposal by an individual of currency of any description acquired by him for personal expenditure outside Trinidad and Tobago of himself or his family or dependants (including expenditure on the provision or maintenance of any resident outside Trinidad and Tobago);
+
+(b) from sums obtained by way of compensation or damages for any wrong or injury suffered by an individual in his person or in his profession or vocation;
+
+(c) from winnings from betting lawfully carried on under or by virtue of the Gambling and Betting Act, including pool betting and lotteries or games with prizes;
+
+*Ch. 75:02.*
+
+(d) on the disposal of an asset by an individual or a company which is under the provisions of this Act or of the Corporation Tax Act, exempt from tax;
+
+(e) on the disposal of any security in Trinidad and Tobago;
+
+(f) private motor-cars, household goods and owner-occupied houses disposed of for five thousand dollars or under.
+
+(3) In this rule “security” includes any loans, stock or similar security whether of the Government of Trinidad and Tobago or any other Government, or of any public or local authority in Trinidad and Tobago or elsewhere, or of any company, or whether secure or unsecured.
+
+### VALUATION
+
+**7.** (1) In any case where it considers it proper, the Board may determine the market value of any asset.
+
+(2) In estimating the market value of any assets no reduction shall be made in the estimate on account of the estimate being made on the assumption that the whole of the assets is to be placed on the market at one and the same time.
+
+(3) If and so far as the question in dispute on any objection to or appeal against an assessment to tax on chargeable gains, or against a decision on a claim under these Rules is a question of the value of any land, or of a lease of land then the question shall be determined by the Appeal Board.
+
+(4) If and so far as any such appeal involves the question of the value of any shares or securities in a resident company, that question shall be determined by the Appeal Board.
+
+## PART II COMPUTATION GENERAL
+
+**8.** The following provisions of these Rules shall have effect for computing for the purposes of this Act the amount of a gain accruing on the disposal of an asset.
+
+### EXPENDITURE—GENERAL PROVISIONS
+
+**9.** (1) Subject to the following provisions of these Rules, the sums allowable as a deduction from the consideration in the computation under these Rules of the gain accruing to a person on the disposal of an asset shall be restricted to—
+
+(a) the amount or value of the consideration, in money or money’s worth, given by him or on his behalf wholly and exclusively for the acquisition of the asset, together with the incidental costs to him of the acquisition or, if the asset was not acquired by him, any expenditure wholly and exclusively incurred by him in providing the asset;
+
+(b) the amount of any expenditure wholly and exclusively incurred on the asset by him or on his behalf for the purpose of enhancing the value of the asset, being expenditure reflected in the state or nature of the asset at the time of the disposal, and any expenditure wholly and exclusively incurred by him in establishing, preserving or defending his title to, or to a right over, the asset;
+
+(c) the incidental costs to him of making the disposal.
+
+(2) For the purposes of this rule and for the purposes of all other provisions of this Part, the incidental costs to the person making the disposal, of the acquisition of the asset or of its disposal shall consist of expenditure wholly and exclusively incurred by him for the purposes of the acquisition or, as the case may be, the disposal, being fees, commission or remuneration paid
+
+for the professional services of any surveyor or valuer, or auctioneer, or accountant, or agent or legal adviser and costs of transfer or conveyance (including stamp duty) together—
+
+(a) in the case of the acquisition of an asset, with costs of advertising to find a seller; and
+
+(b) in the case of a disposal, with costs of advertising to find a buyer and costs reasonably incurred in making any valuation or apportionment required for the purposes of the computation under these Rules, including in particular expenses reasonably incurred in ascertaining market value where required by this Part.
+
+### PART DISPOSAL
+
+**10.** (1) Where a person disposes of an interest or right in or over an asset and, generally wherever on the disposal of an asset any description of property derived from that asset remains undisposed of, the sums which under rule 9 (1)(a) and (b) are attributable to the asset shall, both for the purposes of the computation under these Rules of the chargeable gain accruing on the disposal and for the purpose of applying these Rules in relation to the property which remains undisposed of, be apportioned.
+
+(2) This rule shall not be taken as requiring the apportionment of any expenditure which, on the facts, is wholly attributable to what is disposed of, or wholly attributable to what remains undisposed of.
+
+### PREMIUMS UNDER POLICIES OF INSURANCE
+
+**11.** There shall be excluded from the sums allowable as a deduction in the computation under these Rules of the gain accruing to a person on the disposal of an asset any premiums or other payments made under a policy of insurance of the risk of any kind of damage or injury to, or loss or depreciation of, the asset.
+
+### CONSIDERATION DUE AFTER TIME OF DISPOSAL
+
+**12.** (1) If the consideration, or part of the consideration, taken into account in the computation under these Rules is payable by instalments, the chargeable gain (or allowable loss) accruing on the disposal shall as regards the whole of the consideration be treated for all the purposes of this Part as accruing at the time when the disposal was made, so, however, that the amount of tax payable on the chargeable gain so accruing shall be paid to the Board in proportionate parts to the proportions of the amounts of the instalments of consideration payable in the respective years of income.
+
+(2) In the computation under these Rules consideration for the disposal shall be brought into account without any discount for postponement of the right to receive any part of it and, in the first instance, without regard to a risk of any part of the consideration being irrecoverable or the right to receive any part of the consideration being contingent; and if any part of the consideration so brought into account is subsequently shown to the satisfaction of the Board of Inland Revenue to be irrecoverable, such adjustment, whether by way of discharge or repayment of tax or otherwise, shall be made as is required in consequence.
+
+### CONTINGENT LIABILITIES
+
+**13.** (1) In the first instance no allowance shall be made in the computation under these Rules—
+
+(a) in the case of a disposal by way of assigning a lease of land or other property, for any liability remaining with, or assumed by, the person making the disposal by way of assigning the lease which is contingent on a default in respect of liabilities thereby or subsequently assumed by the assignee under the terms and conditions of the lease;
+
+(b) for any contingent liability of the person making the disposal in respect of any covenant for quiet enjoyment or other obligation assumed as vendor of land, or of any estate or interest in land, or as a lessor;
+
+(c) for any contingent liability in respect of a warranty or representation made on a disposal by way of sale or lease of any property other than land.
+
+(2) If it is subsequently shown to the satisfaction of the Board of Inland Revenue that any such contingent liability has become enforceable, and is being or has been enforced, such adjustment, whether by way of discharge or repayment of tax or otherwise, shall be made as is required in consequence. FOREIGN TAX
+
+**14.** Subject to the provisions of this Part as regards double taxation relief, the tax chargeable under the law of any country outside Trinidad and Tobago on the disposal of an asset which is borne by the person making the disposal shall be allowable as a deduction in the computation under these Rules. SUPPLEMENTAL
+
+**15.** (1) No deduction shall be allowable in a computation under these Rules more than once from any sum or from more than one sum.
+
+(2) For the purposes of any computation under these Rules any necessary apportionments shall be made of any consideration or of any
+
+expenditure and the method of apportionment adopted shall, subject to the express provisions of these Rules, be such method as appears to the Board of Inland Revenue or on appeal to the Appeal Board to be just and reasonable. APPROPRIATIONS TO AND FROM STOCK IN TRADE
+
+**16.** (1) Subject to subrule (3), where an asset acquired by a person otherwise than as trading stock of a trade carried on by him is appropriated by him for the purposes of the trade as trading stock (whether on the commencement of the trade or otherwise) and, if he had then sold the asset for its market value, a gain or loss would have accrued to him, he shall be treated as having thereby disposed of the asset by selling it for its then market value.
+
+(2) Where an asset forming part of the trading stock of a person’s trade is appropriated by him for any other purpose, or is retained by him on his ceasing to carry on the trade, he shall be treated as having acquired it for a consideration equal to the amount brought into the accounts of the trade in respect of it for tax purposes on the appropriation or on his ceasing to carry on the trade, as the case may be.
+
+(3) Subrule (1) shall not apply in relation to a person’s appropriation of an asset for the purposes of a trade if he is chargeable to income tax or corporation tax in respect of the profits of the trade and elects that instead the market value of the asset at the time of the appropriation shall, in computing the profits of the trade for purposes of tax, be treated as reduced by the amount of the gain or increased by the amount of the loss referred to in that subrule, and where that subrule does not apply by reason of such an election, the profits of the trade shall be computed accordingly, except that if a person making an election under this subrule is at the time of the appropriation carrying on the trade in partnership with others, the election shall not have effect unless concurred in by the others.
+
+### TRANSACTIONS BETWEEN CONNECTED PERSONS
+
+**17.** (1) This rule shall apply where a person acquires an asset and the person making the disposal is connected with him.
+
+(2) Without prejudice to the generality of rule 4(2) the person acquiring the asset and the person making the disposal shall be treated as parties to a transaction otherwise than by way of a bargain made at arm’s length.
+
+(3) If on the disposal a loss accrues to the person making the disposal, it shall not be deductible from a chargeable gain accruing to him on some other disposal of an asset.
+
+### HUSBAND AND WIFE
+
+**18.** If, in any year of income, and in the case of a woman who in that year of income is a married woman living with her husband the man disposes of an
+
+asset to the wife, or the wife disposes of an asset to the man, both shall be treated as if the asset was acquired from the one making the disposal for a consideration of such amount as would secure that on the disposal neither a gain nor loss would accrue to the one making the disposal.
+
+### CONNECTED PERSONS
+
+**19.** (1) Any question whether a person is connected with another shall for the purposes of this Part be determined in accordance with the following subrules (any provision that one person is connected with another being taken to mean that they are connected with one another).
+
+(2) A person is connected with an individual if that person is the individual’s husband or wife, or is a relative, or the husband or wife of a relative, of the individual or of the individual’s husband or wife.
+
+(3) A person, in his capacity as trustee of a settlement, is connected with any individual who in relation to the settlement is a settlor.
+
+## SECOND SCHEDULE (Repealed by Act No. 6 of 1989)
+
+*\\*Sections 48 and 50.*
+
+## THIRD SCHEDULE
+
+## PART I RATES OF TAX PAYABLE ON CHARGEABLE INCOME OF A PERSON OTHER THAN A COMPANY
+
+**1.** The rate of tax payable on the chargeable income of a person, other than a company is—
+
+(a) twenty-five cents for every dollar up to $1,000,000 of chargeable income; and
+
+(b) thirty cents for every dollar that exceeds $1,000,000 of chargeable income.
+
+**2.** Notwithstanding the rates of tax set out in paragraph 1, where the chargeable income of a person other than a company who is resident in Trinidad and Tobago—
+
+(a) does not exceed $5,000, no tax shall be charged;
+
+\* This Schedule has been amended by the following: 16 of 1963; 29 of 1966; 42 of 1966; 13 of 1968; 1 of 1979; 19 of 1980; 25 of 1981; 11 of 1988; 6 of 1989; 9 of 1990; 4 of 1992; 5 of 1995;
+
+*MINISTRY*
+
+### OF THE ATTORNEY GENERAL AND LEGAL AFFAIRS
+
+(b) exceeds $5,000, but does not exceed $5,500, the tax payable shall be limited to 49.5 per cent of the amount by which the chargeable income exceeds $5,000;
+
+(c) exceeds $5,000, but does not exceed $6,000, the tax payable shall be reduced by 50 per cent;
+
+(d) exceeds $6,000, but does not exceed $7,000, the tax payable shall be limited to $280 plus 31.2 per cent of the amount by which the chargeable income exceeds $6,000;
+
+(e) exceeds $7,000, but does not exceed $8,000, the tax payable shall be reduced by 20 per cent;
+
+(f) exceeds $8,000, but does not exceed $8,500, the tax payable shall be limited to $736 plus 59.8 per cent of the amount by which the chargeable income exceeds $8,000.
+
+## PART II
+
+*The rates of*
+
+RATES OF WITHHOLDING TAX withholding tax shall be—
+
+(i) on any distribution made—10 per cent;
+
+but where such distribution is made to a parent company the rate shall be 5 per cent;
+
+(ii) on any payment made to a person other than a company—15 per cent;
+
+(iii) on any payment made to a company—15 per cent; but where there is a double taxation agreement in force or where an Order is made under section 96 of this Act, the rate of withholding tax shall be such lesser rate as may be therein provided.
+
+## FOURTH SCHEDULE (Repealed by Act No. 8 of 1996)
+
+*Sections 93, 95 and 96. [29 of 1966 42 of 1966].*
+
+## FIFTH SCHEDULE DOUBLE TAXATION REGULATIONS
+
+## PART I PROVISIONS AS TO RELIEF FROM INCOME TAX BY WAY OF CREDIT IN RESPECT OF FOREIGN TAX Interpretation
+
+**1.** (1) In this Part of these Regulations—
+
+“Trinidad and Tobago tax” means income tax;
+
+“foreign tax” means, in relation to any country, arrangements with the Government of which have effect by virtue of section 93 of this Act, any tax chargeable under the laws of that country for which credit may be allowed under the arrangements;
+
+“foreign income tax” means any foreign tax which corresponds to income tax;
+
+“total income” means the aggregate amount of the income of any person from the sources specified in section 5 of this Act for a year of income.
+
+(2) Where arrangements having effect by virtue of the said section 93 of this Act provide for any tax chargeable under the laws of the country concerned being treated as income tax, that tax shall, notwithstanding anything contained in this regulation be treated as foreign income tax or foreign tax other than foreign income tax, as the case may be.
+
+(3) Any reference in these Regulations to foreign tax or foreign income tax shall be construed, in relation to credit to be allowed under any arrangements, as a reference only to tax chargeable under the laws of the country with the Government of which the arrangements were made. General
+
+**2.** (1) Subject to the provisions of these Regulations where, under the arrangements, credit is to be allowed against any Trinidad and Tobago tax chargeable in respect of any income, the amount of the Trinidad and Tobago taxes so chargeable shall be reduced by the amount of the credit.
+
+*Third Schedule.*
+
+(2) For the year of income 1973, the following provision shall be deemed to have had effect in place of the proviso to Part I of the Third Schedule to this Act:
+
+Where chargeable income of a person—
+
+(i) does not exceed $250.00, no tax shall be charged;
+
+(ii) exceeds $250.00 but does not exceed $1,000.00, the tax payable shall be reduced by fifty per cent;
+
+(iii) exceeds $1,000.00 but does not exceed $2,000.00, the tax payable shall be reduced by ten per cent;
+
+(iv) exceeds $2,000.00 but does not exceed $4,000.00, the tax payable shall be reduced by five per cent;
+
+(v) exceeds $61,450.00, the tax payable shall not exceed fifty per cent of the total amount of the chargeable income.
+
+(3) Nothing contained in this regulation authorises the allowance of credit against any Trinidad and Tobago tax against which credit is not allowable under the arrangements.
+
+Requirement as to Residence
+
+**3.** Credit shall not be allowed against tax for any year of income unless the person in respect of whose income the tax is chargeable is resident in Trinidad and Tobago for that year.
+
+Limit on Total Credit
+
+**4.** The credit shall not exceed the amount which would be produced by computing the amount of the income of the person in question in accordance with the provisions of this Act and then charging it to income tax at a rate ascertained by dividing the income tax chargeable (before allowance of credit under any arrangements having effect under section 93 of this Act) on the total income by the amount of the total income.
+
+**5.** Without prejudice to the provisions of regulation 4 the total credit to be allowed to a person against income tax for any year of income for foreign tax under all arrangements having effect by virtue of section 93 of this Act shall not exceed the total tax payable by him for that year.
+
+Effect on Computation of Income of Allowance of Credit
+
+**6.** (1) In computing the amount of the income—
+
+(a) no deduction shall be allowed in respect of foreign tax (whether in respect of the same or any other income);
+
+(b) where the income tax chargeable depends on the amount received in Trinidad and Tobago, the said amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
+
+(c) where the income includes a dividend and under the arrangements, foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so, what credit is to be given against income tax in respect of the dividend the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit, but notwithstanding anything in the preceding provisions of this subregulation a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
+
+(2) Paragraphs (a) and (b) of subregulation (1) (but not the remainder thereof) shall apply to the computation of total income for the purposes of determining the rate mentioned in regulation 4 and shall apply thereto in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 93 of this Act.
+
+**7.** (1) Where, in the case of any dividend, foreign income tax not chargeable directly or by deduction in respect of the dividend is, under the arrangements, to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the foreign income tax not so chargeable which is to be taken into account shall be that borne by the body corporate paying the dividend upon the relevant profits in so far as it is properly attributable to the proportion of the relevant profits which is represented by the dividend.
+
+(2) For the purposes of subregulation (1), the relevant profits are—
+
+(a) if the dividend is paid for a specified period, the profits of that period;
+
+(b) if the dividend is not paid for a specified period but is paid out of specified profits, those profits;
+
+(c) if the dividend is paid neither for a specified period nor out of specified profits, the profits of the last period for which accounts of the body corporate were made up which ended before the dividend became payable.
+
+Provided that if, however, in a case falling under paragraph (a) or paragraph (c) of this subregulation, the total dividend exceeds the profits available for distribution of the period mentioned in the said paragraph (a) or the said paragraph (c), as the case may be, the relevant profits shall be the profits of that
+
+period plus so much of the profits available for distribution of preceding periods (other than profits previously distributed or previously treated as relevant for the purposes of this subregulation) as are equal to the excess; and for the purposes of this proviso the profits of the most recent preceding period shall first be taken into account, then the profits of the next most recent preceding period, and so on.
+
+**8.** Where—
+
+(a) the arrangements provide, in relation to dividends of some classes but not in relation to dividends of other classes, that foreign tax not chargeable directly or by deduction in respect of dividends is to be taken into account in considering whether any, and if so, what credit is to be given against income tax in respect of the dividends; and
+
+(b) a dividend is paid which is not of a class in relation to which the arrangements so provide, then, if the dividend is paid to a company which controls, directly or indirectly, not less than one-half of the voting power in the company paying the dividend, credit shall be allowed as if the dividend were a dividend of a class in relation to which the arrangements so provide.
+
+Miscellaneous
+
+**9.** Credit shall not be allowed under the arrangements against Trinidad and Tobago tax chargeable in respect of the income of any person if he elects that credit shall not be allowed in respect of that income.
+
+**10.** Subject to regulation 11, any claim for an allowance by way of credit for foreign tax in respect of any income shall be made not later than six years from the year of income and in the event of any dispute as to the amount allowable the claim shall be subject to objection and appeal in like manner as an assessment.
+
+**11.** Where the amount of any credit given under the arrangements is rendered excessive or insufficient by reason of any adjustment of the amount of any tax payable either in Trinidad and Tobago or under the law of any other country, nothing in this Act or in any other written law limiting the time for making assessments or claims for relief shall apply to any assessment or claim to which the adjustment gives rise, being an assessment or claim made not later than six years from the time when all such assessments, adjustments and other determinations have been made, whether in Trinidad and Tobago or elsewhere, as are material in determining whether any, and if so what, credit falls to be given.
+
+## PART II PROVISIONS FOR CREDIT BY WAY OF UNILATERAL RELIEF
+
+**1.** Credit for tax paid under the law of the country outside Trinidad and Tobago in respect of income arising in that country shall be allowed against Trinidad and Tobago tax chargeable in respect of that income; but where arrangements with the Government of the country are for the time being in force by virtue of section 93 of this Act credit for tax paid under the law of the country shall not be allowable under this regulation in the case of any income if any credit for that tax is allowable under these arrangements in the case of that income.
+
+**2.** Profits from or remuneration for personal or professional services performed in the country shall be deemed to be income arising in the country for the purpose of regulation 1 of this Part.
+
+**3.** Where a dividend paid by the company resident in the country is paid to a company resident in Trinidad and Tobago which owns not less than one quarter of all classes of voting and non-voting stock in the company paying the dividend, tax paid under the law of the country by the first-mentioned company in respect of its profits shall be taken into account in considering whether any, and if so what, credit is to be allowed in respect of the dividend.
+
+*Section 96.*
+
+PART III MODIFICATIONS OF PROVISIONS OF PART I APPLICABLE TO UNILATERAL RELIEF Notwithstanding anything in regulation 3 of Part I of these Regulations (which provides that relief by way of credit shall be given only where the person is resident in Trinidad and Tobago), credit by way of unilateral relief for tax paid under the law of any country in respect of income from an office or employment or profits the duties whereof are performed wholly or mainly in that country may be allowed against tax chargeable in respect of that income if the person is, for the particular year of income, resident either in Trinidad and Tobago or that country.
+
+## PART IV THE PRESCRIBED COMMONWEALTH COUNTRIES Barbados
+
+Guyana
+
+Jamaica
+
+*Computation of rate of tax.*
+
+PART V SPECIAL PROVISIONS WHICH APPLY TO COMMONWEALTH COUNTRIES PRESCRIBED FOR DOUBLE TAXATION PURPOSES [WHICH PROVISIONS WERE FORMERLY CONTAINED IN SECTIONS 47(3), 48 AND 49 OF THE INCOME TAX ORDINANCE CH. 33. NO. 1 (1950 ED.) BUT WERE REPEALED BY THE FINANCE ACT 1966 (ACT NO. 29 OF 1966)]
+
+*Relief in respect of Commonwealth income tax.*
+
+**1.** For the purposes of section 96(2) (in this Part referred to as “the section”), the expression “rate of tax” when applied to tax paid or payable under this Act, means the rate determined by dividing the amount of tax paid or payable for the year (before the deduction of any relief granted under the section) by the amount of the income in respect of which the tax paid or payable under this Act has been charged for that year, except that where the income which is the subject of a claim to relief under the section is computed by reference to the provisions of section 60 on an amount other than the ascertained amount of the actual profits, the rate of tax shall be determined by the Board.
+
+*Residents.*
+
+**2.** If any person resident in Trinidad and Tobago who has paid, by deduction or otherwise, or is liable to pay tax under this Act for any year of income on any part of income, proves to the satisfaction of the Board that he has paid by deduction or otherwise, or is liable to pay Commonwealth income tax for that year in respect of the same part of his income, he shall be entitled to relief from tax in Trinidad and Tobago paid or payable by him on that part of his income at a rate thereon to be determined as follows:
+
+(a) if the Commonwealth rate of tax does not exceed one-half of the rate of tax appropriate to his case under this Act in Trinidad and Tobago, the rate at which relief is to be given shall be the Commonwealth rate of tax;
+
+*Non-residents.*
+
+(b) in any other case, the rate at which relief is to be given shall be half the rate of tax appropriate to his case under this Act.
+
+**3.** If any person not resident in Trinidad and Tobago, who has paid by deduction or otherwise, or is liable to pay, tax under this Act for any year of income on any part of his income, proves to the satisfaction of the Board that he has paid, by deduction or otherwise or is liable to pay, Commonwealth income tax for that year of income in respect of the same part of his income, he shall be entitled to relief from tax paid or payable by him under this Act on that part of his income at a rate thereon to be determined as follows:
+
+(a) if the Commonwealth rate of tax appropriate to his case does not exceed the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be one-half of the Commonwealth rate of tax;
+
+*Commonwealth income tax defined.*
+
+(b) if the Commonwealth rate of tax appropriate to his case exceeds the rate of tax appropriate to his case under this Act, the rate at which relief is to be given shall be equal to the amount by which the rate of tax appropriate to his case under this Act exceeds one-half of the Commonwealth rate of tax.
+
+*Computation of note of tax. Computation of rate of tax— Resident defined. Period within which claim may be made for relief from double taxation. Ch. 33. No. 1 (1950 Ed.) 16 of 1963.*
+
+**4.** For the purposes of this Part, the expression “Commonwealth income tax” means any income tax charged under any law in force in any Commonwealth country (other than the United Kingdom or Trinidad and Tobago), provided that the legislature of that country has provided for relief in respect of tax charged on income both in that part of place and Trinidad and Tobago in a manner similar to that provided in the section.
+
+**5.** For the purposes of the section, the rate of tax under this Act shall be computed in the manner provided by paragraph 1 and the Commonwealth rate of tax shall be computed in a similar manner.
+
+**6.** Where a person is, for any year of income, resident both in Trinidad and Tobago and in a country in which Commonwealth income tax is charged, he shall, for the purposes of the section, be deemed to be resident where, during that year, he resides for the longer period.
+
+**7.** (a) A claim for relief under sections 93 and 95 shall be made within six years from the end of the former years of assessment or the year of income to which it relates.
+
+(b) This paragraph has effect for the former years of assessment 1961 and 1962 and subsequent years of income, but does not render invalid any claim made under the Income Tax Ordinance, before the commencement of the Income Tax (Amendment) Act, 1963.
+
+*Section 104. [29 of 1966].*
+
+## SIXTH SCHEDULE REPUBLIC OF TRINIDAD AND TOBAGO THE INCOME TAX ACT (CH. 75:01)
+
+DISTRESS WARRANT To ....................................................................................................................... I, ......................................................................................................................... on behalf of the Board of Inland Revenue, by virtue of the power vested in the Board by section 104 of the Income Tax Act (Ch. 75:01), do hereby authorise you to collect and recover the several amounts —
+
+............................................................................................................................ ............................................................................................................................ respectively due for tax, and for the recovery thereof I further authorise you, with the assistance of any constable or constables which assistance he or they are hereby required to give, to forthwith levy by distress the said sums, and also the costs and charges of and incidental to the taking and keeping of such distress, on the goods, chattels or other distrainable things of ............................................. or of any part thereof charged with such tax. And for the purpose of levying such distress you are hereby authorised, if necessary, with such assistance as aforesaid, to break open any building in the day time.
+
+Given under my hand at ...................................................... this ................. day of ............................................................ 20 .......
+
+......................................................................... Commissioner
+
+*Section 11A. [5 of 1995 35 of 1998 2 of 2002 17 of 2007 13 of 2010*
+
+*Rate*
+
+*4 of 2014 7 of 2016].*
+
+*%*
+
+*Rate %*
+
+SEVENTH SCHEDULE CLASS A (WEAR AND TEAR RATE) 10% Buildings (Housing machinery)—Industrial … … … 10 Buildings (Housing machinery)—Other … … … 10 Building, structures and improvements thereon completed on or after 1st January 1995 … … … … 10 Industrial building structures under the Income Tax (In Aid of Industry) Act acquired prior to 1st January 2006 … … 10 CLASS B (WEAR AND TEAR RATE) 25% Bakers’ Plant … … … … … 25 Office Machines and Equipment—Calculating Machines … 25 Railway Sidings … … … … … 25 Office Machines and Equipment—Duplicating Machines … 25 Furniture—Office … … … … … 25 Dentists—Electric Motors … … … … … 25 Electrical Fittings … … … … … 25 Medical Practitioners —High-Frequency Current Machines … 25 Neon Signs … … … … … 25 Dentists—Furniture … … … … … 25 Carpets (Cost over $500) … … … … … 25 Medical Practitioners—Electro-Cardiograph … … … 25 Radios, Radiograms and Phonographs … … … 25 Typewriters … … … … … 25 Calculating Machines—Electrical … … … … 25 Office Machines and Equipment—Adding Machines … … 25 Brick-making Plant—Railway Siding … … … 25 Bucket Elevator—Quarrying … … … … 25
+
+CLASS B (WEAR AND TEAR RATE) 25%—Continued Rate % Brewery Plant … … … … … 25 Transformers … … … … … 25 Dentists—Carpets … … … … … 25 Office Machines and Equipment—Accounting Machines … 25 Hollman Compressors … … … … … 25 Welding Units … … … … … 25 Water Coolers … … … … … 25 Accounting Machines … … … … … 25 Poultry Farmers—Incubators … … … … 25 Pumps … … … … … 25 Office Machines and Equipment—Typewriters … … 25 Roadmaking Plant—Office Machinery … … … 25 Dumpers—Quarrying … … … … … 25 Medical Practitioners—Other Plant … … … … 25 Stone Crushing Plant … … … … … 25 Adding Machines and Calculators—Electrical … … 25 Cold Stores and Ice Manufacturing—Machinery and Plant … 25 Lifts and Elevators … … … … … 25 Dies … … … … … … 25 Refrigerating Plant and Machinery … … … … 25 Dentists—Plant … … … … … … 25 Bookbinding Plant and Machinery—Boilers … … … 25 Live Network … … … … … … 25 Cold Stores and Ice Manufacturing—Ice Cans … … 25 Radio Equipment … … … … … 25 Elevators and Lifts … … … … … 25 Loudspeakers and Phones … … … … … 25 Boats—Tugs … … … … … … 25 Match Factory Plant … … … … 25 Ice Company Plant—Ice Crusher … … … … 25
+
+CLASS B (WEAR AND TEAR RATE) 25%—Continued Rate % Medical Practitioners—Diathermy Plant … … … 25 Boot and Shoe-making—Boilers … … … … 25 Boot and Shoe-making—General Plant and Machinery … 25 Boats—Launches … … … … … 25 Boot and Shoe-making—Box (Cardboard) Manufacturers’ Machinery … … … … … … 25 Ice Company Plant—Water Filter … … … … 25 Beverage Coolers … … … … 25 Diesel Engines and Motors… … … … … 25 Medical Practitioners—Ophthalmic Surgeon’s Plant … … 25 Boilers—Engines, Shafting … … … … 25 Plastic Extrusion Machine … … … … 25 Boilers … … … … … 25 Containers-makers’ Plant … … … … … 25 Newspaper Equipment—Printing Machines … … … 25 Medical Practitioners—X-Ray Plant … … … 25 Ice Company Plant—Cold Storage Plant … … … 25 Newspaper Equipment—Engines and Shafting … … 25 Ice Company Plant—Ice Breaker … … … … 25 Newspaper Equipment—Boilers … … … … 25 Laundry Plant—Washing Machines… … … … 25 Millinery Manufacturing Plant—Sewing Machines … … 25 Clothing and Millinery—Sewing Machines … … … 25 Confectioners’ Machinery … … … … … 25 Ice Company Plant—Coils … … … … 25 Sewing Machines … … … … … 25 Boilers—Engines, Shafting … … … … 25 Biscuit-making Plant … … … … … 25 Boilers—General Binding Machinery and Plant … … 25 R.H.F. Welding Machines … … … … … 25 Dredges … … … … … 25 Cotton Knitting and Spinning Plant … … … 25
+
+CLASS B (WEAR AND TEAR RATE) 25%—Continued Rate % Ship building Plant … … … … … 25 Molasses Industry—Punts … … … … … 25 Aerated Water Plant—Bottling Plant … … … 25 Molasses Industry—Pipe Lines … … … … 25 Coconut Oil Manufacturing Plant … … … … 25 Molasses Industry—Concrete sump and gear … … 25 Clothing and Millinery—Other Plant … … … 25 Milk Treatment Plant … … … … … 25 Clothing and Millinery—Manufacturing Plant … … 25 Generators … … … … … 25 Cement and Concrete Tile—Manufacturing Plant … … 25 Roadmaking Plant—Asphalt Plant … … … … 25 Sugar Industry—Boilers, auxiliaries, steam piping … … 25 Printing Press … … … … … … 25 Quarrying Plant and Machinery … … … … 25 Molasses Industry—Pumps … … … … 25 Air-conditioning Equipment—Single Units … … … 25 Molasses Industry—Mill Storage … … … … 25 Sugar Industry—Distilling Plant … … … … 25 Laundry Plant—General Plant … … … … 25 Brick-making Plant—Grog Crusher … … … 25 Distillery Plant … … … … … … 25 Brick-making Plant—Tunnel Kilns and Dryers … … 25 Molasses Industry—Storage Tanks … … … … 25 Sugar Industry—Drainage and Irrigation Plant … … 25 Engineering Works … … … … … 25 Millinery Manufacturing Plant—Other Plant … … 25 Rum Refinery Plant … … … … … 25 Sugar Industry—Factory … … … … … 25 Ice Company Plant—Factory Plant and Machinery … … 25 Concrete Mixers … … … … … … 25 Oxygen Acetylene Plant … … … … … 25
+
+CLASS B (WEAR AND TEAR RATE) 25%—Continued Rate % Compressors—Ammonia—Vertical … … … 25 Mobile site office—Caravan … … … … 25 Compressors—Ammonia—Horizontal … … … 25 Ice Company Plant—Fabric Inserted Matting … … 25 Compressors—Air and oxygen types … … … 25 Automotive Equipment … … … … … 25 Boats—Sloops and Streamers Ocean-going … … … 25 Bicycles—Motor … … … … … … 25 Roadmaking Plant—Crawler Loader … … … 25 Oxygen Manufacturing Plant … … … … 25 Roadmaking Plant—Loader … … … … 25 Motor Cars and Vehicles … … … … 25 Copra … … … … … … … 25 Lorries (Motor) … … … … … … 25 Roadmaking Plant—Service Cars … … … … 25 Bicycles—Ordinary—Commercial … … … … 25 Aircraft—Commercial—new … … … … 25 Drying Kilns … … … … … … 25 Vulcanizing Machine … … … … … 25 Steel Barrels … … … … … … 25 Air-Conditioning Equipment—Large general unit … … 25 Caravans—Mobile site office … … … … 25 Roadmaking Plant—Rollers and Steam … … … 25 Television Sets … … … … … … 25 Arc and Gas Welding Plant … … … … 25 Brick-making Plant—Traxcavator … … … … 25 Roadmaking Plant—Motor Dumper … … … 25 Roadmaking Plant—Barbergreen Finisher … … … 25 Roadmaking Plant—Special Tools … … … … 25 Boot and Shoe-making—Motor Vans and Lorries … … 25 Adding Machines and Calculators—Manual … … … 25
+
+CLASS B (WEAR AND TEAR RATE) 25%—Continued Rate % Billiard Tables … … 25 Boats—Barges … … … … … 25 Boats—Lighters … … … … … 25 Boats—Motor … … … … … 25 Boats—Pontoons … … … … … 25 Boats—Punts … … … … … 25 Boats—Rowing and Sailing … … … … 25 Brick-making Plant—Walls and Windbreak … … … 25 Calculating Machines—Hand-operated … … … 25 Cameras … … … … … 25 Cash Registers—Manual … … … … … 25 Cigarette Papers—Cutting and Folding Plant … … … 25 Cigarette—Manufacturing Machinery … … … 25 Cigarette—Tools and Equipment … … … … 25 Coffee Manufacturing … … … … … 25 Cylinders—Gas … … … … … 25 Dentists—Fittings … … … … 25 Dentists—Instruments … … … … … 25 Dictaphones … … … … … 25 Doctors—Instruments … … … … … 25 Filing Cabinets … … … … … 25 Fire Extinguishers … … … … … 25 Fixtures and Fittings … … … … … 25 Furniture—Household … … … … … 25 Hydraulic Jacks … … … … … 25 Ice Company Plant— Refrigerator … … … … 25 Irrigation—Water Supply … … … … … 25 Lighters … … … … … 25 Medical Practitioners—Instruments … … … 25 Medical Practitioners—Radium Plaques and Needles … … 25 Motor Boats … … … … … 25
+
+CLASS B (WEAR AND TEAR RATE) 25%—Continued Rate % Newspaper Equipment—Linotype metal … … … 25 Newspaper Equipment— Stereos and Blocks … … … 25 Newspaper Equipment—Type … … … … 25 Office Machines and Equipment—Dictaphones … … 25 Office Machines and Equipment—Addressograph … … 25 Office Machines and Equipment—Cash Registers … … 25 … 25 Office Machines and Equipment–Proof Machines–Banks Office Machines and Equipment—Telephones … … 25 PBX Systems … … … … … 25 Photography Equipment … … … … … 25 Poultry Farmers—Egg Grader … … … … 25 Poultry Farmers—Eggboxes and Fillers … … … 25 Radio Transceiver Sets … … … … … 25 Roadmaking Plant—Utensils for drawing … … … 25 Safes … … … … … 25 Scales—Weighbridge … … … … … 25 Sea-craft … … … … … 25 Shop Fittings … … … … … 25 Vacuum Cleaners … … … … … 25 Water Tanks and Pumps … … … … … 25 Weighbridges … … … … … 25 Wireless Sets … … … … … 25 Sensor and Measurement Equipment … … … 25 Diagnostics Equipment … … … … 25 Venting Equipment … … … … … 25 Gas Detector … … … … … 25 Handheld Gas Detector: Sniffer … … … 25 Machine Shop Equipment: 25 Drill Press, Milling Machine, Lathes, Grinder, Dies (cutting dies used on lathes and milling machines as well as manual dies and taps for thread cutting on smaller diameter pipework for compressed natural gas systems)
+
+CLASS C (WEAR AND TEAR RATE) 33.3% Rate % Computers … … … … … … 33.3 Farming Equipment … … … … … 33.3 Cutlassing Machine … … … … … 33.3 Bulldozers … … … … … … 33.3 Forklift Trucks … … … … … … 33.3 Cranes—Electrical or otherwise … … … … 33.3 Aerated Water Plant—Bottles and Cases … … … 33.3 Cranes—Gantries … … … … … 33.3 Roadmaking Plant—Spray Truck … … … … 33.3 Agricultural Machinery—Tractors, Plough, Harvesters, etc. … 33.3 Audition Unit—Station and testing equipment … … 33.3 Rigs (Oil) … … … … … … 33.3 Roadmaking Plant—Jitney … … … … 33.3 Natural Gas Compressors (Transmissions) … … … 33.3 CLASS D (WEAR AND TEAR RATE) 40% Rate % Aircraft—Engine Props—Rotable Spares … … … 40 Aircraft—Second-hand … … … … … 40
+
+## EIGHTH SCHEDULE—(Repealed by Act No. 2 of 2006).
+
+## NINTH SCHEDULE—(Repealed by Act No. 2 of 2006).
+
+### SUBSIDIARY LEGISLATION INCOME TAX (MISCELLANEOUS CLEARANCE) REGULATIONS
+
+## ARRANGEMENT OF REGULATIONS }
+
+### REGULATION
+
+**1.** Citation.
+
+**2.** Interpretation.
+
+**3.** Clearance Certificate fee.
+
+**4.** Issue of Clearance Certificate.
+
+5.
+
+to (Revoked by Act No. 5 of 1995).
+
+7.
+
+**8.** Revocation of certificates.
+
+**9.** (Revoked by Act No. 5 of 1995).
+
+**10.** Appeal.
+
+**11.** Offence and penalty.
+
+## SCHEDULE.
+
+*132/1971. [4/1985 17 of 1985 11 of 1988 6 of 1989 5 of 1995]. Citation. Interpretation. [6 of 1989 11 of 1988]. Form C. Schedule. Clearance Certificate fee. [11 of 1988 5 of 1995].*
+
+INCOME TAX (MISCELLANEOUS CLEARANCE) REGULATIONS made under section 125
+
+**1.** These Regulations may be cited as the Income Tax (Miscellaneous Clearance) Regulations.
+
+*Issue of Clearance Certificate. [11 of 1988 5 of 1995].*
+
+}
+
+**2.** In these Regulations—
+
+“Board” includes a Commissioner thereof;
+
+“Clearance Certificate” means a certificate in the form set out as Form “C” in the Schedule to these Regulations and issued by or on behalf of the Board.
+
+**3.** (1)
+
+(2) (Revoked by Act No. 5 of 1995).
+
+(3)
+
+(4) A person who applies for a Clearance Certificate shall pay a fee of one hundred dollars in respect of the application.
+
+**4.** (1) The Board may issue or cause to be issued a Clearance Certificate where the Board is satisfied that the person to whom the same is to be issued—
+
+(a) does not owe any income tax or any other tax on income or profits administered by the Board on his own behalf or on behalf of any other person; or
+
+(b) has made satisfactory arrangement with the Board for the payment of any income tax or any other tax on income or profits administered by the Board payable by him on his own behalf or on behalf of any other person.
+
+(2) A Clearance Certificate shall be valid for such period as may be determined by the Board but not exceeding twelve months.
+
+*Revocation of certificates. [5 of 1995].*
+
+}
+
+Income Tax (Miscellaneous Clearance) Regulations
+
+5.
+
+to (Revoked by Act No. 5 of 1995).
+
+7.
+
+**8.** (1) The Board may, in its discretion, at any time after a Clearance Certificate is issued, revoke such Certificate.
+
+(2) The Board shall serve notice of any revocation upon the person to whom the Certificate was issued at his last known place of business or private address and upon the service of such notice the Certificate shall become invalid.
+
+*Appeal. [5 of 1995].*
+
+**9.** (Revoked by Act No. 5 of 1995).
+
+**10.** A person aggrieved by—
+
+(a) the refusal of the Board to grant him a Clearance Certificate;
+
+*Offence and penalty.*
+
+(b) the decision of the Board to revoke his Clearance Certificate, may appeal to the Appeal Board and the decision of the Appeal Board shall be final.
+
+**11.** A person who contravenes or fails to comply with any of these Regulations is liable on summary conviction to a fine of one thousand dollars or to imprisonment for three months.
+
+Income Tax (Miscellaneous Clearance) Regulations
+
+SCHEDULE FORM A THE INCOME TAX REGULATIONS EXIT CERTIFICATE (To be presented to Shipping or Air Transport Lines and to be presented or surrendered on demand to an Immigration Officer, Customs Officer or other authorised Officer at the place of departure).
+
+THIS CERTIFICATE IS ISSUED TO ......................................................... ............................................................................................................................ (Full name and occupation)
+
+of ........................................................................................................................ (Address)
+
+being the holder of ......................................... Passport No. ............................... This certificate is valid for .................................................................................. from the ....................... day of .................................................... 20.................. ............................................ Board FORM B THE INCOME TAX REGULATIONS BOND
+
+### TRINIDAD AND TOBAGO
+
+KNOW ALL MEN BY THESE PRESENTS THAT I ................................ of ........................................................................................................................ and I (We) ........................................................................................................... of......................................................................................................................... and .................................................... of ............................................................. in the Country of Trinidad and Tobago (hereinafter referred to as the Surety or Sureties) are held and firmly bound unto the Board for the time being of the said Country in the sum of .............................. dollars to be paid to the said Board, for which payment to be well and truly made we bind ourselves and
+
+Income Tax (Miscellaneous Clearance) Regulations each one of us, our and each of our heirs, executors and administrators jointly and severally by these presents.
+
+Dated this ......................day of .................................................., 20................... W HEREAS ........................................... is desirous of leaving the Country. And whereas the said Surety or Sureties desire to enable the said.................... to leave the Country
+
+Now therefore the conditions of the above-written bond are as follows:
+
+(a) if the said .................................. returns to the Country within ......................................... of the date of this Bond; or
+
+(b) pays or makes arrangements for the payment of the income tax due and owing by him on the day of his/her departure from the Country then the above-written bond shall be void, but otherwise the same shall remain in full force and virtue. Signed ................................................................................................................ of ................................................................................................................. Signed ................................................................................................................ (Surety)
+
+of ................................................................................................................. Signed ................................................................................................................ (Surety)
+
+of ................................................................................................................. Before me ........................................................................................................... Immigration, Customs or Authorised Officer Made this ......................................... day of ..................................., 20........... FORM C INCOME TAX REGULATIONS CLEARANCE CERTIFICATE This Certificate is issued to ......................................................................... ............................................................................................................................ of ........................................................................................................................ (Private Address/Registered Office)
+
+............................................................................................................................ who/which has complied with the requirements of the law in relation to the taxes on income or profits administered by the Board and has satisfied all assessed liability to the date hereof/has made satisfactory arrangements for the payment of the taxes due.
+
+This Certificate is valid until .......................................................................
+
+### INCOME TAX (EMPLOYMENT) REGULATIONS
+
+## ARRANGEMENT OF REGULATIONS REGULATION
+
+**1.** Citation.
+
+**2.** Interpretation.
+
+### REGISTRATION
+
+**3.** Registration of employer.
+
+### DEDUCTION OF TAX
+
+**4.** Deduction of tax.
+
+**5.** Deduction in respect of certain payments.
+
+**6.** Deduction in respect of dead employee.
+
+**7.** Exemptions.
+
+**8.** Board to determine questions.
+
+### PAYMENT OF TAX DEDUCTED
+
+**9.** Tax deducted to be paid to Board.
+
+### ACCOUNTING FOR TAX DEDUCTED
+
+**10.** Returns.
+
+**11.** (Repealed by LN 106/1989).
+
+**12.** Employer to give a certificate to employee.
+
+**13.** Cessation of employment.
+
+**14.** Cessation of business.
+
+**15.** Death of employee.
+
+**16.** Particulars of payments.
+
+**17.** Record of emoluments.
+
+### MISCELLANEOUS AND PENALTIES
+
+**18.** Death of employer.
+
+**19.** Change of employer.
+
+**20.** Declaration.
+
+**21.** Tax tables.
+
+## ARRANGEMENT OF REGULATIONS—Continued REGULATION
+
+**22.** Employer to produce documents, etc.
+
+**23.** Complaint to the Board.
+
+**24.** Excess to be refunded.
+
+**25.** Tax to be treated as a single debt.
+
+**26.** Change in allowances.
+
+**27.** Obstructing the Board.
+
+*177/1957. [9/1968 76/1976 106/1989]. Citation. Interpretation. [106/1989].*
+
+INCOME TAX (EMPLOYMENT) REGULATIONS made under section 125
+
+**1.** These Regulations may be cited as the Income Tax (Employment) Regulations.
+
+**2.** (1) In these Regulations—
+
+“allowable deductions” means deductions allowable to a person under sections 10(3)*, 20, 27, 28 and 31 of the Act; †“allowable tax credits” means tax credits to which a person is entitled under sections 48B, 48C, and 48D of the Act;
+
+“appropriate form” means a form approved by the Board for use in any particular case pursuant to these Regulations;
+
+“chargeable income” means the estimated emoluments of the person concerned for the year of income less the amount of the allowable deductions, if any, that are claimed under a declaration for the time being in force;
+
+“declaration” means the declaration referred to in section 98 of the Act;
+
+“emoluments” means all salary, wages, overtime, bonus, remuneration, perquisites, including the value of board and lodging, stipend, commission or other amounts for services, directors’ fees, retiring allowances or pension, arising or accruing in or derived from or received in Trinidad and Tobago and which are assessable to income tax, but shall not include any salary or share of profits arising from a trade, profession or vocation carried on by any person either by himself or in partnership with any other person;
+
+“employee” means any person, not being the holder of an office in receipt of emoluments;
+
+“employer” means any person paying emoluments whether on his own account or on behalf of another person to an employee, and shall be deemed to include any person paying emoluments whether on his own account or on behalf of another person, to the holder of an office;
+
+\*Section 10(3) referred to in this definition was repealed by Act No. 2 of 2006.
+
+†Sections 48B, 48C and 48D referred to in this definition were repealed by Act No. 9 of 1997.
+
+“office” means a position, not being an employment, or place entitling the holder thereof to a fixed or ascertainable stipend or remuneration, and includes the office of a Minister of the Government, the office of a member of the Senate or the House of Representatives of Trinidad and Tobago, a member of a municipal or county council and any other office the holder of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a company director;
+
+“tax tables” means the tax tables referred to in section 101 of the Act prepared by the Board in accordance with regulation 21.
+
+(2) Unless the context otherwise requires, references in these Regulations to “employer” or a “person paying emoluments” shall be deemed to include references to the State and to the Government of Trinidad and Tobago.
+
+(3) (a) Where an employee works under the general control and management of a person who is not his immediate employer, that person (referred to hereafter in this regulation as the “principal employer”) shall be deemed (in relation to such employee) to be the employer for the purpose of these Regulations, and the immediate employer shall furnish the principal employer with such particulars of the employee’s emoluments as may be necessary to enable the principal employer to comply with these Regulations.
+
+(b) If the employee’s emoluments are actually paid to him by the immediate employer—
+
+(i) the immediate employer shall be notified by the principal employer of the amount of tax to be deducted when the emoluments are paid to the employee and shall deduct the amount so notified to him accordingly; and
+
+(ii) the principal employer shall make a corresponding deduction on making to the immediate employer the payment out of which the said emoluments will be paid.
+
+*Registration of employer.*
+
+### REGISTRATION
+
+**3.** (1) Subject as hereinafter provided, every person who carries on or is about to carry on any trade, business, profession or vocation in respect of which he is or will be an employer shall, within 30 days of the commencement of such trade, business, profession or vocation, register with the Board—
+
+(a) his name and address;
+
+(b) the names and addresses of his partners and associates, if any;
+
+(c) the trade or business name where the trade, business, profession or vocation is carried on under a name or style other than his own name;
+
+(d) the place and address, if any, where he carries on or intends to carry on his trade, business, profession or vocation;
+
+(e) the number of employees employed or to be employed,
+
+and this regulation shall be deemed to have been complied with if, in the case of a partnership, the precedent partner as defined in section 78(2)(a) of the Act and in the case of a body of persons the manager or other principal officer, carry out the provisions of this regulation.
+
+(2) Subregulation (1) shall not apply in respect of any person who has filed a return of the income of his trade, business, profession or vocation for the year of income and such person shall be exempt from this regulation.
+
+*Deduction of tax. [106/1989].*
+
+### DEDUCTION OF TAX
+
+**4.** (1) Subject to subregulations (2) and (3) and to regulations 5 and 7, every person paying emoluments to an employee or the holder of an office shall deduct or withhold therefrom on account of the tax payable by the employee or office holder such amount as appears in the appropriate column of the tax tables opposite to the range of amounts appearing in the first column of the tax tables that corresponds to the chargeable income of the employee or office holder.
+
+(2) Where—
+
+(a) (Revoked by LN No. 106/1989);
+
+(b) the chargeable income in any year of income is greater than the highest amount provided for in the first column of the tax tables;
+
+(c) the emoluments paid are in respect of casual or seasonal employment;
+
+(d) the emoluments paid are in respect of any class of case which in the opinion of the Board is a class of case of such a nature that deduction of tax by reference to the tax tables would be impracticable;
+
+(e) the emoluments received by an employee or office holder in a year of income are from more than one source at the same time; or
+
+*the Board be deducted. may, in the tax shall shall be and any shall accordance*
+
+(f) the husband and wife living together are each in receipt of emoluments in a year of income at the same time,
+
+shall direct employers as to the amount of tax to (3) Any directions given pursuant to subregulation (2) particular, include directions as to the manner in which be deducted, the period over which such deductions made and such other matters as the Board may think fit, employer to whom any such directions may be given comply with the directions so given.
+
+(4) For the purpose of applying the tax tables in with subregulation (1)—
+
+(a) the chargeable income of an employee or office holder shall be rounded off to the nearest number of whole dollars, an amount of fifty cents being rounded off to the next highest number of whole dollars; and
+
+(b) the appropriate column of the tax tables is the column under the total of the allowable tax
+
+credits that are claimed under a declaration for the time being in force or, where the person paying the emoluments has received no such declaration and no directions from the Board as to the amount of tax to be deducted, the appropriate column is the column that applies when no allowable tax credit is claimed.
+
+*Deduction in respect of certain payments. [106/1989].*
+
+(5) (Repealed by LN No. 106/1989).
+
+**5.** (1) Where a payment in respect of a bonus, a retroactive increase, or any overtime services is made to an employee, the amount of tax to be deducted shall, subject to regulation 7, be the difference between—
+
+(a) the amount determined according to the tax tables in respect of the chargeable income including the payment; and
+
+(b) the amount determined according to the tax tables in respect of the chargeable income excluding the payment.
+
+*Deduction in respect of dead employee.*
+
+(2) Every person making a payment in respect of services rendered in Trinidad and Tobago by a non-resident person, otherwise than in the course of regular and continuous employment, shall deduct tax in accordance with the column of the tax tables that applies when no allowable tax credit is claimed.
+
+*Exemptions. [106/1989].*
+
+**6.** If any emoluments are paid by an employer at any time after the date of death of an employee or of the holder of an office, the employer by whom the emoluments are paid shall, subject to regulation 7, on making any such payment, deduct in accordance with these Regulations the tax on those emoluments as if the deceased employee or office holder was still alive at the date of the payment.
+
+**7.** Tax shall not be deducted by any employer from—
+
+(a) the emoluments of an employee or the holder of an office who does not, in the year of income, have any chargeable income;
+
+(b) the emoluments of an employee or the holder of an office who is exempt from the payment of income tax;
+
+(c) emoluments paid outside Trinidad and Tobago to an employee outside Trinidad and Tobago;
+
+(d) a pension benefit or retiring allowance arising out of an employment which was wholly carried on outside Trinidad and Tobago; or
+
+*Board to determine questions.*
+
+(e) any payment made in respect of domestic services performed in or in connection with any dwelling house, apartment or other similar place of residence in which place the employer as a general rule sleeps or eats when in Trinidad and Tobago, unless the Board, in any particular case, directs the employer to deduct tax in accordance with these Regulations.
+
+**8.** If any questions shall arise as to—
+
+(a) the amount of tax to be deducted on payment of any emoluments; or
+
+(b) whether or not any emoluments are of any class of case specified in regulation 4(2)(c), (d), (e), or (f); or
+
+*such Tax deducted to of tax be paid to*
+
+(c) whether or not any payment of emoluments is a payment of a bonus or of a retroactive increase in emoluments,
+
+question shall be determined by the Board.
+
+### PAYMENT OF TAX DEDUCTED
+
+*Board.*
+
+*of the paid the*
+
+**9.** Every employer shall pay to the Board the total amount deducted or withheld by him in compliance or intended compliance with these Regulations on or before the fifteenth day month next succeeding the month in which the employer emoluments; but where an employer ceases to carry on business all amounts of tax deducted by him as required by these Regulations and not paid to the Board shall be paid by him to the
+
+Board within seven days of the day on which the employer ceased to carry on business.
+
+*Returns.*
+
+### ACCOUNTING FOR TAX DEDUCTED
+
+**10.** Every payment of tax made as required by regulation 9 shall be accompanied by a return made out on the appropriate form by or on behalf of the employer.
+
+*Employer to give a certificate to employee. [106/1989].*
+
+**11.** (Repealed by LN No. 106/1989).
+
+**12.** (1) On or before the last day of the month of February of each year next following a year in which tax was deducted from the emoluments of an employee or the holder of an office, the employer by whom the tax was deducted or withheld shall, unless he has previously delivered or sent to the employee or office holder a certificate provided for by regulation 13, 14 or 15, deliver personally or send by post to the employee or office holder a certificate made out on the appropriate form and containing the following particulars:
+
+(a) the name and address of the employee or office holder;
+
+(b) any number used to identify the employee or office holder;
+
+(c) the total amount of all emoluments paid by him to the employee or office holder during the year immediately preceding that in which the certificate is by this regulation required to be sent or delivered;
+
+(d) the total amount, if any, deducted by him for or in respect of any amount contributed by the employee or office holder under any Act or written law, or to any scheme or fund within the meaning of section 27(1)(c) of the Act or to an approved pension fund plan within the meaning of section 28 of the Act on the making of any payment of those emoluments to the employee or office holder;
+
+(e) the total amount of tax deducted in accordance with these Regulations from the emoluments of the employee or office holder;
+
+(f) (Repealed by LN No. 106/1989);
+
+(g) the date when the employment or the holding of the office commenced if such date is a date subsequent to the first day of January in the year to which the certificate relates.
+
+*Cessation of employment. [106/1989].*
+
+(2) When an employer is required by this regulation to deliver or send a certificate to an employee or the holder of an office, he shall make on the appropriate forms two copies of the said certificate which he shall deliver personally or send by post to the Board on or before the last day of February in each year.
+
+**13.** (1) If any employer ceases to employ an employee or to pay emoluments to the holder of an office from whose emoluments tax was deducted by him in accordance with these Regulations, he shall, not later than the day on which the last payment of emoluments was made, deliver personally or send by post to the employee or office holder a certificate on the appropriate form containing the following particulars:
+
+(a) the name and address of the employee or office holder;
+
+(b) any number used to identify the employee or office holder;
+
+(c) the date on which the employment or the holding of the office ceased;
+
+(d) the total amount of all emoluments paid by him to the employee or office holder from the first day of January of the year in which the employment or the holding of the office ceased up to and including the day on which the last payment of emoluments was made to the employee or office holder;
+
+(e) the total amount, if any, deducted by him for or in respect of any amount contributed by the employee or office holder under any Act or written law, or to any scheme or fund within the meaning of section 27(1)(c) of the Act or to an approved pension fund plan within the meaning of section 28 of the Act on the making of any payment of those emoluments; and
+
+(f) the total amount of tax deducted in accordance with these Regulations from the emoluments of the employee or office holder.
+
+(2) When an employer is required by this regulation to deliver or send a certificate to an employee or the holder of an office he shall make on the appropriate forms two copies of the said certificate which he shall deliver personally or send by post to the Board on the day on which the last payment of emoluments was made.
+
+*Cessation of business.*
+
+(3) If an employee retires from the services of an employer and is given a pension, such retirement shall not be treated as a cessation of employment for the purposes of this regulation if the emoluments are paid by or on behalf of the same person both before and after the retirement.
+
+**14.** (1) If an employer ceases to carry on business he shall, not later than one month after the cessation of the business, personally deliver or send to each employee from whose emoluments any tax was deducted or withheld during the year in which the business ceased a certificate made out on the appropriate form and containing the particulars specified in regulation 12 for or in respect of a period beginning with the first day of the year in which the business ceased to be carried on and ending on the day of cessation of that business; but in the case of a business commenced to be carried on in the year in which it ceases on a day other than the first day of January in that year, the date of commencement of the period for or in respect of which the particulars of the certificates shall relate shall be the date on which the business commenced to be carried on in that year.
+
+*Death of employee.*
+
+(2) When an employer is required by this regulation to deliver or send a certificate to an employee or the holder of an office he shall make on the appropriate forms two copies of the said certificate which he shall deliver personally or send by post to the Board within one month of the day of cessation of the business.
+
+*Particulars of payments.*
+
+**15.** When an employee or the holder of an office dies, the employer shall, not later than the fifteenth day of the month next following that in which the death occurred, deliver personally or send by post to the legal or personal representative, or to the next of kin of the deceased employee or office holder if known to him, the certificate mentioned in regulation 13; and the employer shall at the same time deliver personally or send by post to the Board two copies of the said certificate made on the appropriate forms and shall insert thereon the name of the legal or personal representative, or of the next of kin of the deceased employee or office holder if known to him.
+
+**16.** (a) When an employer makes any payment of emoluments to an employee or the holder of an office from whom tax is deducted as required by these Regulations, he shall furnish to the employee or office holder particulars of the payment including particulars of the gross emoluments for the pay period and of the amount of tax deducted therefrom, in such form as may be approved by the Board.
+
+*Record of emoluments.*
+
+(b) The Board may in its discretion exempt in writing all or any employers from complying with this regulation in respect of such classes of employees or office holders as the Board shall think fit, and such exemption may at any time be revoked by the Board.
+
+**17.** Every employer who makes any payment of emoluments to an employee or to the holder of an office, from whose emoluments tax is deducted as required by these Regulations, shall keep to the satisfaction of the Board a record of the emoluments paid to each such employee or office holder and the tax deducted or withheld therefrom on each payment thereof.
+
+*Death of employer.*
+
+### MISCELLANEOUS AND PENALTIES
+
+*Change of employer.*
+
+**18.** If any employer dies, anything which he would have been liable to do under these Regulations shall be done by his personal representative or, in the case of an employer who paid emoluments on behalf of another person, by the person succeeding him, or, if no person succeeds him, the person on whose behalf the emoluments were paid.
+
+**19.** (1) This regulation shall apply where there has been a change only in the employer from whom an employee or the holder of an office receives emoluments in respect of his employment in any trade, business, profession or vocation or in connection with the working of any property, or from whom an employee or the holder of an office receives any annuity or pension or allowance in respect of past service.
+
+*Declaration. [106/1989].*
+
+(2) Where this regulation applies the change shall not be treated as a cessation of employment for the purposes of regulation 13 and, in relation to any matter arising after the change, the employer after the change shall be liable to do anything which the employer before the change would have been liable to do under these Regulations if the change had not taken place; but the employer after the change shall not be liable for the payment of any tax which was deductible from emoluments paid to the employee or office holder before the change took place.
+
+**20.** (1) The declaration which a person may file under the provisions of section 98 of the Act may include particulars of all or any of his allowable deductions and allowable tax credits as the person may think fit.
+
+(2) A person required to file a declaration under section 98 of the Act shall do so at the following times:
+
+(a) on the day on which his employment commences;
+
+(b) within seven days of the day on which a change occurs in his allowable deductions or allowable tax credits;
+
+(c) within such time or times as may be specified by notice published by the Board in the Gazette and at least one newspaper in Trinidad and Tobago, or in such other manner as the Board may think fit,
+
+*Tax tables. [106/1989].*
+
+but the Board may in its discretion permit any such person to file a declaration at any time other than the aforesaid times.
+
+**21.** (1) The tax tables shall be constructed by the Board with a view to securing that so far as practicable the tax to be deducted as required by section 99 of the Act and by these Regulations from the emoluments of any employee or the holder of any office may be readily ascertained and with a view to securing that so far as practicable the total tax payable in respect of any emoluments is deducted from the emoluments paid during the year.
+
+*Employer to produce documents, etc.*
+
+(2) For the purposes of this regulation, reference to the }
+
+total tax payable shall be construed as reference to the total tax estimated to be payable having regard to any allowable deductions claimed and any allowable tax credits claimed. (3)
+
+(Revoked by LN No. 106/1989).
+
+(4)
+
+*Complaint to the Board.*
+
+**22.** Every employer, when called upon to do so by the Board or any person authorised in writing by the Board in that behalf, shall produce to the Board or such authorised person for inspection, at the employer’s premises, all wages sheets and other documents and records whatsoever relating to the calculation or payment of the emoluments of his employees or of the holders of offices to whom he pays emoluments or the deduction of tax therefrom or the accounting of any tax deducted therefrom.
+
+**23.** If any employee or the holder of any office considers that any tax deducted by his employer is less than or in excess of the amount of tax which ought properly to be deducted from his emoluments in accordance with these Regulations, he may in
+
+*Excess to be refunded.*
+
+writing give notice of complaint, stating the grounds of his complaint, to the Board.
+
+**24.** (1) In the event of the Board being satisfied on the complaint of any employee or the holder of any office made under regulation 23 that any tax in excess of the amount which ought properly to have been deducted in accordance with these Regulations from the emoluments of the employee or office holder was deducted by the employer, the Board shall as soon as practicable cause the excess to be refunded to the employee or office holder.
+
+*Tax to be treated as a single debt.*
+
+(2) In the event of the Board being satisfied on the complaint of any employee or the holder of any office made under regulation 23 that less tax than the amount which ought properly to have been deducted in accordance with these Regulations from the emoluments of the employee or office holder was deducted by the employer he shall as soon as practicable cause the amount of the deficiency to be collected from the employee or office holder.
+
+**25.** (1) The total amount of tax which an employer is liable under section 99 of the Act to pay to the Board within the time specified in regulation 9 may for the purposes of recovery thereof be treated as a single debt notwithstanding that the employer is liable to pay separate amounts in respect of more than one employee or office holder; but nothing in this regulation shall prevent the bringing of separate actions for the recovery of each of the several amounts which the employer is liable to pay within the first fifteen days of every month in respect of his several employees, or the several employees, or the several office holders to whom he pays emoluments.
+
+(2) A certificate of the Board that any amount of tax mentioned in subregulation (1) has not been paid to him, or to the best of his knowledge and belief, to any person acting on his behalf shall be prima facie evidence that the sum mentioned in the certificate is due and unpaid; and any document purporting to be such a certificate as aforesaid shall be deemed to be such a certificate until the contrary is proved.
+
+*Change in allowances. [106/1989].*
+
+**26.** (1) On a change occurring by reason of which the allowable deductions or allowable tax credits of a person by whom a declaration has been filed are less than those claimed by him in his declaration, the person shall file a further declaration within the time specified in regulation 20(2)(b).
+
+*Obstructing the Board.*
+
+(2) If any person wilfully fails to file a further declaration as required by subregulation (1) he is guilty of an offence and is liable on summary conviction to a fine of one thousand dollars.
+
+**27.** Any person who hinders, prevents or obstructs the Board or any person authorised in writing by the Board in that behalf from inspecting any wages sheets or other documents or records mentioned in regulation 22 after being called upon to produce the same, is guilty of an offence and is liable on summary conviction to a fine of one thousand dollars or to imprisonment for three months.
+
+*169/1966.*
+
+*Citation. Interpretation. Form of Certificate.*
+
+INCOME TAX (JUDGMENT CERTIFICATE) REGULATIONS made under section 125
+
+**1.** These Regulations may be cited as the Income Tax (Judgment Certificate) Regulations.
+
+**2.** In these Regulations “Board” means the Board of Inland Revenue established under section 3 of the Income Tax Act.
+
+**3.** The certificate that may be made out by the Board under subsection (1) of section 111 of the Act and that when registered in the High Court has, by virtue of subsection (2) of the said section, the same force and effect of a judgment for the State obtained in the High Court for a debt of the amount specified in the certificate together with the interest therein required to be paid to the date of payment, shall be in the form set out in the Schedule to these Regulations.
+
+Income Tax (Judgment Certificate) Regulations I hereby certify that the above-stated facts are to my knowledge and belief true, and that Tax Assessment Notices were duly served setting out the above facts and that ................................................... ..................................................... has not paid the above amount assessed/there is still outstanding on the above amount assessed the sum of ........................................................................ dollars and The Board of Inland Revenue on .......................................................................................................
+
+Interest accrued
+
+CERTIFICATE OF THE BOARD OF INLAND REVENUE MADE PURSUANT TO SUBSECTION (1) OF SECTION 111 OF THE ¢
+
+to
+
+$
+
+payment Assessed standing
+
+¢
+
+Tax outstanding Out-
+
+Particulars of
+
+$
+
+Amounts
+
+payable ¢
+
+Tax
+
+$
+
+........................................... cents. Date ............................................ Date due
+
+for
+
+Date of issue of
+
+notice of asst.
+
+Year of
+
+Inc.
+
+### INCOME TAX ACT, CH. 75:01
+
+Year of
+
+Asst.
+
+## SCHEDULE
+
+Office File No. .....................................
+
+Date of Issue .......................................
+
+Address or last known
+
+place of abode
+
+Trade, Profession
+
+or Occupation
+
+High Court File No. ............................ Date of Filing .....................................
+
+Name
